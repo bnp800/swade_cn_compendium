@@ -1,2 +1,2 @@
 var fs = require('fs');
-console.log(JSON.parse(fs.readFileSync('./swade_cn_compendium/module.json', 'utf8')).version);
+console.log(JSON.parse(fs.readFileSync('./swade-cn-compendium/module.json', 'utf8')).version);
