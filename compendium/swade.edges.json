@@ -1,0 +1,541 @@
+{
+	"label": "专长",
+	"entries": [
+		{
+			"id": "Ace",
+			"name": "王牌机师"
+		},
+		{
+			"id": "Acrobat",
+			"name": "特技员"
+		},
+		{
+			"id": "Alertness",
+			"name": "警觉"
+		},
+		{
+			"id": "Ambidextrous",
+			"name": "双巧手"
+		},
+		{
+			"id": "Arcane Background",
+			"name": "奥法背景"
+		},
+		{
+			"id": "Arcane Resistance",
+			"name": "奥法抗性"
+		},
+		{
+			"id": "Aristocrat",
+			"name": "上流人士"
+		},
+		{
+			"id": "Artificer",
+			"name": "神器师"
+		},
+		{
+			"id": "Assasin",
+			"name": "刺客"
+		},
+		{
+			"id": "Attractive",
+			"name": "魅力惊人"
+		},
+		{
+			"id": "Beast Bond",
+			"name": "野兽联结"
+		},
+		{
+			"id": "Beast Master",
+			"name": "野兽大师"
+		},
+		{
+			"id": "Berserk",
+			"name": "狂化"
+		},
+		{
+			"id": "Block",
+			"name": "招架"
+		},
+		{
+			"id": "Bolster",
+			"name": "加把劲"
+		},
+		{
+			"id": "Brave",
+			"name": "勇敢"
+		},
+		{
+			"id": "Brawler",
+			"name": "搏击手"
+		},
+		{
+			"id": "Brawny",
+			"name": "健壮"
+		},
+		{
+			"id": "Bruiser",
+			"name": "搏击师"
+		},
+		{
+			"id": "Brute",
+			"name": "蛮勇"
+		},
+		{
+			"id": "Calculating",
+			"name": "谋定后动"
+		},
+		{
+			"id": "Champion",
+			"name": "勇士"
+		},
+		{
+			"id": "Channeling",
+			"name": "导能"
+		},
+		{
+			"id": "Charismatic",
+			"name": "亲和力"
+		},
+		{
+			"id": "Chi",
+			"name": "气"
+		},
+		{
+			"id": "Combat Acrobat",
+			"name": "战斗特技"
+		},
+		{
+			"id": "Combat Reflexes",
+			"name": "战斗反应"
+		},
+		{
+			"id": "Command",
+			"name": "指挥"
+		},
+		{
+			"id": "Command Presence",
+			"name": "指挥风度"
+		},
+		{
+			"id": "Common Bond",
+			"name": "共同联结"
+		},
+		{
+			"id": "Concentration",
+			"name": "聚精会神"
+		},
+		{
+			"id": "Connections",
+			"name": "人脉"
+		},
+		{
+			"id": "Counterattack",
+			"name": "反击"
+		},
+		{
+			"id": "Danger Sense",
+			"name": "危险感知"
+		},
+		{
+			"id": "Dead Shot",
+			"name": "死亡一射"
+		},
+		{
+			"id": "Dodge",
+			"name": "闪避"
+		},
+		{
+			"id": "Double Tap",
+			"name": "双发快射"
+		},
+		{
+			"id": "Elan",
+			"name": "热忱"
+		},
+		{
+			"id": "Expert",
+			"name": "专家水准"
+		},
+		{
+			"id": "Extra Effort",
+			"name": "额外效能"
+		},
+		{
+			"id": "Extraction",
+			"name": "脱身"
+		},
+		{
+			"id": "Fame",
+			"name": "小有名气"
+		},
+		{
+			"id": "Famous",
+			"name": "名声大噪"
+		},
+		{
+			"id": "Fast Healer",
+			"name": "快速痊愈"
+		},
+		{
+			"id": "Feint",
+			"name": "虚招"
+		},
+		{
+			"id": "Fervor",
+			"name": "热情洋溢"
+		},
+		{
+			"id": "Filthy Rich",
+			"name": "暴富"
+		},
+		{
+			"id": "First Strike",
+			"name": "先发制人"
+		},
+		{
+			"id": "Fleet-Footed",
+			"name": "飞毛腿"
+		},
+		{
+			"id": "Followers",
+			"name": "追随者"
+		},
+		{
+			"id": "Free Runner",
+			"name": "自由跑者"
+		},
+		{
+			"id": "Frenzy",
+			"name": "连击"
+		},
+		{
+			"id": "Gadgeteer",
+			"name": "奇械匠"
+		},
+		{
+			"id": "Giant Killer",
+			"name": "巨物杀手"
+		},
+		{
+			"id": "Great Luck",
+			"name": "高等幸运"
+		},
+		{
+			"id": "Hard To Kill",
+			"name": "九死一生"
+		},
+		{
+			"id": "Harder To Kill",
+			"name": "死里逃生"
+		},
+		{
+			"id": "Healer",
+			"name": "治疗师"
+		},
+		{
+			"id": "Hold The Line!",
+			"name": "死守不退!"
+		},
+		{
+			"id": "Holy/Unholy Warrior",
+			"name": "神圣战士/邪恶战士"
+		},
+		{
+			"id": "Humiliate",
+			"name": "羞辱"
+		},
+		{
+			"id": "Improved Arcane Resistance",
+			"name": "精通奥法抵抗"
+		},
+		{
+			"id": "Improved Block",
+			"name": "精通招架"
+		},
+		{
+			"id": "Improved Counterattack",
+			"name": "精通反击"
+		},
+		{
+			"id": "Improved Dodge",
+			"name": "精通闪避"
+		},
+		{
+			"id": "Improved Extraction",
+			"name": "精通脱身"
+		},
+		{
+			"id": "Improved First Strike",
+			"name": "精通先发制人"
+		},
+		{
+			"id": "Improved Frenzy",
+			"name": "精通连击"
+		},
+		{
+			"id": "Improved Level Headed",
+			"name": "精通沉稳冷静"
+		},
+		{
+			"id": "Improved Nerves of Steel",
+			"name": "精通钢铁神经"
+		},
+		{
+			"id": "Improved Rapid Fire",
+			"name": "精通速射"
+		},
+		{
+			"id": "Improved Rapid Recharge",
+			"name": "精通快速充能"
+		},
+		{
+			"id": "Improved Sweep",
+			"name": "精通横扫"
+		},
+		{
+			"id": "Improved Trademark Weapon",
+			"name": "精通招牌武器"
+		},
+		{
+			"id": "Improvisational Fighter",
+			"name": "俯拾皆兵"
+		},
+		{
+			"id": "Inspire",
+			"name": "激励"
+		},
+		{
+			"id": "Investigator",
+			"name": "调查员"
+		},
+		{
+			"id": "Iron Jaw",
+			"name": "头铁"
+		},
+		{
+			"id": "Iron Will",
+			"name": "钢铁意志"
+		},
+		{
+			"id": "Jack-of-all-Trades",
+			"name": "万事通"
+		},
+		{
+			"id": "Killer Instinct",
+			"name": "杀手直觉"
+		},
+		{
+			"id": "Level Headed",
+			"name": "沉稳冷静"
+		},
+		{
+			"id": "Linguist",
+			"name": "语言学家"
+		},
+		{
+			"id": "Liquid Courage",
+			"name": "酒壮人胆"
+		},
+		{
+			"id": "Luck",
+			"name": "幸运"
+		},
+		{
+			"id": "Marksman",
+			"name": "神射手"
+		},
+		{
+			"id": "Martial Artist",
+			"name": "武术家"
+		},
+		{
+			"id": "Martial Warrior",
+			"name": "武斗家"
+		},
+		{
+			"id": "Master",
+			"name": "大师水准"
+		},
+		{
+			"id": "Master of Arms",
+			"name": "武器宗师"
+		},
+		{
+			"id": "Master Tactician",
+			"name": "战术大师"
+		},
+		{
+			"id": "McGyver",
+			"name": "巧手先生"
+		},
+		{
+			"id": "Menacing",
+			"name": "凶神恶煞"
+		},
+		{
+			"id": "Mentalist",
+			"name": "控心师"
+		},
+		{
+			"id": "Mighty Blow",
+			"name": "强力一击"
+		},
+		{
+			"id": "Mr. Fix It",
+			"name": "修理先生"
+		},
+		{
+			"id": "Natural Leader",
+			"name": "天生领袖"
+		},
+		{
+			"id": "Nerves of Steel",
+			"name": "钢铁神经"
+		},
+		{
+			"id": "New Powers",
+			"name": "新奇术"
+		},
+		{
+			"id": "No Mercy",
+			"name": "毫不留情"
+		},
+		{
+			"id": "Power Points",
+			"name": "获得奇术点"
+		},
+		{
+			"id": "Power Surge",
+			"name": "能量涌动"
+		},
+		{
+			"id": "Professional",
+			"name": "职业水准"
+		},
+		{
+			"id": "Provoke",
+			"name": "激怒"
+		},
+		{
+			"id": "Quick",
+			"name": "迅捷"
+		},
+		{
+			"id": "Rabble-Rouser",
+			"name": "煽风点火"
+		},
+		{
+			"id": "Rapid Fire",
+			"name": "速射"
+		},
+		{
+			"id": "Rapid Recharge",
+			"name": "快速充能"
+		},
+		{
+			"id": "Reliable",
+			"name": "可靠"
+		},
+		{
+			"id": "Retort",
+			"name": "反驳"
+		},
+		{
+			"id": "Rich",
+			"name": "富裕"
+		},
+		{
+			"id": "Rock and Roll!",
+			"name": "激情四射"
+		},
+		{
+			"id": "Scavenger",
+			"name": "破烂王"
+		},
+		{
+			"id": "Scholar",
+			"name": "学者"
+		},
+		{
+			"id": "Sidekick",
+			"name": "助手"
+		},
+		{
+			"id": "Soldier",
+			"name": "士兵"
+		},
+		{
+			"id": "Soul Drain",
+			"name": "饮魂汲魄"
+		},
+		{
+			"id": "Steady Hands",
+			"name": "手稳"
+		},
+		{
+			"id": "Streetwise",
+			"name": "市井门道"
+		},
+		{
+			"id": "Strong Willed",
+			"name": "坚强意志"
+		},
+		{
+			"id": "Sweep",
+			"name": "横扫"
+		},
+		{
+			"id": "Tactician",
+			"name": "战术家"
+		},
+		{
+			"id": "Thief",
+			"name": "盗贼"
+		},
+		{
+			"id": "Tough As Nails",
+			"name": "比铁还硬"
+		},
+		{
+			"id": "Tougher Than Nails",
+			"name": "比钢还强"
+		},
+		{
+			"id": "Trademark Weapon",
+			"name": "招牌武器"
+		},
+		{
+			"id": "Two-Fisted",
+			"name": "左右连环"
+		},
+		{
+			"id": "Two-Gun Kid",
+			"name": "双枪小子"
+		},
+		{
+			"id": "Very Attractive",
+			"name": "魅力非凡"
+		},
+		{
+			"id": "Weapon Master",
+			"name": "武器大师"
+		},
+		{
+			"id": "Wizard",
+			"name": "奇才"
+		},
+		{
+			"id": "Woodsman",
+			"name": "守林人"
+		},
+		{
+			"id": "Work The Crowd",
+			"name": "推波助澜"
+		},
+		{
+			"id": "Work The Room",
+			"name": "推波助浪"
+		}
+	]
+}

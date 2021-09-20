@@ -1,0 +1,233 @@
+{
+	"label": "负赘",
+	"entries": [
+		{
+			"id": "All Thumbs",
+			"name": "一窍不通"
+		},
+		{
+			"id": "Anemic",
+			"name": "体虚"
+		},
+		{
+			"id": "Arrogant",
+			"name": "傲慢"
+		},
+		{
+			"id": "Bad Eyes",
+			"name": "眼力不济"
+		},
+		{
+			"id": "Bad Luck",
+			"name": "不幸"
+		},
+		{
+			"id": "Big Mouth",
+			"name": "大嘴巴"
+		},
+		{
+			"id": "Blind",
+			"name": "目盲"
+		},
+		{
+			"id": "Bloodthirsty",
+			"name": "嗜血"
+		},
+		{
+			"id": "Can't Swim",
+			"name": "旱鸭子"
+		},
+		{
+			"id": "Cautious",
+			"name": "慎重"
+		},
+		{
+			"id": "Clueless",
+			"name": "一无所知"
+		},
+		{
+			"id": "Clumsy",
+			"name": "笨拙"
+		},
+		{
+			"id": "Code of Honor",
+			"name": "荣耀信条"
+		},
+		{
+			"id": "Curious",
+			"name": "好奇"
+		},
+		{
+			"id": "Death Wish",
+			"name": "求死"
+		},
+		{
+			"id": "Delusional",
+			"name": "妄想"
+		},
+		{
+			"id": "Doubting Thomas",
+			"name": "怀疑论者"
+		},
+		{
+			"id": "Driven",
+			"name": "自我鞭策"
+		},
+		{
+			"id": "Elderly",
+			"name": "年老"
+		},
+		{
+			"id": "Enemy",
+			"name": "宿敌"
+		},
+		{
+			"id": "Greedy",
+			"name": "贪婪"
+		},
+		{
+			"id": "Habit",
+			"name": "陋习"
+		},
+		{
+			"id": "Hard of Hearing",
+			"name": "听力不济"
+		},
+		{
+			"id": "Heroic",
+			"name": "英雄本色"
+		},
+		{
+			"id": "Hesitant",
+			"name": "犹豫不决"
+		},
+		{
+			"id": "Illiterate",
+			"name": "文盲"
+		},
+		{
+			"id": "Impulsive",
+			"name": "意气用事"
+		},
+		{
+			"id": "Jealous",
+			"name": "嫉妒"
+		},
+		{
+			"id": "Loyal",
+			"name": "忠诚"
+		},
+		{
+			"id": "Mean",
+			"name": "自私"
+		},
+		{
+			"id": "Mild Mannered",
+			"name": "温文尔雅"
+		},
+		{
+			"id": "Mute",
+			"name": "默言"
+		},
+		{
+			"id": "Obese",
+			"name": "肥胖"
+		},
+		{
+			"id": "Obligation",
+			"name": "义务"
+		},
+		{
+			"id": "One Arm",
+			"name": "独臂"
+		},
+		{
+			"id": "One Eye",
+			"name": "独眼"
+		},
+		{
+			"id": "Outsider",
+			"name": "异客"
+		},
+		{
+			"id": "Overconfident",
+			"name": "自负"
+		},
+		{
+			"id": "Pacifist",
+			"name": "和平主义"
+		},
+		{
+			"id": "Phobia",
+			"name": "恐惧症"
+		},
+		{
+			"id": "Poverty",
+			"name": "贫穷"
+		},
+		{
+			"id": "Quirk",
+			"name": "怪癖"
+		},
+		{
+			"id": "Ruthless",
+			"name": "无情"
+		},
+		{
+			"id": "Secret",
+			"name": "秘密"
+		},
+		{
+			"id": "Shamed",
+			"name": "耻辱"
+		},
+		{
+			"id": "Slow",
+			"name": "缓慢"
+		},
+		{
+			"id": "Small",
+			"name": "小个子"
+		},
+		{
+			"id": "Stubborn",
+			"name": "顽固"
+		},
+		{
+			"id": "Suspicious",
+			"name": "多疑"
+		},
+		{
+			"id": "Thin Skinned",
+			"name": "脸皮薄"
+		},
+		{
+			"id": "Tongue-Tied",
+			"name": "嘴笨"
+		},
+		{
+			"id": "Ugly",
+			"name": "丑陋"
+		},
+		{
+			"id": "Vengeful",
+			"name": "复仇"
+		},
+		{
+			"id": "Vow",
+			"name": "誓言加身"
+		},
+		{
+			"id": "Wanted",
+			"name": "通缉"
+		},
+		{
+			"id": "Yellow",
+			"name": "胆怯"
+		},
+		{
+			"id": "Young",
+			"name": "年幼"
+		}
+	]
+}
