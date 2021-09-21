@@ -3,12 +3,24 @@
     "title": "合集包汉化（SWADE）",
     "description": "为FVTT中的SWADE添加了合集包汉化。",
     "version": "0.1",
-    "minimumCoreVersion" : "0.6.0",
+    "minimumCoreVersion": "0.6.0",
     "compatibleCoreVersion": "0.8.9",
     "author": "bnp800",
-    "systems": ["swade"],
+    "systems": [
+        "swade"
+    ],
     "scripts": [
-    	"./babele-register.js"
+        "./babele-register.js"
+    ],
+    "packs": [
+        {
+            "name": "action-cards",
+            "label": "中文行动卡组",
+            "system": "swade",
+            "path": "packs/action-cards.db",
+            "entity": "JournalEntry",
+            "module": "swade-cn-compendium"
+        }
     ],
     "dependencies": [
         {
@@ -20,4 +32,4 @@
     "url": "https://github.com/bnp800/swade_cn_compendium",
     "manifest": "https://ghproxy.com/https://github.com/bnp800/swade_cn_compendium/releases/latest/download/module.json",
     "download": "https://ghproxy.com/https://github.com/bnp800/swade_cn_compendium/releases/download/0.1/module.zip"
-  }
+}

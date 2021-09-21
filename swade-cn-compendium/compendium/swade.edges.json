@@ -3,539 +3,539 @@
 	"entries": [
 		{
 			"id": "Ace",
-			"name": "王牌机师"
+			"name": "王牌机师(Ace)"
 		},
 		{
 			"id": "Acrobat",
-			"name": "特技员"
+			"name": "特技员(Acrobat)"
 		},
 		{
 			"id": "Alertness",
-			"name": "警觉"
+			"name": "警觉(Alertness)"
 		},
 		{
 			"id": "Ambidextrous",
-			"name": "双巧手"
+			"name": "双巧手(Ambidextrous)"
 		},
 		{
 			"id": "Arcane Background",
-			"name": "奥法背景"
+			"name": "奥法背景(Arcane Background)"
 		},
 		{
 			"id": "Arcane Resistance",
-			"name": "奥法抗性"
+			"name": "奥法抗性(Arcane Resistance)"
 		},
 		{
 			"id": "Aristocrat",
-			"name": "上流人士"
+			"name": "上流人士(Aristocrat)"
 		},
 		{
 			"id": "Artificer",
-			"name": "神器师"
+			"name": "神器师(Artificer)"
 		},
 		{
 			"id": "Assasin",
-			"name": "刺客"
+			"name": "刺客(Assasin)"
 		},
 		{
 			"id": "Attractive",
-			"name": "魅力惊人"
+			"name": "魅力惊人(Attractive)"
 		},
 		{
 			"id": "Beast Bond",
-			"name": "野兽联结"
+			"name": "野兽联结(Beast Bond)"
 		},
 		{
 			"id": "Beast Master",
-			"name": "野兽大师"
+			"name": "野兽大师(Beast Master)"
 		},
 		{
 			"id": "Berserk",
-			"name": "狂化"
+			"name": "狂化(Berserk)"
 		},
 		{
 			"id": "Block",
-			"name": "招架"
+			"name": "招架(Block)"
 		},
 		{
 			"id": "Bolster",
-			"name": "加把劲"
+			"name": "加把劲(Bolster)"
 		},
 		{
 			"id": "Brave",
-			"name": "勇敢"
+			"name": "勇敢(Brave)"
 		},
 		{
 			"id": "Brawler",
-			"name": "搏击手"
+			"name": "搏击手(Brawler)"
 		},
 		{
 			"id": "Brawny",
-			"name": "健壮"
+			"name": "健壮(Brawny)"
 		},
 		{
 			"id": "Bruiser",
-			"name": "搏击师"
+			"name": "搏击师(Bruiser)"
 		},
 		{
 			"id": "Brute",
-			"name": "蛮勇"
+			"name": "蛮勇(Brute)"
 		},
 		{
 			"id": "Calculating",
-			"name": "谋定后动"
+			"name": "谋定后动(Calculating)"
 		},
 		{
 			"id": "Champion",
-			"name": "勇士"
+			"name": "勇士(Champion)"
 		},
 		{
 			"id": "Channeling",
-			"name": "导能"
+			"name": "导能(Channeling)"
 		},
 		{
 			"id": "Charismatic",
-			"name": "亲和力"
+			"name": "亲和力(Charismatic)"
 		},
 		{
 			"id": "Chi",
-			"name": "气"
+			"name": "气(Chi)"
 		},
 		{
 			"id": "Combat Acrobat",
-			"name": "战斗特技"
+			"name": "战斗特技(Combat Acrobat)"
 		},
 		{
 			"id": "Combat Reflexes",
-			"name": "战斗反应"
+			"name": "战斗反应(Combat Reflexes)"
 		},
 		{
 			"id": "Command",
-			"name": "指挥"
+			"name": "指挥(Command)"
 		},
 		{
 			"id": "Command Presence",
-			"name": "指挥风度"
+			"name": "指挥风度(Command Presence)"
 		},
 		{
 			"id": "Common Bond",
-			"name": "共同联结"
+			"name": "共同联结(Common Bond)"
 		},
 		{
 			"id": "Concentration",
-			"name": "聚精会神"
+			"name": "聚精会神(Concentration)"
 		},
 		{
 			"id": "Connections",
-			"name": "人脉"
+			"name": "人脉(Connections)"
 		},
 		{
 			"id": "Counterattack",
-			"name": "反击"
+			"name": "反击(Counterattack)"
 		},
 		{
 			"id": "Danger Sense",
-			"name": "危险感知"
+			"name": "危险感知(Danger Sense)"
 		},
 		{
 			"id": "Dead Shot",
-			"name": "死亡一射"
+			"name": "死亡一射(Dead Shot)"
 		},
 		{
 			"id": "Dodge",
-			"name": "闪避"
+			"name": "闪避(Dodge)"
 		},
 		{
 			"id": "Double Tap",
-			"name": "双发快射"
+			"name": "双发快射(Double Tap)"
 		},
 		{
 			"id": "Elan",
-			"name": "热忱"
+			"name": "热忱(Elan)"
 		},
 		{
 			"id": "Expert",
-			"name": "专家水准"
+			"name": "专家水准(Expert)"
 		},
 		{
 			"id": "Extra Effort",
-			"name": "额外效能"
+			"name": "额外效能(Extra Effort)"
 		},
 		{
 			"id": "Extraction",
-			"name": "脱身"
+			"name": "脱身(Extraction)"
 		},
 		{
 			"id": "Fame",
-			"name": "小有名气"
+			"name": "小有名气(Fame)"
 		},
 		{
 			"id": "Famous",
-			"name": "名声大噪"
+			"name": "名声大噪(Famous)"
 		},
 		{
 			"id": "Fast Healer",
-			"name": "快速痊愈"
+			"name": "快速痊愈(Fast Healer)"
 		},
 		{
 			"id": "Feint",
-			"name": "虚招"
+			"name": "虚招(Feint)"
 		},
 		{
 			"id": "Fervor",
-			"name": "热情洋溢"
+			"name": "热情洋溢(Fervor)"
 		},
 		{
 			"id": "Filthy Rich",
-			"name": "暴富"
+			"name": "暴富(Filthy Rich)"
 		},
 		{
 			"id": "First Strike",
-			"name": "先发制人"
+			"name": "先发制人(First Strike)"
 		},
 		{
 			"id": "Fleet-Footed",
-			"name": "飞毛腿"
+			"name": "飞毛腿(Fleet-Footed)"
 		},
 		{
 			"id": "Followers",
-			"name": "追随者"
+			"name": "追随者(Followers)"
 		},
 		{
 			"id": "Free Runner",
-			"name": "自由跑者"
+			"name": "自由跑者(Free Runner)"
 		},
 		{
 			"id": "Frenzy",
-			"name": "连击"
+			"name": "连击(Frenzy)"
 		},
 		{
 			"id": "Gadgeteer",
-			"name": "奇械匠"
+			"name": "奇械匠(Gadgeteer)"
 		},
 		{
 			"id": "Giant Killer",
-			"name": "巨物杀手"
+			"name": "巨物杀手(Giant Killer)"
 		},
 		{
 			"id": "Great Luck",
-			"name": "高等幸运"
+			"name": "高等幸运(Great Luck)"
 		},
 		{
 			"id": "Hard To Kill",
-			"name": "九死一生"
+			"name": "九死一生(Hard To Kill)"
 		},
 		{
 			"id": "Harder To Kill",
-			"name": "死里逃生"
+			"name": "死里逃生(Harder To Kill)"
 		},
 		{
 			"id": "Healer",
-			"name": "治疗师"
+			"name": "治疗师(Healer)"
 		},
 		{
 			"id": "Hold The Line!",
-			"name": "死守不退!"
+			"name": "死守不退!(Hold The Line!)"
 		},
 		{
 			"id": "Holy/Unholy Warrior",
-			"name": "神圣战士/邪恶战士"
+			"name": "神圣战士/邪恶战士(Holy/Unholy Warrior)"
 		},
 		{
 			"id": "Humiliate",
-			"name": "羞辱"
+			"name": "羞辱(Humiliate)"
 		},
 		{
 			"id": "Improved Arcane Resistance",
-			"name": "精通奥法抵抗"
+			"name": "精通奥法抵抗(Improved Arcane Resistance)"
 		},
 		{
 			"id": "Improved Block",
-			"name": "精通招架"
+			"name": "精通招架(Improved Block)"
 		},
 		{
 			"id": "Improved Counterattack",
-			"name": "精通反击"
+			"name": "精通反击(Improved Counterattack)"
 		},
 		{
 			"id": "Improved Dodge",
-			"name": "精通闪避"
+			"name": "精通闪避(Improved Dodge)"
 		},
 		{
 			"id": "Improved Extraction",
-			"name": "精通脱身"
+			"name": "精通脱身(Improved Extraction)"
 		},
 		{
 			"id": "Improved First Strike",
-			"name": "精通先发制人"
+			"name": "精通先发制人(Improved First Strike)"
 		},
 		{
 			"id": "Improved Frenzy",
-			"name": "精通连击"
+			"name": "精通连击(Improved Frenzy)"
 		},
 		{
 			"id": "Improved Level Headed",
-			"name": "精通沉稳冷静"
+			"name": "精通沉稳冷静(Improved Level Headed)"
 		},
 		{
 			"id": "Improved Nerves of Steel",
-			"name": "精通钢铁神经"
+			"name": "精通钢铁神经(Improved Nerves of Steel)"
 		},
 		{
 			"id": "Improved Rapid Fire",
-			"name": "精通速射"
+			"name": "精通速射(Improved Rapid Fire)"
 		},
 		{
 			"id": "Improved Rapid Recharge",
-			"name": "精通快速充能"
+			"name": "精通快速充能(Improved Rapid Recharge)"
 		},
 		{
 			"id": "Improved Sweep",
-			"name": "精通横扫"
+			"name": "精通横扫(Improved Sweep)"
 		},
 		{
 			"id": "Improved Trademark Weapon",
-			"name": "精通招牌武器"
+			"name": "精通招牌武器(Improved Trademark Weapon)"
 		},
 		{
 			"id": "Improvisational Fighter",
-			"name": "俯拾皆兵"
+			"name": "俯拾皆兵(Improvisational Fighter)"
 		},
 		{
 			"id": "Inspire",
-			"name": "激励"
+			"name": "激励(Inspire)"
 		},
 		{
 			"id": "Investigator",
-			"name": "调查员"
+			"name": "调查员(Investigator)"
 		},
 		{
 			"id": "Iron Jaw",
-			"name": "头铁"
+			"name": "头铁(Iron Jaw)"
 		},
 		{
 			"id": "Iron Will",
-			"name": "钢铁意志"
+			"name": "钢铁意志(Iron Will)"
 		},
 		{
 			"id": "Jack-of-all-Trades",
-			"name": "万事通"
+			"name": "万事通(Jack-of-all-Trades)"
 		},
 		{
 			"id": "Killer Instinct",
-			"name": "杀手直觉"
+			"name": "杀手直觉(Killer Instinct)"
 		},
 		{
 			"id": "Level Headed",
-			"name": "沉稳冷静"
+			"name": "沉稳冷静(Level Headed)"
 		},
 		{
 			"id": "Linguist",
-			"name": "语言学家"
+			"name": "语言学家(Linguist)"
 		},
 		{
 			"id": "Liquid Courage",
-			"name": "酒壮人胆"
+			"name": "酒壮人胆(Liquid Courage)"
 		},
 		{
 			"id": "Luck",
-			"name": "幸运"
+			"name": "幸运(Luck)"
 		},
 		{
 			"id": "Marksman",
-			"name": "神射手"
+			"name": "神射手(Marksman)"
 		},
 		{
 			"id": "Martial Artist",
-			"name": "武术家"
+			"name": "武术家(Martial Artist)"
 		},
 		{
 			"id": "Martial Warrior",
-			"name": "武斗家"
+			"name": "武斗家(Martial Warrior)"
 		},
 		{
 			"id": "Master",
-			"name": "大师水准"
+			"name": "大师水准(Master)"
 		},
 		{
 			"id": "Master of Arms",
-			"name": "武器宗师"
+			"name": "武器宗师(Master of Arms)"
 		},
 		{
 			"id": "Master Tactician",
-			"name": "战术大师"
+			"name": "战术大师(Master Tactician)"
 		},
 		{
 			"id": "McGyver",
-			"name": "巧手先生"
+			"name": "巧手先生(McGyver)"
 		},
 		{
 			"id": "Menacing",
-			"name": "凶神恶煞"
+			"name": "凶神恶煞(Menacing)"
 		},
 		{
 			"id": "Mentalist",
-			"name": "控心师"
+			"name": "控心师(Mentalist)"
 		},
 		{
 			"id": "Mighty Blow",
-			"name": "强力一击"
+			"name": "强力一击(Mighty Blow)"
 		},
 		{
 			"id": "Mr. Fix It",
-			"name": "修理先生"
+			"name": "修理先生(Mr. Fix It)"
 		},
 		{
 			"id": "Natural Leader",
-			"name": "天生领袖"
+			"name": "天生领袖(Natural Leader)"
 		},
 		{
 			"id": "Nerves of Steel",
-			"name": "钢铁神经"
+			"name": "钢铁神经(Nerves of Steel)"
 		},
 		{
 			"id": "New Powers",
-			"name": "新奇术"
+			"name": "新奇术(New Powers)"
 		},
 		{
 			"id": "No Mercy",
-			"name": "毫不留情"
+			"name": "毫不留情(No Mercy)"
 		},
 		{
 			"id": "Power Points",
-			"name": "获得奇术点"
+			"name": "获得奇术点(Power Points)"
 		},
 		{
 			"id": "Power Surge",
-			"name": "能量涌动"
+			"name": "能量涌动(Power Surge)"
 		},
 		{
 			"id": "Professional",
-			"name": "职业水准"
+			"name": "职业水准(Professional)"
 		},
 		{
 			"id": "Provoke",
-			"name": "激怒"
+			"name": "激怒(Provoke)"
 		},
 		{
 			"id": "Quick",
-			"name": "迅捷"
+			"name": "迅捷(Quick)"
 		},
 		{
 			"id": "Rabble-Rouser",
-			"name": "煽风点火"
+			"name": "煽风点火(Rabble-Rouser)"
 		},
 		{
 			"id": "Rapid Fire",
-			"name": "速射"
+			"name": "速射(Rapid Fire)"
 		},
 		{
 			"id": "Rapid Recharge",
-			"name": "快速充能"
+			"name": "快速充能(Rapid Recharge)"
 		},
 		{
 			"id": "Reliable",
-			"name": "可靠"
+			"name": "可靠(Reliable)"
 		},
 		{
 			"id": "Retort",
-			"name": "反驳"
+			"name": "反驳(Retort)"
 		},
 		{
 			"id": "Rich",
-			"name": "富裕"
+			"name": "富裕(Rich)"
 		},
 		{
 			"id": "Rock and Roll!",
-			"name": "激情四射"
+			"name": "激情四射(Rock and Roll!)"
 		},
 		{
 			"id": "Scavenger",
-			"name": "破烂王"
+			"name": "破烂王(Scavenger)"
 		},
 		{
 			"id": "Scholar",
-			"name": "学者"
+			"name": "学者(Scholar)"
 		},
 		{
 			"id": "Sidekick",
-			"name": "助手"
+			"name": "助手(Sidekick)"
 		},
 		{
 			"id": "Soldier",
-			"name": "士兵"
+			"name": "士兵(Soldier)"
 		},
 		{
 			"id": "Soul Drain",
-			"name": "饮魂汲魄"
+			"name": "饮魂汲魄(Soul Drain)"
 		},
 		{
 			"id": "Steady Hands",
-			"name": "手稳"
+			"name": "手稳(Steady Hands)"
 		},
 		{
 			"id": "Streetwise",
-			"name": "市井门道"
+			"name": "市井门道(Streetwise)"
 		},
 		{
 			"id": "Strong Willed",
-			"name": "坚强意志"
+			"name": "坚强意志(Strong Willed)"
 		},
 		{
 			"id": "Sweep",
-			"name": "横扫"
+			"name": "横扫(Sweep)"
 		},
 		{
 			"id": "Tactician",
-			"name": "战术家"
+			"name": "战术家(Tactician)"
 		},
 		{
 			"id": "Thief",
-			"name": "盗贼"
+			"name": "盗贼(Thief)"
 		},
 		{
 			"id": "Tough As Nails",
-			"name": "比铁还硬"
+			"name": "比铁还硬(Tough As Nails)"
 		},
 		{
 			"id": "Tougher Than Nails",
-			"name": "比钢还强"
+			"name": "比钢还强(Tougher Than Nails)"
 		},
 		{
 			"id": "Trademark Weapon",
-			"name": "招牌武器"
+			"name": "招牌武器(Trademark Weapon)"
 		},
 		{
 			"id": "Two-Fisted",
-			"name": "左右连环"
+			"name": "左右连环(Two-Fisted)"
 		},
 		{
 			"id": "Two-Gun Kid",
-			"name": "双枪小子"
+			"name": "双枪小子(Two-Gun Kid)"
 		},
 		{
 			"id": "Very Attractive",
-			"name": "魅力非凡"
+			"name": "魅力非凡(Very Attractive)"
 		},
 		{
 			"id": "Weapon Master",
-			"name": "武器大师"
+			"name": "武器大师(Weapon Master)"
 		},
 		{
 			"id": "Wizard",
-			"name": "奇才"
+			"name": "奇才(Wizard)"
 		},
 		{
 			"id": "Woodsman",
-			"name": "守林人"
+			"name": "守林人(Woodsman)"
 		},
 		{
 			"id": "Work The Crowd",
-			"name": "推波助澜"
+			"name": "推波助澜(Work The Crowd)"
 		},
 		{
 			"id": "Work The Room",
-			"name": "推波助浪"
+			"name": "推波助浪(Work The Room)"
 		}
 	]
 }
