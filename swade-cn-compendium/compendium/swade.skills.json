@@ -3,135 +3,135 @@
 	"entries": [
 		{
 			"id": "Academics",
-			"name": "人文(Academics)"
+			"name": "人文"
 		},
 		{
 			"id": "Athletics",
-			"name": "运动(Athletics)"
+			"name": "运动"
 		},
 		{
 			"id": "Battle",
-			"name": "作战(Battle)"
+			"name": "作战"
 		},
 		{
 			"id": "Boating",
-			"name": "驾船(Boating)"
+			"name": "驾船"
 		},
 		{
 			"id": "Common Knowledge",
-			"name": "通用知识(Common Knowledge)"
+			"name": "通用知识"
 		},
 		{
 			"id": "Driving",
-			"name": "驾驶(Driving)"
+			"name": "驾驶"
 		},
 		{
 			"id": "Electronics",
-			"name": "电子学(Electronics)"
+			"name": "电子学"
 		},
 		{
 			"id": "Faith",
-			"name": "信仰(Faith)"
+			"name": "信仰"
 		},
 		{
 			"id": "Fighting",
-			"name": "格斗(Fighting)"
+			"name": "格斗"
 		},
 		{
 			"id": "Focus",
-			"name": "集中(Focus)"
+			"name": "集中"
 		},
 		{
 			"id": "Gambling",
-			"name": "赌博(Gambling)"
+			"name": "赌博"
 		},
 		{
 			"id": "Hacking",
-			"name": "骇客(Hacking)"
+			"name": "骇客"
 		},
 		{
 			"id": "Healing",
-			"name": "医疗(Healing)"
+			"name": "医疗"
 		},
 		{
 			"id": "Intimidation",
-			"name": "威吓(Intimidation)"
+			"name": "威吓"
 		},
 		{
 			"id": "Language",
-			"name": "语言学(Language)"
+			"name": "语言学"
 		},
 		{
 			"id": "Notice",
-			"name": "察觉(Notice)"
+			"name": "察觉"
 		},
 		{
 			"id": "Occult",
-			"name": "神秘学(Occult)"
+			"name": "神秘学"
 		},
 		{
 			"id": "Performance",
-			"name": "表演(Performance)"
+			"name": "表演"
 		},
 		{
 			"id": "Persuasion",
-			"name": "交涉(Persuasion)"
+			"name": "交涉"
 		},
 		{
 			"id": "Piloting",
-			"name": "航空(Piloting)"
+			"name": "航空"
 		},
 		{
 			"id": "Psionics",
-			"name": "灵能(Psionics)"
+			"name": "灵能"
 		},
 		{
 			"id": "Repair",
-			"name": "修理(Repair)"
+			"name": "修理"
 		},
 		{
 			"id": "Research",
-			"name": "调查(Research)"
+			"name": "调查"
 		},
 		{
 			"id": "Riding",
-			"name": "骑乘(Riding)"
+			"name": "骑乘"
 		},
 		{
 			"id": "Science",
-			"name": "科学(Science)"
+			"name": "科学"
 		},
 		{
 			"id": "Shooting",
-			"name": "射击(Shooting)"
+			"name": "射击"
 		},
 		{
 			"id": "Spellcasting",
-			"name": "施法(Spellcasting)"
+			"name": "施法"
 		},
 		{
 			"id": "Stealth",
-			"name": "潜行(Stealth)"
+			"name": "潜行"
 		},
 		{
 			"id": "Survival",
-			"name": "生存(Survival)"
+			"name": "生存"
 		},
 		{
 			"id": "Taunt",
-			"name": "嘲弄(Taunt)"
+			"name": "嘲弄"
 		},
 		{
 			"id": "Thievery",
-			"name": "贼活(Thievery)"
+			"name": "贼活"
 		},
 		{
 			"id": "Untrained",
-			"name": "拙劣(Untrained)"
+			"name": "拙劣"
 		},
 		{
 			"id": "Weird Science",
-			"name": "奇异科学(Weird Science)"
+			"name": "奇异科学"
 		}
 	]
 }
