@@ -1,10 +1,10 @@
 {
-	"label": "SWADE Equipment",
+	"label": "SWADE装备",
 	"mapping": {
 		"description": "data.description",
 		"notes": "data.notes",
 		"actions": {
-			"path": "data.actions"
+			"path": "data.动作s"
 		}
 	},
 	"entries": {
@@ -18,7 +18,7 @@
 		},
 		"120mm Tank Gun (AP Rounds)": {
 			"name": "120mm Tank Gun (AP Rounds)",
-			"description": "<div class=\"swade-core\">\n<p><strong>Tank and AT Guns:</strong>&nbsp;May fire either @Compendium[swade-core-rules.swade-rules.Armor Piercing (AP)]{Armor Piercing (AP)} or @Compendium[swade-core-rules.swade-rules.High Explosive (HE)]{High Explosive (HE)} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.Range]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}&nbsp;</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p><strong>Tank and AT Guns:</strong>&nbsp;May fire either @Compendium[swade-core-rules.swade-rules.护甲 Piercing (AP)]{Armor Piercing (AP)} or @Compendium[swade-core-rules.swade-rules.High Explosive (HE)]{High Explosive (HE)} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.射程]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{Heavy Weapon (HW)}&nbsp;</p>\n</div>",
 			"notes": "重武器",
 			"actions": {
 				"skill": "射击",
@@ -31,7 +31,7 @@
 		},
 		"120mm Tank Gun (HE Rounds)": {
 			"name": "120mm Tank Gun (HE Rounds)",
-			"description": "<div class=\"swade-core\">\n<p><strong>Tank and AT Guns:</strong>&nbsp;May fire either @Compendium[swade-core-rules.swade-rules.Armor Piercing (AP)]{Armor Piercing (AP)} or @Compendium[swade-core-rules.swade-rules.High Explosive (HE)]{High Explosive (HE)} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.Range]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)} @Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{中型爆散盖板}</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p><strong>Tank and AT Guns:</strong>&nbsp;May fire either @Compendium[swade-core-rules.swade-rules.护甲 Piercing (AP)]{Armor Piercing (AP)} or @Compendium[swade-core-rules.swade-rules.High Explosive (HE)]{High Explosive (HE)} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.射程]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{Heavy Weapon (HW)} @Compendium[swade-core-rules.swade-rules.范围效果攻击]{中型爆散盖板}</p>\n</div>",
 			"notes": "中型爆散盖板, 重武器",
 			"actions": {
 				"skill": "射击"
@@ -39,7 +39,7 @@
 		},
 		"125mm Tank Gun (AP Rounds)": {
 			"name": "125mm Tank Gun (AP Rounds)",
-			"description": "<div class=\"swade-core\">\n<p><strong>Tank and AT Guns:</strong>&nbsp;May fire either @Compendium[swade-core-rules.swade-rules.Armor Piercing (AP)]{Armor Piercing (AP)} or @Compendium[swade-core-rules.swade-rules.High Explosive (HE)]{High Explosive (HE)} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.Range]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}&nbsp;</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p><strong>Tank and AT Guns:</strong>&nbsp;May fire either @Compendium[swade-core-rules.swade-rules.护甲 Piercing (AP)]{Armor Piercing (AP)} or @Compendium[swade-core-rules.swade-rules.High Explosive (HE)]{High Explosive (HE)} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.射程]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{Heavy Weapon (HW)}&nbsp;</p>\n</div>",
 			"notes": "重武器",
 			"actions": {
 				"skill": "射击",
@@ -52,7 +52,7 @@
 		},
 		"125mm Tank Gun (HE Rounds)": {
 			"name": "125mm Tank Gun (HE Rounds)",
-			"description": "<div class=\"swade-core\">\n<p><strong>Tank and AT Guns:</strong>&nbsp;May fire either @Compendium[swade-core-rules.swade-rules.Armor Piercing (AP)]{Armor Piercing (AP)} or @Compendium[swade-core-rules.swade-rules.High Explosive (HE)]{High Explosive (HE)} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.Range]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)} @Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{中型爆散盖板}</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p><strong>Tank and AT Guns:</strong>&nbsp;May fire either @Compendium[swade-core-rules.swade-rules.护甲 Piercing (AP)]{Armor Piercing (AP)} or @Compendium[swade-core-rules.swade-rules.High Explosive (HE)]{High Explosive (HE)} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.射程]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{Heavy Weapon (HW)} @Compendium[swade-core-rules.swade-rules.范围效果攻击]{中型爆散盖板}</p>\n</div>",
 			"notes": "中型爆散盖板, 重武器",
 			"actions": {
 				"skill": "射击"
@@ -60,7 +60,7 @@
 		},
 		"2 pd AT Gun (AP Rounds)": {
 			"name": "2 pd AT Gun (AP Rounds)",
-			"description": "<div class=\"swade-core\"><p><strong>Tank and AT Guns:</strong>&nbsp;May fire either @Compendium[swade-core-rules.swade-rules.Armor Piercing (AP)]{Armor Piercing (AP)} or @Compendium[swade-core-rules.swade-rules.High Explosive (HE)]{High Explosive (HE)} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.Range]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p></div>",
+			"description": "<div class=\"swade-core\"><p><strong>Tank and AT Guns:</strong>&nbsp;May fire either @Compendium[swade-core-rules.swade-rules.护甲 Piercing (AP)]{Armor Piercing (AP)} or @Compendium[swade-core-rules.swade-rules.High Explosive (HE)]{High Explosive (HE)} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.射程]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p></div>",
 			"notes": "重武器",
 			"actions": {
 				"skill": "射击",
@@ -73,7 +73,7 @@
 		},
 		"2 pd AT Gun (HE Rounds)": {
 			"name": "2 pd AT Gun (HE Rounds)",
-			"description": "<div class=\"swade-core\">\n<p><strong>Tank and AT Guns:</strong>&nbsp;May fire either @Compendium[swade-core-rules.swade-rules.Armor Piercing (AP)]{Armor Piercing (AP)} or @Compendium[swade-core-rules.swade-rules.High Explosive (HE)]{High Explosive (HE)} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.Range]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)} @Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{中型爆散盖板}</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p><strong>Tank and AT Guns:</strong>&nbsp;May fire either @Compendium[swade-core-rules.swade-rules.护甲 Piercing (AP)]{Armor Piercing (AP)} or @Compendium[swade-core-rules.swade-rules.High Explosive (HE)]{High Explosive (HE)} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.射程]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{Heavy Weapon (HW)} @Compendium[swade-core-rules.swade-rules.范围效果攻击]{中型爆散盖板}</p>\n</div>",
 			"notes": "中型爆散盖板, 重武器",
 			"actions": {
 				"skill": "射击"
@@ -81,7 +81,7 @@
 		},
 		"20mm Cannon": {
 			"name": "20mm Cannon",
-			"description": "<div class=\"swade-core\"><p><strong>Minimum Rate of Fire:</strong>&nbsp;Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.Rate of Fire]{射速} 3 or higher have a minimum Rate of Fire of 2.</p></div>",
+			"description": "<div class=\"swade-core\"><p><strong>Minimum Rate of Fire:</strong>&nbsp;Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.射速]{射速} 3 or higher have a minimum Rate of Fire of 2.</p></div>",
 			"notes": "重型",
 			"actions": {
 				"skill": "射击",
@@ -100,7 +100,7 @@
 		},
 		"25mm Cannon": {
 			"name": "25mm 加农",
-			"description": "<div class=\"swade-core\"><p><strong>Minimum Rate of Fire:</strong>&nbsp;Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.Rate of Fire]{射速} 3 or higher have a minimum Rate of Fire of 2.</p></div>",
+			"description": "<div class=\"swade-core\"><p><strong>Minimum Rate of Fire:</strong>&nbsp;Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.射速]{射速} 3 or higher have a minimum Rate of Fire of 2.</p></div>",
 			"notes": "重型",
 			"actions": {
 				"skill": "射击",
@@ -116,7 +116,7 @@
 		},
 		"30mm Cannon": {
 			"name": "30mm Cannon",
-			"description": "<div class=\"swade-core\"><p><strong>Minimum Rate of Fire:</strong>&nbsp;Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.Rate of Fire]{射速} 3 or higher have a minimum Rate of Fire of 2.</p></div>",
+			"description": "<div class=\"swade-core\"><p><strong>Minimum Rate of Fire:</strong>&nbsp;Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.射速]{射速} 3 or higher have a minimum Rate of Fire of 2.</p></div>",
 			"notes": "重武器",
 			"actions": {
 				"skill": "射击",
@@ -132,7 +132,7 @@
 		},
 		"37mm AT Gun (AP Rounds)": {
 			"name": "37mm AT Gun (AP Rounds)",
-			"description": "<div class=\"swade-core\"><p><strong>Tank and AT Guns:</strong>&nbsp;May fire either @Compendium[swade-core-rules.swade-rules.Armor Piercing (AP)]{Armor Piercing (AP)} or @Compendium[swade-core-rules.swade-rules.High Explosive (HE)]{High Explosive (HE)} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.Range]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p></div>",
+			"description": "<div class=\"swade-core\"><p><strong>Tank and AT Guns:</strong>&nbsp;May fire either @Compendium[swade-core-rules.swade-rules.护甲 Piercing (AP)]{Armor Piercing (AP)} or @Compendium[swade-core-rules.swade-rules.High Explosive (HE)]{High Explosive (HE)} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.射程]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p></div>",
 			"notes": "重武器",
 			"actions": {
 				"skill": "射击",
@@ -145,7 +145,7 @@
 		},
 		"37mm AT Gun (HE Rounds)": {
 			"name": "37mm AT Gun (HE Rounds)",
-			"description": "<div class=\"swade-core\">\n<p><strong>Tank and AT Guns:</strong> May fire either @Compendium[swade-core-rules.swade-rules.Armor Piercing (AP)]{Armor Piercing (AP)} or @Compendium[swade-core-rules.swade-rules.High Explosive (HE)]{High Explosive (HE)} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.Range]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)} @Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{中型爆散盖板}</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p><strong>Tank and AT Guns:</strong> May fire either @Compendium[swade-core-rules.swade-rules.护甲 Piercing (AP)]{Armor Piercing (AP)} or @Compendium[swade-core-rules.swade-rules.High Explosive (HE)]{High Explosive (HE)} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.射程]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{Heavy Weapon (HW)} @Compendium[swade-core-rules.swade-rules.范围效果攻击]{中型爆散盖板}</p>\n</div>",
 			"notes": "中型爆散盖板, 重武器",
 			"actions": {
 				"skill": "射击"
@@ -153,7 +153,7 @@
 		},
 		"40mm Cannon (AP Rounds)": {
 			"name": "40mm Cannon (AP Rounds)",
-			"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong>&nbsp;Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.Rate of Fire]{射速} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p><strong>Tank and AT Guns:</strong> May fire either @Compendium[swade-core-rules.swade-rules.Armor Piercing (AP)]{Armor Piercing (AP)} or @Compendium[swade-core-rules.swade-rules.High Explosive (HE)]{High Explosive (HE)} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.Range]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong>&nbsp;Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.射速]{射速} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p><strong>Tank and AT Guns:</strong> May fire either @Compendium[swade-core-rules.swade-rules.护甲 Piercing (AP)]{Armor Piercing (AP)} or @Compendium[swade-core-rules.swade-rules.High Explosive (HE)]{High Explosive (HE)} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.射程]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p>\n</div>",
 			"notes": "重武器",
 			"actions": {
 				"skill": "射击",
@@ -175,7 +175,7 @@
 		},
 		"40mm Cannon (HE Rounds)": {
 			"name": "40mm Cannon (HE Rounds)",
-			"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong>&nbsp;Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.Rate of Fire]{射速} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p><strong>Tank and AT Guns:</strong> May fire either @Compendium[swade-core-rules.swade-rules.Armor Piercing (AP)]{Armor Piercing (AP)} or @Compendium[swade-core-rules.swade-rules.High Explosive (HE)]{High Explosive (HE)} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.Range]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)} @Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{中型爆散盖板}</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong>&nbsp;Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.射速]{射速} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p><strong>Tank and AT Guns:</strong> May fire either @Compendium[swade-core-rules.swade-rules.护甲 Piercing (AP)]{Armor Piercing (AP)} or @Compendium[swade-core-rules.swade-rules.High Explosive (HE)]{High Explosive (HE)} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.射程]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{Heavy Weapon (HW)} @Compendium[swade-core-rules.swade-rules.范围效果攻击]{中型爆散盖板}</p>\n</div>",
 			"notes": "中型爆散盖板, 重武器",
 			"actions": {
 				"skill": "射击",
@@ -194,7 +194,7 @@
 		},
 		"57mm AT Gun (AP Rounds)": {
 			"name": "57mm AT Gun (AP Rounds)",
-			"description": "<div class=\"swade-core\"><p><strong>Tank and AT Guns:</strong>&nbsp;May fire either @Compendium[swade-core-rules.swade-rules.Armor Piercing (AP)]{Armor Piercing (AP)} or @Compendium[swade-core-rules.swade-rules.High Explosive (HE)]{High Explosive (HE)} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.Range]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p></div>",
+			"description": "<div class=\"swade-core\"><p><strong>Tank and AT Guns:</strong>&nbsp;May fire either @Compendium[swade-core-rules.swade-rules.护甲 Piercing (AP)]{Armor Piercing (AP)} or @Compendium[swade-core-rules.swade-rules.High Explosive (HE)]{High Explosive (HE)} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.射程]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p></div>",
 			"notes": "重武器",
 			"actions": {
 				"skill": "射击",
@@ -207,7 +207,7 @@
 		},
 		"57mm AT Gun (HE Rounds)": {
 			"name": "57mm AT Gun (HE Rounds)",
-			"description": "<div class=\"swade-core\">\n<p><strong>Tank and AT Guns:</strong>&nbsp;May fire either @Compendium[swade-core-rules.swade-rules.Armor Piercing (AP)]{Armor Piercing (AP)} or @Compendium[swade-core-rules.swade-rules.High Explosive (HE)]{High Explosive (HE)} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.Range]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)} @Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{中型爆散盖板}</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p><strong>Tank and AT Guns:</strong>&nbsp;May fire either @Compendium[swade-core-rules.swade-rules.护甲 Piercing (AP)]{Armor Piercing (AP)} or @Compendium[swade-core-rules.swade-rules.High Explosive (HE)]{High Explosive (HE)} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.射程]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{Heavy Weapon (HW)} @Compendium[swade-core-rules.swade-rules.范围效果攻击]{中型爆散盖板}</p>\n</div>",
 			"notes": "中型爆散盖板, 重武器",
 			"actions": {
 				"skill": "射击"
@@ -215,7 +215,7 @@
 		},
 		"75mm Tank Gun (AP Rounds)": {
 			"name": "75mm Tank Gun (AP Rounds)",
-			"description": "<div class=\"swade-core\">\n<p><strong>Tank and AT Guns:</strong>&nbsp;May fire either @Compendium[swade-core-rules.swade-rules.Armor Piercing (AP)]{Armor Piercing (AP)} or @Compendium[swade-core-rules.swade-rules.High Explosive (HE)]{High Explosive (HE)} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.Range]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}&nbsp;</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p><strong>Tank and AT Guns:</strong>&nbsp;May fire either @Compendium[swade-core-rules.swade-rules.护甲 Piercing (AP)]{Armor Piercing (AP)} or @Compendium[swade-core-rules.swade-rules.High Explosive (HE)]{High Explosive (HE)} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.射程]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{Heavy Weapon (HW)}&nbsp;</p>\n</div>",
 			"notes": "重武器",
 			"actions": {
 				"skill": "射击",
@@ -228,7 +228,7 @@
 		},
 		"75mm Tank Gun (HE Rounds)": {
 			"name": "75mm Tank Gun (HE Rounds)",
-			"description": "<div class=\"swade-core\">\n<p><strong>Tank and AT Guns:</strong>&nbsp;May fire either @Compendium[swade-core-rules.swade-rules.Armor Piercing (AP)]{Armor Piercing (AP)} or @Compendium[swade-core-rules.swade-rules.High Explosive (HE)]{High Explosive (HE)} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.Range]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)} @Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{中型爆散盖板}</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p><strong>Tank and AT Guns:</strong>&nbsp;May fire either @Compendium[swade-core-rules.swade-rules.护甲 Piercing (AP)]{Armor Piercing (AP)} or @Compendium[swade-core-rules.swade-rules.High Explosive (HE)]{High Explosive (HE)} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.射程]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{Heavy Weapon (HW)} @Compendium[swade-core-rules.swade-rules.范围效果攻击]{中型爆散盖板}</p>\n</div>",
 			"notes": "中型爆散盖板, 重武器",
 			"actions": {
 				"skill": "射击"
@@ -236,7 +236,7 @@
 		},
 		"76mm Tank Gun (AP Rounds)": {
 			"name": "76mm Tank Gun (AP Rounds)",
-			"description": "<div class=\"swade-core\">\n<p><strong>Tank and AT Guns:</strong>&nbsp;May fire either @Compendium[swade-core-rules.swade-rules.Armor Piercing (AP)]{Armor Piercing (AP)} or @Compendium[swade-core-rules.swade-rules.High Explosive (HE)]{High Explosive (HE)} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.Range]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}&nbsp;</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p><strong>Tank and AT Guns:</strong>&nbsp;May fire either @Compendium[swade-core-rules.swade-rules.护甲 Piercing (AP)]{Armor Piercing (AP)} or @Compendium[swade-core-rules.swade-rules.High Explosive (HE)]{High Explosive (HE)} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.射程]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{Heavy Weapon (HW)}&nbsp;</p>\n</div>",
 			"notes": "重武器",
 			"actions": {
 				"skill": "射击",
@@ -249,7 +249,7 @@
 		},
 		"76mm Tank Gun (HE Rounds)": {
 			"name": "76mm Tank Gun (HE Rounds)",
-			"description": "<div class=\"swade-core\">\n<p><strong>Tank and AT Guns:</strong>&nbsp;May fire either @Compendium[swade-core-rules.swade-rules.Armor Piercing (AP)]{Armor Piercing (AP)} or @Compendium[swade-core-rules.swade-rules.High Explosive (HE)]{High Explosive (HE)} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.Range]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)} @Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{中型爆散盖板}</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p><strong>Tank and AT Guns:</strong>&nbsp;May fire either @Compendium[swade-core-rules.swade-rules.护甲 Piercing (AP)]{Armor Piercing (AP)} or @Compendium[swade-core-rules.swade-rules.High Explosive (HE)]{High Explosive (HE)} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.射程]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{Heavy Weapon (HW)} @Compendium[swade-core-rules.swade-rules.范围效果攻击]{中型爆散盖板}</p>\n</div>",
 			"notes": "中型爆散盖板, 重武器",
 			"actions": {
 				"skill": "射击"
@@ -257,7 +257,7 @@
 		},
 		"88mm Tank Gun (AP Rounds)": {
 			"name": "88mm Tank Gun (AP Rounds)",
-			"description": "<div class=\"swade-core\">\n<p><strong>Tank and AT Guns:</strong>&nbsp;May fire either @Compendium[swade-core-rules.swade-rules.Armor Piercing (AP)]{Armor Piercing (AP)} or @Compendium[swade-core-rules.swade-rules.High Explosive (HE)]{High Explosive (HE)} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.Range]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}&nbsp;</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p><strong>Tank and AT Guns:</strong>&nbsp;May fire either @Compendium[swade-core-rules.swade-rules.护甲 Piercing (AP)]{Armor Piercing (AP)} or @Compendium[swade-core-rules.swade-rules.High Explosive (HE)]{High Explosive (HE)} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.射程]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{Heavy Weapon (HW)}&nbsp;</p>\n</div>",
 			"notes": "重武器",
 			"actions": {
 				"skill": "射击",
@@ -270,7 +270,7 @@
 		},
 		"88mm Tank Gun (HE Rounds)": {
 			"name": "88mm Tank Gun (HE Rounds)",
-			"description": "<div class=\"swade-core\">\n<p><strong>Tank and AT Guns:</strong>&nbsp;May fire either @Compendium[swade-core-rules.swade-rules.Armor Piercing (AP)]{Armor Piercing (AP)} or @Compendium[swade-core-rules.swade-rules.High Explosive (HE)]{High Explosive (HE)} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.Range]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)} @Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{中型爆散盖板}</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p><strong>Tank and AT Guns:</strong>&nbsp;May fire either @Compendium[swade-core-rules.swade-rules.护甲 Piercing (AP)]{Armor Piercing (AP)} or @Compendium[swade-core-rules.swade-rules.High Explosive (HE)]{High Explosive (HE)} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.射程]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{Heavy Weapon (HW)} @Compendium[swade-core-rules.swade-rules.范围效果攻击]{中型爆散盖板}</p>\n</div>",
 			"notes": "中型爆散盖板, 重武器",
 			"actions": {
 				"skill": "射击"
@@ -293,7 +293,7 @@
 		},
 		"AT-4": {
 			"name": "AT-4",
-			"description": "<div class=\"swade-core\">\n<p>A heavy American anti-tank weapon of the modern era. @Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{中型爆散盖板}.</p>\n<hr />\n<p>Rocket launchers and early torpedoes are direct-fire weapons that explode on contact with their target. @Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{重武器}.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>A heavy American anti-tank weapon of the modern era. @Compendium[swade-core-rules.swade-rules.范围效果攻击]{中型爆散盖板}.</p>\n<hr />\n<p>Rocket launchers and early torpedoes are direct-fire weapons that explode on contact with their target. @Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器}.</p>\n</div>",
 			"notes": "中型爆散盖板, A heavy American anti-tank weapon of the modern era.",
 			"actions": {
 				"skill": "射击"
@@ -301,7 +301,7 @@
 		},
 		"Anti-Personnel Mine": {
 			"name": "Anti-Personnel Mine",
-			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{重武器}, @Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{小型爆散盖板}.</p>\n<hr />\n<p>Mines are explosives planted beneath shallow dirt that detonate in the listed blast template (see @Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{范围效果攻击}) when a person (for anti-personnel mines) or vehicle (for anti-tank mines) passes over them.</p>\n<p><strong>Minefields:</strong> For dramatic purposes, a character who steps on a mine should get a @Compendium[swade-core-rules.swade-skills.Notice]{察觉} roll. Success means she realizes it before stepping off and detonating it. Saving the victim requires a @Compendium[swade-core-rules.swade-skills.Repair]{修理} roll at &minus;4, but failure detonates the device immediately.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器}, @Compendium[swade-core-rules.swade-rules.范围效果攻击]{小型爆散盖板}.</p>\n<hr />\n<p>Mines are explosives planted beneath shallow dirt that detonate in the listed blast template (see @Compendium[swade-core-rules.swade-rules.范围效果攻击]{范围效果攻击}) when a person (for anti-personnel mines) or vehicle (for anti-tank mines) passes over them.</p>\n<p><strong>Minefields:</strong> For dramatic purposes, a character who steps on a mine should get a @Compendium[swade-core-rules.swade-skills.察觉]{察觉} roll. Success means she realizes it before stepping off and detonating it. Saving the victim requires a @Compendium[swade-core-rules.swade-skills.修理]{修理} roll at &minus;4, but failure detonates the device immediately.</p>\n</div>",
 			"notes": "重武器",
 			"actions": {
 				"skill": "格斗"
@@ -309,7 +309,7 @@
 		},
 		"Anti-Tank Mine": {
 			"name": "Anti-Tank Mine",
-			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{重武器}, AP 5 vs. &frac12; the vehicle&rsquo;s @Compendium[swade-core-rules.swade-rules.Armor]{护甲} value (round up), @Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{中型爆散盖板}.</p>\n<hr />\n<p>Mines are explosives planted beneath shallow dirt that detonate in the listed blast template (see @Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{范围效果攻击}) when a person (for anti-personnel mines) or vehicle (for anti-tank mines) passes over them.</p>\n<p><strong>Minefields:</strong> For dramatic purposes, a character who steps on a mine should get a @Compendium[swade-core-rules.swade-skills.Notice]{察觉} roll. Success means she realizes it before stepping off and detonating it. Saving the victim requires a @Compendium[swade-core-rules.swade-skills.Repair]{修理} roll at &minus;4, but failure detonates the device immediately.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器}, AP 5 vs. &frac12; the vehicle&rsquo;s @Compendium[swade-core-rules.swade-rules.护甲]{护甲} value (round up), @Compendium[swade-core-rules.swade-rules.范围效果攻击]{中型爆散盖板}.</p>\n<hr />\n<p>Mines are explosives planted beneath shallow dirt that detonate in the listed blast template (see @Compendium[swade-core-rules.swade-rules.范围效果攻击]{范围效果攻击}) when a person (for anti-personnel mines) or vehicle (for anti-tank mines) passes over them.</p>\n<p><strong>Minefields:</strong> For dramatic purposes, a character who steps on a mine should get a @Compendium[swade-core-rules.swade-skills.察觉]{察觉} roll. Success means she realizes it before stepping off and detonating it. Saving the victim requires a @Compendium[swade-core-rules.swade-skills.修理]{修理} roll at &minus;4, but failure detonates the device immediately.</p>\n</div>",
 			"notes": "Heavy Weapon, AP 5 vs. ½ the vehicle’s Armor value (round up).",
 			"actions": {
 				"skill": "格斗"
@@ -317,7 +317,7 @@
 		},
 		"Arrows/Bolts": {
 			"name": "Arrows/Bolts",
-			"description": "<div class=\"swade-core\">\n<p>Arrows for @Compendium[swade-core-rules.swade-equipment.Bow]{弓}, bolts for @Compendium[swade-core-rules.swade-equipment.Crossbow]{弩}</p>\n</div>"
+			"description": "<div class=\"swade-core\">\n<p>Arrows for @Compendium[swade-core-rules.swade-equipment.弓]{弓}, bolts for @Compendium[swade-core-rules.swade-equipment.弩]{弩}</p>\n</div>"
 		},
 		"Axe, Battle": {
 			"name": "Axe, Battle",
@@ -328,7 +328,7 @@
 		},
 		"Axe, Great": {
 			"name": "Axe, Great",
-			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Parry]{格挡} &ndash;1, @Compendium[swade-core-rules.swade-rules.Two Hands]{two hands}</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.格挡]{格挡} &ndash;1, @Compendium[swade-core-rules.swade-rules.Two Hands]{two hands}</p>\n</div>",
 			"notes": "Parry –1, two hands",
 			"actions": {
 				"skill": "格斗",
@@ -359,7 +359,7 @@
 		},
 		"Ballistic Shield": {
 			"name": "Ballistic Shield",
-			"description": "<div class=\"swade-core\">\n<p>Shields add to a character&rsquo;s @Compendium[swade-core-rules.swade-rules.Characters]{格挡} as shown in the Parry rating. @Compendium[swade-core-rules.swade-rules.Cover and Obstacles]{掩蔽} subtracts from ranged attacks from the front and shielded side (attacks from the rear or unprotected side ignore cover).</p>\n<hr />\n<p>Modern shields are @Compendium[swade-core-rules.swade-rules.Breaking Things]{硬度} 12 and provide +2 @Compendium[swade-core-rules.swade-rules.Armor]{护甲} should someone attempt to shoot through them (see @Compendium[swade-core-rules.swade-rules.Cover and Obstacles]{障碍}).</p>\n<p>While worn, shields can be used to bash for Str+d4 damage.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>Shields add to a character&rsquo;s @Compendium[swade-core-rules.swade-rules.角色]{格挡} as shown in the Parry rating. @Compendium[swade-core-rules.swade-rules.掩蔽 and Obstacles]{掩蔽} subtracts from ranged attacks from the front and shielded side (attacks from the rear or unprotected side ignore cover).</p>\n<hr />\n<p>Modern shields are @Compendium[swade-core-rules.swade-rules.破坏物品]{硬度} 12 and provide +2 @Compendium[swade-core-rules.swade-rules.护甲]{护甲} should someone attempt to shoot through them (see @Compendium[swade-core-rules.swade-rules.掩蔽 and Obstacles]{障碍}).</p>\n<p>While worn, shields can be used to bash for Str+d4 damage.</p>\n</div>",
 			"notes": "Reduces damage from firearms by 4 when an attacker tries to shoot through it.",
 			"actions": {
 				"skill": "格斗",
@@ -372,7 +372,7 @@
 		},
 		"Bangstick": {
 			"name": "Bangstick",
-			"description": "<div class=\"swade-core\"><p>A @Compendium[swade-core-rules.swade-rules.Shotguns]{霰弹枪} shell on a stick used in melee; must be reloaded with a fresh shell (one action)</p></div>",
+			"description": "<div class=\"swade-core\"><p>A @Compendium[swade-core-rules.swade-rules.霰弹枪]{霰弹枪} shell on a stick used in melee; must be reloaded with a fresh shell (one action)</p></div>",
 			"notes": "A shotgun shell on a stick used in melee; must be reloaded with a fresh shell (one action)",
 			"actions": {
 				"skill": "格斗"
@@ -380,7 +380,7 @@
 		},
 		"Barrett": {
 			"name": "Barrett",
-			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{重武器}, @Compendium[swade-core-rules.swade-rules.Snapfire]{猝射}. Barretts use a 10-shot removable magazine that weighs 2 lbs when loaded. They are almost always fitted with a @Compendium[swade-core-rules.swade-equipment.Rifle Scope]{Rifle Scope}.</p>\n<hr />\n<p>Additional magazines or clips cost 10% of the rifle and weigh 1 lb each.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器}, @Compendium[swade-core-rules.swade-rules.猝射]{猝射}. Barretts use a 10-shot removable magazine that weighs 2 lbs when loaded. They are almost always fitted with a @Compendium[swade-core-rules.swade-equipment.步枪瞄准镜]{Rifle Scope}.</p>\n<hr />\n<p>Additional magazines or clips cost 10% of the rifle and weigh 1 lb each.</p>\n</div>",
 			"actions": {
 				"skill": "射击",
 				"additional": {
@@ -392,15 +392,15 @@
 		},
 		"Battle Helmet": {
 			"name": "Battle Helmet",
-			"description": "<div class=\"swade-core\"><p>@Compendium[swade-core-rules.swade-rules.Armor]{护甲} used by private or state armed forces.</p>\n<p><strong style=\"box-sizing: border-box; user-select: text; color: #191813; background-color: #dfe6f5;\">@Compendium[swade-core-rules.swade-rules.Ballistic Protection]{Ballistic Protection}:</strong><span style=\"color: #191813; background-color: #dfe6f5;\"> Reduces the damage from bullets by 4. &ldquo;Bullets&rdquo; includes physical shot fired from a firearm.</span></p></div>"
+			"description": "<div class=\"swade-core\"><p>@Compendium[swade-core-rules.swade-rules.护甲]{护甲} used by private or state armed forces.</p>\n<p><strong style=\"box-sizing: border-box; user-select: text; color: #191813; background-color: #dfe6f5;\">@Compendium[swade-core-rules.swade-rules.Ballistic Protection]{Ballistic Protection}:</strong><span style=\"color: #191813; background-color: #dfe6f5;\"> Reduces the damage from bullets by 4. &ldquo;Bullets&rdquo; includes physical shot fired from a firearm.</span></p></div>"
 		},
 		"Battle Helmet w/ Energy Skin": {
 			"name": "Battle Helmet w/ Energy Skin",
-			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Armor]{护甲} used by private or state armed forces.</p>\n<p><strong>@Compendium[swade-core-rules.swade-rules.Energy Skin]{Energy Skin}:</strong> This armor is treated with an &ldquo;energy skin&rdquo; (or skein) to diffuse energy, reducing damage from lasers by 4. This costs 50% of the armor treated and is very shiny, subtracting 2 from @Compendium[swade-core-rules.swade-skills.Stealth]{潜行} rolls based on vision.</p>\n<p><strong style=\"box-sizing: border-box; user-select: text; color: #191813; background-color: #dfe6f5;\">@Compendium[swade-core-rules.swade-rules.Ballistic Protection]{Ballistic Protection}:</strong><span style=\"color: #191813; background-color: #dfe6f5;\"> Reduces the damage from bullets by 4. &ldquo;Bullets&rdquo; includes physical shot fired from a firearm.</span></p>\n</div>"
+			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.护甲]{护甲} used by private or state armed forces.</p>\n<p><strong>@Compendium[swade-core-rules.swade-rules.Energy Skin]{Energy Skin}:</strong> This armor is treated with an &ldquo;energy skin&rdquo; (or skein) to diffuse energy, reducing damage from lasers by 4. This costs 50% of the armor treated and is very shiny, subtracting 2 from @Compendium[swade-core-rules.swade-skills.潜行]{潜行} rolls based on vision.</p>\n<p><strong style=\"box-sizing: border-box; user-select: text; color: #191813; background-color: #dfe6f5;\">@Compendium[swade-core-rules.swade-rules.Ballistic Protection]{Ballistic Protection}:</strong><span style=\"color: #191813; background-color: #dfe6f5;\"> Reduces the damage from bullets by 4. &ldquo;Bullets&rdquo; includes physical shot fired from a firearm.</span></p>\n</div>"
 		},
 		"Bayonet": {
 			"name": "Bayonet",
-			"description": "<div class=\"swade-core\">\n<p>Str+d6 and @Compendium[swade-core-rules.swade-rules.Parry]{格挡} +1 attached to rifle, @Compendium[swade-core-rules.swade-rules.Reach]{触及} 1, @Compendium[swade-core-rules.swade-rules.Two Hands]{two hands}</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>Str+d6 and @Compendium[swade-core-rules.swade-rules.格挡]{格挡} +1 attached to rifle, @Compendium[swade-core-rules.swade-rules.触及]{触及} 1, @Compendium[swade-core-rules.swade-rules.Two Hands]{two hands}</p>\n</div>",
 			"notes": "Str+d6 and Parry +1 attached to rifle, Reach 1, two hands",
 			"actions": {
 				"skill": "格斗",
@@ -416,7 +416,7 @@
 		},
 		"Bazooka": {
 			"name": "Bazooka",
-			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Snapfire]{猝射}. The standard American anti-tank weapon in World War II. Additional warheads weigh 9 lbs and cost $50. WWII price. @Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{中型爆散盖板}.</p>\n<hr />\n<p>Rocket launchers and early torpedoes are direct-fire weapons that explode on contact with their target. @Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{重武器}.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.猝射]{猝射}. The standard American anti-tank weapon in World War II. Additional warheads weigh 9 lbs and cost $50. WWII price. @Compendium[swade-core-rules.swade-rules.范围效果攻击]{中型爆散盖板}.</p>\n<hr />\n<p>Rocket launchers and early torpedoes are direct-fire weapons that explode on contact with their target. @Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器}.</p>\n</div>",
 			"notes": "中型爆散盖板, Snapfire. The standard American anti-tank weapon in World War II. Additional warheads weigh 9 lbs and cost $50. WWII price.",
 			"actions": {
 				"skill": "射击"
@@ -440,7 +440,7 @@
 		},
 		"Bipod/Tripod": {
 			"name": "Bipod/Tripod",
-			"description": "<div class=\"swade-core\">\n<p>Takes an action to deploy. Negates @Compendium[swade-core-rules.swade-rules.Recoil]{后坐力} and @Compendium[swade-core-rules.swade-rules.Minimum Strength]{最低力量} penalties.</p>\n</div>"
+			"description": "<div class=\"swade-core\">\n<p>Takes an action to deploy. Negates @Compendium[swade-core-rules.swade-rules.后坐力]{后坐力} and @Compendium[swade-core-rules.swade-rules.最低力量]{最低力量} penalties.</p>\n</div>"
 		},
 		"Blanket": {
 			"name": "Blanket",
@@ -448,7 +448,7 @@
 		},
 		"Blunderbuss": {
 			"name": "Blunderbuss",
-			"description": "<div class=\"swade-core\"><p>Black powder weapons are @Compendium[swade-core-rules.swade-rules.Reload]{装填} 3.</p>\n<p>Treat as @Compendium[swade-core-rules.swade-rules.Shotguns]{霰弹枪}.</p></div>",
+			"description": "<div class=\"swade-core\"><p>Black powder weapons are @Compendium[swade-core-rules.swade-rules.装填]{装填} 3.</p>\n<p>Treat as @Compendium[swade-core-rules.swade-rules.霰弹枪]{霰弹枪}.</p></div>",
 			"notes": "Black powder weapons are Reload 3. Treat as Shotgun.",
 			"actions": {
 				"skill": "射击",
@@ -472,17 +472,17 @@
 		},
 		"Body Armor w/Energy Skin": {
 			"name": "Body Armor w/Energy Skin",
-			"description": "<div class=\"swade-core\">\n<p>Light, armored clothing made from complex polymers or advanced ballistic weave.</p>\n<p><strong>@Compendium[swade-core-rules.swade-rules.Energy Skin]{Energy Skin}:</strong> This armor is treated with an &ldquo;energy skin&rdquo; (or skein) to diffuse energy, reducing damage from lasers by 4. This costs 50% of the armor treated and is very shiny, subtracting 2 from @Compendium[swade-core-rules.swade-skills.Stealth]{潜行} rolls based on vision.</p>\n<p><strong style=\"box-sizing: border-box; user-select: text; color: #191813; background-color: #dfe6f5;\">@Compendium[swade-core-rules.swade-rules.Ballistic Protection]{Ballistic Protection}:</strong><span style=\"color: #191813; background-color: #dfe6f5;\"> Reduces the damage from bullets by 4. &ldquo;Bullets&rdquo; includes physical shot fired from a firearm.</span></p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>Light, armored clothing made from complex polymers or advanced ballistic weave.</p>\n<p><strong>@Compendium[swade-core-rules.swade-rules.Energy Skin]{Energy Skin}:</strong> This armor is treated with an &ldquo;energy skin&rdquo; (or skein) to diffuse energy, reducing damage from lasers by 4. This costs 50% of the armor treated and is very shiny, subtracting 2 from @Compendium[swade-core-rules.swade-skills.潜行]{潜行} rolls based on vision.</p>\n<p><strong style=\"box-sizing: border-box; user-select: text; color: #191813; background-color: #dfe6f5;\">@Compendium[swade-core-rules.swade-rules.Ballistic Protection]{Ballistic Protection}:</strong><span style=\"color: #191813; background-color: #dfe6f5;\"> Reduces the damage from bullets by 4. &ldquo;Bullets&rdquo; includes physical shot fired from a firearm.</span></p>\n</div>",
 			"notes": "Light, armored clothing made from complex polymers or advanced ballistic weave."
 		},
 		"Bombproof suit": {
 			"name": "Bombproof suit",
-			"description": "<div class=\"swade-core\">\n<p>Bombproof suits aren&rsquo;t built for flexibility except in the hands, which are uncovered. @Compendium[swade-core-rules.swade-rules.Traits]{灵巧} and related skills that require more than manual dexterity cannot exceed d6 while wearing the suit, and @Compendium[swade-core-rules.swade-rules.Movement]{移速} is reduced by 2 (in addition to @Compendium[swade-core-rules.swade-rules.Minimum Strength]{最低力量} penalties).</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>Bombproof suits aren&rsquo;t built for flexibility except in the hands, which are uncovered. @Compendium[swade-core-rules.swade-rules.特性]{灵巧} and related skills that require more than manual dexterity cannot exceed d6 while wearing the suit, and @Compendium[swade-core-rules.swade-rules.移动]{移速} is reduced by 2 (in addition to @Compendium[swade-core-rules.swade-rules.最低力量]{最低力量} penalties).</p>\n</div>",
 			"notes": "Bombproof suits aren’t built for flexibility except in the hands, which are uncovered. Agility and related skills that require more than manual dexterity cannot exceed d6 while wearing the suit, and Pace is reduced by 2 (in addition to Minimum Strength penalties)."
 		},
 		"Bombs": {
 			"name": "Bombs",
-			"description": "<div class=\"swade-core\"><blockquote>\n<p>Bomb Damage: All of it.</p>\n<p>A Bomb is just an @Compendium[swade-core-rules.swade-skills.Intimidation]{威吓} @Compendium[swade-core-rules.swade-rules.Test]{考验} against everyone <em>not</em> in the affected area.</p>\n<p><cite>- Clint Black</cite></p>\n</blockquote></div>",
+			"description": "<div class=\"swade-core\"><blockquote>\n<p>Bomb Damage: All of it.</p>\n<p>A Bomb is just an @Compendium[swade-core-rules.swade-skills.威吓]{威吓} @Compendium[swade-core-rules.swade-rules.考验]{考验} against everyone <em>not</em> in the affected area.</p>\n<p><cite>- Clint Black</cite></p>\n</blockquote></div>",
 			"notes": "Acts as an Intimidation Test against everyone not in the affected area"
 		},
 		"Boots, Hiking": {
@@ -491,7 +491,7 @@
 		},
 		"Bouncing Betty": {
 			"name": "Bouncing Betty",
-			"description": "<div class=\"swade-core\">\n<p>These deadly anti-personnel mines are designed to pop up into the air and rain shrapnel down from about head-height. Only full overhead cover offers an @Compendium[swade-core-rules.swade-rules.Armor]{护甲} bonus against such devices. Simply being prone offers no protection from these deadly explosives. Use a @Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{小型爆散盖板}.</p>\n<hr />\n<p>Mines are explosives planted beneath shallow dirt that detonate in the listed blast template (see @Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{范围效果攻击}) when a person (for anti-personnel mines) or vehicle (for anti-tank mines) passes over them.</p>\n<p><strong>Minefields:</strong> For dramatic purposes, a character who steps on a mine should get a @Compendium[swade-core-rules.swade-skills.Notice]{察觉} roll. Success means she realizes it before stepping off and detonating it. Saving the victim requires a @Compendium[swade-core-rules.swade-skills.Repair]{修理} roll at &minus;4, but failure detonates the device immediately.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>These deadly anti-personnel mines are designed to pop up into the air and rain shrapnel down from about head-height. Only full overhead cover offers an @Compendium[swade-core-rules.swade-rules.护甲]{护甲} bonus against such devices. Simply being prone offers no protection from these deadly explosives. Use a @Compendium[swade-core-rules.swade-rules.范围效果攻击]{小型爆散盖板}.</p>\n<hr />\n<p>Mines are explosives planted beneath shallow dirt that detonate in the listed blast template (see @Compendium[swade-core-rules.swade-rules.范围效果攻击]{范围效果攻击}) when a person (for anti-personnel mines) or vehicle (for anti-tank mines) passes over them.</p>\n<p><strong>Minefields:</strong> For dramatic purposes, a character who steps on a mine should get a @Compendium[swade-core-rules.swade-skills.察觉]{察觉} roll. Success means she realizes it before stepping off and detonating it. Saving the victim requires a @Compendium[swade-core-rules.swade-skills.修理]{修理} roll at &minus;4, but failure detonates the device immediately.</p>\n</div>",
 			"notes": "These deadly anti-personnel mines are designed to pop up into the air and rain shrapnel down from about head-height. Only full overhead cover offers an Armor bonus against such devices. Simply being prone offers no protection from these deadly explosives.",
 			"actions": {
 				"skill": "格斗"
@@ -527,7 +527,7 @@
 		},
 		"Brown Bess or Similar Muskets": {
 			"name": "Brown Bess or Similar Muskets",
-			"description": "<div class=\"swade-core\"><p>Black powder weapons are @Compendium[swade-core-rules.swade-rules.Reload]{装填} 3.</p></div>",
+			"description": "<div class=\"swade-core\"><p>Black powder weapons are @Compendium[swade-core-rules.swade-rules.装填]{装填} 3.</p></div>",
 			"notes": "Black powder weapons are Reload 3.",
 			"actions": {
 				"skill": "射击"
@@ -535,7 +535,7 @@
 		},
 		"Browning Automatic Rifle": {
 			"name": "Browning Automatic Rifle",
-			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Rate of Fire]{射速} 1 to 3. Uses magazines (one action to @Compendium[swade-core-rules.swade-rules.Reload]{装填} instead of the usual 2).</p>\n<hr />\n<p>Machine guns are heavy, fully automatic weapons built to withstand prolonged fire. Most are fed by belts or drums and thus have far more ammo capacity than assault rifles, despite similar calibers and rates of fire.</p>\n<p><strong>Weapon Mount:</strong> Most machine-guns require a @Compendium[swade-core-rules.swade-equipment.Bipod/Tripod]{Bipod/Tripod} or vehicle mount to fire, which eliminates any Strength requirement and the @Compendium[swade-core-rules.swade-rules.Recoil]{后坐力} penalty. Their @Compendium[swade-core-rules.swade-rules.Minimum Strength]{最低力量} is listed as &ldquo;NA,&rdquo; or &ldquo;Not Applicable.&rdquo; If a weapon has a Minimum Strength listed, it may be fired from the hip with the @Compendium[swade-core-rules.swade-rules.Snapfire]{猝射} and Recoil penalties.</p>\n<p><strong>Minimum Rate of Fire:</strong> Machine-guns have a minimum @Compendium[swade-core-rules.swade-rules.Rate of Fire]{射速}&nbsp;of 2 unless otherwise noted.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.射速]{射速} 1 to 3. Uses magazines (one action to @Compendium[swade-core-rules.swade-rules.装填]{装填} instead of the usual 2).</p>\n<hr />\n<p>Machine guns are heavy, fully automatic weapons built to withstand prolonged fire. Most are fed by belts or drums and thus have far more ammo capacity than assault rifles, despite similar calibers and rates of fire.</p>\n<p><strong>Weapon Mount:</strong> Most machine-guns require a @Compendium[swade-core-rules.swade-equipment.Bipod/Tripod]{Bipod/Tripod} or vehicle mount to fire, which eliminates any Strength requirement and the @Compendium[swade-core-rules.swade-rules.后坐力]{后坐力} penalty. Their @Compendium[swade-core-rules.swade-rules.最低力量]{最低力量} is listed as &ldquo;NA,&rdquo; or &ldquo;Not Applicable.&rdquo; If a weapon has a Minimum Strength listed, it may be fired from the hip with the @Compendium[swade-core-rules.swade-rules.猝射]{猝射} and Recoil penalties.</p>\n<p><strong>Minimum Rate of Fire:</strong> Machine-guns have a minimum @Compendium[swade-core-rules.swade-rules.射速]{射速}&nbsp;of 2 unless otherwise noted.</p>\n</div>",
 			"actions": {
 				"skill": "射击",
 				"additional": {
@@ -592,12 +592,12 @@
 		},
 		"Canister Shot (Cannon)": {
 			"name": "Canister Shot (Cannon)",
-			"description": "<div class=\"swade-core\">\n<p>Grapeshot or canister is a shell that detonates inside the barrel of a cannon and fires out a spray of deadly balls or other debris like a giant shotgun. The attack is the size of a @Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{中型爆散盖板} and moves in a straight line up to 24&rdquo; (it affects [[/r d6]] targets if not using miniatures, or [[/r 2d6]] if they&rsquo;re tightly packed). Compare the @Compendium[swade-core-rules.swade-skills.Shooting]{射击} roll to every target within using a base TN of 4, adjusted for each target&rsquo;s cover, special abilities like the @Compendium[swade-core-rules.swade-edges.Dodge]{闪避} Edge, etc. A hit causes 2d6 damage and a raise causes 3d6.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>Grapeshot or canister is a shell that detonates inside the barrel of a cannon and fires out a spray of deadly balls or other debris like a giant shotgun. The attack is the size of a @Compendium[swade-core-rules.swade-rules.范围效果攻击]{中型爆散盖板} and moves in a straight line up to 24&rdquo; (it affects [[/r d6]] targets if not using miniatures, or [[/r 2d6]] if they&rsquo;re tightly packed). Compare the @Compendium[swade-core-rules.swade-skills.射击]{射击} roll to every target within using a base TN of 4, adjusted for each target&rsquo;s cover, special abilities like the @Compendium[swade-core-rules.swade-edges.闪避]{闪避} Edge, etc. A hit causes 2d6 damage and a raise causes 3d6.</p>\n</div>",
 			"notes": "24\" path, 2d6 damage, 中型爆散盖板"
 		},
 		"Cannon (12 lb), Canister": {
 			"name": "Cannon (12 lb), Canister",
-			"description": "<div class=\"swade-core\">\n<p>Cannons are used to destroy city walls or break up large troop formations. The leader of the weapon&rsquo;s crew makes the @Compendium[swade-core-rules.swade-skills.Shooting]{射击} roll.</p>\n<p><strong>Bombard:</strong> Assuming they have a rough idea of their target&rsquo;s location, howitzers, mortars, and bombards may fire at targets they cannot see by lobbing projectiles over intervening terrain or obstacles. Bombarding suffers a &minus;4 penalty in addition to all other modifiers, and doubles deviation when the @Compendium[swade-core-rules.swade-skills.Shooting]{射击}&nbsp;roll is failed (see @Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{范围效果攻击}). Reduce the penalty to &minus;2 with precise coordinates (such as from a spotter).</p>\n<p><strong>Canister:</strong> Grapeshot or canister is a shell that detonates inside the barrel of a cannon and fires out a spray of deadly balls or other debris like a giant shotgun. The attack is the size of a @Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{中型爆散盖板} and moves in a straight line up to 24&rdquo; (it affects [[/r d6]] targets if not using miniatures, or [[/r 2d6]] if they&rsquo;re tightly packed).</p>\n<p>Compare the @Compendium[swade-core-rules.swade-skills.Shooting]{射击} roll to every target within using a base TN of 4, adjusted for each target&rsquo;s @Compendium[swade-core-rules.swade-rules.Cover and Obstacles]{掩蔽}, special abilities like the @Compendium[swade-core-rules.swade-edges.Dodge]{闪避} Edge, etc. A hit causes 2d6 damage and a raise causes 3d6.</p>\n<p><strong>Note:</strong> All types of shot are a @Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{重武器}, @Compendium[swade-core-rules.swade-rules.Reload]{装填} 8. Two crew members may reload at the same time.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>Cannons are used to destroy city walls or break up large troop formations. The leader of the weapon&rsquo;s crew makes the @Compendium[swade-core-rules.swade-skills.射击]{射击} roll.</p>\n<p><strong>Bombard:</strong> Assuming they have a rough idea of their target&rsquo;s location, howitzers, mortars, and bombards may fire at targets they cannot see by lobbing projectiles over intervening terrain or obstacles. Bombarding suffers a &minus;4 penalty in addition to all other modifiers, and doubles deviation when the @Compendium[swade-core-rules.swade-skills.射击]{射击}&nbsp;roll is failed (see @Compendium[swade-core-rules.swade-rules.范围效果攻击]{范围效果攻击}). Reduce the penalty to &minus;2 with precise coordinates (such as from a spotter).</p>\n<p><strong>Canister:</strong> Grapeshot or canister is a shell that detonates inside the barrel of a cannon and fires out a spray of deadly balls or other debris like a giant shotgun. The attack is the size of a @Compendium[swade-core-rules.swade-rules.范围效果攻击]{中型爆散盖板} and moves in a straight line up to 24&rdquo; (it affects [[/r d6]] targets if not using miniatures, or [[/r 2d6]] if they&rsquo;re tightly packed).</p>\n<p>Compare the @Compendium[swade-core-rules.swade-skills.射击]{射击} roll to every target within using a base TN of 4, adjusted for each target&rsquo;s @Compendium[swade-core-rules.swade-rules.掩蔽 and Obstacles]{掩蔽}, special abilities like the @Compendium[swade-core-rules.swade-edges.闪避]{闪避} Edge, etc. A hit causes 2d6 damage and a raise causes 3d6.</p>\n<p><strong>Note:</strong> All types of shot are a @Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器}, @Compendium[swade-core-rules.swade-rules.装填]{装填} 8. Two crew members may reload at the same time.</p>\n</div>",
 			"notes": "All types of shot are Heavy Weapons, Reload 8. Two crew members may reload at the same time.",
 			"actions": {
 				"skill": "射击",
@@ -613,7 +613,7 @@
 		},
 		"Cannon (12 lb), Shrapnel": {
 			"name": "Cannon (12 lb), Shrapnel",
-			"description": "<div class=\"swade-core\">\n<p>Cannons are used to destroy city walls or break up large troop formations. The leader of the weapon&rsquo;s crew makes the @Compendium[swade-core-rules.swade-skills.Shooting]{射击} roll.</p>\n<p><strong>Bombard:</strong> Assuming they have a rough idea of their target&rsquo;s location, howitzers, mortars, and bombards may fire at targets they cannot see by lobbing projectiles over intervening terrain or obstacles. Bombarding suffers a &minus;4 penalty in addition to all other modifiers, and doubles deviation when the @Compendium[swade-core-rules.swade-skills.Shooting]{射击}&nbsp;roll is failed (see @Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{范围效果攻击}). Reduce the penalty to &minus;2 with precise coordinates (such as from a spotter).</p>\n<p><strong>Shrapnel:</strong> Explosive shells filled with small metal balls that explode outward in a shower of debris. This is an @Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{Area Effect Attack} and uses the @Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{中型爆散盖板} unless otherwise noted.</p>\n<p><strong>Note:</strong> All types of shot are a @Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{重武器}, @Compendium[swade-core-rules.swade-rules.Reload]{装填} 8. Two crew members may reload at the same time.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>Cannons are used to destroy city walls or break up large troop formations. The leader of the weapon&rsquo;s crew makes the @Compendium[swade-core-rules.swade-skills.射击]{射击} roll.</p>\n<p><strong>Bombard:</strong> Assuming they have a rough idea of their target&rsquo;s location, howitzers, mortars, and bombards may fire at targets they cannot see by lobbing projectiles over intervening terrain or obstacles. Bombarding suffers a &minus;4 penalty in addition to all other modifiers, and doubles deviation when the @Compendium[swade-core-rules.swade-skills.射击]{射击}&nbsp;roll is failed (see @Compendium[swade-core-rules.swade-rules.范围效果攻击]{范围效果攻击}). Reduce the penalty to &minus;2 with precise coordinates (such as from a spotter).</p>\n<p><strong>Shrapnel:</strong> Explosive shells filled with small metal balls that explode outward in a shower of debris. This is an @Compendium[swade-core-rules.swade-rules.范围效果攻击]{Area Effect Attack} and uses the @Compendium[swade-core-rules.swade-rules.范围效果攻击]{中型爆散盖板} unless otherwise noted.</p>\n<p><strong>Note:</strong> All types of shot are a @Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器}, @Compendium[swade-core-rules.swade-rules.装填]{装填} 8. Two crew members may reload at the same time.</p>\n</div>",
 			"notes": "All types of shot are Heavy Weapons, Reload 8. Two crew members may reload at the same time.",
 			"actions": {
 				"skill": "射击",
@@ -629,7 +629,7 @@
 		},
 		"Cannon (12 lb), Solid Shot": {
 			"name": "Cannon (12 lb), Solid Shot",
-			"description": "<div class=\"swade-core\">\n<p>Cannons are used to destroy city walls or break up large troop formations. The leader of the weapon&rsquo;s crew makes the @Compendium[swade-core-rules.swade-skills.Shooting]{射击} roll.</p>\n<p><strong>Bombard:</strong> Assuming they have a rough idea of their target&rsquo;s location, howitzers, mortars, and bombards may fire at targets they cannot see by lobbing projectiles over intervening terrain or obstacles. Bombarding suffers a &minus;4 penalty in addition to all other modifiers, and doubles deviation when the @Compendium[swade-core-rules.swade-skills.Shooting]{射击}&nbsp;roll is failed (see @Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{范围效果攻击}). Reduce the penalty to &minus;2 with precise coordinates (such as from a spotter).</p>\n<p><strong>Solid Shot:</strong> Heavy balls of iron, lead, or stone designed to batter walls or plow through packed ranks of troops. To fire, the leader of the crew makes a @Compendium[swade-core-rules.swade-skills.Shooting]{射击}&nbsp;roll as usual. If successful, roll a die. If even, it bounces to another victim behind and within 6&rdquo; of the first and hits him as well. Continue in this way until the die roll is odd.</p>\n<p><strong>Note:</strong> All types of shot are a @Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{重武器}, @Compendium[swade-core-rules.swade-rules.Reload]{装填} 8. Two crew members may reload at the same time.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>Cannons are used to destroy city walls or break up large troop formations. The leader of the weapon&rsquo;s crew makes the @Compendium[swade-core-rules.swade-skills.射击]{射击} roll.</p>\n<p><strong>Bombard:</strong> Assuming they have a rough idea of their target&rsquo;s location, howitzers, mortars, and bombards may fire at targets they cannot see by lobbing projectiles over intervening terrain or obstacles. Bombarding suffers a &minus;4 penalty in addition to all other modifiers, and doubles deviation when the @Compendium[swade-core-rules.swade-skills.射击]{射击}&nbsp;roll is failed (see @Compendium[swade-core-rules.swade-rules.范围效果攻击]{范围效果攻击}). Reduce the penalty to &minus;2 with precise coordinates (such as from a spotter).</p>\n<p><strong>Solid Shot:</strong> Heavy balls of iron, lead, or stone designed to batter walls or plow through packed ranks of troops. To fire, the leader of the crew makes a @Compendium[swade-core-rules.swade-skills.射击]{射击}&nbsp;roll as usual. If successful, roll a die. If even, it bounces to another victim behind and within 6&rdquo; of the first and hits him as well. Continue in this way until the die roll is odd.</p>\n<p><strong>Note:</strong> All types of shot are a @Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器}, @Compendium[swade-core-rules.swade-rules.装填]{装填} 8. Two crew members may reload at the same time.</p>\n</div>",
 			"notes": "All types of shot are Heavy Weapons, Reload 8. Two crew members may reload at the same time.",
 			"actions": {
 				"skill": "射击",
@@ -657,7 +657,7 @@
 		},
 		"Catapult": {
 			"name": "Catapult",
-			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{中型爆散盖板}, @Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{重武器}, @Compendium[swade-core-rules.swade-rules.Reload]{装填} time is every 5 minutes with a crew of 4.</p>\n<hr />\n<p>Catapults are simple devices that hurl large stones at enemy defenses or ranks of troops. They normally require a crew of eight to load the projectile, crank down the lever that propels it, then sight and aim it. Firing can be done by a single person, but loading the projectile takes at least four.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.范围效果攻击]{中型爆散盖板}, @Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器}, @Compendium[swade-core-rules.swade-rules.装填]{装填} time is every 5 minutes with a crew of 4.</p>\n<hr />\n<p>Catapults are simple devices that hurl large stones at enemy defenses or ranks of troops. They normally require a crew of eight to load the projectile, crank down the lever that propels it, then sight and aim it. Firing can be done by a single person, but loading the projectile takes at least four.</p>\n</div>",
 			"notes": "中型爆散盖板, Heavy Weapon, Reload time is every 5 minutes with a crew of 4.",
 			"actions": {
 				"skill": "射击"
@@ -673,7 +673,7 @@
 		},
 		"Chainsaw": {
 			"name": "Chainsaw",
-			"description": "<div class=\"swade-core\"><p>@Compendium[swade-core-rules.swade-rules.Trait Rolls]{Critical Failure} hits the user</p></div>",
+			"description": "<div class=\"swade-core\"><p>@Compendium[swade-core-rules.swade-rules.特性投骰]{Critical Failure} hits the user</p></div>",
 			"notes": "Critical Failure hits the user",
 			"actions": {
 				"skill": "格斗"
@@ -681,7 +681,7 @@
 		},
 		"Claymore Mine": {
 			"name": "Claymore Mine",
-			"description": "<div class=\"swade-core\">\n<p>Claymores fire a spray of deadly steel balls in a 60&deg; frontal arc. Everyone within 12&Prime; (24 yards) is automatically hit. Roll a die for all other targets up to 50&Prime; (100 yards). Those who get an odd result are also hit. @Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{Special Area Effect Damage}.</p>\n<hr />\n<p>Mines are explosives planted beneath shallow dirt that detonate in the listed blast template (see @Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{范围效果攻击}) when a person (for anti-personnel mines) or vehicle (for anti-tank mines) passes over them.</p>\n<p><strong>Minefields:</strong> For dramatic purposes, a character who steps on a mine should get a @Compendium[swade-core-rules.swade-skills.Notice]{察觉} roll. Success means she realizes it before stepping off and detonating it. Saving the victim requires a @Compendium[swade-core-rules.swade-skills.Repair]{修理} roll at &minus;4, but failure detonates the device immediately.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>Claymores fire a spray of deadly steel balls in a 60&deg; frontal arc. Everyone within 12&Prime; (24 yards) is automatically hit. Roll a die for all other targets up to 50&Prime; (100 yards). Those who get an odd result are also hit. @Compendium[swade-core-rules.swade-rules.范围效果攻击]{Special Area Effect Damage}.</p>\n<hr />\n<p>Mines are explosives planted beneath shallow dirt that detonate in the listed blast template (see @Compendium[swade-core-rules.swade-rules.范围效果攻击]{范围效果攻击}) when a person (for anti-personnel mines) or vehicle (for anti-tank mines) passes over them.</p>\n<p><strong>Minefields:</strong> For dramatic purposes, a character who steps on a mine should get a @Compendium[swade-core-rules.swade-skills.察觉]{察觉} roll. Success means she realizes it before stepping off and detonating it. Saving the victim requires a @Compendium[swade-core-rules.swade-skills.修理]{修理} roll at &minus;4, but failure detonates the device immediately.</p>\n</div>",
 			"notes": "Claymores fire a spray of deadly steel balls in a 60° frontal arc. Everyone within 12″ (24 yards) is automatically hit. Roll a die for all other targets up to 50″ (100 yards). Those who get an odd result are also hit.",
 			"actions": {
 				"skill": "格斗"
@@ -765,7 +765,7 @@
 		},
 		"Crossbow, Heavy": {
 			"name": "Crossbow, Heavy",
-			"description": "<div class=\"swade-core\"><p>Requires a windlass to load. @Compendium[swade-core-rules.swade-rules.Reload]{装填} 2.</p></div>",
+			"description": "<div class=\"swade-core\"><p>Requires a windlass to load. @Compendium[swade-core-rules.swade-rules.装填]{装填} 2.</p></div>",
 			"notes": "Requires a windlass to load. Reload 2",
 			"actions": {
 				"skill": "射击"
@@ -801,7 +801,7 @@
 		},
 		"Derringer": {
 			"name": "Derringer",
-			"description": "<div class=\"swade-core\">\n<p>Revolvers typically have six chambers that must be reloaded one bullet at a time, though separate cylinders called &ldquo;speed loaders&rdquo; are also available for more modern firearms for about 10% of the weapon&rsquo;s cost.</p>\n<p>&minus;2 to be @Compendium[swade-core-rules.swade-skills.Notice]{察觉} if hidden.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>Revolvers typically have six chambers that must be reloaded one bullet at a time, though separate cylinders called &ldquo;speed loaders&rdquo; are also available for more modern firearms for about 10% of the weapon&rsquo;s cost.</p>\n<p>&minus;2 to be @Compendium[swade-core-rules.swade-skills.察觉]{察觉} if hidden.</p>\n</div>",
 			"actions": {
 				"skill": "射击"
 			}
@@ -815,7 +815,7 @@
 		},
 		"Double-Barrel Shotgun": {
 			"name": "Double-Barrel Shotgun",
-			"description": "<div class=\"swade-core\"><p>@Compendium[swade-core-rules.swade-rules.Shotguns]{霰弹枪} fire a spread of pellets (called &ldquo;shot&rdquo; or &ldquo;buckshot&rdquo;) to increase the shooter&rsquo;s chance of hitting his target. Up close, the blast can be devastating.</p></div>",
+			"description": "<div class=\"swade-core\"><p>@Compendium[swade-core-rules.swade-rules.霰弹枪]{霰弹枪} fire a spread of pellets (called &ldquo;shot&rdquo; or &ldquo;buckshot&rdquo;) to increase the shooter&rsquo;s chance of hitting his target. Up close, the blast can be devastating.</p></div>",
 			"actions": {
 				"skill": "射击",
 				"additional": {
@@ -862,11 +862,11 @@
 		},
 		"First Aid Kit": {
 			"name": "First Aid Kit",
-			"description": "<div class=\"swade-core\">\n<p>Three uses, see @Compendium[swade-core-rules.swade-rules.Healing]{医疗}.</p>\n</div>"
+			"description": "<div class=\"swade-core\">\n<p>Three uses, see @Compendium[swade-core-rules.swade-rules.医疗]{医疗}.</p>\n</div>"
 		},
 		"Flail": {
 			"name": "Flail",
-			"description": "<div class=\"swade-core\">\n<p>Ignores @Compendium[swade-core-rules.swade-rules.Shields]{盾牌}&nbsp;bonus</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>Ignores @Compendium[swade-core-rules.swade-rules.盾牌]{盾牌}&nbsp;bonus</p>\n</div>",
 			"notes": "Ignores shield bonus",
 			"actions": {
 				"skill": "格斗"
@@ -878,7 +878,7 @@
 		},
 		"Flamethrower": {
 			"name": "Flamethrower",
-			"description": "<div class=\"swade-core\">\n<p>Flamethrowers propel incendiary liquid or gas to incinerate their targets. They are @Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapons}, use the @Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{锥形盖板}, and may be @Compendium[swade-core-rules.swade-rules.Evasion]{规避}.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Armor]{护甲} protects normally, but flammable targets may @Compendium[swade-core-rules.swade-rules.Fire]{catch fire}.</p>\n<p>For vehicular flamethrowers, see @Compendium[swade-core-rules.swade-equipment.Heavy Flamethrower]{Heavy Flamethrower}.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>Flamethrowers propel incendiary liquid or gas to incinerate their targets. They are @Compendium[swade-core-rules.swade-rules.重武器 (HW)]{Heavy Weapons}, use the @Compendium[swade-core-rules.swade-rules.范围效果攻击]{锥形盖板}, and may be @Compendium[swade-core-rules.swade-rules.回避]{规避}.</p>\n<p>@Compendium[swade-core-rules.swade-rules.护甲]{护甲} protects normally, but flammable targets may @Compendium[swade-core-rules.swade-rules.火焰]{catch fire}.</p>\n<p>For vehicular flamethrowers, see @Compendium[swade-core-rules.swade-equipment.Heavy Flamethrower]{Heavy Flamethrower}.</p>\n</div>",
 			"actions": {
 				"skill": "射击"
 			}
@@ -897,7 +897,7 @@
 		},
 		"Flintlock Pistol": {
 			"name": "Flintlock Pistol",
-			"description": "<div class=\"swade-core\"><p>Black powder weapons are @Compendium[swade-core-rules.swade-rules.Reload]{装填} 3.</p></div>",
+			"description": "<div class=\"swade-core\"><p>Black powder weapons are @Compendium[swade-core-rules.swade-rules.装填]{装填} 3.</p></div>",
 			"notes": "Black powder weapons are Reload 3.",
 			"actions": {
 				"skill": "射击"
@@ -909,7 +909,7 @@
 		},
 		"Gatling": {
 			"name": "Gatling",
-			"description": "<div class=\"swade-core\"><p>Machine guns are heavy, fully automatic weapons built to withstand prolonged fire. Most are fed by belts or drums and thus have far more ammo capacity than assault rifles, despite similar calibers and rates of fire.</p>\n<p><strong>Weapon Mount:</strong> Most machine-guns require a @Compendium[swade-core-rules.swade-equipment.Bipod/Tripod]{Bipod/Tripod} or vehicle mount to fire, which eliminates any Strength requirement and the @Compendium[swade-core-rules.swade-rules.Recoil]{后坐力} penalty. Their @Compendium[swade-core-rules.swade-rules.Minimum Strength]{最低力量} is listed as &ldquo;NA,&rdquo; or &ldquo;Not Applicable.&rdquo; If a weapon has a Minimum Strength listed, it may be fired from the hip with the @Compendium[swade-core-rules.swade-rules.Snapfire]{猝射} and Recoil penalties.</p>\n<p><strong>Minimum Rate of Fire:</strong> Machine-guns have a minimum @Compendium[swade-core-rules.swade-rules.Rate of Fire]{射速} of 2 unless otherwise noted.</p>\n<p><strong>Reloading:</strong> Machine guns are&nbsp;@Compendium[swade-core-rules.swade-rules.Reload]{装填}&nbsp;2, which includes changing belts or drums, cocking, etc.</p></div>",
+			"description": "<div class=\"swade-core\"><p>Machine guns are heavy, fully automatic weapons built to withstand prolonged fire. Most are fed by belts or drums and thus have far more ammo capacity than assault rifles, despite similar calibers and rates of fire.</p>\n<p><strong>Weapon Mount:</strong> Most machine-guns require a @Compendium[swade-core-rules.swade-equipment.Bipod/Tripod]{Bipod/Tripod} or vehicle mount to fire, which eliminates any Strength requirement and the @Compendium[swade-core-rules.swade-rules.后坐力]{后坐力} penalty. Their @Compendium[swade-core-rules.swade-rules.最低力量]{最低力量} is listed as &ldquo;NA,&rdquo; or &ldquo;Not Applicable.&rdquo; If a weapon has a Minimum Strength listed, it may be fired from the hip with the @Compendium[swade-core-rules.swade-rules.猝射]{猝射} and Recoil penalties.</p>\n<p><strong>Minimum Rate of Fire:</strong> Machine-guns have a minimum @Compendium[swade-core-rules.swade-rules.射速]{射速} of 2 unless otherwise noted.</p>\n<p><strong>Reloading:</strong> Machine guns are&nbsp;@Compendium[swade-core-rules.swade-rules.装填]{装填}&nbsp;2, which includes changing belts or drums, cocking, etc.</p></div>",
 			"notes": ".45",
 			"actions": {
 				"skill": "射击",
@@ -925,7 +925,7 @@
 		},
 		"Gatling (Laser)": {
 			"name": "Gatling (Laser)",
-			"description": "<div class=\"swade-core\">\n<p>Lasers fire intensely focused beams of light to penetrate and burn their targets.</p>\n<p><strong>Cauterize:</strong> Anyone Incapacitated by a laser blast adds +2 to his @Compendium[swade-core-rules.swade-rules.Traits]{活力} rolls to keep from @Compendium[swade-core-rules.swade-rules.Damage Effects]{失血}.</p>\n<p><strong>Overcharge:</strong>&nbsp;This weapon can overcharge to cause an extra d6 damage, but if any of the @Compendium[swade-core-rules.swade-skills.Shooting]{射击} dice are a 1, the weapon must cool down for a full round before it can be fired again.</p>\n<p><strong>No Recoil:</strong> Pistols, SMGs, and rifles ignore the @Compendium[swade-core-rules.swade-rules.Recoil]{后坐力} penalty. Gatling lasers still take the penalty, however, which is why they&rsquo;re usually mounted on a @Compendium[swade-core-rules.swade-equipment.Bipod/Tripod]{三脚架}.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>Lasers fire intensely focused beams of light to penetrate and burn their targets.</p>\n<p><strong>Cauterize:</strong> Anyone Incapacitated by a laser blast adds +2 to his @Compendium[swade-core-rules.swade-rules.特性]{活力} rolls to keep from @Compendium[swade-core-rules.swade-rules.伤害效果]{失血}.</p>\n<p><strong>Overcharge:</strong>&nbsp;This weapon can overcharge to cause an extra d6 damage, but if any of the @Compendium[swade-core-rules.swade-skills.射击]{射击} dice are a 1, the weapon must cool down for a full round before it can be fired again.</p>\n<p><strong>No Recoil:</strong> Pistols, SMGs, and rifles ignore the @Compendium[swade-core-rules.swade-rules.后坐力]{后坐力} penalty. Gatling lasers still take the penalty, however, which is why they&rsquo;re usually mounted on a @Compendium[swade-core-rules.swade-equipment.Bipod/Tripod]{三脚架}.</p>\n</div>",
 			"notes": "No Recoil, Overcharge, Cauterize",
 			"actions": {
 				"skill": "射击",
@@ -1004,7 +1004,7 @@
 		},
 		"Halberd": {
 			"name": "Halberd",
-			"description": "<div class=\"swade-core\"><p>@Compendium[swade-core-rules.swade-rules.Reach]{触及} 1, two hands</p></div>",
+			"description": "<div class=\"swade-core\"><p>@Compendium[swade-core-rules.swade-rules.触及]{触及} 1, two hands</p></div>",
 			"notes": "Reach 1, two hands",
 			"actions": {
 				"skill": "格斗",
@@ -1025,7 +1025,7 @@
 		},
 		"Heavy Flamethrower": {
 			"name": "Heavy Flamethrower",
-			"description": "<div class=\"swade-core\">\n<p>Vehicular flamethrowers have longer ranges than personal devices. The wielder can use the @Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{锥形盖板} or arc a blast the size of a @Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{中型爆散盖板} up to 18&rdquo; (36 yards) distant. (Use the center of the template for the Range.) This shot can @Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{偏移}.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>Vehicular flamethrowers have longer ranges than personal devices. The wielder can use the @Compendium[swade-core-rules.swade-rules.范围效果攻击]{锥形盖板} or arc a blast the size of a @Compendium[swade-core-rules.swade-rules.范围效果攻击]{中型爆散盖板} up to 18&rdquo; (36 yards) distant. (Use the center of the template for the Range.) This shot can @Compendium[swade-core-rules.swade-rules.范围效果攻击]{偏移}.</p>\n</div>",
 			"actions": {
 				"skill": "射击"
 			}
@@ -1036,12 +1036,12 @@
 		},
 		"Heavy Helm, Enclosed": {
 			"name": "Heavy Helm, Enclosed",
-			"description": "<div class=\"swade-core\">\n<p>Heavy steel armor made with &ldquo;plates&rdquo; of metal.</p>\n<p>&ndash;1 to vision-based @Compendium[swade-core-rules.swade-skills.Notice]{察觉} rolls.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>Heavy steel armor made with &ldquo;plates&rdquo; of metal.</p>\n<p>&ndash;1 to vision-based @Compendium[swade-core-rules.swade-skills.察觉]{察觉} rolls.</p>\n</div>",
 			"notes": "–1 to vision-based Notice rolls."
 		},
 		"Heavy Laser": {
 			"name": "Heavy Laser",
-			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{Heavy Weapon (HW)}</p>\n</div>",
 			"notes": "重武器",
 			"actions": {
 				"skill": "射击"
@@ -1049,7 +1049,7 @@
 		},
 		"Heavy Machine Gun": {
 			"name": "Heavy Machine Gun",
-			"description": "<div class=\"swade-core\"><p><strong>Minimum Rate of Fire:</strong>&nbsp;Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.Rate of Fire]{射速} 3 or higher have a minimum Rate of Fire of 2.</p></div>",
+			"description": "<div class=\"swade-core\"><p><strong>Minimum Rate of Fire:</strong>&nbsp;Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.射速]{射速} 3 or higher have a minimum Rate of Fire of 2.</p></div>",
 			"notes": "重武器",
 			"actions": {
 				"skill": "射击",
@@ -1065,7 +1065,7 @@
 		},
 		"Hellfire": {
 			"name": "Hellfire",
-			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{重武器}. A laser-guided missile fired from a vehicle-mounted launcher. @Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{中型爆散盖板}.</p>\n<hr />\n<p>Unless otherwise noted, missiles must &ldquo;lock&rdquo; onto their targets before they can be fired. This action is an opposed @Compendium[swade-core-rules.swade-skills.Electronics]{电子学} roll versus the target&rsquo;s maneuvering skill (@Compendium[swade-core-rules.swade-skills.Boating]{驾船}, @Compendium[swade-core-rules.swade-skills.Driving]{驾驶}, or @Compendium[swade-core-rules.swade-skills.Piloting]{航空}, as appropriate). Success gives the attacker a &ldquo;short&rdquo; lock and allows him to fire up to half the missiles his particular craft can fire at once. A raise is a more solid lock and allows him to fire all of them.</p>\n<p>The enemy attempts to evade each missile separately by making a maneuvering roll at &minus;4 (or &minus;2 if the target has substantial cover to hide behind&mdash;such as asteroids, skyscrapers, canyon walls, or even large enemy ships. A @Compendium[swade-core-rules.swade-rules.Trait Rolls]{Critical Failure} means the craft goes @Compendium[swade-core-rules.swade-tables.Out of Control]{失控}.</p>\n<p><strong>Anti-Missile Systems:</strong> Warships and futuristic space vessels often have &ldquo;point defense&rdquo; systems to shoot down incoming missiles. Operators must be on @Compendium[swade-core-rules.swade-rules.Hold]{待机} to shoot down missiles; automated systems attack automatically. The system grants a single @Compendium[swade-core-rules.swade-skills.Shooting]{射击} roll per missile at Short @Compendium[swade-core-rules.swade-rules.Range]{射程} and any other relevant modifiers (including @Compendium[swade-core-rules.swade-rules.Speed]{速度}&mdash;missiles move at Mach 1, a &minus;6 penalty, unless otherwise noted). Unless otherwise noted, missiles are objects with a @Compendium[swade-core-rules.swade-rules.Breaking Things]{坚韧} of 8 (2).</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器}. A laser-guided missile fired from a vehicle-mounted launcher. @Compendium[swade-core-rules.swade-rules.范围效果攻击]{中型爆散盖板}.</p>\n<hr />\n<p>Unless otherwise noted, missiles must &ldquo;lock&rdquo; onto their targets before they can be fired. This action is an opposed @Compendium[swade-core-rules.swade-skills.电子学]{电子学} roll versus the target&rsquo;s maneuvering skill (@Compendium[swade-core-rules.swade-skills.驾船]{驾船}, @Compendium[swade-core-rules.swade-skills.驾驶]{驾驶}, or @Compendium[swade-core-rules.swade-skills.航空]{航空}, as appropriate). Success gives the attacker a &ldquo;short&rdquo; lock and allows him to fire up to half the missiles his particular craft can fire at once. A raise is a more solid lock and allows him to fire all of them.</p>\n<p>The enemy attempts to evade each missile separately by making a maneuvering roll at &minus;4 (or &minus;2 if the target has substantial cover to hide behind&mdash;such as asteroids, skyscrapers, canyon walls, or even large enemy ships. A @Compendium[swade-core-rules.swade-rules.特性投骰]{Critical Failure} means the craft goes @Compendium[swade-core-rules.swade-tables.失控]{失控}.</p>\n<p><strong>Anti-Missile Systems:</strong> Warships and futuristic space vessels often have &ldquo;point defense&rdquo; systems to shoot down incoming missiles. Operators must be on @Compendium[swade-core-rules.swade-rules.待机]{待机} to shoot down missiles; automated systems attack automatically. The system grants a single @Compendium[swade-core-rules.swade-skills.射击]{射击} roll per missile at Short @Compendium[swade-core-rules.swade-rules.射程]{射程} and any other relevant modifiers (including @Compendium[swade-core-rules.swade-rules.速度]{速度}&mdash;missiles move at Mach 1, a &minus;6 penalty, unless otherwise noted). Unless otherwise noted, missiles are objects with a @Compendium[swade-core-rules.swade-rules.破坏物品]{坚韧} of 8 (2).</p>\n</div>",
 			"notes": "重武器 A laser-guided missile fired from a vehicle-mounted launcher.",
 			"actions": {
 				"skill": "射击"
@@ -1077,7 +1077,7 @@
 		},
 		"Hunting Rifle": {
 			"name": "Hunting Rifle",
-			"description": "<div class=\"swade-core\"><p>@Compendium[swade-core-rules.swade-rules.Snapfire]{猝射}</p>\n<hr />\n<p>Additional magazines or clips cost 10% of the rifle and weigh 1 lb each.</p></div>",
+			"description": "<div class=\"swade-core\"><p>@Compendium[swade-core-rules.swade-rules.猝射]{猝射}</p>\n<hr />\n<p>Additional magazines or clips cost 10% of the rifle and weigh 1 lb each.</p></div>",
 			"actions": {
 				"skill": "射击",
 				"additional": {
@@ -1093,7 +1093,7 @@
 		},
 		"Infantry Battle Suit w/ Energy Skin": {
 			"name": "Infantry Battle Suit w/ Energy Skin",
-			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Armor]{护甲} used by private or state armed forces.</p>\n<p>A full suit of armor with boots and gloves.</p>\n<p><strong>@Compendium[swade-core-rules.swade-rules.Energy Skin]{Energy Skin}:</strong> This armor is treated with an &ldquo;energy skin&rdquo; (or skein) to diffuse energy, reducing damage from lasers by 4. This costs 50% of the armor treated and is very shiny, subtracting 2 from @Compendium[swade-core-rules.swade-skills.Stealth]{潜行} rolls based on vision.</p>\n<p><strong style=\"box-sizing: border-box; user-select: text; color: #191813; background-color: #dfe6f5;\">@Compendium[swade-core-rules.swade-rules.Ballistic Protection]{Ballistic Protection}:</strong><span style=\"color: #191813; background-color: #dfe6f5;\"> Reduces the damage from bullets by 4. &ldquo;Bullets&rdquo; includes physical shot fired from a firearm.</span></p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.护甲]{护甲} used by private or state armed forces.</p>\n<p>A full suit of armor with boots and gloves.</p>\n<p><strong>@Compendium[swade-core-rules.swade-rules.Energy Skin]{Energy Skin}:</strong> This armor is treated with an &ldquo;energy skin&rdquo; (or skein) to diffuse energy, reducing damage from lasers by 4. This costs 50% of the armor treated and is very shiny, subtracting 2 from @Compendium[swade-core-rules.swade-skills.潜行]{潜行} rolls based on vision.</p>\n<p><strong style=\"box-sizing: border-box; user-select: text; color: #191813; background-color: #dfe6f5;\">@Compendium[swade-core-rules.swade-rules.Ballistic Protection]{Ballistic Protection}:</strong><span style=\"color: #191813; background-color: #dfe6f5;\"> Reduces the damage from bullets by 4. &ldquo;Bullets&rdquo; includes physical shot fired from a firearm.</span></p>\n</div>",
 			"notes": "A full suit of armor with boots and gloves."
 		},
 		"Jacket (Cloth/Light Leather)": {
@@ -1119,7 +1119,7 @@
 		},
 		"Kentucky Rifle": {
 			"name": "Kentucky Rifle",
-			"description": "<div class=\"swade-core\"><p>@Compendium[swade-core-rules.swade-rules.Reload]{装填} 4. The tight rifling requires four actions to reload instead of the usual three.</p></div>",
+			"description": "<div class=\"swade-core\"><p>@Compendium[swade-core-rules.swade-rules.装填]{装填} 4. The tight rifling requires four actions to reload instead of the usual three.</p></div>",
 			"notes": "Reload 4. The tight rifling requires four actions to reload instead of the usual three.",
 			"actions": {
 				"skill": "射击"
@@ -1147,7 +1147,7 @@
 		},
 		"Lance": {
 			"name": "Lance",
-			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Armor Piercing (AP)]{穿甲} 2 when charging, @Compendium[swade-core-rules.swade-rules.Reach]{触及} 2, only usable in @Compendium[swade-core-rules.swade-rules.Mounted Combat]{骑乘战斗}</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.护甲 Piercing (AP)]{穿甲} 2 when charging, @Compendium[swade-core-rules.swade-rules.触及]{触及} 2, only usable in @Compendium[swade-core-rules.swade-rules.骑乘战斗]{骑乘战斗}</p>\n</div>",
 			"notes": "AP 2 when charging, Reach 2, only usable in mounted combat",
 			"actions": {
 				"skill": "格斗"
@@ -1159,7 +1159,7 @@
 		},
 		"Large Shield": {
 			"name": "Large Shield",
-			"description": "<div class=\"swade-core\">\n<p>Shields add to a character&rsquo;s @Compendium[swade-core-rules.swade-rules.Characters]{格挡} as shown in the Parry rating. @Compendium[swade-core-rules.swade-rules.Cover and Obstacles]{掩蔽} subtracts from ranged attacks from the front and shielded side (attacks from the rear or unprotected side ignore cover).</p>\n<hr />\n<p>Medieval shields are @Compendium[swade-core-rules.swade-rules.Breaking Things]{硬度} 10 and provide +2 @Compendium[swade-core-rules.swade-rules.Armor]{护甲} should someone attempt to shoot through them (see @Compendium[swade-core-rules.swade-rules.Cover and Obstacles]{障碍}).</p>\n<p>While worn, shields can be used to bash for Str+d4 damage.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>Shields add to a character&rsquo;s @Compendium[swade-core-rules.swade-rules.角色]{格挡} as shown in the Parry rating. @Compendium[swade-core-rules.swade-rules.掩蔽 and Obstacles]{掩蔽} subtracts from ranged attacks from the front and shielded side (attacks from the rear or unprotected side ignore cover).</p>\n<hr />\n<p>Medieval shields are @Compendium[swade-core-rules.swade-rules.破坏物品]{硬度} 10 and provide +2 @Compendium[swade-core-rules.swade-rules.护甲]{护甲} should someone attempt to shoot through them (see @Compendium[swade-core-rules.swade-rules.掩蔽 and Obstacles]{障碍}).</p>\n<p>While worn, shields can be used to bash for Str+d4 damage.</p>\n</div>",
 			"actions": {
 				"skill": "格斗",
 				"additional": {
@@ -1190,7 +1190,7 @@
 		},
 		"Laser/Red Dot Sight": {
 			"name": "Laser/Red Dot Sight",
-			"description": "<div class=\"swade-core\">\n<p>+1 to @Compendium[swade-core-rules.swade-skills.Shooting]{射击} at Short and Medium @Compendium[swade-core-rules.swade-rules.Range]{射程}.</p>\n</div>"
+			"description": "<div class=\"swade-core\">\n<p>+1 to @Compendium[swade-core-rules.swade-skills.射击]{射击} at Short and Medium @Compendium[swade-core-rules.swade-rules.射程]{射程}.</p>\n</div>"
 		},
 		"Leather Riding Chaps": {
 			"name": "Leather Riding Chaps",
@@ -1214,7 +1214,7 @@
 		},
 		"Lineman's Telephone": {
 			"name": "Lineman's Telephone",
-			"description": "<div class=\"swade-core\"><p>@Compendium[swade-core-rules.swade-skills.Repair]{修理} roll to tap into a phone line.</p></div>"
+			"description": "<div class=\"swade-core\"><p>@Compendium[swade-core-rules.swade-skills.修理]{修理} roll to tap into a phone line.</p></div>"
 		},
 		"Lockpicks": {
 			"name": "Lockpicks",
@@ -1229,7 +1229,7 @@
 		},
 		"M-16": {
 			"name": "M-16",
-			"description": "<div class=\"swade-core\"><p>The A-2 version can also fire a @Compendium[swade-core-rules.swade-rules.Three-Round Burst]{三连发}.</p>\n<hr />\n<p>Additional magazines or clips cost 10% of the rifle and weigh 1 lb each.</p></div>",
+			"description": "<div class=\"swade-core\"><p>The A-2 version can also fire a @Compendium[swade-core-rules.swade-rules.三连发]{三连发}.</p>\n<hr />\n<p>Additional magazines or clips cost 10% of the rifle and weigh 1 lb each.</p></div>",
 			"notes": "5.56mm",
 			"actions": {
 				"skill": "射击",
@@ -1255,7 +1255,7 @@
 		},
 		"M2 Browning": {
 			"name": "M2 Browning",
-			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{重武器}</p>\n<hr />\n<p>Machine guns are heavy, fully automatic weapons built to withstand prolonged fire. Most are fed by belts or drums and thus have far more ammo capacity than assault rifles, despite similar calibers and rates of fire.</p>\n<p><strong>Weapon Mount:</strong>&nbsp;Most machine-guns require a @Compendium[swade-core-rules.swade-equipment.Bipod/Tripod]{Bipod/Tripod} or vehicle mount to fire, which eliminates any Strength requirement and the @Compendium[swade-core-rules.swade-rules.Recoil]{后坐力} penalty. Their @Compendium[swade-core-rules.swade-rules.Minimum Strength]{最低力量} is listed as &ldquo;NA,&rdquo; or &ldquo;Not Applicable.&rdquo; If a weapon has a Minimum Strength listed, it may be fired from the hip with the @Compendium[swade-core-rules.swade-rules.Snapfire]{猝射} and Recoil penalties.</p>\n<p><strong>Minimum Rate of Fire:</strong>&nbsp;Machine-guns have a minimum @Compendium[swade-core-rules.swade-rules.Rate of Fire]{射速} of 2 unless otherwise noted.</p>\n<p><strong>Reloading:</strong>&nbsp;Machine guns are @Compendium[swade-core-rules.swade-rules.Reload]{装填} 2, which includes changing belts or drums, cocking, etc.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器}</p>\n<hr />\n<p>Machine guns are heavy, fully automatic weapons built to withstand prolonged fire. Most are fed by belts or drums and thus have far more ammo capacity than assault rifles, despite similar calibers and rates of fire.</p>\n<p><strong>Weapon Mount:</strong>&nbsp;Most machine-guns require a @Compendium[swade-core-rules.swade-equipment.Bipod/Tripod]{Bipod/Tripod} or vehicle mount to fire, which eliminates any Strength requirement and the @Compendium[swade-core-rules.swade-rules.后坐力]{后坐力} penalty. Their @Compendium[swade-core-rules.swade-rules.最低力量]{最低力量} is listed as &ldquo;NA,&rdquo; or &ldquo;Not Applicable.&rdquo; If a weapon has a Minimum Strength listed, it may be fired from the hip with the @Compendium[swade-core-rules.swade-rules.猝射]{猝射} and Recoil penalties.</p>\n<p><strong>Minimum Rate of Fire:</strong>&nbsp;Machine-guns have a minimum @Compendium[swade-core-rules.swade-rules.射速]{射速} of 2 unless otherwise noted.</p>\n<p><strong>Reloading:</strong>&nbsp;Machine guns are @Compendium[swade-core-rules.swade-rules.装填]{装填} 2, which includes changing belts or drums, cocking, etc.</p>\n</div>",
 			"actions": {
 				"skill": "射击",
 				"additional": {
@@ -1270,7 +1270,7 @@
 		},
 		"M203 40MM": {
 			"name": "M203 40MM",
-			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Snapfire]{猝射}. A grenade launcher mounted on the bottom of an assault rifle. @Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{中型爆散盖板}.</p>\n<hr />\n<p>Rocket launchers and early torpedoes are direct-fire weapons that explode on contact with their target. @Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{重武器}.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.猝射]{猝射}. A grenade launcher mounted on the bottom of an assault rifle. @Compendium[swade-core-rules.swade-rules.范围效果攻击]{中型爆散盖板}.</p>\n<hr />\n<p>Rocket launchers and early torpedoes are direct-fire weapons that explode on contact with their target. @Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器}.</p>\n</div>",
 			"notes": "中型爆散盖板, Snapfire. A grenade launcher mounted on the bottom of an assault rifle.",
 			"actions": {
 				"skill": "射击"
@@ -1278,7 +1278,7 @@
 		},
 		"M60": {
 			"name": "M60",
-			"description": "<div class=\"swade-core\"><p>Machine guns are heavy, fully automatic weapons built to withstand prolonged fire. Most are fed by belts or drums and thus have far more ammo capacity than assault rifles, despite similar calibers and rates of fire.</p>\n<p><strong>Weapon Mount:</strong>&nbsp;Most machine-guns require a @Compendium[swade-core-rules.swade-equipment.Bipod/Tripod]{Bipod/Tripod} or vehicle mount to fire, which eliminates any Strength requirement and the @Compendium[swade-core-rules.swade-rules.Recoil]{后坐力} penalty. Their @Compendium[swade-core-rules.swade-rules.Minimum Strength]{最低力量} is listed as &ldquo;NA,&rdquo; or &ldquo;Not Applicable.&rdquo; If a weapon has a Minimum Strength listed, it may be fired from the hip with the @Compendium[swade-core-rules.swade-rules.Snapfire]{猝射} and Recoil penalties.</p>\n<p><strong>Minimum Rate of Fire:</strong>&nbsp;Machine-guns have a minimum @Compendium[swade-core-rules.swade-rules.Rate of Fire]{射速} of 2 unless otherwise noted.</p>\n<p><strong>Reloading:</strong>&nbsp;Machine guns are @Compendium[swade-core-rules.swade-rules.Reload]{装填} 2, which includes changing belts or drums, cocking, etc.</p></div>",
+			"description": "<div class=\"swade-core\"><p>Machine guns are heavy, fully automatic weapons built to withstand prolonged fire. Most are fed by belts or drums and thus have far more ammo capacity than assault rifles, despite similar calibers and rates of fire.</p>\n<p><strong>Weapon Mount:</strong>&nbsp;Most machine-guns require a @Compendium[swade-core-rules.swade-equipment.Bipod/Tripod]{Bipod/Tripod} or vehicle mount to fire, which eliminates any Strength requirement and the @Compendium[swade-core-rules.swade-rules.后坐力]{后坐力} penalty. Their @Compendium[swade-core-rules.swade-rules.最低力量]{最低力量} is listed as &ldquo;NA,&rdquo; or &ldquo;Not Applicable.&rdquo; If a weapon has a Minimum Strength listed, it may be fired from the hip with the @Compendium[swade-core-rules.swade-rules.猝射]{猝射} and Recoil penalties.</p>\n<p><strong>Minimum Rate of Fire:</strong>&nbsp;Machine-guns have a minimum @Compendium[swade-core-rules.swade-rules.射速]{射速} of 2 unless otherwise noted.</p>\n<p><strong>Reloading:</strong>&nbsp;Machine guns are @Compendium[swade-core-rules.swade-rules.装填]{装填} 2, which includes changing belts or drums, cocking, etc.</p></div>",
 			"actions": {
 				"skill": "射击",
 				"additional": {
@@ -1299,7 +1299,7 @@
 		},
 		"M72 Law": {
 			"name": "M72 Law",
-			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Snapfire]{猝射}. The standard American anti-tank weapon in Vietnam. @Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{中型爆散盖板}.</p>\n<hr />\n<p>Rocket launchers and early torpedoes are direct-fire weapons that explode on contact with their target. @Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{重武器}.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.猝射]{猝射}. The standard American anti-tank weapon in Vietnam. @Compendium[swade-core-rules.swade-rules.范围效果攻击]{中型爆散盖板}.</p>\n<hr />\n<p>Rocket launchers and early torpedoes are direct-fire weapons that explode on contact with their target. @Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器}.</p>\n</div>",
 			"notes": "猝射. The standard American anti-tank weapon in Vietnam.",
 			"actions": {
 				"skill": "射击"
@@ -1307,7 +1307,7 @@
 		},
 		"MG42": {
 			"name": "MG42",
-			"description": "<div class=\"swade-core\"><p>Machine guns are heavy, fully automatic weapons built to withstand prolonged fire. Most are fed by belts or drums and thus have far more ammo capacity than assault rifles, despite similar calibers and rates of fire.</p>\n<p><strong>Weapon Mount:</strong>&nbsp;Most machine-guns require a @Compendium[swade-core-rules.swade-equipment.Bipod/Tripod]{Bipod/Tripod} or vehicle mount to fire, which eliminates any Strength requirement and the @Compendium[swade-core-rules.swade-rules.Recoil]{后坐力} penalty. Their @Compendium[swade-core-rules.swade-rules.Minimum Strength]{最低力量} is listed as &ldquo;NA,&rdquo; or &ldquo;Not Applicable.&rdquo; If a weapon has a Minimum Strength listed, it may be fired from the hip with the @Compendium[swade-core-rules.swade-rules.Snapfire]{猝射} and Recoil penalties.</p>\n<p><strong>Minimum Rate of Fire:</strong>&nbsp;Machine-guns have a minimum @Compendium[swade-core-rules.swade-rules.Rate of Fire]{射速} of 2 unless otherwise noted.</p>\n<p><strong>Reloading:</strong>&nbsp;Machine guns are @Compendium[swade-core-rules.swade-rules.Reload]{装填} 2, which includes changing belts or drums, cocking, etc.</p></div>",
+			"description": "<div class=\"swade-core\"><p>Machine guns are heavy, fully automatic weapons built to withstand prolonged fire. Most are fed by belts or drums and thus have far more ammo capacity than assault rifles, despite similar calibers and rates of fire.</p>\n<p><strong>Weapon Mount:</strong>&nbsp;Most machine-guns require a @Compendium[swade-core-rules.swade-equipment.Bipod/Tripod]{Bipod/Tripod} or vehicle mount to fire, which eliminates any Strength requirement and the @Compendium[swade-core-rules.swade-rules.后坐力]{后坐力} penalty. Their @Compendium[swade-core-rules.swade-rules.最低力量]{最低力量} is listed as &ldquo;NA,&rdquo; or &ldquo;Not Applicable.&rdquo; If a weapon has a Minimum Strength listed, it may be fired from the hip with the @Compendium[swade-core-rules.swade-rules.猝射]{猝射} and Recoil penalties.</p>\n<p><strong>Minimum Rate of Fire:</strong>&nbsp;Machine-guns have a minimum @Compendium[swade-core-rules.swade-rules.射速]{射速} of 2 unless otherwise noted.</p>\n<p><strong>Reloading:</strong>&nbsp;Machine guns are @Compendium[swade-core-rules.swade-rules.装填]{装填} 2, which includes changing belts or drums, cocking, etc.</p></div>",
 			"actions": {
 				"skill": "射击",
 				"additional": {
@@ -1345,7 +1345,7 @@
 		},
 		"Maul": {
 			"name": "Maul",
-			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Two Hands]{Two hands}, +2 damage to @Compendium[swade-core-rules.swade-rules.Breaking Things]{break objects}.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Two Hands]{Two hands}, +2 damage to @Compendium[swade-core-rules.swade-rules.破坏物品]{break objects}.</p>\n</div>",
 			"notes": "Two hands, +2 damage to break objects",
 			"actions": {
 				"skill": "格斗",
@@ -1359,11 +1359,11 @@
 		},
 		"Medic Kit": {
 			"name": "Medic Kit",
-			"description": "<div class=\"swade-core\">\n<p>Five uses, +1 to @Compendium[swade-core-rules.swade-skills.Healing]{医疗} skill rolls; $25 to refill.</p>\n<p>Also see main @Compendium[swade-core-rules.swade-rules.Healing]{医疗} rules.</p>\n</div>"
+			"description": "<div class=\"swade-core\">\n<p>Five uses, +1 to @Compendium[swade-core-rules.swade-skills.医疗]{医疗} skill rolls; $25 to refill.</p>\n<p>Also see main @Compendium[swade-core-rules.swade-rules.医疗]{医疗} rules.</p>\n</div>"
 		},
 		"Medium Machine Gun": {
 			"name": "Medium Machine Gun",
-			"description": "<div class=\"swade-core\"><p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.Rate of Fire]{射速} 3 or higher have a minimum Rate of Fire of 2.</p></div>",
+			"description": "<div class=\"swade-core\"><p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.射速]{射速} 3 or higher have a minimum Rate of Fire of 2.</p></div>",
 			"notes": "重武器",
 			"actions": {
 				"skill": "射击",
@@ -1379,7 +1379,7 @@
 		},
 		"Medium Shield": {
 			"name": "Medium Shield",
-			"description": "<div class=\"swade-core\">\n<p>Shields add to a character&rsquo;s @Compendium[swade-core-rules.swade-rules.Characters]{格挡} as shown in the Parry rating. @Compendium[swade-core-rules.swade-rules.Cover and Obstacles]{掩蔽} subtracts from ranged attacks from the front and shielded side (attacks from the rear or unprotected side ignore cover).</p>\n<hr />\n<p>Medieval shields are @Compendium[swade-core-rules.swade-rules.Breaking Things]{硬度} 10 and provide +2 @Compendium[swade-core-rules.swade-rules.Armor]{护甲} should someone attempt to shoot through them (see @Compendium[swade-core-rules.swade-rules.Cover and Obstacles]{障碍}).</p>\n<p>While worn, shields can be used to bash for Str+d4 damage.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>Shields add to a character&rsquo;s @Compendium[swade-core-rules.swade-rules.角色]{格挡} as shown in the Parry rating. @Compendium[swade-core-rules.swade-rules.掩蔽 and Obstacles]{掩蔽} subtracts from ranged attacks from the front and shielded side (attacks from the rear or unprotected side ignore cover).</p>\n<hr />\n<p>Medieval shields are @Compendium[swade-core-rules.swade-rules.破坏物品]{硬度} 10 and provide +2 @Compendium[swade-core-rules.swade-rules.护甲]{护甲} should someone attempt to shoot through them (see @Compendium[swade-core-rules.swade-rules.掩蔽 and Obstacles]{障碍}).</p>\n<p>While worn, shields can be used to bash for Str+d4 damage.</p>\n</div>",
 			"actions": {
 				"skill": "格斗",
 				"additional": {
@@ -1391,7 +1391,7 @@
 		},
 		"Minigun": {
 			"name": "Minigun",
-			"description": "<div class=\"swade-core\"><p>Minimum @Compendium[swade-core-rules.swade-rules.Rate of Fire]{射速} 3, requires backpack harness with ammo which weighs an additional 85 pounds when full (carries 4000 linked rounds).</p>\n<hr />\n<p>Machine guns are heavy, fully automatic weapons built to withstand prolonged fire. Most are fed by belts or drums and thus have far more ammo capacity than assault rifles, despite similar calibers and rates of fire.</p>\n<p><strong>Weapon Mount:</strong>&nbsp;Most machine-guns require a @Compendium[swade-core-rules.swade-equipment.Bipod/Tripod]{Bipod/Tripod} or vehicle mount to fire, which eliminates any Strength requirement and the @Compendium[swade-core-rules.swade-rules.Recoil]{后坐力} penalty. Their @Compendium[swade-core-rules.swade-rules.Minimum Strength]{最低力量} is listed as &ldquo;NA,&rdquo; or &ldquo;Not Applicable.&rdquo; If a weapon has a Minimum Strength listed, it may be fired from the hip with the @Compendium[swade-core-rules.swade-rules.Snapfire]{猝射} and Recoil penalties.</p>\n<p><strong>Reloading:</strong>&nbsp;Machine guns are @Compendium[swade-core-rules.swade-rules.Reload]{装填} 2, which includes changing belts or drums, cocking, etc.</p></div>",
+			"description": "<div class=\"swade-core\"><p>Minimum @Compendium[swade-core-rules.swade-rules.射速]{射速} 3, requires backpack harness with ammo which weighs an additional 85 pounds when full (carries 4000 linked rounds).</p>\n<hr />\n<p>Machine guns are heavy, fully automatic weapons built to withstand prolonged fire. Most are fed by belts or drums and thus have far more ammo capacity than assault rifles, despite similar calibers and rates of fire.</p>\n<p><strong>Weapon Mount:</strong>&nbsp;Most machine-guns require a @Compendium[swade-core-rules.swade-equipment.Bipod/Tripod]{Bipod/Tripod} or vehicle mount to fire, which eliminates any Strength requirement and the @Compendium[swade-core-rules.swade-rules.后坐力]{后坐力} penalty. Their @Compendium[swade-core-rules.swade-rules.最低力量]{最低力量} is listed as &ldquo;NA,&rdquo; or &ldquo;Not Applicable.&rdquo; If a weapon has a Minimum Strength listed, it may be fired from the hip with the @Compendium[swade-core-rules.swade-rules.猝射]{猝射} and Recoil penalties.</p>\n<p><strong>Reloading:</strong>&nbsp;Machine guns are @Compendium[swade-core-rules.swade-rules.装填]{装填} 2, which includes changing belts or drums, cocking, etc.</p></div>",
 			"actions": {
 				"skill": "射击",
 				"additional": {
@@ -1418,7 +1418,7 @@
 		},
 		"Mk II (WW2 Pineapple)": {
 			"name": "Mk II (WW2 Pineapple)",
-			"description": "<div class=\"swade-core\">\n<p>Grenades activate when their safety pin is pulled, then detonate a few seconds later. They are thrown with the @Compendium[swade-core-rules.swade-skills.Athletics]{运动} skill at the Ranges listed, and cannot make use of @Compendium[swade-core-rules.swade-rules.Range]{Extreme Range}. @Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{中型爆散盖板}.</p>\n<p>All grenades are @Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{重武器} and detonate in the listed blast template (see @Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{范围效果攻击}). Grenades may be @Compendium[swade-core-rules.swade-rules.Evasion]{规避}.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>Grenades activate when their safety pin is pulled, then detonate a few seconds later. They are thrown with the @Compendium[swade-core-rules.swade-skills.运动]{运动} skill at the Ranges listed, and cannot make use of @Compendium[swade-core-rules.swade-rules.射程]{Extreme Range}. @Compendium[swade-core-rules.swade-rules.范围效果攻击]{中型爆散盖板}.</p>\n<p>All grenades are @Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器} and detonate in the listed blast template (see @Compendium[swade-core-rules.swade-rules.范围效果攻击]{范围效果攻击}). Grenades may be @Compendium[swade-core-rules.swade-rules.回避]{规避}.</p>\n</div>",
 			"notes": "中型爆散盖板",
 			"actions": {
 				"skill": "运动"
@@ -1426,7 +1426,7 @@
 		},
 		"Mk67 (Modern)": {
 			"name": "Mk67 (Modern)",
-			"description": "<div class=\"swade-core\">\n<p>Grenades activate when their safety pin is pulled, then detonate a few seconds later. They are thrown with the @Compendium[swade-core-rules.swade-skills.Athletics]{运动} skill at the Ranges listed, and cannot make use of @Compendium[swade-core-rules.swade-rules.Range]{Extreme Range}. @Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{中型爆散盖板}</p>\n<p>All grenades are @Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{重武器} and detonate in the listed blast template (see @Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{范围效果攻击}). Grenades may be @Compendium[swade-core-rules.swade-rules.Evasion]{规避}.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>Grenades activate when their safety pin is pulled, then detonate a few seconds later. They are thrown with the @Compendium[swade-core-rules.swade-skills.运动]{运动} skill at the Ranges listed, and cannot make use of @Compendium[swade-core-rules.swade-rules.射程]{Extreme Range}. @Compendium[swade-core-rules.swade-rules.范围效果攻击]{中型爆散盖板}</p>\n<p>All grenades are @Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器} and detonate in the listed blast template (see @Compendium[swade-core-rules.swade-rules.范围效果攻击]{范围效果攻击}). Grenades may be @Compendium[swade-core-rules.swade-rules.回避]{规避}.</p>\n</div>",
 			"notes": "中型爆散盖板",
 			"actions": {
 				"skill": "运动"
@@ -1454,7 +1454,7 @@
 		},
 		"Net (Weighted)": {
 			"name": "Net (Weighted)",
-			"description": "<div class=\"swade-core\"><p>A successful hit means the target is @Compendium[swade-core-rules.swade-rules.Bound and Entangled]{纠缠}. The net is @Compendium[swade-core-rules.swade-rules.Breaking Things]{硬度} 10 and vulnerable only to cutting attacks.</p></div>",
+			"description": "<div class=\"swade-core\"><p>A successful hit means the target is @Compendium[swade-core-rules.swade-rules.束缚 and Entangled]{纠缠}. The net is @Compendium[swade-core-rules.swade-rules.破坏物品]{硬度} 10 and vulnerable only to cutting attacks.</p></div>",
 			"notes": "A successful hit means the target is Entangled (see page 98). The net is Hardness 10 and vulnerable only to cutting attacks.",
 			"actions": {
 				"skill": "运动"
@@ -1462,7 +1462,7 @@
 		},
 		"Night Vision Goggles": {
 			"name": "Night Vision Goggles",
-			"description": "<div class=\"swade-core\"><p>No penalty for Dim or Dark @Compendium[swade-core-rules.swade-rules.Illumination]{照明}. For double the price the goggles are &ldquo;active&rdquo; and ignore all Illumination penalties.</p></div>"
+			"description": "<div class=\"swade-core\"><p>No penalty for Dim or Dark @Compendium[swade-core-rules.swade-rules.照明]{照明}. For double the price the goggles are &ldquo;active&rdquo; and ignore all Illumination penalties.</p></div>"
 		},
 		"Oil": {
 			"name": "Oil",
@@ -1470,7 +1470,7 @@
 		},
 		"Panzerschreck": {
 			"name": "Panzerschreck",
-			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Snapfire]{猝射}. Literally, the &ldquo;tank terror&rdquo; rocket launcher used by German forces in World War II. @Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{中型爆散盖板}.</p>\n<hr />\n<p>Rocket launchers and early torpedoes are direct-fire weapons that explode on contact with their target. @Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{重武器}.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.猝射]{猝射}. Literally, the &ldquo;tank terror&rdquo; rocket launcher used by German forces in World War II. @Compendium[swade-core-rules.swade-rules.范围效果攻击]{中型爆散盖板}.</p>\n<hr />\n<p>Rocket launchers and early torpedoes are direct-fire weapons that explode on contact with their target. @Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器}.</p>\n</div>",
 			"notes": "中型爆散盖板, Snapfire. Literally, the “tank terror” rocket launcher used by German forces in World War II.",
 			"actions": {
 				"skill": "射击"
@@ -1482,7 +1482,7 @@
 		},
 		"Pepper Spray": {
 			"name": "Pepper Spray",
-			"description": "<div class=\"swade-core\">\n<p>Use @Compendium[swade-core-rules.swade-skills.Shooting]{射击} (or @Compendium[swade-core-rules.swade-skills.Fighting]{格斗} if engaged). No @Compendium[swade-core-rules.swade-rules.Attacks]{Range Penalty} but max range is 2&Prime; (about 10 feet), Shots 5, victim must make @Compendium[swade-core-rules.swade-rules.Traits]{活力} roll at &ndash;2 or be @Compendium[swade-core-rules.swade-rules.Stunned]{震慑}.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>Use @Compendium[swade-core-rules.swade-skills.射击]{射击} (or @Compendium[swade-core-rules.swade-skills.格斗]{格斗} if engaged). No @Compendium[swade-core-rules.swade-rules.攻击]{Range Penalty} but max range is 2&Prime; (about 10 feet), Shots 5, victim must make @Compendium[swade-core-rules.swade-rules.特性]{活力} roll at &ndash;2 or be @Compendium[swade-core-rules.swade-rules.震慑]{震慑}.</p>\n</div>",
 			"notes": "Use 射击 (or Fighting if engaged). No Range Penalty but max range is 2″ (about 10 feet), Shots 5, victim must make Vigor roll at –2 or be Stunned.",
 			"weight": 0.5,
 			"actions": {
@@ -1497,7 +1497,7 @@
 		},
 		"Pike": {
 			"name": "Pike",
-			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Reach]{触及} 2, @Compendium[swade-core-rules.swade-rules.Two Hands]{two hands}</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.触及]{触及} 2, @Compendium[swade-core-rules.swade-rules.Two Hands]{two hands}</p>\n</div>",
 			"notes": "Reach 2, two hands",
 			"actions": {
 				"skill": "格斗",
@@ -1510,7 +1510,7 @@
 		},
 		"Pistol (Laser)": {
 			"name": "Pistol (Laser)",
-			"description": "<div class=\"swade-core\">\n<p>Lasers fire intensely focused beams of light to penetrate and burn their targets.</p>\n<p><strong>Cauterize:</strong> Anyone Incapacitated by a laser blast adds +2 to his @Compendium[swade-core-rules.swade-rules.Traits]{活力} rolls to keep from @Compendium[swade-core-rules.swade-rules.Damage Effects]{失血}.</p>\n<p><strong>Overcharge:</strong>&nbsp;This weapon can overcharge to cause an extra d6 damage, but if any of the @Compendium[swade-core-rules.swade-skills.Shooting]{射击} dice are a 1, the weapon must cool down for a full round before it can be fired again.</p>\n<p><strong>No Recoil:</strong>&nbsp;Pistols, SMGs, and rifles ignore the @Compendium[swade-core-rules.swade-rules.Recoil]{后坐力} penalty. Gatling lasers still take the penalty, however, which is why they&rsquo;re usually mounted on a @Compendium[swade-core-rules.swade-equipment.Bipod/Tripod]{三脚架}.</p>\n</div>"
+			"description": "<div class=\"swade-core\">\n<p>Lasers fire intensely focused beams of light to penetrate and burn their targets.</p>\n<p><strong>Cauterize:</strong> Anyone Incapacitated by a laser blast adds +2 to his @Compendium[swade-core-rules.swade-rules.特性]{活力} rolls to keep from @Compendium[swade-core-rules.swade-rules.伤害效果]{失血}.</p>\n<p><strong>Overcharge:</strong>&nbsp;This weapon can overcharge to cause an extra d6 damage, but if any of the @Compendium[swade-core-rules.swade-skills.射击]{射击} dice are a 1, the weapon must cool down for a full round before it can be fired again.</p>\n<p><strong>No Recoil:</strong>&nbsp;Pistols, SMGs, and rifles ignore the @Compendium[swade-core-rules.swade-rules.后坐力]{后坐力} penalty. Gatling lasers still take the penalty, however, which is why they&rsquo;re usually mounted on a @Compendium[swade-core-rules.swade-equipment.Bipod/Tripod]{三脚架}.</p>\n</div>"
 		},
 		"Plate Barding (horse)": {
 			"name": "Plate Barding (horse)",
@@ -1525,7 +1525,7 @@
 		},
 		"Polymer Shield, large": {
 			"name": "Polymer Shield, large",
-			"description": "<div class=\"swade-core\">\n<p>Shields add to a character&rsquo;s @Compendium[swade-core-rules.swade-rules.Characters]{格挡} as shown in the Parry rating. @Compendium[swade-core-rules.swade-rules.Cover and Obstacles]{掩蔽} subtracts from ranged attacks from the front and shielded side (attacks from the rear or unprotected side ignore cover).</p>\n<hr />\n<p>Polymer shields are @Compendium[swade-core-rules.swade-rules.Breaking Things]{硬度} 10 and provide +4 @Compendium[swade-core-rules.swade-rules.Armor]{护甲} should someone attempt to shoot through them (see @Compendium[swade-core-rules.swade-rules.Cover and Obstacles]{障碍}).</p>\n<p>While worn, shields can be used to bash for Str+d4 damage.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>Shields add to a character&rsquo;s @Compendium[swade-core-rules.swade-rules.角色]{格挡} as shown in the Parry rating. @Compendium[swade-core-rules.swade-rules.掩蔽 and Obstacles]{掩蔽} subtracts from ranged attacks from the front and shielded side (attacks from the rear or unprotected side ignore cover).</p>\n<hr />\n<p>Polymer shields are @Compendium[swade-core-rules.swade-rules.破坏物品]{硬度} 10 and provide +4 @Compendium[swade-core-rules.swade-rules.护甲]{护甲} should someone attempt to shoot through them (see @Compendium[swade-core-rules.swade-rules.掩蔽 and Obstacles]{障碍}).</p>\n<p>While worn, shields can be used to bash for Str+d4 damage.</p>\n</div>",
 			"actions": {
 				"skill": "格斗",
 				"additional": {
@@ -1537,7 +1537,7 @@
 		},
 		"Polymer Shield, medium": {
 			"name": "Polymer Shield, medium",
-			"description": "<div class=\"swade-core\">\n<p>Shields add to a character&rsquo;s @Compendium[swade-core-rules.swade-rules.Characters]{格挡} as shown in the Parry rating. @Compendium[swade-core-rules.swade-rules.Cover and Obstacles]{掩蔽} subtracts from ranged attacks from the front and shielded side (attacks from the rear or unprotected side ignore cover).</p>\n<hr />\n<p>Polymer shields are @Compendium[swade-core-rules.swade-rules.Breaking Things]{硬度} 10 and provide +4 @Compendium[swade-core-rules.swade-rules.Armor]{护甲} should someone attempt to shoot through them (see @Compendium[swade-core-rules.swade-rules.Cover and Obstacles]{障碍}).</p>\n<p>While worn, shields can be used to bash for Str+d4 damage.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>Shields add to a character&rsquo;s @Compendium[swade-core-rules.swade-rules.角色]{格挡} as shown in the Parry rating. @Compendium[swade-core-rules.swade-rules.掩蔽 and Obstacles]{掩蔽} subtracts from ranged attacks from the front and shielded side (attacks from the rear or unprotected side ignore cover).</p>\n<hr />\n<p>Polymer shields are @Compendium[swade-core-rules.swade-rules.破坏物品]{硬度} 10 and provide +4 @Compendium[swade-core-rules.swade-rules.护甲]{护甲} should someone attempt to shoot through them (see @Compendium[swade-core-rules.swade-rules.掩蔽 and Obstacles]{障碍}).</p>\n<p>While worn, shields can be used to bash for Str+d4 damage.</p>\n</div>",
 			"actions": {
 				"skill": "格斗",
 				"additional": {
@@ -1549,7 +1549,7 @@
 		},
 		"Polymer Shield, small": {
 			"name": "Polymer Shield, small",
-			"description": "<div class=\"swade-core\">\n<p>Shields add to a character&rsquo;s @Compendium[swade-core-rules.swade-rules.Characters]{格挡} as shown in the Parry rating. @Compendium[swade-core-rules.swade-rules.Cover and Obstacles]{掩蔽} subtracts from ranged attacks from the front and shielded side (attacks from the rear or unprotected side ignore cover).</p>\n<hr />\n<p>Polymer shields are @Compendium[swade-core-rules.swade-rules.Breaking Things]{硬度} 10 and provide +4 @Compendium[swade-core-rules.swade-rules.Armor]{护甲} should someone attempt to shoot through them (see @Compendium[swade-core-rules.swade-rules.Cover and Obstacles]{障碍}).</p>\n<p>While worn, shields can be used to bash for Str+d4 damage.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>Shields add to a character&rsquo;s @Compendium[swade-core-rules.swade-rules.角色]{格挡} as shown in the Parry rating. @Compendium[swade-core-rules.swade-rules.掩蔽 and Obstacles]{掩蔽} subtracts from ranged attacks from the front and shielded side (attacks from the rear or unprotected side ignore cover).</p>\n<hr />\n<p>Polymer shields are @Compendium[swade-core-rules.swade-rules.破坏物品]{硬度} 10 and provide +4 @Compendium[swade-core-rules.swade-rules.护甲]{护甲} should someone attempt to shoot through them (see @Compendium[swade-core-rules.swade-rules.掩蔽 and Obstacles]{障碍}).</p>\n<p>While worn, shields can be used to bash for Str+d4 damage.</p>\n</div>",
 			"actions": {
 				"skill": "格斗",
 				"additional": {
@@ -1563,7 +1563,7 @@
 		},
 		"Potato Masher (WW2)": {
 			"name": "Potato Masher (WW2)",
-			"description": "<div class=\"swade-core\">\n<p>Grenades activate when their safety pin is pulled, then detonate a few seconds later. They are thrown with the @Compendium[swade-core-rules.swade-skills.Athletics]{运动} skill at the Ranges listed, and cannot make use of Extreme Range (see @Compendium[swade-core-rules.swade-rules.Range]{射程}). @Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{中型爆散盖板}.</p>\n<p>All grenades are @Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{重武器} and detonate in the listed blast template (see @Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{范围效果攻击}). Grenades may be @Compendium[swade-core-rules.swade-rules.Evasion]{规避}.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>Grenades activate when their safety pin is pulled, then detonate a few seconds later. They are thrown with the @Compendium[swade-core-rules.swade-skills.运动]{运动} skill at the Ranges listed, and cannot make use of Extreme Range (see @Compendium[swade-core-rules.swade-rules.射程]{射程}). @Compendium[swade-core-rules.swade-rules.范围效果攻击]{中型爆散盖板}.</p>\n<p>All grenades are @Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器} and detonate in the listed blast template (see @Compendium[swade-core-rules.swade-rules.范围效果攻击]{范围效果攻击}). Grenades may be @Compendium[swade-core-rules.swade-rules.回避]{规避}.</p>\n</div>",
 			"notes": "中型爆散盖板",
 			"actions": {
 				"skill": "运动"
@@ -1571,7 +1571,7 @@
 		},
 		"Pump Action Shotgun": {
 			"name": "Pump Action Shotgun",
-			"description": "<div class=\"swade-core\"><p><span style=\"color: #191813; background-color: #dfe6f5;\">@Compendium[swade-core-rules.swade-rules.Shotguns]{霰弹枪} fire a spread of pellets (called &ldquo;shot&rdquo; or &ldquo;buckshot&rdquo;) to increase the shooter&rsquo;s chance of hitting his target. Up close, the blast can be devastating.</span></p></div>",
+			"description": "<div class=\"swade-core\"><p><span style=\"color: #191813; background-color: #dfe6f5;\">@Compendium[swade-core-rules.swade-rules.霰弹枪]{霰弹枪} fire a spread of pellets (called &ldquo;shot&rdquo; or &ldquo;buckshot&rdquo;) to increase the shooter&rsquo;s chance of hitting his target. Up close, the blast can be devastating.</span></p></div>",
 			"actions": {
 				"skill": "射击",
 				"additional": {
@@ -1599,7 +1599,7 @@
 		},
 		"Rapier": {
 			"name": "Rapier",
-			"description": "<div class=\"swade-core\"><p>@Compendium[swade-core-rules.swade-rules.Parry]{格挡} +1</p></div>",
+			"description": "<div class=\"swade-core\"><p>@Compendium[swade-core-rules.swade-rules.格挡]{格挡} +1</p></div>",
 			"notes": "Parry +1",
 			"actions": {
 				"skill": "格斗"
@@ -1607,7 +1607,7 @@
 		},
 		"Rifle (Laser)": {
 			"name": "Rifle (Laser)",
-			"description": "<div class=\"swade-core\">\n<p>Lasers fire intensely focused beams of light to penetrate and burn their targets.</p>\n<p><strong>Cauterize:</strong> Anyone Incapacitated by a laser blast adds +2 to his @Compendium[swade-core-rules.swade-rules.Traits]{活力} rolls to keep from @Compendium[swade-core-rules.swade-rules.Damage Effects]{失血}.</p>\n<p><strong>Overcharge:</strong>&nbsp;This weapon can overcharge to cause an extra d6 damage, but if any of the @Compendium[swade-core-rules.swade-skills.Shooting]{射击} dice are a 1, the weapon must cool down for a full round before it can be fired again.</p>\n<p><strong>No Recoil:</strong>&nbsp;Pistols, SMGs, and rifles ignore the @Compendium[swade-core-rules.swade-rules.Recoil]{后坐力} penalty. Gatling lasers still take the penalty, however, which is why they&rsquo;re usually mounted on a @Compendium[swade-core-rules.swade-equipment.Bipod/Tripod]{三脚架}.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>Lasers fire intensely focused beams of light to penetrate and burn their targets.</p>\n<p><strong>Cauterize:</strong> Anyone Incapacitated by a laser blast adds +2 to his @Compendium[swade-core-rules.swade-rules.特性]{活力} rolls to keep from @Compendium[swade-core-rules.swade-rules.伤害效果]{失血}.</p>\n<p><strong>Overcharge:</strong>&nbsp;This weapon can overcharge to cause an extra d6 damage, but if any of the @Compendium[swade-core-rules.swade-skills.射击]{射击} dice are a 1, the weapon must cool down for a full round before it can be fired again.</p>\n<p><strong>No Recoil:</strong>&nbsp;Pistols, SMGs, and rifles ignore the @Compendium[swade-core-rules.swade-rules.后坐力]{后坐力} penalty. Gatling lasers still take the penalty, however, which is why they&rsquo;re usually mounted on a @Compendium[swade-core-rules.swade-equipment.Bipod/Tripod]{三脚架}.</p>\n</div>",
 			"notes": "Laser Battery, SMG/Rifle",
 			"actions": {
 				"skill": "射击",
@@ -1626,11 +1626,11 @@
 		},
 		"Rifle Scope": {
 			"name": "Rifle Scope",
-			"description": "<div class=\"swade-core\">\n<p>Cancels 2 additional points of penalties when @Compendium[swade-core-rules.swade-rules.Aim]{瞄准}.</p>\n</div>"
+			"description": "<div class=\"swade-core\">\n<p>Cancels 2 additional points of penalties when @Compendium[swade-core-rules.swade-rules.瞄准]{瞄准}.</p>\n</div>"
 		},
 		"Riot Shield": {
 			"name": "Riot Shield",
-			"description": "<div class=\"swade-core\">\n<p>Shields add to a character&rsquo;s @Compendium[swade-core-rules.swade-rules.Characters]{格挡} as shown in the Parry rating. @Compendium[swade-core-rules.swade-rules.Cover and Obstacles]{掩蔽} subtracts from ranged attacks from the front and shielded side (attacks from the rear or unprotected side ignore cover).</p>\n<hr />\n<p>Modern shields are @Compendium[swade-core-rules.swade-rules.Breaking Things]{硬度} 12 and provide +2 @Compendium[swade-core-rules.swade-rules.Armor]{护甲} should someone attempt to shoot through them (see @Compendium[swade-core-rules.swade-rules.Cover and Obstacles]{障碍}).</p>\n<p>While worn, shields can be used to bash for Str+d4 damage.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>Shields add to a character&rsquo;s @Compendium[swade-core-rules.swade-rules.角色]{格挡} as shown in the Parry rating. @Compendium[swade-core-rules.swade-rules.掩蔽 and Obstacles]{掩蔽} subtracts from ranged attacks from the front and shielded side (attacks from the rear or unprotected side ignore cover).</p>\n<hr />\n<p>Modern shields are @Compendium[swade-core-rules.swade-rules.破坏物品]{硬度} 12 and provide +2 @Compendium[swade-core-rules.swade-rules.护甲]{护甲} should someone attempt to shoot through them (see @Compendium[swade-core-rules.swade-rules.掩蔽 and Obstacles]{障碍}).</p>\n<p>While worn, shields can be used to bash for Str+d4 damage.</p>\n</div>",
 			"actions": {
 				"skill": "格斗",
 				"additional": {
@@ -1661,7 +1661,7 @@
 		},
 		"SAW": {
 			"name": "SAW",
-			"description": "<div class=\"swade-core\"><p>Machine guns are heavy, fully automatic weapons built to withstand prolonged fire. Most are fed by belts or drums and thus have far more ammo capacity than assault rifles, despite similar calibers and rates of fire.</p>\n<p><strong>Weapon Mount:</strong>&nbsp;Most machine-guns require a @Compendium[swade-core-rules.swade-equipment.Bipod/Tripod]{Bipod/Tripod} or vehicle mount to fire, which eliminates any Strength requirement and the @Compendium[swade-core-rules.swade-rules.Recoil]{后坐力} penalty. Their @Compendium[swade-core-rules.swade-rules.Minimum Strength]{最低力量} is listed as &ldquo;NA,&rdquo; or &ldquo;Not Applicable.&rdquo; If a weapon has a Minimum Strength listed, it may be fired from the hip with the @Compendium[swade-core-rules.swade-rules.Snapfire]{猝射} and Recoil penalties.</p>\n<p><strong>Minimum Rate of Fire:</strong>&nbsp;Machine-guns have a minimum @Compendium[swade-core-rules.swade-rules.Rate of Fire]{射速} of 2 unless otherwise noted.</p>\n<p><strong>Reloading:</strong>&nbsp;Machine guns are @Compendium[swade-core-rules.swade-rules.Reload]{装填} 2, which includes changing belts or drums, cocking, etc.</p></div>",
+			"description": "<div class=\"swade-core\"><p>Machine guns are heavy, fully automatic weapons built to withstand prolonged fire. Most are fed by belts or drums and thus have far more ammo capacity than assault rifles, despite similar calibers and rates of fire.</p>\n<p><strong>Weapon Mount:</strong>&nbsp;Most machine-guns require a @Compendium[swade-core-rules.swade-equipment.Bipod/Tripod]{Bipod/Tripod} or vehicle mount to fire, which eliminates any Strength requirement and the @Compendium[swade-core-rules.swade-rules.后坐力]{后坐力} penalty. Their @Compendium[swade-core-rules.swade-rules.最低力量]{最低力量} is listed as &ldquo;NA,&rdquo; or &ldquo;Not Applicable.&rdquo; If a weapon has a Minimum Strength listed, it may be fired from the hip with the @Compendium[swade-core-rules.swade-rules.猝射]{猝射} and Recoil penalties.</p>\n<p><strong>Minimum Rate of Fire:</strong>&nbsp;Machine-guns have a minimum @Compendium[swade-core-rules.swade-rules.射速]{射速} of 2 unless otherwise noted.</p>\n<p><strong>Reloading:</strong>&nbsp;Machine guns are @Compendium[swade-core-rules.swade-rules.装填]{装填} 2, which includes changing belts or drums, cocking, etc.</p></div>",
 			"actions": {
 				"skill": "射击",
 				"additional": {
@@ -1688,7 +1688,7 @@
 		},
 		"SMG (Laser)": {
 			"name": "SMG (Laser)",
-			"description": "<div class=\"swade-core\">\n<p>Lasers fire intensely focused beams of light to penetrate and burn their targets.</p>\n<p><strong>Cauterize:</strong> Anyone Incapacitated by a laser blast adds +2 to his @Compendium[swade-core-rules.swade-rules.Traits]{活力} rolls to keep from @Compendium[swade-core-rules.swade-rules.Damage Effects]{失血}.</p>\n<p><strong>Overcharge:</strong>&nbsp;This weapon can overcharge to cause an extra d6 damage, but if any of the @Compendium[swade-core-rules.swade-skills.Shooting]{射击} dice are a 1, the weapon must cool down for a full round before it can be fired again.</p>\n<p><strong>No Recoil:</strong>&nbsp;Pistols, SMGs, and rifles ignore the @Compendium[swade-core-rules.swade-rules.Recoil]{后坐力} penalty. Gatling lasers still take the penalty, however, which is why they&rsquo;re usually mounted on a @Compendium[swade-core-rules.swade-equipment.Bipod/Tripod]{三脚架}.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>Lasers fire intensely focused beams of light to penetrate and burn their targets.</p>\n<p><strong>Cauterize:</strong> Anyone Incapacitated by a laser blast adds +2 to his @Compendium[swade-core-rules.swade-rules.特性]{活力} rolls to keep from @Compendium[swade-core-rules.swade-rules.伤害效果]{失血}.</p>\n<p><strong>Overcharge:</strong>&nbsp;This weapon can overcharge to cause an extra d6 damage, but if any of the @Compendium[swade-core-rules.swade-skills.射击]{射击} dice are a 1, the weapon must cool down for a full round before it can be fired again.</p>\n<p><strong>No Recoil:</strong>&nbsp;Pistols, SMGs, and rifles ignore the @Compendium[swade-core-rules.swade-rules.后坐力]{后坐力} penalty. Gatling lasers still take the penalty, however, which is why they&rsquo;re usually mounted on a @Compendium[swade-core-rules.swade-equipment.Bipod/Tripod]{三脚架}.</p>\n</div>",
 			"notes": "Laser Battery, SMG/Rifle",
 			"actions": {
 				"skill": "射击",
@@ -1714,7 +1714,7 @@
 		},
 		"Sawed-Off Double-Barrel Shotgun": {
 			"name": "Sawed-Off Double-Barrel Shotgun",
-			"description": "<div class=\"swade-core\"><p>@Compendium[swade-core-rules.swade-rules.Shotguns]{霰弹枪} fire a spread of pellets (called &ldquo;shot&rdquo; or &ldquo;buckshot&rdquo;) to increase the shooter&rsquo;s chance of hitting his target. Up close, the blast can be devastating.</p></div>",
+			"description": "<div class=\"swade-core\"><p>@Compendium[swade-core-rules.swade-rules.霰弹枪]{霰弹枪} fire a spread of pellets (called &ldquo;shot&rdquo; or &ldquo;buckshot&rdquo;) to increase the shooter&rsquo;s chance of hitting his target. Up close, the blast can be devastating.</p></div>",
 			"actions": {
 				"skill": "射击",
 				"additional": {
@@ -1753,7 +1753,7 @@
 		},
 		"Sharps Big 50": {
 			"name": "Sharps Big 50",
-			"description": "<div class=\"swade-core\"><p>@Compendium[swade-core-rules.swade-rules.Snapfire]{猝射}</p>\n<hr />\n<p>Additional magazines or clips cost 10% of the rifle and weigh 1 lb each.</p></div>",
+			"description": "<div class=\"swade-core\"><p>@Compendium[swade-core-rules.swade-rules.猝射]{猝射}</p>\n<hr />\n<p>Additional magazines or clips cost 10% of the rifle and weigh 1 lb each.</p></div>",
 			"actions": {
 				"skill": "射击",
 				"additional": {
@@ -1777,7 +1777,7 @@
 		},
 		"Shotgun Slugs": {
 			"name": "Shotgun Slugs",
-			"description": "<div class=\"swade-core\"><p>See @Compendium[swade-core-rules.swade-rules.Shotguns]{霰弹枪}.</p></div>"
+			"description": "<div class=\"swade-core\"><p>See @Compendium[swade-core-rules.swade-rules.霰弹枪]{霰弹枪}.</p></div>"
 		},
 		"Shovel": {
 			"name": "Shovel",
@@ -1785,12 +1785,12 @@
 		},
 		"Shrapnel Shot (Cannon)": {
 			"name": "Shrapnel Shot (Cannon)",
-			"description": "<div class=\"swade-core\"><p>Explosive shells filled with small metal balls that explode outward in a shower of debris. This is an @Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{Area Effect Attack} and uses the Medium Blast Template unless otherwise noted.</p></div>",
+			"description": "<div class=\"swade-core\"><p>Explosive shells filled with small metal balls that explode outward in a shower of debris. This is an @Compendium[swade-core-rules.swade-rules.范围效果攻击]{Area Effect Attack} and uses the Medium Blast Template unless otherwise noted.</p></div>",
 			"notes": "50/100/200, 3d6, 中型爆散盖板"
 		},
 		"Sidewinder": {
 			"name": "Sidewinder",
-			"description": "<div class=\"swade-core\">\n<p><span style=\"background-color: #dfe6f5; color: #191813;\">@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{重武器}</span>. A short range, heat-seeking missile fired from an aircraft. @Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{小型爆散盖板}.</p>\n<hr />\n<p>Unless otherwise noted, missiles must &ldquo;lock&rdquo; onto their targets before they can be fired. This action is an opposed @Compendium[swade-core-rules.swade-skills.Electronics]{电子学} roll versus the target&rsquo;s maneuvering skill (@Compendium[swade-core-rules.swade-skills.Boating]{驾船}, @Compendium[swade-core-rules.swade-skills.Driving]{驾驶}, or @Compendium[swade-core-rules.swade-skills.Piloting]{航空}, as appropriate). Success gives the attacker a &ldquo;short&rdquo; lock and allows him to fire up to half the missiles his particular craft can fire at once. A raise is a more solid lock and allows him to fire all of them.</p>\n<p>The enemy attempts to evade each missile separately by making a maneuvering roll at &minus;4 (or &minus;2 if the target has substantial cover to hide behind&mdash;such as asteroids, skyscrapers, canyon walls, or even large enemy ships. A @Compendium[swade-core-rules.swade-rules.Trait Rolls]{Critical Failure} means the craft goes @Compendium[swade-core-rules.swade-tables.Out of Control]{失控}.</p>\n<p><strong>Anti-Missile Systems:</strong> Warships and futuristic space vessels often have &ldquo;point defense&rdquo; systems to shoot down incoming missiles. Operators must be on @Compendium[swade-core-rules.swade-rules.Hold]{待机} to shoot down missiles; automated systems attack automatically. The system grants a single @Compendium[swade-core-rules.swade-skills.Shooting]{射击} roll per missile at Short @Compendium[swade-core-rules.swade-rules.Range]{射程} and any other relevant modifiers (including @Compendium[swade-core-rules.swade-rules.Speed]{速度}&mdash;missiles move at Mach 1, a &minus;6 penalty, unless otherwise noted). Unless otherwise noted, missiles are objects with a @Compendium[swade-core-rules.swade-rules.Breaking Things]{坚韧} of 8 (2).</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p><span style=\"background-color: #dfe6f5; color: #191813;\">@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器}</span>. A short range, heat-seeking missile fired from an aircraft. @Compendium[swade-core-rules.swade-rules.范围效果攻击]{小型爆散盖板}.</p>\n<hr />\n<p>Unless otherwise noted, missiles must &ldquo;lock&rdquo; onto their targets before they can be fired. This action is an opposed @Compendium[swade-core-rules.swade-skills.电子学]{电子学} roll versus the target&rsquo;s maneuvering skill (@Compendium[swade-core-rules.swade-skills.驾船]{驾船}, @Compendium[swade-core-rules.swade-skills.驾驶]{驾驶}, or @Compendium[swade-core-rules.swade-skills.航空]{航空}, as appropriate). Success gives the attacker a &ldquo;short&rdquo; lock and allows him to fire up to half the missiles his particular craft can fire at once. A raise is a more solid lock and allows him to fire all of them.</p>\n<p>The enemy attempts to evade each missile separately by making a maneuvering roll at &minus;4 (or &minus;2 if the target has substantial cover to hide behind&mdash;such as asteroids, skyscrapers, canyon walls, or even large enemy ships. A @Compendium[swade-core-rules.swade-rules.特性投骰]{Critical Failure} means the craft goes @Compendium[swade-core-rules.swade-tables.失控]{失控}.</p>\n<p><strong>Anti-Missile Systems:</strong> Warships and futuristic space vessels often have &ldquo;point defense&rdquo; systems to shoot down incoming missiles. Operators must be on @Compendium[swade-core-rules.swade-rules.待机]{待机} to shoot down missiles; automated systems attack automatically. The system grants a single @Compendium[swade-core-rules.swade-skills.射击]{射击} roll per missile at Short @Compendium[swade-core-rules.swade-rules.射程]{射程} and any other relevant modifiers (including @Compendium[swade-core-rules.swade-rules.速度]{速度}&mdash;missiles move at Mach 1, a &minus;6 penalty, unless otherwise noted). Unless otherwise noted, missiles are objects with a @Compendium[swade-core-rules.swade-rules.破坏物品]{坚韧} of 8 (2).</p>\n</div>",
 			"notes": "重武器 A short range, heat-seeking missile fired from an aircraft.",
 			"actions": {
 				"skill": "射击"
@@ -1810,7 +1810,7 @@
 		},
 		"Small Shield": {
 			"name": "Small Shield",
-			"description": "<div class=\"swade-core\">\n<p>Shields add to a character&rsquo;s @Compendium[swade-core-rules.swade-rules.Characters]{格挡} as shown in the Parry rating. @Compendium[swade-core-rules.swade-rules.Cover and Obstacles]{掩蔽} subtracts from ranged attacks from the front and shielded side (attacks from the rear or unprotected side ignore cover).</p>\n<hr />\n<p>Medieval shields are @Compendium[swade-core-rules.swade-rules.Breaking Things]{硬度} 10 and provide +2 @Compendium[swade-core-rules.swade-rules.Armor]{护甲} should someone attempt to shoot through them (see @Compendium[swade-core-rules.swade-rules.Cover and Obstacles]{障碍}).</p>\n<p>While worn, shields can be used to bash for Str+d4 damage.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>Shields add to a character&rsquo;s @Compendium[swade-core-rules.swade-rules.角色]{格挡} as shown in the Parry rating. @Compendium[swade-core-rules.swade-rules.掩蔽 and Obstacles]{掩蔽} subtracts from ranged attacks from the front and shielded side (attacks from the rear or unprotected side ignore cover).</p>\n<hr />\n<p>Medieval shields are @Compendium[swade-core-rules.swade-rules.破坏物品]{硬度} 10 and provide +2 @Compendium[swade-core-rules.swade-rules.护甲]{护甲} should someone attempt to shoot through them (see @Compendium[swade-core-rules.swade-rules.掩蔽 and Obstacles]{障碍}).</p>\n<p>While worn, shields can be used to bash for Str+d4 damage.</p>\n</div>",
 			"actions": {
 				"skill": "格斗",
 				"additional": {
@@ -1829,7 +1829,7 @@
 		},
 		"Smoke Grenade": {
 			"name": "Smoke Grenade",
-			"description": "<div class=\"swade-core\">\n<p>Creates an area of smoke in a @Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{大型爆散盖板} that obscures vision (&ndash;4).</p>\n<hr />\n<p>Grenades activate when their safety pin is pulled, then detonate a few seconds later. They are thrown with the @Compendium[swade-core-rules.swade-skills.Athletics]{运动} skill at the Ranges listed, and cannot make use of @Compendium[swade-core-rules.swade-rules.Range]{Extreme Range}.</p>\n<p>All grenades are @Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{重武器} and detonate in the listed blast template (see @Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{范围效果攻击}). Grenades may be @Compendium[swade-core-rules.swade-rules.Evasion]{规避}.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>Creates an area of smoke in a @Compendium[swade-core-rules.swade-rules.范围效果攻击]{大型爆散盖板} that obscures vision (&ndash;4).</p>\n<hr />\n<p>Grenades activate when their safety pin is pulled, then detonate a few seconds later. They are thrown with the @Compendium[swade-core-rules.swade-skills.运动]{运动} skill at the Ranges listed, and cannot make use of @Compendium[swade-core-rules.swade-rules.射程]{Extreme Range}.</p>\n<p>All grenades are @Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器} and detonate in the listed blast template (see @Compendium[swade-core-rules.swade-rules.范围效果攻击]{范围效果攻击}). Grenades may be @Compendium[swade-core-rules.swade-rules.回避]{规避}.</p>\n</div>",
 			"notes": "Creates an area of smoke in a LBT that obscures vision (–4).",
 			"actions": {
 				"skill": "运动"
@@ -1841,12 +1841,12 @@
 		},
 		"Solid Shot (Cannon)": {
 			"name": "Solid Shot (Cannon)",
-			"description": "<div class=\"swade-core\"><p>Heavy balls of iron, lead, or stone designed to batter walls or plow through packed ranks of troops. To fire, the leader of the crew makes a @Compendium[swade-core-rules.swade-skills.Shooting]{射击} roll as usual. If successful, roll a die. If even, it bounces to another victim behind and within 6&rdquo; of the first and hits him as well. Continue in this way until the die roll is odd.</p></div>",
+			"description": "<div class=\"swade-core\"><p>Heavy balls of iron, lead, or stone designed to batter walls or plow through packed ranks of troops. To fire, the leader of the crew makes a @Compendium[swade-core-rules.swade-skills.射击]{射击} roll as usual. If successful, roll a die. If even, it bounces to another victim behind and within 6&rdquo; of the first and hits him as well. Continue in this way until the die roll is odd.</p></div>",
 			"notes": "50/100/200, 3d6+1, AP 4"
 		},
 		"Sparrow": {
 			"name": "Sparrow",
-			"description": "<div class=\"swade-core\">\n<p><span style=\"background-color: #dfe6f5; color: #191813;\">@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{重武器}</span>. A medium range, radar-guided missile fired from an aircraft. @Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{小型爆散盖板}.</p>\n<hr />\n<p>Unless otherwise noted, missiles must &ldquo;lock&rdquo; onto their targets before they can be fired. This action is an opposed @Compendium[swade-core-rules.swade-skills.Electronics]{电子学} roll versus the target&rsquo;s maneuvering skill (@Compendium[swade-core-rules.swade-skills.Boating]{驾船}, @Compendium[swade-core-rules.swade-skills.Driving]{驾驶}, or @Compendium[swade-core-rules.swade-skills.Piloting]{航空}, as appropriate). Success gives the attacker a &ldquo;short&rdquo; lock and allows him to fire up to half the missiles his particular craft can fire at once. A raise is a more solid lock and allows him to fire all of them.</p>\n<p>The enemy attempts to evade each missile separately by making a maneuvering roll at &minus;4 (or &minus;2 if the target has substantial cover to hide behind&mdash;such as asteroids, skyscrapers, canyon walls, or even large enemy ships. A @Compendium[swade-core-rules.swade-rules.Trait Rolls]{Critical Failure} means the craft goes @Compendium[swade-core-rules.swade-tables.Out of Control]{失控}.</p>\n<p><strong>Anti-Missile Systems:</strong> Warships and futuristic space vessels often have &ldquo;point defense&rdquo; systems to shoot down incoming missiles. Operators must be on @Compendium[swade-core-rules.swade-rules.Hold]{待机} to shoot down missiles; automated systems attack automatically. The system grants a single @Compendium[swade-core-rules.swade-skills.Shooting]{射击} roll per missile at Short @Compendium[swade-core-rules.swade-rules.Range]{射程} and any other relevant modifiers (including @Compendium[swade-core-rules.swade-rules.Speed]{速度}&mdash;missiles move at Mach 1, a &minus;6 penalty, unless otherwise noted). Unless otherwise noted, missiles are objects with a @Compendium[swade-core-rules.swade-rules.Breaking Things]{坚韧} of 8 (2).</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p><span style=\"background-color: #dfe6f5; color: #191813;\">@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器}</span>. A medium range, radar-guided missile fired from an aircraft. @Compendium[swade-core-rules.swade-rules.范围效果攻击]{小型爆散盖板}.</p>\n<hr />\n<p>Unless otherwise noted, missiles must &ldquo;lock&rdquo; onto their targets before they can be fired. This action is an opposed @Compendium[swade-core-rules.swade-skills.电子学]{电子学} roll versus the target&rsquo;s maneuvering skill (@Compendium[swade-core-rules.swade-skills.驾船]{驾船}, @Compendium[swade-core-rules.swade-skills.驾驶]{驾驶}, or @Compendium[swade-core-rules.swade-skills.航空]{航空}, as appropriate). Success gives the attacker a &ldquo;short&rdquo; lock and allows him to fire up to half the missiles his particular craft can fire at once. A raise is a more solid lock and allows him to fire all of them.</p>\n<p>The enemy attempts to evade each missile separately by making a maneuvering roll at &minus;4 (or &minus;2 if the target has substantial cover to hide behind&mdash;such as asteroids, skyscrapers, canyon walls, or even large enemy ships. A @Compendium[swade-core-rules.swade-rules.特性投骰]{Critical Failure} means the craft goes @Compendium[swade-core-rules.swade-tables.失控]{失控}.</p>\n<p><strong>Anti-Missile Systems:</strong> Warships and futuristic space vessels often have &ldquo;point defense&rdquo; systems to shoot down incoming missiles. Operators must be on @Compendium[swade-core-rules.swade-rules.待机]{待机} to shoot down missiles; automated systems attack automatically. The system grants a single @Compendium[swade-core-rules.swade-skills.射击]{射击} roll per missile at Short @Compendium[swade-core-rules.swade-rules.射程]{射程} and any other relevant modifiers (including @Compendium[swade-core-rules.swade-rules.速度]{速度}&mdash;missiles move at Mach 1, a &minus;6 penalty, unless otherwise noted). Unless otherwise noted, missiles are objects with a @Compendium[swade-core-rules.swade-rules.破坏物品]{坚韧} of 8 (2).</p>\n</div>",
 			"notes": "重武器 A medium range, radar-guided missile fired from an aircraft.",
 			"actions": {
 				"skill": "射击"
@@ -1854,7 +1854,7 @@
 		},
 		"Spear": {
 			"name": "Spear",
-			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Reach]{触及} 1. @Compendium[swade-core-rules.swade-rules.Parry]{格挡} +1 if used @Compendium[swade-core-rules.swade-rules.Two Hands]{two-handed}</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.触及]{触及} 1. @Compendium[swade-core-rules.swade-rules.格挡]{格挡} +1 if used @Compendium[swade-core-rules.swade-rules.Two Hands]{two-handed}</p>\n</div>",
 			"notes": "Reach 1. Parry +1 if used two-handed",
 			"actions": {
 				"skill": "运动",
@@ -1881,7 +1881,7 @@
 		},
 		"Springfield Model 1861": {
 			"name": "Springfield Model 1861",
-			"description": "<div class=\"swade-core\"><p>Black powder weapons are @Compendium[swade-core-rules.swade-rules.Reload]{装填} 3.</p></div>",
+			"description": "<div class=\"swade-core\"><p>Black powder weapons are @Compendium[swade-core-rules.swade-rules.装填]{装填} 3.</p></div>",
 			"notes": "Black powder weapons are Reload 3.",
 			"actions": {
 				"skill": "射击"
@@ -1889,7 +1889,7 @@
 		},
 		"Staff": {
 			"name": "Staff",
-			"description": "<div class=\"swade-core\">\n<p>+1 @Compendium[swade-core-rules.swade-rules.Parry]{格挡}, @Compendium[swade-core-rules.swade-rules.Reach]{触及} 1, @Compendium[swade-core-rules.swade-rules.Two Hands]{two hands}</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>+1 @Compendium[swade-core-rules.swade-rules.格挡]{格挡}, @Compendium[swade-core-rules.swade-rules.触及]{触及} 1, @Compendium[swade-core-rules.swade-rules.Two Hands]{two hands}</p>\n</div>",
 			"notes": "+1 Parry, Reach 1",
 			"actions": {
 				"skill": "格斗",
@@ -1902,7 +1902,7 @@
 		},
 		"Steyr AUG": {
 			"name": "Steyr AUG",
-			"description": "<div class=\"swade-core\"><p>May fire a @Compendium[swade-core-rules.swade-rules.Three-Round Burst]{三连发}.</p></div>",
+			"description": "<div class=\"swade-core\"><p>May fire a @Compendium[swade-core-rules.swade-rules.三连发]{三连发}.</p></div>",
 			"actions": {
 				"skill": "射击",
 				"additional": {
@@ -1920,7 +1920,7 @@
 		},
 		"Streetsweeper Shotgun": {
 			"name": "Streetsweeper Shotgun",
-			"description": "<div class=\"swade-core\"><p>@Compendium[swade-core-rules.swade-rules.Shotguns]{霰弹枪} fire a spread of pellets (called &ldquo;shot&rdquo; or &ldquo;buckshot&rdquo;) to increase the shooter&rsquo;s chance of hitting his target. Up close, the blast can be devastating.</p></div>",
+			"description": "<div class=\"swade-core\"><p>@Compendium[swade-core-rules.swade-rules.霰弹枪]{霰弹枪} fire a spread of pellets (called &ldquo;shot&rdquo; or &ldquo;buckshot&rdquo;) to increase the shooter&rsquo;s chance of hitting his target. Up close, the blast can be devastating.</p></div>",
 			"actions": {
 				"skill": "射击",
 				"additional": {
@@ -1944,7 +1944,7 @@
 		},
 		"Stun Grenade": {
 			"name": "Stun Grenade",
-			"description": "<div class=\"swade-core\">\n<p>Targets must make a @Compendium[swade-core-rules.swade-rules.Traits]{活力} roll (at &ndash;2 with a raise) or be @Compendium[swade-core-rules.swade-powers.Stun]{震慑}.</p>\n<hr />\n<p>Grenades activate when their safety pin is pulled, then detonate a few seconds later. They are thrown with the @Compendium[swade-core-rules.swade-skills.Athletics]{运动} skill at the Ranges listed, and cannot make use of @Compendium[swade-core-rules.swade-rules.Range]{Extreme Range}. @Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{大型爆散盖板}</p>\n<p>All grenades are @Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{重武器} and detonate in the listed blast template (see @Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{范围效果攻击}). Grenades may be @Compendium[swade-core-rules.swade-rules.Evasion]{规避}.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>Targets must make a @Compendium[swade-core-rules.swade-rules.特性]{活力} roll (at &ndash;2 with a raise) or be @Compendium[swade-core-rules.swade-powers.震慑]{震慑}.</p>\n<hr />\n<p>Grenades activate when their safety pin is pulled, then detonate a few seconds later. They are thrown with the @Compendium[swade-core-rules.swade-skills.运动]{运动} skill at the Ranges listed, and cannot make use of @Compendium[swade-core-rules.swade-rules.射程]{Extreme Range}. @Compendium[swade-core-rules.swade-rules.范围效果攻击]{大型爆散盖板}</p>\n<p>All grenades are @Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器} and detonate in the listed blast template (see @Compendium[swade-core-rules.swade-rules.范围效果攻击]{范围效果攻击}). Grenades may be @Compendium[swade-core-rules.swade-rules.回避]{规避}.</p>\n</div>",
 			"notes": "Targets must make a Vigor roll (at –2 with a raise) or be Stunned.",
 			"actions": {
 				"skill": "运动"
@@ -1952,7 +1952,7 @@
 		},
 		"Stun Gun": {
 			"name": "Stun Gun",
-			"description": "<div class=\"swade-core\">\n<p>Uses @Compendium[swade-core-rules.swade-skills.Shooting]{射击}. @Compendium[swade-core-rules.swade-rules.Range]{射程} 1/2/4. Shots 3 before needing to be recharged for at least two hours. Victims must make a @Compendium[swade-core-rules.swade-rules.Traits]{活力} roll at &ndash;2 or be @Compendium[swade-core-rules.swade-rules.Stunned]{震慑}.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>Uses @Compendium[swade-core-rules.swade-skills.射击]{射击}. @Compendium[swade-core-rules.swade-rules.射程]{射程} 1/2/4. Shots 3 before needing to be recharged for at least two hours. Victims must make a @Compendium[swade-core-rules.swade-rules.特性]{活力} roll at &ndash;2 or be @Compendium[swade-core-rules.swade-rules.震慑]{震慑}.</p>\n</div>",
 			"notes": "Uses 射击. Range 1/2/4. Shots 3 before needing to be recharged for at least two hours. Victims must make a Vigor roll at –2 or be Stunned.",
 			"actions": {
 				"skill": "射击"
@@ -1960,7 +1960,7 @@
 		},
 		"Survival Knife": {
 			"name": "Survival Knife",
-			"description": "<div class=\"swade-core\"><p>Basic tools in handle add +1 to @Compendium[swade-core-rules.swade-skills.Survival]{生存} rolls</p></div>",
+			"description": "<div class=\"swade-core\"><p>Basic tools in handle add +1 to @Compendium[swade-core-rules.swade-skills.生存]{生存} rolls</p></div>",
 			"notes": "Basic tools in handle add +1 to Survival rolls",
 			"actions": {
 				"skill": "格斗"
@@ -1968,7 +1968,7 @@
 		},
 		"Switchblade": {
 			"name": "Switchblade",
-			"description": "<div class=\"swade-core\">\n<p>&minus;2 to be @Compendium[swade-core-rules.swade-skills.Notice]{察觉} if hidden</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>&minus;2 to be @Compendium[swade-core-rules.swade-skills.察觉]{察觉} if hidden</p>\n</div>",
 			"notes": "−2 to be Noticed if hidden",
 			"actions": {
 				"skill": "格斗"
@@ -2005,7 +2005,7 @@
 		},
 		"TOW Missile Launcher": {
 			"name": "TOW Missile Launcher",
-			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{重武器}. A wire-guided missile fired from a portable or vehicle-mounted launcher. Doesn&rsquo;t require a lock&mdash;just a @Compendium[swade-core-rules.swade-skills.Shooting]{射击} roll, and can&rsquo;t be jammed. @Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{中型爆散盖板}.</p>\n<hr />\n<p>Unless otherwise noted, missiles must &ldquo;lock&rdquo; onto their targets before they can be fired. This action is an opposed @Compendium[swade-core-rules.swade-skills.Electronics]{电子学} roll versus the target&rsquo;s maneuvering skill (@Compendium[swade-core-rules.swade-skills.Boating]{驾船}, @Compendium[swade-core-rules.swade-skills.Driving]{驾驶}, or @Compendium[swade-core-rules.swade-skills.Piloting]{航空}, as appropriate). Success gives the attacker a &ldquo;short&rdquo; lock and allows him to fire up to half the missiles his particular craft can fire at once. A raise is a more solid lock and allows him to fire all of them.</p>\n<p>The enemy attempts to evade each missile separately by making a maneuvering roll at &minus;4 (or &minus;2 if the target has substantial cover to hide behind&mdash;such as asteroids, skyscrapers, canyon walls, or even large enemy ships. A @Compendium[swade-core-rules.swade-rules.Trait Rolls]{Critical Failure} means the craft goes @Compendium[swade-core-rules.swade-tables.Out of Control]{失控}.</p>\n<p><strong>Anti-Missile Systems:</strong> Warships and futuristic space vessels often have &ldquo;point defense&rdquo; systems to shoot down incoming missiles. Operators must be on @Compendium[swade-core-rules.swade-rules.Hold]{待机} to shoot down missiles; automated systems attack automatically. The system grants a single @Compendium[swade-core-rules.swade-skills.Shooting]{射击} roll per missile at Short @Compendium[swade-core-rules.swade-rules.Range]{射程} and any other relevant modifiers (including @Compendium[swade-core-rules.swade-rules.Speed]{速度}&mdash;missiles move at Mach 1, a &minus;6 penalty, unless otherwise noted). Unless otherwise noted, missiles are objects with a @Compendium[swade-core-rules.swade-rules.Breaking Things]{坚韧}&nbsp;of 8 (2).</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器}. A wire-guided missile fired from a portable or vehicle-mounted launcher. Doesn&rsquo;t require a lock&mdash;just a @Compendium[swade-core-rules.swade-skills.射击]{射击} roll, and can&rsquo;t be jammed. @Compendium[swade-core-rules.swade-rules.范围效果攻击]{中型爆散盖板}.</p>\n<hr />\n<p>Unless otherwise noted, missiles must &ldquo;lock&rdquo; onto their targets before they can be fired. This action is an opposed @Compendium[swade-core-rules.swade-skills.电子学]{电子学} roll versus the target&rsquo;s maneuvering skill (@Compendium[swade-core-rules.swade-skills.驾船]{驾船}, @Compendium[swade-core-rules.swade-skills.驾驶]{驾驶}, or @Compendium[swade-core-rules.swade-skills.航空]{航空}, as appropriate). Success gives the attacker a &ldquo;short&rdquo; lock and allows him to fire up to half the missiles his particular craft can fire at once. A raise is a more solid lock and allows him to fire all of them.</p>\n<p>The enemy attempts to evade each missile separately by making a maneuvering roll at &minus;4 (or &minus;2 if the target has substantial cover to hide behind&mdash;such as asteroids, skyscrapers, canyon walls, or even large enemy ships. A @Compendium[swade-core-rules.swade-rules.特性投骰]{Critical Failure} means the craft goes @Compendium[swade-core-rules.swade-tables.失控]{失控}.</p>\n<p><strong>Anti-Missile Systems:</strong> Warships and futuristic space vessels often have &ldquo;point defense&rdquo; systems to shoot down incoming missiles. Operators must be on @Compendium[swade-core-rules.swade-rules.待机]{待机} to shoot down missiles; automated systems attack automatically. The system grants a single @Compendium[swade-core-rules.swade-skills.射击]{射击} roll per missile at Short @Compendium[swade-core-rules.swade-rules.射程]{射程} and any other relevant modifiers (including @Compendium[swade-core-rules.swade-rules.速度]{速度}&mdash;missiles move at Mach 1, a &minus;6 penalty, unless otherwise noted). Unless otherwise noted, missiles are objects with a @Compendium[swade-core-rules.swade-rules.破坏物品]{坚韧}&nbsp;of 8 (2).</p>\n</div>",
 			"notes": "重武器 A wire-guided missile fired from a portable or vehicle-mounted launcher. Doesn’t require a lock—just a 射击 roll, and can’t be jammed.",
 			"actions": {
 				"skill": "射击"
@@ -2044,7 +2044,7 @@
 		},
 		"Torpedo": {
 			"name": "Torpedo",
-			"description": "<div class=\"swade-core\">\n<p>Rocket launchers and early torpedoes are direct-fire weapons that explode on contact with their target. @Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{重武器}. @Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{大型爆散盖板}.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>Rocket launchers and early torpedoes are direct-fire weapons that explode on contact with their target. @Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器}. @Compendium[swade-core-rules.swade-rules.范围效果攻击]{大型爆散盖板}.</p>\n</div>",
 			"notes": "LBT",
 			"actions": {
 				"skill": "射击"
@@ -2060,7 +2060,7 @@
 		},
 		"Trebuchet": {
 			"name": "Trebuchet",
-			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{中型爆散盖板}, @Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{重武器}, @Compendium[swade-core-rules.swade-rules.Reload]{装填} time is every 5 minutes with a crew of 4.</p>\n<hr />\n<p>Catapults are simple devices that hurl large stones at enemy defenses or ranks of troops. They normally require a crew of eight to load the projectile, crank down the lever that propels it, then sight and aim it. Firing can be done by a single person, but loading the projectile takes at least four.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.范围效果攻击]{中型爆散盖板}, @Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器}, @Compendium[swade-core-rules.swade-rules.装填]{装填} time is every 5 minutes with a crew of 4.</p>\n<hr />\n<p>Catapults are simple devices that hurl large stones at enemy defenses or ranks of troops. They normally require a crew of eight to load the projectile, crank down the lever that propels it, then sight and aim it. Firing can be done by a single person, but loading the projectile takes at least four.</p>\n</div>",
 			"notes": "中型爆散盖板, Heavy Weapon, Reload time is every 5 minutes with a crew of 4.",
 			"actions": {
 				"skill": "射击"
@@ -2114,7 +2114,7 @@
 		},
 		"Warhammer": {
 			"name": "Warhammer",
-			"description": "<div class=\"swade-core\">\n<p>Spiked, @Compendium[swade-core-rules.swade-rules.Armor Piercing (AP)]{穿甲} 1</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>Spiked, @Compendium[swade-core-rules.swade-rules.护甲 Piercing (AP)]{穿甲} 1</p>\n</div>",
 			"notes": "Spiked, AP 1",
 			"actions": {
 				"skill": "格斗"
