@@ -1,12 +1,12 @@
 {
 	"label": "SWADE负赘",
 	"mapping": {
-		"description": "data.description"
+		"description": "data.description",
+		"foldername": "flags.cf.name"
 	},
 	"entries": {
-		"#[CF_tempEntity]": {
-			"name": "#[CF_tempEntity]",
-			"description": ""
+		"xtaUPCsQHGcWSNiJ": {
+			"foldername": "负赘"
 		},
 		"All Thumbs": {
 			"name": "一窍不通",

@@ -2,12 +2,36 @@
 	"label": "SWADE专长",
 	"mapping": {
 		"description": "data.description",
-		"requirements": "data.requirements"
+		"requirements": "data.requirements",
+		"foldername": "flags.cf.name"
 	},
 	"entries": {
-		"#[CF_tempEntity]": {
-			"name": "#[CF_tempEntity]",
-			"description": ""
+		"2CIvOdMFUb3IgBlw": {
+			"foldername": "战斗专长"
+		},
+		"7sLfyNLO2g6E63hy": {
+			"foldername": "术业专长"
+		},
+		"8MxRoxixBH9kOQcC": {
+			"foldername": "领导力专长"
+		},
+		"UsDlfJtQ36FMtbRE": {
+			"foldername": "专长"
+		},
+		"aONyRLOYseLse5fM": {
+			"foldername": "传奇专长"
+		},
+		"k2jYj3iaRsXkooLj": {
+			"foldername": "奇术专长"
+		},
+		"lJUYx7fCBuGxl2IT": {
+			"foldername": "社交专长"
+		},
+		"ozf9MkDp2k8EEQbx": {
+			"foldername": "背景专长"
+		},
+		"sRsFDWRLqZkEInCC": {
+			"foldername": "奇异专长"
 		},
 		"Ace": {
 			"name": "绝佳",

@@ -5,12 +5,12 @@
 		"rank": "data.rank",
 		"range": "data.range",
 		"duration": "data.duration",
-		"trapping": "data.trapping"
+		"trapping": "data.trapping",
+		"foldername": "flags.cf.name"
 	},
 	"entries": {
-		"#[CF_tempEntity]": {
-			"name": "#[CF_tempEntity]",
-			"description": ""
+		"zg9LySuee24fhPnB": {
+			"foldername": "奇术"
 		},
 		"Arcane Protection": {
 			"name": "奥法防护",

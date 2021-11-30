@@ -1,12 +1,12 @@
 {
 	"label": "SWADE技能",
 	"mapping": {
-		"description": "data.description"
+		"description": "data.description",
+		"foldername": "flags.cf.name"
 	},
 	"entries": {
-		"#[CF_tempEntity]": {
-			"name": "#[CF_tempEntity]",
-			"description": ""
+		"NSNVNkHBCUOSoNRV": {
+			"foldername": "技能"
 		},
 		"Academics": {
 			"name": "人文",
@@ -38,7 +38,7 @@
 		},
 		"Faith": {
 			"name": "信仰",
-			"description": "<div class=\"swade-core\"><p>信仰是@Compendium[swade-core-rules.swade-rules.奥法背景(奇迹)]{奥法背景(奇迹)}必需的奥法技能。</p></div>"
+			"description": "<div class=\"swade-core\"><p>信仰是@Compendium[swade-core-rules.swade-rules.奥法背景 (奇迹)]{奥法背景(奇迹)}必需的奥法技能。</p></div>"
 		},
 		"Fighting": {
 			"name": "格斗",
@@ -46,7 +46,7 @@
 		},
 		"Focus": {
 			"name": "集中",
-			"description": "<div class=\"swade-core\"><p>集中是@Compendium[swade-core-rules.swade-rules.奥法背景(异禀)]{奥法背景(异禀)}必需的奥法技能。</p></div>"
+			"description": "<div class=\"swade-core\"><p>集中是@Compendium[swade-core-rules.swade-rules.奥法背景 (异禀)]{奥法背景(异禀)}必需的奥法技能。</p></div>"
 		},
 		"Gambling": {
 			"name": "赌博",
@@ -82,7 +82,7 @@
 		},
 		"Persuasion": {
 			"name": "交涉",
-			"description": "<div class=\"swade-core\">\n<p>Persuasion is the ability to convince others to do what you want through reason, cajoling, deception, rewards, or other friendly means. Persuasion isn&rsquo;t mind control. It can change someone&rsquo;s attitude but not their goals. A bandit may let you keep a sentimental piece of jewelry with a good Persuasion roll but still takes all your other goods.</p>\n<p>When used to @Compendium[swade-core-rules.swade-rules.援助]{援助} allies it&rsquo;s an unopposed roll. If the target is resistant, it&rsquo;s an @JournalEntry[JBxsGv2wAoAmoCDe]{对抗} roll vs. the target&rsquo;s @Compendium[swade-core-rules.swade-rules.特性]{心魂}. The GM should modify the roll as she sees fit based on roleplaying, any pertinent @Compendium[swade-core-rules.swade-rules.专长]{专长} or @Compendium[swade-core-rules.swade-rules.负赘]{负赘} that affect the conversation, and the circumstances.</p>\n<p><strong>Reaction Level:</strong> How much a person is willing to cooperate depends largely on their attitude toward whoever&rsquo;s talking to them. The Game Master can decide how nonplayer characters feel based on the setting, or roll on the @Compendium[swade-core-rules.swade-tables.态度表]{反应表} if she has no preconceived notions.</p>\n<p>@Compendium[swade-core-rules.swade-rules.特性投骰]{成功} improves the target&rsquo;s attitude one level and a raise improves it two. Further increases aren&rsquo;t generally possible in the same encounter&mdash;it takes individuals a little time to adjust their biases.</p>\n<p>@Compendium[swade-core-rules.swade-rules.特性投骰]{失败} means the target won&rsquo;t change his mind this scene or until the situation changes in some important way. A @Compendium[swade-core-rules.swade-rules.特性投骰]{大失败} also <em>reduces</em> the target&rsquo;s attitude two levels.</p>\n<p>Only one roll should generally be allowed per interaction unless new information is revealed, a substantial reward is offered, etc.</p>\n<p><strong>Networking: </strong>Characters can also use Persuasion as a &ldquo;macro skill,&rdquo; simulating a few hours or an evening&rsquo;s time hobnobbing and socializing to gain favors or information. See @Compendium[swade-core-rules.swade-rules.打点关系]{打点关系}.</p>\n</div>"
+			"description": "<div class=\"swade-core\">\n<p>Persuasion is the ability to convince others to do what you want through reason, cajoling, deception, rewards, or other friendly means. Persuasion isn&rsquo;t mind control. It can change someone&rsquo;s attitude but not their goals. A bandit may let you keep a sentimental piece of jewelry with a good Persuasion roll but still takes all your other goods.</p>\n<p>When used to @Compendium[swade-core-rules.swade-rules.援助]{援助} allies it&rsquo;s an unopposed roll. If the target is resistant, it&rsquo;s an @Compendium[swade-core-rules.swade-rules.特性投骰]{对抗} roll vs. the target&rsquo;s @Compendium[swade-core-rules.swade-rules.特性]{心魂}. The GM should modify the roll as she sees fit based on roleplaying, any pertinent @Compendium[swade-core-rules.swade-rules.专长]{专长} or @Compendium[swade-core-rules.swade-rules.负赘]{负赘} that affect the conversation, and the circumstances.</p>\n<p><strong>Reaction Level:</strong> How much a person is willing to cooperate depends largely on their attitude toward whoever&rsquo;s talking to them. The Game Master can decide how nonplayer characters feel based on the setting, or roll on the @Compendium[swade-core-rules.swade-tables.态度表]{反应表} if she has no preconceived notions.</p>\n<p>@Compendium[swade-core-rules.swade-rules.特性投骰]{成功} improves the target&rsquo;s attitude one level and a raise improves it two. Further increases aren&rsquo;t generally possible in the same encounter&mdash;it takes individuals a little time to adjust their biases.</p>\n<p>@Compendium[swade-core-rules.swade-rules.特性投骰]{失败} means the target won&rsquo;t change his mind this scene or until the situation changes in some important way. A @Compendium[swade-core-rules.swade-rules.特性投骰]{大失败} also <em>reduces</em> the target&rsquo;s attitude two levels.</p>\n<p>Only one roll should generally be allowed per interaction unless new information is revealed, a substantial reward is offered, etc.</p>\n<p><strong>Networking: </strong>Characters can also use Persuasion as a &ldquo;macro skill,&rdquo; simulating a few hours or an evening&rsquo;s time hobnobbing and socializing to gain favors or information. See @Compendium[swade-core-rules.swade-rules.打点关系]{打点关系}.</p>\n</div>"
 		},
 		"Piloting": {
 			"name": "航空",
@@ -90,7 +90,7 @@
 		},
 		"Psionics": {
 			"name": "灵能",
-			"description": "<div class=\"swade-core\"><p>This is the skill &ldquo;psions&rdquo; or &ldquo;psis&rdquo; use to activate and control their psionic abilities. See the @Compendium[swade-core-rules.swade-edges.奥法背景 (Psionics)]{奥法背景 (灵能)} edge.</p></div>"
+			"description": "<div class=\"swade-core\"><p>This is the skill &ldquo;psions&rdquo; or &ldquo;psis&rdquo; use to activate and control their psionic abilities. See the @Compendium[swade-core-rules.swade-edges.奥法背景 (灵能)]{奥法背景 (灵能)} edge.</p></div>"
 		},
 		"Repair": {
 			"name": "修理",
@@ -114,7 +114,7 @@
 		},
 		"Spellcasting": {
 			"name": "施法",
-			"description": "<div class=\"swade-core\"><p>Mages, wizards, warlocks, and witches use Spellcasting to cast spells. See the @Compendium[swade-core-rules.swade-rules.奥法背景 (Magic)]{奥法背景 (魔法)} Edge.</p></div>"
+			"description": "<div class=\"swade-core\"><p>Mages, wizards, warlocks, and witches use Spellcasting to cast spells. See the @Compendium[swade-core-rules.swade-rules.奥法背景 (魔法)]{奥法背景 (魔法)} Edge.</p></div>"
 		},
 		"Stealth": {
 			"name": "潜行",
@@ -138,7 +138,7 @@
 		},
 		"Weird Science": {
 			"name": "奇异科学",
-			"description": "<div class=\"swade-core\"><p>&ldquo;Mad&rdquo; scientists, inventors in worlds with magic (or technology far beyond our own), alchemists, or artificers can be found throughout many <cite>Savage Worlds</cite>.</p>\n<p>Though their techniques may vary, all use Weird Science as their arcane skill. See the @Compendium[swade-core-rules.swade-rules.奥法背景 (Weird Science)]{奥法背景 (奇异科学)} Edge to learn more of their wondrous ways.</p>\n<p>&nbsp;</p></div>"
+			"description": "<div class=\"swade-core\"><p>&ldquo;Mad&rdquo; scientists, inventors in worlds with magic (or technology far beyond our own), alchemists, or artificers can be found throughout many <cite>Savage Worlds</cite>.</p>\n<p>Though their techniques may vary, all use Weird Science as their arcane skill. See the @Compendium[swade-core-rules.swade-rules.奥法背景 (奇异科学)]{奥法背景 (奇异科学)} Edge to learn more of their wondrous ways.</p>\n<p>&nbsp;</p></div>"
 		}
 	}
 }

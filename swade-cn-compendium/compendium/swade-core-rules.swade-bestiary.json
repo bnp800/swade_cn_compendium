@@ -1,12 +1,14 @@
 {
 	"label": "SWADE怪物图鉴",
 	"mapping": {
-		"biography": "data.details.biography.value"
+		"biography": "data.details.biography.value",
+		"effects": "effects",
+		"label": "effects.label",
+		"foldername": "flags.cf.name"
 	},
 	"entries": {
-		"#[CF_tempEntity]": {
-			"name": "#[CF_tempEntity]",
-			"biography": ""
+		"zdFQtewGCVSCT6Ie": {
+			"foldername": "怪物图鉴"
 		},
 		"Alligator/Crocodile": {
 			"name": "鳄鱼/短吻鳄",
@@ -19,8 +21,8 @@
 				},
 				{
 					"id": "4TEkmb9PU4k9l5MF",
-					"name": "啮咬",
-					"description": "<div class=\"swade-core\">\n<p>见@Compendium[swade-core-rules.swade-rules.特殊能力 (噬咬)]{啮咬}。</p>\n<p><strong>Rollover:</strong>&nbsp;Gators and crocs grasp prey in their vice-like jaws and roll with them. If one of these large reptiles hits with a raise, its bonus damage is a d10 instead of a d6.</p>\n</div>",
+					"name": "噬咬",
+					"description": "<div class=\"swade-core\">\n<p>见@Compendium[swade-core-rules.swade-rules.特殊能力 (噬咬)]{噬咬}。</p>\n<p><strong>Rollover:</strong>&nbsp;Gators and crocs grasp prey in their vice-like jaws and roll with them. If one of these large reptiles hits with a raise, its bonus damage is a d10 instead of a d6.</p>\n</div>",
 					"actions": {
 						"skill": "格斗",
 						"additional": {
@@ -38,8 +40,8 @@
 			"items": [
 				{
 					"id": "T1ifBDtX5PnYfPri",
-					"name": "啮咬/爪抓",
-					"description": "<div class=\"swade-core\">\n<p>见@Compendium[swade-core-rules.swade-rules.特殊能力 (噬咬)]{啮咬}和@Compendium[swade-core-rules.swade-rules.特殊能力 (爪抓)]{爪抓}。</p>\n</div>",
+					"name": "噬咬/爪抓",
+					"description": "<div class=\"swade-core\">\n<p>见@Compendium[swade-core-rules.swade-rules.特殊能力 (噬咬)]{噬咬}和@Compendium[swade-core-rules.swade-rules.特殊能力 (爪抓)]{爪抓}。</p>\n</div>",
 					"actions": {
 						"skill": "格斗"
 					}
@@ -66,8 +68,8 @@
 			"items": [
 				{
 					"id": "pJt2N7UPQ3W9z2La",
-					"name": "啮咬/爪抓",
-					"description": "<div class=\"swade-core\">\n<p>见@Compendium[swade-core-rules.swade-rules.特殊能力 (噬咬)]{啮咬}和@Compendium[swade-core-rules.swade-rules.特殊能力 (爪抓)]{爪抓}。</p>\n</div>",
+					"name": "噬咬/爪抓",
+					"description": "<div class=\"swade-core\">\n<p>见@Compendium[swade-core-rules.swade-rules.特殊能力 (噬咬)]{噬咬}和@Compendium[swade-core-rules.swade-rules.特殊能力 (爪抓)]{爪抓}。</p>\n</div>",
 					"actions": {
 						"skill": "格斗"
 					}
@@ -80,8 +82,8 @@
 			"items": [
 				{
 					"id": "vF7p7G1NlSGp47YB",
-					"name": "啮咬",
-					"description": "<div class=\"swade-core\">\n<p>见@Compendium[swade-core-rules.swade-rules.特殊能力 (噬咬)]{啮咬}。</p>\n</div>",
+					"name": "噬咬",
+					"description": "<div class=\"swade-core\">\n<p>见@Compendium[swade-core-rules.swade-rules.特殊能力 (噬咬)]{噬咬}。</p>\n</div>",
 					"actions": {
 						"skill": "格斗"
 					}
@@ -94,8 +96,8 @@
 			"items": [
 				{
 					"id": "zSzxELVfxfIB5hTB",
-					"name": "啮咬",
-					"description": "<div class=\"swade-core\">\n<p>见@Compendium[swade-core-rules.swade-rules.特殊能力 (噬咬)]{啮咬}。</p>\n</div>",
+					"name": "噬咬",
+					"description": "<div class=\"swade-core\">\n<p>见@Compendium[swade-core-rules.swade-rules.特殊能力 (噬咬)]{噬咬}。</p>\n</div>",
 					"actions": {
 						"skill": "格斗"
 					}
@@ -113,8 +115,8 @@
 				},
 				{
 					"id": "P4Jr2C61WaeUfM2y",
-					"name": "啮咬/爪抓",
-					"description": "<div class=\"swade-core\">\n<p>见@Compendium[swade-core-rules.swade-rules.特殊能力 (噬咬)]{啮咬}和@Compendium[swade-core-rules.swade-rules.特殊能力 (爪抓)]{爪抓}。</p>\n</div>",
+					"name": "噬咬/爪抓",
+					"description": "<div class=\"swade-core\">\n<p>见@Compendium[swade-core-rules.swade-rules.特殊能力 (噬咬)]{噬咬}和@Compendium[swade-core-rules.swade-rules.特殊能力 (爪抓)]{爪抓}。</p>\n</div>",
 					"actions": {
 						"skill": "格斗"
 					}
@@ -145,8 +147,8 @@
 				},
 				{
 					"id": "UhVY7vOuVJXYML5t",
-					"name": "啮咬/爪抓",
-					"description": "<div class=\"swade-core\">\n<p>见@Compendium[swade-core-rules.swade-rules.特殊能力 (噬咬)]{啮咬}和@Compendium[swade-core-rules.swade-rules.特殊能力 (爪抓)]{爪抓}。</p>\n</div>",
+					"name": "噬咬/爪抓",
+					"description": "<div class=\"swade-core\">\n<p>见@Compendium[swade-core-rules.swade-rules.特殊能力 (噬咬)]{噬咬}和@Compendium[swade-core-rules.swade-rules.特殊能力 (爪抓)]{爪抓}。</p>\n</div>",
 					"actions": {
 						"skill": "格斗"
 					}
@@ -276,8 +278,8 @@
 				},
 				{
 					"id": "SDeWDr4uGMKK7bxO",
-					"name": "啮咬",
-					"description": "<div class=\"swade-core\">\n<p>见@Compendium[swade-core-rules.swade-rules.特殊能力 (噬咬)]{啮咬}。</p>\n</div>",
+					"name": "噬咬",
+					"description": "<div class=\"swade-core\">\n<p>见@Compendium[swade-core-rules.swade-rules.特殊能力 (噬咬)]{噬咬}。</p>\n</div>",
 					"actions": {
 						"skill": "格斗"
 					}
@@ -364,8 +366,8 @@
 			"items": [
 				{
 					"id": "hjzWukEasDnDqYiv",
-					"name": "啮咬/爪抓",
-					"description": "<div class=\"swade-core\">\n<p>见@Compendium[swade-core-rules.swade-rules.特殊能力 (噬咬)]{啮咬}和@Compendium[swade-core-rules.swade-rules.Special Ability (爪抓)]{爪抓}。</p>\n</div>",
+					"name": "噬咬/爪抓",
+					"description": "<div class=\"swade-core\">\n<p>见@Compendium[swade-core-rules.swade-rules.特殊能力 (噬咬)]{噬咬}和@Compendium[swade-core-rules.swade-rules.Special Ability (爪抓)]{爪抓}。</p>\n</div>",
 					"actions": {
 						"skill": "格斗"
 					}
@@ -485,6 +487,45 @@
 					"id": "b9VEwNHjutfzqvuY",
 					"name": "Chain Arms and Legs",
 					"description": "<div class=\"swade-core\">\n<p>Chain, splint, metal scale, ring mail, samurai armor.</p>\n</div>"
+				},
+				{
+					"id": "3XgMLMWoNmxJeFKH",
+					"flags": {},
+                    "changes": [
+                        {
+                            "key": "data.stats.parry.modifier",
+                            "value": "-1",
+                            "mode": 2
+                        }
+                    ],
+                    "disabled": false,
+                    "duration": {
+                        "startTime": null
+                    },
+                    "icon": "modules/swade-core-rules/assets/art/equipment/weapons/melee-medieval-greataxe.webp",
+					"label": "巨斧减值", "tint": null,
+                    "transfer": true
+				}
+			],
+			"effects": [
+				{
+					"_id": "OvJVri8Z1L81SbBa","flags": {},
+					"changes": [
+						{
+							"key": "data.stats.parry.modifier",
+							"value": "-1",
+							"mode": 2
+						}
+					],
+					"disabled": false,
+					"duration": {
+						"startTime": 0,
+						"startRound": 1
+					},
+					"icon": "modules/swade-core-rules/assets/art/equipment/weapons/melee-medieval-greataxe.webp",
+					"label": "巨斧减值", "origin": "Actor.H8uO7A7Ro8t9IBkx.Item.3djXoyjmyQV30CGr",
+					"tint": null,
+					"transfer": true
 				}
 			]
 		},
@@ -494,8 +535,8 @@
 			"items": [
 				{
 					"id": "oZfxqtlBM6Otj9vP",
-					"name": "啮咬/爪抓",
-					"description": "<div class=\"swade-core\">\n<p>见@Compendium[swade-core-rules.swade-rules.特殊能力 (噬咬)]{啮咬}和@Compendium[swade-core-rules.swade-rules.特殊能力 (爪抓)]{爪抓}。</p>\n</div>",
+					"name": "噬咬/爪抓",
+					"description": "<div class=\"swade-core\">\n<p>见@Compendium[swade-core-rules.swade-rules.特殊能力 (噬咬)]{噬咬}和@Compendium[swade-core-rules.swade-rules.特殊能力 (爪抓)]{爪抓}。</p>\n</div>",
 					"actions": {
 						"skill": "格斗"
 					}
@@ -508,8 +549,8 @@
 			"items": [
 				{
 					"id": "ikc2t3YYPOkNXxgz",
-					"name": "啮咬",
-					"description": "<div class=\"swade-core\">\n<p>见@Compendium[swade-core-rules.swade-rules.特殊能力 (噬咬)]{啮咬}。</p>\n</div>",
+					"name": "噬咬",
+					"description": "<div class=\"swade-core\">\n<p>见@Compendium[swade-core-rules.swade-rules.特殊能力 (噬咬)]{噬咬}。</p>\n</div>",
 					"actions": {
 						"skill": "格斗"
 					}
@@ -522,8 +563,8 @@
 			"items": [
 				{
 					"id": "ikc2t3YYPOkNXxgz",
-					"name": "啮咬",
-					"description": "<div class=\"swade-core\">\n<p>见@Compendium[swade-core-rules.swade-rules.特殊能力 (噬咬)]{啮咬}。</p>\n</div>",
+					"name": "噬咬",
+					"description": "<div class=\"swade-core\">\n<p>见@Compendium[swade-core-rules.swade-rules.特殊能力 (噬咬)]{噬咬}。</p>\n</div>",
 					"actions": {
 						"skill": "格斗"
 					}
@@ -536,8 +577,8 @@
 			"items": [
 				{
 					"id": "3fXJUdMW7qQWJoDc",
-					"name": "啮咬",
-					"description": "<div class=\"swade-core\">\n<p>见@Compendium[swade-core-rules.swade-rules.特殊能力 (噬咬)]{啮咬}。</p>\n</div>",
+					"name": "噬咬",
+					"description": "<div class=\"swade-core\">\n<p>见@Compendium[swade-core-rules.swade-rules.特殊能力 (噬咬)]{噬咬}。</p>\n</div>",
 					"actions": {
 						"skill": "格斗"
 					}
@@ -569,8 +610,8 @@
 			"items": [
 				{
 					"id": "0PeQ8azYsqclb8l3",
-					"name": "啮咬",
-					"description": "<div class=\"swade-core\">\n<p>见@Compendium[swade-core-rules.swade-rules.特殊能力 (噬咬)]{啮咬}。</p>\n</div>"
+					"name": "噬咬",
+					"description": "<div class=\"swade-core\">\n<p>见@Compendium[swade-core-rules.swade-rules.特殊能力 (噬咬)]{噬咬}。</p>\n</div>"
 				}
 			]
 		},
@@ -580,8 +621,8 @@
 			"items": [
 				{
 					"id": "9GnltxOCuZ0s64yp",
-					"name": "啮咬",
-					"description": "<div class=\"swade-core\">\n<p>见@Compendium[swade-core-rules.swade-rules.特殊能力 (噬咬)]{啮咬}。</p>\n</div>",
+					"name": "噬咬",
+					"description": "<div class=\"swade-core\">\n<p>见@Compendium[swade-core-rules.swade-rules.特殊能力 (噬咬)]{噬咬}。</p>\n</div>",
 					"actions": {
 						"skill": "格斗"
 					}
@@ -630,7 +671,7 @@
 			"items": [
 				{
 					"id": "Ea39PsTpEcUdIg2L",
-					"name": "啮咬",
+					"name": "噬咬",
 					"description": "<div class='swade-core'><p>未提供描述或引用。</p></div>",
 					"actions": {
 						"skill": "格斗"
@@ -719,8 +760,8 @@
 				},
 				{
 					"id": "pL2x9LbLq1VztxAG",
-					"name": "啮咬/爪抓",
-					"description": "<div class=\"swade-core\">\n<p>见@Compendium[swade-core-rules.swade-rules.特殊能力 (噬咬)]{啮咬}和@Compendium[swade-core-rules.swade-rules.特殊能力 (爪抓)]{爪抓}。</p>\n</div>",
+					"name": "噬咬/爪抓",
+					"description": "<div class=\"swade-core\">\n<p>见@Compendium[swade-core-rules.swade-rules.特殊能力 (噬咬)]{噬咬}和@Compendium[swade-core-rules.swade-rules.特殊能力 (爪抓)]{爪抓}。</p>\n</div>",
 					"actions": {
 						"skill": "格斗"
 					}
@@ -742,8 +783,8 @@
 			"items": [
 				{
 					"id": "j2We2fwAMeUdOcJ1",
-					"name": "啮咬/爪抓",
-					"description": "<div class=\"swade-core\">\n<p>见@Compendium[swade-core-rules.swade-rules.特殊能力 (噬咬)]{啮咬}和@Compendium[swade-core-rules.swade-rules.特殊能力 (爪抓)]{爪抓}。</p>\n</div>",
+					"name": "噬咬/爪抓",
+					"description": "<div class=\"swade-core\">\n<p>见@Compendium[swade-core-rules.swade-rules.特殊能力 (噬咬)]{噬咬}和@Compendium[swade-core-rules.swade-rules.特殊能力 (爪抓)]{爪抓}。</p>\n</div>",
 					"actions": {
 						"skill": "格斗"
 					}
@@ -756,8 +797,8 @@
 			"items": [
 				{
 					"id": "55EYZr0gf7T4te6f",
-					"name": "啮咬/爪抓",
-					"description": "<div class=\"swade-core\">\n<p>见@Compendium[swade-core-rules.swade-rules.特殊能力 (噬咬)]{啮咬}和@Compendium[swade-core-rules.swade-rules.特殊能力 (爪抓)]{爪抓}。</p>\n</div>",
+					"name": "噬咬/爪抓",
+					"description": "<div class=\"swade-core\">\n<p>见@Compendium[swade-core-rules.swade-rules.特殊能力 (噬咬)]{噬咬}和@Compendium[swade-core-rules.swade-rules.特殊能力 (爪抓)]{爪抓}。</p>\n</div>",
 					"actions": {
 						"skill": "格斗"
 					}
@@ -770,8 +811,8 @@
 			"items": [
 				{
 					"id": "vKAbWOCifSUWrSWj",
-					"name": "啮咬/爪抓",
-					"description": "<div class=\"swade-core\">\n<p>见@Compendium[swade-core-rules.swade-rules.特殊能力 (噬咬)]{啮咬}和@Compendium[swade-core-rules.swade-rules.特殊能力 (爪抓)]{爪抓}。</p>\n</div>",
+					"name": "噬咬/爪抓",
+					"description": "<div class=\"swade-core\">\n<p>见@Compendium[swade-core-rules.swade-rules.特殊能力 (噬咬)]{噬咬}和@Compendium[swade-core-rules.swade-rules.特殊能力 (爪抓)]{爪抓}。</p>\n</div>",
 					"actions": {
 						"skill": "格斗"
 					}
@@ -784,8 +825,8 @@
 			"items": [
 				{
 					"id": "gjnViVg986uznMhU",
-					"name": "啮咬/爪抓",
-					"description": "<div class=\"swade-core\">\n<p>见@Compendium[swade-core-rules.swade-rules.特殊能力 (噬咬)]{啮咬}和@Compendium[swade-core-rules.swade-rules.特殊能力 (爪抓)]{爪抓}。</p>\n</div>",
+					"name": "噬咬/爪抓",
+					"description": "<div class=\"swade-core\">\n<p>见@Compendium[swade-core-rules.swade-rules.特殊能力 (噬咬)]{噬咬}和@Compendium[swade-core-rules.swade-rules.特殊能力 (爪抓)]{爪抓}。</p>\n</div>",
 					"actions": {
 						"skill": "格斗"
 					}
