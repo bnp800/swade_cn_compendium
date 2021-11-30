@@ -10,12 +10,12 @@
 		},
 		"AH-64 Apache": {
 			"name": "AH-64 Apache",
-			"description": "<div class=\"swade-core\">\n<p>Helicopter, @Compendium[swade-core-rules.swade-rules.Vehicle Notes]{Night Vision}.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>Helicopter, @Compendium[swade-core-rules.swade-rules.Vehicle Notes]{夜视}.</p>\n</div>",
 			"items": [
 				{
 					"id": "ZkQ5MB1hMIOKYsnN",
 					"name": "Hellfire Missiles",
-					"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}. A laser-guided missile fired from a vehicle-mounted launcher.</p>\n<hr />\n<p>Unless otherwise noted, missiles must &ldquo;lock&rdquo; onto their targets before they can be fired. This action is an opposed @Compendium[swade-core-rules.swade-skills.Electronics]{Electronics} roll versus the target&rsquo;s maneuvering skill (@Compendium[swade-core-rules.swade-skills.Boating]{Boating}, @Compendium[swade-core-rules.swade-skills.Driving]{Driving}, or @Compendium[swade-core-rules.swade-skills.Piloting]{Piloting}, as appropriate). Success gives the attacker a &ldquo;short&rdquo; lock and allows him to fire up to half the missiles his particular craft can fire at once. A raise is a more solid lock and allows him to fire all of them.</p>\n<p>The enemy attempts to evade each missile separately by making a @Compendium[swade-core-rules.swade-rules.Chases and Vehicles]{maneuvering} roll at &minus;4 (or &minus;2 if the target has substantial cover to hide behind&mdash;such as asteroids, skyscrapers, canyon walls, or even large enemy ships. A @Compendium[swade-core-rules.swade-rules.Trait Rolls]{Critical Failure} means the craft goes <strong>@Compendium[swade-core-rules.swade-tables.Out of Control]{Out of Control}</strong>.</p>\n<p><strong>Anti-Missile Systems: </strong>Warships and futuristic space vessels often have &ldquo;point defense&rdquo; systems to shoot down incoming missiles. Operators must be on @Compendium[swade-core-rules.swade-rules.Hold]{Hold} to shoot down missiles; automated systems attack automatically. The system grants a single @Compendium[swade-core-rules.swade-skills.Shooting]{Shooting} roll per missile at @Compendium[swade-core-rules.swade-rules.Range]{Short Range} and any other relevant modifiers (including @Compendium[swade-core-rules.swade-rules.Speed]{Speed}&mdash;missiles move at Mach 1, a &minus;6 penalty, unless otherwise noted). Unless otherwise noted, missiles are objects with a @Compendium[swade-core-rules.swade-rules.Characters]{Toughness} of 8 (2) (see <strong>@Compendium[swade-core-rules.swade-rules.Breaking Things]{Breaking Things}</strong>).</p>\n</div>",
+					"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}. A laser-guided missile fired from a vehicle-mounted launcher.</p>\n<hr />\n<p>Unless otherwise noted, missiles must &ldquo;lock&rdquo; onto their targets before they can be fired. This action is an opposed @Compendium[swade-core-rules.swade-skills.Electronics]{电子学} roll versus the target&rsquo;s maneuvering skill (@Compendium[swade-core-rules.swade-skills.Boating]{驾船}, @Compendium[swade-core-rules.swade-skills.Driving]{驾驶}, or @Compendium[swade-core-rules.swade-skills.Piloting]{航空}, as appropriate). Success gives the attacker a &ldquo;short&rdquo; lock and allows him to fire up to half the missiles his particular craft can fire at once. A raise is a more solid lock and allows him to fire all of them.</p>\n<p>The enemy attempts to evade each missile separately by making a @Compendium[swade-core-rules.swade-rules.Chases and Vehicles]{机动} roll at &minus;4 (or &minus;2 if the target has substantial cover to hide behind&mdash;such as asteroids, skyscrapers, canyon walls, or even large enemy ships. A @Compendium[swade-core-rules.swade-rules.Trait Rolls]{Critical Failure} means the craft goes <strong>@Compendium[swade-core-rules.swade-tables.Out of Control]{失控}</strong>.</p>\n<p><strong>Anti-Missile Systems: </strong>Warships and futuristic space vessels often have &ldquo;point defense&rdquo; systems to shoot down incoming missiles. Operators must be on @Compendium[swade-core-rules.swade-rules.Hold]{待机} to shoot down missiles; automated systems attack automatically. The system grants a single @Compendium[swade-core-rules.swade-skills.Shooting]{射击} roll per missile at @Compendium[swade-core-rules.swade-rules.Range]{Short Range} and any other relevant modifiers (including @Compendium[swade-core-rules.swade-rules.Speed]{速度}&mdash;missiles move at Mach 1, a &minus;6 penalty, unless otherwise noted). Unless otherwise noted, missiles are objects with a @Compendium[swade-core-rules.swade-rules.Characters]{坚韧} of 8 (2) (see <strong>@Compendium[swade-core-rules.swade-rules.Breaking Things]{破坏物品}</strong>).</p>\n</div>",
 					"notes": "Heavy Weapon. A laser-guided missile fired from a vehicle-mounted launcher.",
 					"actions": {
 						"skill": "Shooting"
@@ -24,7 +24,7 @@
 				{
 					"id": "lnvng9WbqaaN1Q2x",
 					"name": "30mm Cannon (Fixed Front)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.Rate of Fire]{Rate of Fire} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}</p>\n</div>",
+					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.Rate of Fire]{射速} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}</p>\n</div>",
 					"notes": "Heavy Weapon",
 					"actions": {
 						"skill": "Shooting",
@@ -42,7 +42,7 @@
 		},
 		"AV-8B Harrier": {
 			"name": "AV-8B Harrier",
-			"description": "<div class=\"swade-core\">\n<p>&ndash;1 @Compendium[swade-core-rules.swade-rules.Vehicle Notes]{Handling} when in VTOL mode.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>&ndash;1 @Compendium[swade-core-rules.swade-rules.Vehicle Notes]{操控性} when in VTOL mode.</p>\n</div>",
 			"items": [
 				{
 					"id": "scF8tYijOo5SXEYe",
@@ -64,7 +64,7 @@
 				{
 					"id": "EdvU8l2DYvpFGYRV",
 					"name": "Sidewinder Missiles",
-					"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}. A short range, heat-seeking missile fired from an aircraft.</p>\n<hr />\n<p>Unless otherwise noted, missiles must &ldquo;lock&rdquo; onto their targets before they can be fired. This action is an opposed @Compendium[swade-core-rules.swade-skills.Electronics]{Electronics} roll versus the target&rsquo;s maneuvering skill (@Compendium[swade-core-rules.swade-skills.Boating]{Boating}, @Compendium[swade-core-rules.swade-skills.Driving]{Driving}, or @Compendium[swade-core-rules.swade-skills.Piloting]{Piloting}, as appropriate). Success gives the attacker a &ldquo;short&rdquo; lock and allows him to fire up to half the missiles his particular craft can fire at once. A raise is a more solid lock and allows him to fire all of them.</p>\n<p>The enemy attempts to evade each missile separately by making a @Compendium[swade-core-rules.swade-rules.Chases and Vehicles]{maneuvering} roll at &minus;4 (or &minus;2 if the target has substantial cover to hide behind&mdash;such as asteroids, skyscrapers, canyon walls, or even large enemy ships. A @Compendium[swade-core-rules.swade-rules.Trait Rolls]{Critical Failure} means the craft goes <strong>@Compendium[swade-core-rules.swade-tables.Out of Control]{Out of Control}</strong>.</p>\n<p><strong>Anti-Missile Systems: </strong>Warships and futuristic space vessels often have &ldquo;point defense&rdquo; systems to shoot down incoming missiles. Operators must be on @Compendium[swade-core-rules.swade-rules.Hold]{Hold} to shoot down missiles; automated systems attack automatically. The system grants a single @Compendium[swade-core-rules.swade-skills.Shooting]{Shooting} roll per missile at @Compendium[swade-core-rules.swade-rules.Range]{Short Range} and any other relevant modifiers (including @Compendium[swade-core-rules.swade-rules.Speed]{Speed}&mdash;missiles move at Mach 1, a &minus;6 penalty, unless otherwise noted). Unless otherwise noted, missiles are objects with a @Compendium[swade-core-rules.swade-rules.Characters]{Toughness} of 8 (2) (see <strong>@Compendium[swade-core-rules.swade-rules.Breaking Things]{Breaking Things}</strong>).</p>\n</div>",
+					"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}. A short range, heat-seeking missile fired from an aircraft.</p>\n<hr />\n<p>Unless otherwise noted, missiles must &ldquo;lock&rdquo; onto their targets before they can be fired. This action is an opposed @Compendium[swade-core-rules.swade-skills.Electronics]{电子学} roll versus the target&rsquo;s maneuvering skill (@Compendium[swade-core-rules.swade-skills.Boating]{驾船}, @Compendium[swade-core-rules.swade-skills.Driving]{驾驶}, or @Compendium[swade-core-rules.swade-skills.Piloting]{航空}, as appropriate). Success gives the attacker a &ldquo;short&rdquo; lock and allows him to fire up to half the missiles his particular craft can fire at once. A raise is a more solid lock and allows him to fire all of them.</p>\n<p>The enemy attempts to evade each missile separately by making a @Compendium[swade-core-rules.swade-rules.Chases and Vehicles]{机动} roll at &minus;4 (or &minus;2 if the target has substantial cover to hide behind&mdash;such as asteroids, skyscrapers, canyon walls, or even large enemy ships. A @Compendium[swade-core-rules.swade-rules.Trait Rolls]{Critical Failure} means the craft goes <strong>@Compendium[swade-core-rules.swade-tables.Out of Control]{失控}</strong>.</p>\n<p><strong>Anti-Missile Systems: </strong>Warships and futuristic space vessels often have &ldquo;point defense&rdquo; systems to shoot down incoming missiles. Operators must be on @Compendium[swade-core-rules.swade-rules.Hold]{待机} to shoot down missiles; automated systems attack automatically. The system grants a single @Compendium[swade-core-rules.swade-skills.Shooting]{射击} roll per missile at @Compendium[swade-core-rules.swade-rules.Range]{Short Range} and any other relevant modifiers (including @Compendium[swade-core-rules.swade-rules.Speed]{速度}&mdash;missiles move at Mach 1, a &minus;6 penalty, unless otherwise noted). Unless otherwise noted, missiles are objects with a @Compendium[swade-core-rules.swade-rules.Characters]{坚韧} of 8 (2) (see <strong>@Compendium[swade-core-rules.swade-rules.Breaking Things]{破坏物品}</strong>).</p>\n</div>",
 					"notes": "Heavy Weapon. A short range, heat-seeking missile fired from an aircraft.",
 					"actions": {
 						"skill": "Shooting"
@@ -79,7 +79,7 @@
 				{
 					"id": "vGDSgq9MVjJyk3Hl",
 					"name": "2× Linked Heavy MG (Fixed Front)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.Rate of Fire]{Rate of Fire} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}</p>\n</div>",
+					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.Rate of Fire]{射速} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}</p>\n</div>",
 					"notes": "Heavy Weapon.",
 					"actions": {
 						"skill": "Shooting",
@@ -96,7 +96,7 @@
 				{
 					"id": "8T1mpMsIcuhLXWDZ",
 					"name": "2× Linked Heavy MG (Top Turret)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.Rate of Fire]{Rate of Fire} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}</p>\n</div>",
+					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.Rate of Fire]{射速} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}</p>\n</div>",
 					"notes": "Heavy Weapon.",
 					"actions": {
 						"skill": "Shooting",
@@ -113,7 +113,7 @@
 				{
 					"id": "eHamz63rpUvEmwjo",
 					"name": "2× Linked Heavy MG (Ball Turret)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.Rate of Fire]{Rate of Fire} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}</p>\n</div>",
+					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.Rate of Fire]{射速} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}</p>\n</div>",
 					"notes": "Heavy Weapon.",
 					"actions": {
 						"skill": "Shooting",
@@ -130,7 +130,7 @@
 				{
 					"id": "9zs2WdfPObWDx45b",
 					"name": "2× Linked Heavy MG (Fixed Left)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.Rate of Fire]{Rate of Fire} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}</p>\n</div>",
+					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.Rate of Fire]{射速} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}</p>\n</div>",
 					"notes": "Heavy Weapon.",
 					"actions": {
 						"skill": "Shooting",
@@ -147,7 +147,7 @@
 				{
 					"id": "eSmG24Nukyi7LJ2O",
 					"name": "2× Linked Heavy MG (Fixed Right)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.Rate of Fire]{Rate of Fire} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}</p>\n</div>",
+					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.Rate of Fire]{射速} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}</p>\n</div>",
 					"notes": "Heavy Weapon.",
 					"actions": {
 						"skill": "Shooting",
@@ -170,7 +170,7 @@
 				{
 					"id": "mscUj2HMfBODgiLY",
 					"name": "2× Linked Heavy MG (Fixed Front)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.Rate of Fire]{Rate of Fire} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}</p>\n</div>",
+					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.Rate of Fire]{射速} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}</p>\n</div>",
 					"notes": "Heavy Weapon.",
 					"actions": {
 						"skill": "Shooting",
@@ -187,7 +187,7 @@
 				{
 					"id": "k6vKhGYNbFUuibDv",
 					"name": "20mm Cannon (Fixed Front)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a Rate of Fire 3 or higher have a minimum @Compendium[swade-core-rules.swade-rules.Rate of Fire]{Rate of Fire} of 2.</p>\n</div>",
+					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a Rate of Fire 3 or higher have a minimum @Compendium[swade-core-rules.swade-rules.Rate of Fire]{射速} of 2.</p>\n</div>",
 					"notes": "Heavy",
 					"actions": {
 						"skill": "Shooting",
@@ -208,7 +208,7 @@
 		},
 		"BTR 70 APC": {
 			"name": "BTR 70 APC",
-			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Vehicle Notes]{Amphibious}, @Compendium[swade-core-rules.swade-rules.Vehicle Notes]{4WD}, @Compendium[swade-core-rules.swade-rules.Vehicle Notes]{Heavy Armor}.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Vehicle Notes]{两栖}, @Compendium[swade-core-rules.swade-rules.Vehicle Notes]{四轮驱动}, @Compendium[swade-core-rules.swade-rules.Vehicle Notes]{重护甲}.</p>\n</div>",
 			"items": [
 				{
 					"id": "4wJIKzRHGm6xIpJt",
@@ -248,7 +248,7 @@
 		},
 		"Bicycle": {
 			"name": "Bicycle",
-			"description": "<div class=\"swade-core\"><p>50% chance a shot hits the rider instead. Doubles rider&rsquo;s @Compendium[swade-core-rules.swade-rules.Movement]{Pace} and @Compendium[swade-core-rules.swade-rules.Movement]{running die} result.</p></div>"
+			"description": "<div class=\"swade-core\"><p>50% chance a shot hits the rider instead. Doubles rider&rsquo;s @Compendium[swade-core-rules.swade-rules.Movement]{移速} and @Compendium[swade-core-rules.swade-rules.Movement]{奔跑骰} result.</p></div>"
 		},
 		"Biplane": {
 			"name": "Biplane",
@@ -256,7 +256,7 @@
 		},
 		"Carriage": {
 			"name": "Carriage",
-			"description": "<div class=\"swade-core\"><p>Pulled by one @Compendium[swade-core-rules.swade-equipment.Horse]{Horse}. @Compendium[swade-core-rules.swade-rules.Movement]{Pace} on the tabletop is 12 and it may run.</p></div>"
+			"description": "<div class=\"swade-core\"><p>Pulled by one @Compendium[swade-core-rules.swade-equipment.Horse]{马}. @Compendium[swade-core-rules.swade-rules.Movement]{移速} on the tabletop is 12 and it may run.</p></div>"
 		},
 		"Cessna Skyhawk": {
 			"name": "Cessna Skyhawk",
@@ -268,7 +268,7 @@
 		},
 		"Dirt Bike": {
 			"name": "Dirt Bike",
-			"description": "<div class=\"swade-core\">\n<p>Stock bike designed for off-road use with excellent shocks. Off Road (treat as @Compendium[swade-core-rules.swade-rules.Vehicle Notes]{4WD}). 50% chance any uncalled shot hits the character instead.</p>\n</div>"
+			"description": "<div class=\"swade-core\">\n<p>Stock bike designed for off-road use with excellent shocks. Off Road (treat as @Compendium[swade-core-rules.swade-rules.Vehicle Notes]{四轮驱动}). 50% chance any uncalled shot hits the character instead.</p>\n</div>"
 		},
 		"Early Car": {
 			"name": "Early Car",
@@ -276,12 +276,12 @@
 		},
 		"F-15 Eagle": {
 			"name": "F-15 Eagle",
-			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Vehicle Notes]{Night Vision}.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Vehicle Notes]{夜视}.</p>\n</div>",
 			"items": [
 				{
 					"id": "dffORL9Ksa1YunhZ",
 					"name": "20mm Cannon (Fixed Front)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a Rate of Fire 3 or higher have a minimum @Compendium[swade-core-rules.swade-rules.Rate of Fire]{Rate of Fire} of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}</p>\n</div>",
+					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a Rate of Fire 3 or higher have a minimum @Compendium[swade-core-rules.swade-rules.Rate of Fire]{射速} of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}</p>\n</div>",
 					"notes": "Heavy Weapon",
 					"actions": {
 						"skill": "Shooting",
@@ -302,12 +302,12 @@
 		},
 		"Galleon": {
 			"name": "Galleon",
-			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Vehicle Notes]{Heavy Armor}.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Vehicle Notes]{重护甲}.</p>\n</div>",
 			"items": [
 				{
 					"id": "7WuOXZ4o4Tlpfpyx",
 					"name": "16 to 46 Cannons (12 lb), Solid Shot (Fixed Left and Right)",
-					"description": "<div class=\"swade-core\">\n<p>Cannons are used to destroy city walls or break up large troop formations. The leader of the weapon&rsquo;s crew makes the @Compendium[swade-core-rules.swade-skills.Shooting]{Shooting} roll.</p>\n<p><strong>Bombard:</strong> Assuming they have a rough idea of their target&rsquo;s location, howitzers, mortars, and bombards may fire at targets they cannot see by lobbing projectiles over intervening terrain or obstacles. Bombarding suffers a &minus;4 penalty in addition to all other modifiers, and doubles deviation when the @Compendium[swade-core-rules.swade-skills.Shooting]{Shooting} roll is failed (see @Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{Area Effect Attacks}). Reduce the penalty to &minus;2 with precise coordinates (such as from a spotter).</p>\n<p><strong>Solid Shot:</strong> Heavy balls of iron, lead, or stone designed to batter walls or plow through packed ranks of troops. To fire, the leader of the crew makes a @Compendium[swade-core-rules.swade-skills.Shooting]{Shooting} roll as usual. If successful, roll a die. If even, it bounces to another victim behind and within 6&rdquo; of the first and hits him as well. Continue in this way until the die roll is odd.</p>\n<p>Compare the @Compendium[swade-core-rules.swade-skills.Shooting]{Shooting} roll to every target within using a base TN of 4, adjusted for each target&rsquo;s @Compendium[swade-core-rules.swade-rules.Cover and Obstacles]{cover}, special abilities like the @Compendium[swade-core-rules.swade-edges.Dodge]{Dodge} Edge, etc. A hit causes 2d6 damage and a raise causes 3d6.</p>\n<p><strong>Note:</strong> All types of shot are @Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}, @Compendium[swade-core-rules.swade-rules.Reload]{Reload} 8. Two crew members may reload at the same time.</p>\n</div>",
+					"description": "<div class=\"swade-core\">\n<p>Cannons are used to destroy city walls or break up large troop formations. The leader of the weapon&rsquo;s crew makes the @Compendium[swade-core-rules.swade-skills.Shooting]{射击} roll.</p>\n<p><strong>Bombard:</strong> Assuming they have a rough idea of their target&rsquo;s location, howitzers, mortars, and bombards may fire at targets they cannot see by lobbing projectiles over intervening terrain or obstacles. Bombarding suffers a &minus;4 penalty in addition to all other modifiers, and doubles deviation when the @Compendium[swade-core-rules.swade-skills.Shooting]{射击} roll is failed (see @Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{范围效果攻击}). Reduce the penalty to &minus;2 with precise coordinates (such as from a spotter).</p>\n<p><strong>Solid Shot:</strong> Heavy balls of iron, lead, or stone designed to batter walls or plow through packed ranks of troops. To fire, the leader of the crew makes a @Compendium[swade-core-rules.swade-skills.Shooting]{射击} roll as usual. If successful, roll a die. If even, it bounces to another victim behind and within 6&rdquo; of the first and hits him as well. Continue in this way until the die roll is odd.</p>\n<p>Compare the @Compendium[swade-core-rules.swade-skills.Shooting]{射击} roll to every target within using a base TN of 4, adjusted for each target&rsquo;s @Compendium[swade-core-rules.swade-rules.Cover and Obstacles]{掩蔽}, special abilities like the @Compendium[swade-core-rules.swade-edges.Dodge]{闪避} Edge, etc. A hit causes 2d6 damage and a raise causes 3d6.</p>\n<p><strong>Note:</strong> All types of shot are @Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}, @Compendium[swade-core-rules.swade-rules.Reload]{装填} 8. Two crew members may reload at the same time.</p>\n</div>",
 					"notes": "All types of shot are Heavy Weapons, Reload 8. Two crew members may reload at the same time.",
 					"actions": {
 						"skill": "Shooting",
@@ -325,16 +325,15 @@
 		},
 		"Galley": {
 			"name": "Galley",
-			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Vehicle Notes]{Heavy Armor}. Has both oars and sails.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Vehicle Notes]{重护甲}. Has both oars and sails.</p>\n</div>",
 			"items": [
 				{
 					"id": "lJGPVUQLj4tQ2f6Z",
 					"name": "Catapult (Fixed Front)",
-					"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{Medium Blast Template}</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}, Reload time is every 5 minutes with a crew of 4.</p>\n<hr />\n<p>Catapults are simple devices that hurl large stones at enemy defenses or ranks of troops. They normally require a crew of eight to load the projectile, crank down the lever that propels it, then sight and aim it. Firing can be done by a single person, but @Compendium[swade-core-rules.swade-rules.Reloading]{loading} the projectile takes at least four.</p>\n</div>",
+					"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{中型爆散盖板}</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}, Reload time is every 5 minutes with a crew of 4.</p>\n<hr />\n<p>Catapults are simple devices that hurl large stones at enemy defenses or ranks of troops. They normally require a crew of eight to load the projectile, crank down the lever that propels it, then sight and aim it. Firing can be done by a single person, but @Compendium[swade-core-rules.swade-rules.Reloading]{装填} the projectile takes at least four.</p>\n</div>",
 					"notes": "MBT, Heavy Weapon, Reload time is every 5 minutes with a crew of 4.",
 					"actions": {
-						"skill": "Shooting",
-						"additional": {}
+						"skill": "Shooting"
 					}
 				}
 			]
@@ -345,7 +344,7 @@
 		},
 		"Hover APC": {
 			"name": "Hover APC",
-			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Vehicle Notes]{Heavy Armor}, @Compendium[swade-core-rules.swade-rules.Vehicle Notes]{Hover}.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Vehicle Notes]{重护甲}, @Compendium[swade-core-rules.swade-rules.Vehicle Notes]{悬浮}.</p>\n</div>",
 			"items": [
 				{
 					"id": "1il4m3UBnNEG9Gzq",
@@ -383,7 +382,7 @@
 		},
 		"Hover Tank": {
 			"name": "Hover Tank",
-			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Vehicle Notes]{Heavy Armor}, @Compendium[swade-core-rules.swade-rules.Vehicle Notes]{Hover}, @Compendium[swade-core-rules.swade-rules.Vehicle Notes]{Night Vision}.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Vehicle Notes]{重护甲}, @Compendium[swade-core-rules.swade-rules.Vehicle Notes]{悬浮}, @Compendium[swade-core-rules.swade-rules.Vehicle Notes]{夜视}.</p>\n</div>",
 			"items": [
 				{
 					"id": "JwBrJ8FKE3KcJEuT",
@@ -444,7 +443,7 @@
 				{
 					"id": "eiXElDvhNrsI8VHn",
 					"name": "2× Linked Medium MG (Fixed Front)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.Rate of Fire]{Rate of Fire} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}</p>\n</div>",
+					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.Rate of Fire]{射速} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}</p>\n</div>",
 					"notes": "Heavy Weapon.",
 					"actions": {
 						"skill": "Shooting",
@@ -461,7 +460,7 @@
 				{
 					"id": "ynEMEFr7HBYkKlk4",
 					"name": "2× Linked 20mm Cannons (Fixed Front)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.Rate of Fire]{Rate of Fire} 3 or higher have a minimum Rate of Fire of 2.</p>\n</div>",
+					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.Rate of Fire]{射速} 3 or higher have a minimum Rate of Fire of 2.</p>\n</div>",
 					"notes": "Heavy",
 					"actions": {
 						"skill": "Shooting",
@@ -482,12 +481,12 @@
 		},
 		"Jeep": {
 			"name": "Jeep",
-			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Vehicle Notes]{4WD}.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Vehicle Notes]{四轮驱动}.</p>\n</div>",
 			"items": [
 				{
 					"id": "aQoMV9JHbSnuW9UC",
 					"name": "Heavy Machine Gun (Front Pintle Mount)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.Rate of Fire]{Rate of Fire} 3 or higher have a minimum Rate of Fire of 2.</p>\n</div>",
+					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.Rate of Fire]{射速} 3 or higher have a minimum Rate of Fire of 2.</p>\n</div>",
 					"notes": "Heavy Weapon.",
 					"actions": {
 						"skill": "Shooting",
@@ -509,7 +508,7 @@
 		},
 		"M1A1 Abrams": {
 			"name": "M1A1 Abrams",
-			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Vehicle Notes]{Heavy Armor}, @Compendium[swade-core-rules.swade-rules.Vehicle Notes]{Night Vision}, @Compendium[swade-core-rules.swade-rules.Vehicle Notes]{Tracked}.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Vehicle Notes]{重护甲}, @Compendium[swade-core-rules.swade-rules.Vehicle Notes]{夜视}, @Compendium[swade-core-rules.swade-rules.Vehicle Notes]{履带}.</p>\n</div>",
 			"items": [
 				{
 					"id": "mb6PTM4s4oyowckx",
@@ -528,7 +527,7 @@
 				{
 					"id": "Dyc2Twy7EFW8ER1B",
 					"name": "Medium Machine Gun (Front Fixed and in Turret)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a Rate of Fire 3 or higher have a minimum @Compendium[swade-core-rules.swade-rules.Rate of Fire]{Rate of Fire} of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}.</p>\n</div>",
+					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a Rate of Fire 3 or higher have a minimum @Compendium[swade-core-rules.swade-rules.Rate of Fire]{射速} of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}.</p>\n</div>",
 					"notes": "Heavy Weapon.",
 					"actions": {
 						"skill": "Shooting",
@@ -545,7 +544,7 @@
 				{
 					"id": "tN123StgP65SKmEe",
 					"name": "Heavy Machine Gun (Pintle Mount on Turret)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a Rate of Fire 3 or higher have a minimum @Compendium[swade-core-rules.swade-rules.Rate of Fire]{Rate of Fire} of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}</p>\n</div>",
+					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a Rate of Fire 3 or higher have a minimum @Compendium[swade-core-rules.swade-rules.Rate of Fire]{射速} of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}</p>\n</div>",
 					"notes": "Heavy Weapon.",
 					"actions": {
 						"skill": "Shooting",
@@ -563,7 +562,7 @@
 		},
 		"M2 Bradley": {
 			"name": "M2 Bradley",
-			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Vehicle Notes]{Heavy Armor}, @Compendium[swade-core-rules.swade-rules.Vehicle Notes]{Night Vision}, @Compendium[swade-core-rules.swade-rules.Vehicle Notes]{Tracked}.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Vehicle Notes]{重护甲}, @Compendium[swade-core-rules.swade-rules.Vehicle Notes]{夜视}, @Compendium[swade-core-rules.swade-rules.Vehicle Notes]{履带}.</p>\n</div>",
 			"items": [
 				{
 					"id": "uJiBGbLSAqWlLvnE",
@@ -603,7 +602,7 @@
 		},
 		"M4 Sherman": {
 			"name": "M4 Sherman",
-			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Vehicle Notes]{Heavy Armor}, @Compendium[swade-core-rules.swade-rules.Vehicle Notes]{Tracked}.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Vehicle Notes]{重护甲}, @Compendium[swade-core-rules.swade-rules.Vehicle Notes]{履带}.</p>\n</div>",
 			"items": [
 				{
 					"id": "iK28mNind2BYFWyM",
@@ -625,7 +624,7 @@
 				{
 					"id": "K4eedxjRyajTcrOd",
 					"name": "Heavy Machine Gun (Pintle Mount on Turret)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.Rate of Fire]{Rate of Fire} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}</p>\n<p class=\"p1\" style=\"margin-top: 0px; margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 12px; line-height: normal; font-family: 'Helvetica Neue'; -webkit-text-stroke-color: #000000;\">&nbsp;</p>\n</div>",
+					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.Rate of Fire]{射速} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}</p>\n<p class=\"p1\" style=\"margin-top: 0px; margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 12px; line-height: normal; font-family: 'Helvetica Neue'; -webkit-text-stroke-color: #000000;\">&nbsp;</p>\n</div>",
 					"notes": "Heavy Weapon.",
 					"actions": {
 						"skill": "Shooting",
@@ -657,7 +656,7 @@
 		},
 		"M5A1 Stuart": {
 			"name": "M5A1 Stuart",
-			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Vehicle Notes]{Heavy Armor}, @Compendium[swade-core-rules.swade-rules.Vehicle Notes]{Tracked}.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Vehicle Notes]{重护甲}, @Compendium[swade-core-rules.swade-rules.Vehicle Notes]{履带}.</p>\n</div>",
 			"items": [
 				{
 					"id": "7vPQYG4hx8cRtKJe",
@@ -693,7 +692,7 @@
 				{
 					"id": "ezLyfZf6P8encMPJ",
 					"name": "Heavy Machine Gun (Pintle Mount on Turret)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a Rate of Fire 3 or higher have a minimum @Compendium[swade-core-rules.swade-rules.Rate of Fire]{Rate of Fire}&nbsp;of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}</p>\n</div>",
+					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a Rate of Fire 3 or higher have a minimum @Compendium[swade-core-rules.swade-rules.Rate of Fire]{射速}&nbsp;of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}</p>\n</div>",
 					"notes": "Heavy Weapon.",
 					"actions": {
 						"skill": "Shooting",
@@ -724,7 +723,7 @@
 				{
 					"id": "9KyMYbkYSjKHAes1",
 					"name": "2× Linked Heavy MG (Fixed Front)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.Rate of Fire]{Rate of Fire} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}</p>\n</div>",
+					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.Rate of Fire]{射速} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}</p>\n</div>",
 					"notes": "Heavy Weapon.",
 					"actions": {
 						"skill": "Shooting",
@@ -741,7 +740,7 @@
 				{
 					"id": "I37Wh5utmCezlMZ5",
 					"name": "2× Linked Heavy MG (Fixed Front)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.Rate of Fire]{Rate of Fire} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}</p>\n</div>",
+					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.Rate of Fire]{射速} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}</p>\n</div>",
 					"notes": "Heavy Weapon.",
 					"actions": {
 						"skill": "Shooting",
@@ -758,7 +757,7 @@
 				{
 					"id": "dRJkqj0bIuL67cNe",
 					"name": "2× Linked Heavy MG (Fixed Front)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.Rate of Fire]{Rate of Fire} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}</p>\n</div>",
+					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.Rate of Fire]{射速} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}</p>\n</div>",
 					"notes": "Heavy Weapon.",
 					"actions": {
 						"skill": "Shooting",
@@ -776,12 +775,12 @@
 		},
 		"PT Boat (WW2)": {
 			"name": "PT Boat (WW2)",
-			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Vehicle Notes]{Heavy Armor}.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Vehicle Notes]{重护甲}.</p>\n</div>",
 			"items": [
 				{
 					"id": "4v74UcGjmOzxJpEe",
 					"name": "50 cal MG (Front Pintle Mount)",
-					"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon}</p>\n<hr />\n<p>Machine guns are heavy, fully automatic weapons built to withstand prolonged fire. Most are fed by belts or drums and thus have far more ammo capacity than assault rifles, despite similar calibers and rates of fire.</p>\n<p><strong>Weapon Mount:</strong>&nbsp;Most machine-guns require a @Compendium[swade-core-rules.swade-equipment.Bipod/Tripod]{Bipod/Tripod} or vehicle mount to fire, which eliminates any Strength requirement and the @Compendium[swade-core-rules.swade-rules.Recoil]{Recoil} penalty. Their @Compendium[swade-core-rules.swade-rules.Minimum Strength]{Minimum Strength} is listed as &ldquo;NA,&rdquo; or &ldquo;Not Applicable.&rdquo; If a weapon has a Minimum Strength listed, it may be fired from the hip with the @Compendium[swade-core-rules.swade-rules.Snapfire]{Snapfire} and Recoil penalties.</p>\n<p><strong>Minimum Rate of Fire:</strong>&nbsp;Machine-guns have a minimum @Compendium[swade-core-rules.swade-rules.Rate of Fire]{Rate of Fire} of 2 unless otherwise noted.</p>\n<p><strong>Reloading:</strong>&nbsp;Machine guns are @Compendium[swade-core-rules.swade-rules.Reload]{Reload} 2, which includes changing belts or drums, cocking, etc.</p>\n</div>",
+					"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{重武器}</p>\n<hr />\n<p>Machine guns are heavy, fully automatic weapons built to withstand prolonged fire. Most are fed by belts or drums and thus have far more ammo capacity than assault rifles, despite similar calibers and rates of fire.</p>\n<p><strong>Weapon Mount:</strong>&nbsp;Most machine-guns require a @Compendium[swade-core-rules.swade-equipment.Bipod/Tripod]{Bipod/Tripod} or vehicle mount to fire, which eliminates any Strength requirement and the @Compendium[swade-core-rules.swade-rules.Recoil]{后坐力} penalty. Their @Compendium[swade-core-rules.swade-rules.Minimum Strength]{最低力量} is listed as &ldquo;NA,&rdquo; or &ldquo;Not Applicable.&rdquo; If a weapon has a Minimum Strength listed, it may be fired from the hip with the @Compendium[swade-core-rules.swade-rules.Snapfire]{猝射} and Recoil penalties.</p>\n<p><strong>Minimum Rate of Fire:</strong>&nbsp;Machine-guns have a minimum @Compendium[swade-core-rules.swade-rules.Rate of Fire]{射速} of 2 unless otherwise noted.</p>\n<p><strong>Reloading:</strong>&nbsp;Machine guns are @Compendium[swade-core-rules.swade-rules.Reload]{装填} 2, which includes changing belts or drums, cocking, etc.</p>\n</div>",
 					"notes": "Heavy Weapon.",
 					"actions": {
 						"skill": "Shooting",
@@ -815,7 +814,7 @@
 				{
 					"id": "tTmL36kU3p8opaIL",
 					"name": "4× torpedo tubes (Fixed Forward)",
-					"description": "<div class='swade-core'><p>Rocket launchers and early torpedoes are direct-fire weapons that explode on contact with their target. All the listed weapons are @Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapons (HW)}.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{Large Blast Template}</p></div>",
+					"description": "<div class='swade-core'><p>Rocket launchers and early torpedoes are direct-fire weapons that explode on contact with their target. All the listed weapons are @Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapons (HW)}.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{大型爆散盖板}</p></div>",
 					"notes": "LBT, Heavy Weapon.",
 					"actions": {
 						"skill": "Shooting"
@@ -825,12 +824,12 @@
 		},
 		"Patrol Boat, River": {
 			"name": "Patrol Boat, River",
-			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Vehicle Notes]{Heavy Armor}.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Vehicle Notes]{重护甲}.</p>\n</div>",
 			"items": [
 				{
 					"id": "7UJmPpc549mdCmSh",
 					"name": "2× Linked Heavy MG (Front Front Pintle Mount)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.Rate of Fire]{Rate of Fire} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}</p>\n</div>",
+					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.Rate of Fire]{射速} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}</p>\n</div>",
 					"notes": "Heavy Weapon.",
 					"actions": {
 						"skill": "Shooting",
@@ -847,7 +846,7 @@
 				{
 					"id": "LFrUWmn3bpQ4LVv8",
 					"name": "2× Linked Medium MG (Left and Right)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.Rate of Fire]{Rate of Fire} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}</p>\n</div>",
+					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.Rate of Fire]{射速} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}</p>\n</div>",
 					"notes": "Heavy Weapon.",
 					"actions": {
 						"skill": "Shooting",
@@ -864,7 +863,7 @@
 				{
 					"id": "fqbUNGy2HYpgNUfJ",
 					"name": "Heavy Machine Gun (Stern)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.Rate of Fire]{Rate of Fire} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}</p>\n</div>",
+					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.Rate of Fire]{射速} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}</p>\n</div>",
 					"notes": "Heavy Weapon.",
 					"actions": {
 						"skill": "Shooting",
@@ -882,12 +881,12 @@
 		},
 		"Pz IVJ": {
 			"name": "Pz IVJ",
-			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Vehicle Notes]{Heavy Armor}, @Compendium[swade-core-rules.swade-rules.Vehicle Notes]{Tracked}.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Vehicle Notes]{重护甲}, @Compendium[swade-core-rules.swade-rules.Vehicle Notes]{履带}.</p>\n</div>",
 			"items": [
 				{
 					"id": "2OBqmO7ExtPsCFka",
 					"name": "Medium Machine Gun (Front Fixed and in Turret)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a Rate of Fire 3 or higher have a minimum @Compendium[swade-core-rules.swade-rules.Rate of Fire]{Rate of Fire} of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}</p>\n</div>",
+					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a Rate of Fire 3 or higher have a minimum @Compendium[swade-core-rules.swade-rules.Rate of Fire]{射速} of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}</p>\n</div>",
 					"notes": "Heavy Weapon.",
 					"actions": {
 						"skill": "Shooting",
@@ -919,7 +918,7 @@
 		},
 		"Pz VI Tiger II": {
 			"name": "Pz VI Tiger II",
-			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Vehicle Notes]{Heavy Armor}, @Compendium[swade-core-rules.swade-rules.Vehicle Notes]{Tracked}.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Vehicle Notes]{重护甲}, @Compendium[swade-core-rules.swade-rules.Vehicle Notes]{履带}.</p>\n</div>",
 			"items": [
 				{
 					"id": "bTZ7BXL7mbuuzw4y",
@@ -960,12 +959,12 @@
 		},
 		"SU-27": {
 			"name": "SU-27",
-			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Vehicle Notes]{Night Vision}.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Vehicle Notes]{夜视}.</p>\n</div>",
 			"items": [
 				{
 					"id": "DMVzHDZh1Lg6Tbfp",
 					"name": "30mm Cannon (Fixed Front)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a Rate of Fire 3 or higher have a minimum @Compendium[swade-core-rules.swade-rules.Rate of Fire]{Rate of Fire} of 2.</p>\n</div>",
+					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a Rate of Fire 3 or higher have a minimum @Compendium[swade-core-rules.swade-rules.Rate of Fire]{射速} of 2.</p>\n</div>",
 					"notes": "Heavy Weapon",
 					"actions": {
 						"skill": "Shooting",
@@ -982,18 +981,17 @@
 				{
 					"id": "u9DHb70boP2rn4kI",
 					"name": "Sidewinder Missiles (Soviet equivalent)",
-					"description": "<div class=\"swade-core\">\n<p><span style=\"background-color: #dfe6f5; color: #191813;\">@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon}</span>. A short range, heat-seeking missile fired from an aircraft. @Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{Small Blast Template}.</p>\n<hr />\n<p>Unless otherwise noted, missiles must &ldquo;lock&rdquo; onto their targets before they can be fired. This action is an opposed @Compendium[swade-core-rules.swade-skills.Electronics]{Electronics} roll versus the target&rsquo;s maneuvering skill (@Compendium[swade-core-rules.swade-skills.Boating]{Boating}, @Compendium[swade-core-rules.swade-skills.Driving]{Driving}, or @Compendium[swade-core-rules.swade-skills.Piloting]{Piloting}, as appropriate). Success gives the attacker a &ldquo;short&rdquo; lock and allows him to fire up to half the missiles his particular craft can fire at once. A raise is a more solid lock and allows him to fire all of them.</p>\n<p>The enemy attempts to evade each missile separately by making a maneuvering roll at &minus;4 (or &minus;2 if the target has substantial cover to hide behind&mdash;such as asteroids, skyscrapers, canyon walls, or even large enemy ships. A @Compendium[swade-core-rules.swade-rules.Trait Rolls]{Critical Failure} means the craft goes @Compendium[swade-core-rules.swade-tables.Out of Control]{Out of Control}.</p>\n<p><strong>Anti-Missile Systems:</strong> Warships and futuristic space vessels often have &ldquo;point defense&rdquo; systems to shoot down incoming missiles. Operators must be on @Compendium[swade-core-rules.swade-rules.Hold]{Hold} to shoot down missiles; automated systems attack automatically. The system grants a single @Compendium[swade-core-rules.swade-skills.Shooting]{Shooting} roll per missile at Short @Compendium[swade-core-rules.swade-rules.Range]{Range} and any other relevant modifiers (including @Compendium[swade-core-rules.swade-rules.Speed]{Speed}&mdash;missiles move at Mach 1, a &minus;6 penalty, unless otherwise noted). Unless otherwise noted, missiles are objects with a @Compendium[swade-core-rules.swade-rules.Breaking Things]{Toughness} of 8 (2).</p>\n</div>",
+					"description": "<div class=\"swade-core\">\n<p><span style=\"background-color: #dfe6f5; color: #191813;\">@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{重武器}</span>. A short range, heat-seeking missile fired from an aircraft. @Compendium[swade-core-rules.swade-rules.Area Effect Attacks]{小型爆散盖板}.</p>\n<hr />\n<p>Unless otherwise noted, missiles must &ldquo;lock&rdquo; onto their targets before they can be fired. This action is an opposed @Compendium[swade-core-rules.swade-skills.Electronics]{电子学} roll versus the target&rsquo;s maneuvering skill (@Compendium[swade-core-rules.swade-skills.Boating]{驾船}, @Compendium[swade-core-rules.swade-skills.Driving]{驾驶}, or @Compendium[swade-core-rules.swade-skills.Piloting]{航空}, as appropriate). Success gives the attacker a &ldquo;short&rdquo; lock and allows him to fire up to half the missiles his particular craft can fire at once. A raise is a more solid lock and allows him to fire all of them.</p>\n<p>The enemy attempts to evade each missile separately by making a maneuvering roll at &minus;4 (or &minus;2 if the target has substantial cover to hide behind&mdash;such as asteroids, skyscrapers, canyon walls, or even large enemy ships. A @Compendium[swade-core-rules.swade-rules.Trait Rolls]{Critical Failure} means the craft goes @Compendium[swade-core-rules.swade-tables.Out of Control]{失控}.</p>\n<p><strong>Anti-Missile Systems:</strong> Warships and futuristic space vessels often have &ldquo;point defense&rdquo; systems to shoot down incoming missiles. Operators must be on @Compendium[swade-core-rules.swade-rules.Hold]{待机} to shoot down missiles; automated systems attack automatically. The system grants a single @Compendium[swade-core-rules.swade-skills.Shooting]{射击} roll per missile at Short @Compendium[swade-core-rules.swade-rules.Range]{射程} and any other relevant modifiers (including @Compendium[swade-core-rules.swade-rules.Speed]{速度}&mdash;missiles move at Mach 1, a &minus;6 penalty, unless otherwise noted). Unless otherwise noted, missiles are objects with a @Compendium[swade-core-rules.swade-rules.Breaking Things]{坚韧} of 8 (2).</p>\n</div>",
 					"notes": "Heavy Weapon. A short range, heat-seeking missile fired from an aircraft.",
 					"actions": {
-						"skill": "Shooting",
-						"additional": {}
+						"skill": "Shooting"
 					}
 				}
 			]
 		},
 		"Semi-Truck": {
 			"name": "Semi-Truck",
-			"description": "<div class=\"swade-core\">\n<p>Trailer is @Compendium[swade-core-rules.swade-rules.Size and Scale]{Size} 7 (Large), @Compendium[swade-core-rules.swade-rules.Characters]{Toughness} 14 (2). *@Compendium[swade-core-rules.swade-rules.Vehicle Notes]{Handling} with a trailer attached is &ndash;2.</p>\n</div>"
+			"description": "<div class=\"swade-core\">\n<p>Trailer is @Compendium[swade-core-rules.swade-rules.Size and Scale]{体型} 7 (Large), @Compendium[swade-core-rules.swade-rules.Characters]{坚韧} 14 (2). *@Compendium[swade-core-rules.swade-rules.Vehicle Notes]{操控性} with a trailer attached is &ndash;2.</p>\n</div>"
 		},
 		"Small Yacht": {
 			"name": "Small Yacht",
@@ -1014,7 +1012,7 @@
 				{
 					"id": "Et0TUJzkbZVncwAq",
 					"name": "4× Linked Medium MG (Fixed Front)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.Rate of Fire]{Rate of Fire} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}</p>\n</div>",
+					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.Rate of Fire]{射速} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}</p>\n</div>",
 					"notes": "Heavy Weapon.",
 					"actions": {
 						"skill": "Shooting",
@@ -1031,7 +1029,7 @@
 				{
 					"id": "dlbJt1xpqgODvQ77",
 					"name": "4× Linked Medium MG (Fixed Front)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.Rate of Fire]{Rate of Fire} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}</p>\n</div>",
+					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.Rate of Fire]{射速} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}</p>\n</div>",
 					"notes": "Heavy Weapon.",
 					"actions": {
 						"skill": "Shooting",
@@ -1053,7 +1051,7 @@
 		},
 		"Sports Utility Vehicle": {
 			"name": "Sports Utility Vehicle",
-			"description": "<div class=\"swade-core\">\n<p>Luxury features, @Compendium[swade-core-rules.swade-rules.Vehicle Notes]{4WD}</p>\n</div>"
+			"description": "<div class=\"swade-core\">\n<p>Luxury features, @Compendium[swade-core-rules.swade-rules.Vehicle Notes]{四轮驱动}</p>\n</div>"
 		},
 		"Street Bike": {
 			"name": "Street Bike",
@@ -1061,7 +1059,7 @@
 		},
 		"T-34/76": {
 			"name": "T-34/76",
-			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Vehicle Notes]{Heavy Armor}, @Compendium[swade-core-rules.swade-rules.Vehicle Notes]{Sloped Armor} (front only), @Compendium[swade-core-rules.swade-rules.Vehicle Notes]{Tracked}.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Vehicle Notes]{重护甲}, @Compendium[swade-core-rules.swade-rules.Vehicle Notes]{倾斜装甲} (front only), @Compendium[swade-core-rules.swade-rules.Vehicle Notes]{履带}.</p>\n</div>",
 			"items": [
 				{
 					"id": "izqnBfepu5r5upwN",
@@ -1080,7 +1078,7 @@
 				{
 					"id": "fI9uqqLwaczVWR4r",
 					"name": "Medium Machine Gun (Front Fixed and in Turret)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.Rate of Fire]{Rate of Fire} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}</p>\n</div>",
+					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.Rate of Fire]{射速} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}</p>\n</div>",
 					"notes": "Heavy Weapon.",
 					"actions": {
 						"skill": "Shooting",
@@ -1098,12 +1096,12 @@
 		},
 		"T-72 MBT": {
 			"name": "T-72 MBT",
-			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Vehicle Notes]{Heavy Armor}, @Compendium[swade-core-rules.swade-rules.Vehicle Notes]{Tracked}.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Vehicle Notes]{重护甲}, @Compendium[swade-core-rules.swade-rules.Vehicle Notes]{履带}.</p>\n</div>",
 			"items": [
 				{
 					"id": "SPjWzVjoyXetiGzF",
 					"name": "125mm Tank Gun (AP Rounds)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Tank and AT Guns:</strong>&nbsp;May fire either @Compendium[swade-core-rules.swade-rules.Armor Piercing (AP)]{Armor Piercing (AP)} or @Compendium[swade-core-rules.swade-rules.High Explosive (HE)]{High Explosive (HE)} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.Range]{Range} or less (so 4d10+2 becomes 5d10+2, for example).</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}&nbsp;</p>\n</div>",
+					"description": "<div class=\"swade-core\">\n<p><strong>Tank and AT Guns:</strong>&nbsp;May fire either @Compendium[swade-core-rules.swade-rules.Armor Piercing (AP)]{Armor Piercing (AP)} or @Compendium[swade-core-rules.swade-rules.High Explosive (HE)]{High Explosive (HE)} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.Range]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}&nbsp;</p>\n</div>",
 					"notes": "Heavy Weapon.",
 					"actions": {
 						"skill": "Shooting",
@@ -1117,7 +1115,7 @@
 				{
 					"id": "xW0FNYteTDslG9g1",
 					"name": "Medium Machine Gun (In Turret)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a Rate of Fire 3 or higher have a minimum @Compendium[swade-core-rules.swade-rules.Rate of Fire]{Rate of Fire} of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}</p>\n</div>",
+					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a Rate of Fire 3 or higher have a minimum @Compendium[swade-core-rules.swade-rules.Rate of Fire]{射速} of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}</p>\n</div>",
 					"notes": "Heavy Weapon.",
 					"actions": {
 						"skill": "Shooting",
@@ -1134,7 +1132,7 @@
 				{
 					"id": "dkO6ixIyKRsiSTOB",
 					"name": "Heavy Machine Gun (Pintle Mount on Turret)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a Rate of Fire 3 or higher have a minimum @Compendium[swade-core-rules.swade-rules.Rate of Fire]{Rate of Fire} of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}</p>\n</div>",
+					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a Rate of Fire 3 or higher have a minimum @Compendium[swade-core-rules.swade-rules.Rate of Fire]{射速} of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}</p>\n</div>",
 					"notes": "Heavy Weapon.",
 					"actions": {
 						"skill": "Shooting",
@@ -1152,7 +1150,7 @@
 		},
 		"T80 MBT": {
 			"name": "T80 MBT",
-			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Vehicle Notes]{Heavy Armor}, @Compendium[swade-core-rules.swade-rules.Vehicle Notes]{Night Vision}, @Compendium[swade-core-rules.swade-rules.Vehicle Notes]{Tracked}.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.Vehicle Notes]{重护甲}, @Compendium[swade-core-rules.swade-rules.Vehicle Notes]{夜视}, @Compendium[swade-core-rules.swade-rules.Vehicle Notes]{履带}.</p>\n</div>",
 			"items": [
 				{
 					"id": "8UZ7FALmttsECSoR",
@@ -1211,7 +1209,7 @@
 				{
 					"id": "aEhMXhg93IU380Cp",
 					"name": "Medium MG (Fixed Left or Right)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a Rate of Fire 3 or higher have a minimum @Compendium[swade-core-rules.swade-rules.Rate of Fire]{Rate of Fire} of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}</p>\n</div>",
+					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a Rate of Fire 3 or higher have a minimum @Compendium[swade-core-rules.swade-rules.Rate of Fire]{射速} of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.Heavy Weapon (HW)]{Heavy Weapon (HW)}</p>\n</div>",
 					"notes": "Heavy Weapon.",
 					"actions": {
 						"skill": "Shooting",
