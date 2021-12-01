@@ -1,8 +1,10 @@
 {
-	"label": "SWADE表格",
+	"label": "SWADE表格",	"mapping": {
+		"foldername": "flags.cf.name"
+	},
 	"entries": {
-		"#[CF_tempEntity]": {
-			"name": "#[CF_tempEntity]"
+		"OCOFaSainFS22zZD": {
+			"foldername": "表格"
 		},
 		"Battle Effects": {
 			"name": "战斗效果",
