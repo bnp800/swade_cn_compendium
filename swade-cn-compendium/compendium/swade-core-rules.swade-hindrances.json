@@ -26,7 +26,7 @@
 		},
 		"Bad Luck": {
 			"name": "不幸",
-			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Your hero is a little less lucky than most. He gets one less</span> <span class=\"fontstyle0\">@Compendium[swade-core-rules.swade-rules.助力点]{助力点} per game session than normal. A character cannot have both Bad Luck and the @Item[SJAAkOAUeXTk1GCU]{幸运} Edge.</span></p>\n</div>"
+			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Your hero is a little less lucky than most. He gets one less</span> <span class=\"fontstyle0\">@Compendium[swade-core-rules.swade-rules.助力点]{助力点} per game session than normal. A character cannot have both Bad Luck and the @Compendium[swade-core-rules.swade-edges.幸运]{幸运} Edge.</span></p>\n</div>"
 		},
 		"Big Mouth": {
 			"name": "大嘴巴",
@@ -34,7 +34,7 @@
 		},
 		"Blind": {
 			"name": "目盲",
-			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">The individual is completely without sight. He suffers a -6 to all physical tasks that require vision (GM&rsquo;s call). On the plus side, Blind characters gain their choice of a free @Compendium[swade-core-rules.swade-rules.专长]{专长 to compensate for this particularly difficult @Compendium[swade-core-rules.swade-rules.负赘]{负赘}.</span></p>\n</div>"
+			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">The individual is completely without sight. He suffers a -6 to all physical tasks that require vision (GM&rsquo;s call). On the plus side, Blind characters gain their choice of a free @Compendium[swade-core-rules.swade-rules.专长]{专长} to compensate for this particularly difficult @Compendium[swade-core-rules.swade-rules.负赘]{负赘}.</span></p>\n</div>"
 		},
 		"Bloodthirsty": {
 			"name": "嗜血",
@@ -138,7 +138,7 @@
 		},
 		"Obese": {
 			"name": "肥胖",
-			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Those who carry their weight well have the @Compendium[swade-core-rules.swade-edges.健壮]{健壮} Edge. Those who don&rsquo;t are Obese. A character cannot be both @Compendium[swade.专长.健壮]{健壮} and Obese, and this @Compendium[swade-core-rules.swade-rules.负赘]{负赘} can&rsquo;t increase your @Compendium[swade-core-rules.swade-rules.体型和尺寸]{体型} above +3. </span></p>\n<p><span class=\"fontstyle0\">An Obese hero&rsquo;s @Compendium[swade-core-rules.swade-rules.体型和尺寸]{体型} (and therefore @Compendium[swade-core-rules.swade-rules.角色]{坚韧}) increase by +1. His @Compendium[swade-core-rules.swade-rules.移动]{移速} is reduced by 1, and his @Compendium[swade-core-rules.swade-rules.移动]{奔跑骰} by one die type (minimum d4). @Compendium[swade-core-rules.swade-rules.特性]{力量} is considered one die type less (minimum d4) for armor and worn gear (not weapons). They may also have difficulty finding armor or @Compendium[swade-core-rules.swade-rules.普通装备表]{衣物} that fits or entering confined spaces.</span></p>\n</div>"
+			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Those who carry their weight well have the @Compendium[swade-core-rules.swade-edges.健壮]{健壮} Edge. Those who don&rsquo;t are Obese. A character cannot be both @Compendium[swade-core-rules.swade-edges.健壮]{健壮} and Obese, and this @Compendium[swade-core-rules.swade-rules.负赘]{负赘} can&rsquo;t increase your @Compendium[swade-core-rules.swade-rules.体型与尺寸]{体型} above +3. </span></p>\n<p><span class=\"fontstyle0\">An Obese hero&rsquo;s @Compendium[swade-core-rules.swade-rules.体型与尺寸]{体型} (and therefore @Compendium[swade-core-rules.swade-rules.角色]{坚韧}) increase by +1. His @Compendium[swade-core-rules.swade-rules.移动]{移速} is reduced by 1, and his @Compendium[swade-core-rules.swade-rules.移动]{奔跑骰} by one die type (minimum d4). @Compendium[swade-core-rules.swade-rules.特性]{力量} is considered one die type less (minimum d4) for armor and worn gear (not weapons). They may also have difficulty finding armor or @Compendium[swade-core-rules.swade-rules.普通装备表]{衣物} that fits or entering confined spaces.</span></p>\n</div>"
 		},
 		"Obligation": {
 			"name": "义务",
@@ -194,7 +194,7 @@
 		},
 		"Small": {
 			"name": "小个子",
-			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">This adventurer is very skinny, very short, or both. His</span> <span class=\"fontstyle2\">@Compendium[swade-core-rules.swade-rules.体型和尺寸]{体型} </span><span class=\"fontstyle0\">is reduced by 1, which reduces his @Compendium[swade-core-rules.swade-rules.角色]{坚韧} as well.</span></p>\n<p><span class=\"fontstyle0\"><span class=\"fontstyle2\">@Compendium[swade-core-rules.swade-rules.体型和尺寸]{体型}</span> can&rsquo;t be reduced below -1, but the @Compendium[swade-core-rules.swade-rules.角色]{坚韧} penalty remains. A Small half-folk, for example, remains Size -1 and loses a point of Toughness.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>\n</div>"
+			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">This adventurer is very skinny, very short, or both. His</span> <span class=\"fontstyle2\">@Compendium[swade-core-rules.swade-rules.体型与尺寸]{体型} </span><span class=\"fontstyle0\">is reduced by 1, which reduces his @Compendium[swade-core-rules.swade-rules.角色]{坚韧} as well.</span></p>\n<p><span class=\"fontstyle0\"><span class=\"fontstyle2\">@Compendium[swade-core-rules.swade-rules.体型与尺寸]{体型}</span> can&rsquo;t be reduced below -1, but the @Compendium[swade-core-rules.swade-rules.角色]{坚韧} penalty remains. A Small half-folk, for example, remains Size -1 and loses a point of Toughness.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>\n</div>"
 		},
 		"Stubborn": {
 			"name": "顽固",

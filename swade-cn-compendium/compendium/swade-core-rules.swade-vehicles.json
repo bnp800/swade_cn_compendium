@@ -1019,7 +1019,7 @@
 		},
 		"Semi-Truck": {
 			"name": "卡车",
-			"description": "<div class=\"swade-core\">\n<p>Trailer is @Compendium[swade-core-rules.swade-rules.体型和尺寸]{体型} 7 (Large), @Compendium[swade-core-rules.swade-rules.角色]{坚韧} 14 (2). *@Compendium[swade-core-rules.swade-rules.载具注释]{操控性} with a trailer attached is &ndash;2.</p>\n</div>"
+			"description": "<div class=\"swade-core\">\n<p>Trailer is @Compendium[swade-core-rules.swade-rules.体型与尺寸]{体型} 7 (Large), @Compendium[swade-core-rules.swade-rules.角色]{坚韧} 14 (2). *@Compendium[swade-core-rules.swade-rules.载具注释]{操控性} with a trailer attached is &ndash;2.</p>\n</div>"
 		},
 		"Small Yacht": {
 			"name": "游艇",

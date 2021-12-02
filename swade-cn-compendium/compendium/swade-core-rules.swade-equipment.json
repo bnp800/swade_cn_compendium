@@ -61,7 +61,7 @@
 			"foldername": "霰弹枪"
 		},
 		"V1G3SQHUdTpoaJzQ": {
-			"foldername": "毛线装备"
+			"foldername": "冒险装备"
 		},
 		"VGv09y6SPPYJGCxk": {
 			"foldername": "步枪"
@@ -993,7 +993,7 @@
 		},
 		"First Aid Kit": {
 			"name": "急救包",
-			"description": "<div class=\"swade-core\">\n<p>Three uses, see @Compendium[swade-core-rules.swade-rules.医疗]{医疗}.</p>\n</div>"
+			"description": "<div class=\"swade-core\">\n<p>Three uses, see @Compendium[swade-core-rules.swade-rules.恢复]{医疗}.</p>\n</div>"
 		},
 		"Flail": {
 			"name": "链枷",
@@ -1204,7 +1204,7 @@
 		},
 		"Horse": {
 			"name": "马",
-			"description": "<div class=\"swade-core\">\n<p>See @Actor[RFfhBAdJgR2vIiCw]{马} for stats.</p>\n</div>"
+			"description": "<div class=\"swade-core\">\n<p>See @Compendium[swade-core-rules.swade-bestiary.马]{马} for stats.</p>\n</div>"
 		},
 		"Hunting Rifle": {
 			"name": "狩猎步枪",
@@ -1490,7 +1490,7 @@
 		},
 		"Medic Kit": {
 			"name": "医疗包",
-			"description": "<div class=\"swade-core\">\n<p>Five uses, +1 to @Compendium[swade-core-rules.swade-skills.医疗]{医疗} skill rolls; $25 to refill.</p>\n<p>Also see main @Compendium[swade-core-rules.swade-rules.医疗]{医疗} rules.</p>\n</div>"
+			"description": "<div class=\"swade-core\">\n<p>Five uses, +1 to @Compendium[swade-core-rules.swade-skills.医疗]{医疗} skill rolls; $25 to refill.</p>\n<p>Also see main @Compendium[swade-core-rules.swade-rules.恢复]{医疗} rules.</p>\n</div>"
 		},
 		"Medium Machine Gun": {
 			"name": "中型机枪",
@@ -1985,7 +1985,7 @@
 		},
 		"Spear": {
 			"name": "矛",
-			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.触及]{触及} 1. @Compendium[swade-core-rules.swade-rules.格挡]{格挡} +1 if used @Compendium[swade-core-rules.swade-rules.双手]{two-handed}</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.触及]{触及} 1. @Compendium[swade-core-rules.swade-rules.格挡]{格挡} +1 if used @Compendium[swade-core-rules.swade-rules.双手]{双手}</p>\n</div>",
 			"notes": "Reach 1. Parry +1 if used two-handed",
 			"actions": {
 				"skill": "运动",
@@ -2241,7 +2241,7 @@
 		},
 		"War Horse": {
 			"name": "战马",
-			"description": "<div class=\"swade-core\">\n<p>See @Actor[YhXM3GoaSTkJKto3]{战马} for stats.</p>\n</div>"
+			"description": "<div class=\"swade-core\">\n<p>See @Compendium[swade-core-rules.swade-bestiary.战马]{战马} for stats.</p>\n</div>"
 		},
 		"Warhammer": {
 			"name": "战锤",

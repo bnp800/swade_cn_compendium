@@ -48,8 +48,8 @@
 			}
 		},
 		"Fear Table": {
-			"name": "恐惧表",
-			"description": "<div class=\"swade-core\">\nChange the Roll Table Formula to include the modifier, like \"d20+2\". Or for easier rolls, click @Compendium[swade-core-rules.swade-macros.恐惧表]{恐惧表宏} to be prompted for a modifier. If you did use the Macro to get this result, please disregard this message. You can read more about the Fear table by clicking @Compendium[swade-core-rules.swade-rules.恐惧]{这里}</div>",
+			"name": "Fear Table",
+			"description": "<div class=\"swade-core\">\nChange the Roll Table Formula to include the modifier, like \"d20+2\". Or for easier rolls, click @Compendium[swade-core-rules.swade-macros.Fear Table]{恐惧表宏} to be prompted for a modifier. If you did use the Macro to get this result, please disregard this message. You can read more about the Fear table by clicking @Compendium[swade-core-rules.swade-rules.恐惧]{这里}</div>",
 			"results":{
 				"1-3": "<div class=\"swade-core\"><b>Adrenaline Surge: </b>The hero’s “fight” response takes over. He acts as if he had a @Compendium[swade-core-rules.swade-rules.行动卡 (先攻)]{鬼牌} this action!</div>",
 				"4-6": "<div class=\"swade-core\"><b>Distracted: </b>The hero is @Compendium[swade-core-rules.swade-rules.分神与脆弱]{分神} until the end of his next turn.</div>",
@@ -88,7 +88,7 @@
 			}
 		},
 		"Reaction Table": {
-			"name": "反应表",
+			"name": "态度表",
 			"description": "<div class=\"swade-core\">The GM can use the table below to roll or choose a character or group's initial attitude. See @Compendium[swade-core-rules.swade-skills.交涉]{交涉} on how to use this table. </div>",
 			"results":{
 				"2-2": "<div class=\"swade-core\"><b>Hostile: </b>The target is openly hostile. He may attack if possible, or other­wise betray, report on, or hinder the party at the first opportunity. He doesn’t help without an over­whelming reward or threat of some kind.</div>",
