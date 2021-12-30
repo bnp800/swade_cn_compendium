@@ -1,0 +1,160 @@
+{
+	"label": "SWADE特殊能力",
+	"mapping": {
+		"description": "data.description"
+	},
+	"entries": {
+		"#[CF_tempEntity]": {
+			"name": "#[CF_tempEntity]",
+			"description": ""
+		},
+		"Aquatic": {
+			"name": "水栖",
+			"description": "<div class=\"swade-core\">\n<ul>\n<li><strong>@Compendium[swade-core-rules.swade-rules.特殊能力 (水栖)]{水栖}:</strong> @Compendium[swade-core-rules.swade-rules.移动]{移速} 5.</li>\n</ul>\n</div>"
+		},
+		"Burrow": {
+			"name": "遁地",
+			"description": "<div class=\"swade-core\">\n<ul>\n<li><strong>@Compendium[swade-core-rules.swade-rules.特殊能力 (遁地)]{遁地} (20&Prime;):</strong> Giant worms tunnel through the ground, blocked only by solid bedrock.</li>\n</ul>\n</div>"
+		},
+		"Change Form": {
+			"name": "变幻形态",
+			"description": "<div class=\"swade-core\">\n<ul>\n<li><strong>Change Form:</strong> As an action, a vampire can change into a wolf or bat with a @Compendium[swade-core-rules.swade-rules.特性]{聪慧} roll at &minus;2. Changing back into humanoid form requires a @Compendium[swade-core-rules.swade-rules.特性]{聪慧} roll.</li>\n</ul>\n</div>"
+		},
+		"Charm": {
+			"name": "魅惑",
+			"description": "<div class=\"swade-core\">\n<ul>\n<li><strong>Charm:</strong> Vampires can use the <em>@Compendium[swade-core-rules.swade-powers.傀儡]{傀儡}</em> power on those attracted to them (GM&rsquo;s call) using their @Compendium[swade-core-rules.swade-rules.特性]{聪慧} as their @Compendium[swade-core-rules.swade-rules.Arcane Backgrounds]{奥法技能}. They can cast and maintain the power indefinitely, but may only affect one target at a time.</li>\n</ul>\n</div>"
+		},
+		"Children of the Night": {
+			"name": "夜之子民",
+			"description": "<div class=\"swade-core\">\n<ul>\n<li><strong>Children of the Night:</strong> Ancient vampires have the ability to summon and control wolves or rats. This requires an action and a @Compendium[swade-core-rules.swade-rules.特性]{聪慧} roll at &minus;2. If successful, [[1d6]] # Wolves summoned wolves or [[1d6]] # Swarms of rats summoned swarms of rats (see @Compendium[swade-core-rules.swade-bestiary.集群]{集群}) come from the surrounding wilds in [[1d6+2]] # Rounds until summoned rounds.</li>\n</ul>\n</div>"
+		},
+		"Constrict": {
+			"name": "紧勒",
+			"description": "<div class=\"swade-core\">\n<ul>\n<li><strong>Constrict: </strong>+2 to @Compendium[swade-core-rules.swade-rules.特性]{运动} and @Compendium[swade-core-rules.swade-rules.特性]{力量} rolls made to @Compendium[swade-core-rules.swade-rules.擒抱]{擒抱}.</li>\n</ul>\n</div>"
+		},
+		"Construct": {
+			"name": "构装体",
+			"description": "<div class=\"swade-core\">\n<ul>\n<li><strong>@Compendium[swade-core-rules.swade-rules.特殊能力 (构装体)]{构装体}:</strong> +2 to recover from being @Compendium[swade-core-rules.swade-rules.伤害效果]{动摇}; ignores 1 point of Wound penalties; does not breathe or suffer from @Compendium[swade-core-rules.swade-rules.疾病]{疾病} or @Compendium[swade-core-rules.swade-rules.毒素]{毒素}.</li>\n</ul>\n</div>"
+		},
+		"Elemental": {
+			"name": "元素",
+			"description": "<div class=\"swade-core\">\n<ul>\n<li><strong>@Compendium[swade-core-rules.swade-rules.特殊能力 (元素)]{Elemental}: </strong>No additional damage from @Compendium[swade-core-rules.swade-rules.定点攻击]{定点攻击}, ignores 1 point of Wound penalties, doesn&rsquo;t breathe, immune to @Compendium[swade-core-rules.swade-rules.疾病]{疾病} and @Compendium[swade-core-rules.swade-rules.毒素]{毒素}.</li>\n</ul>\n</div>"
+		},
+		"Ethereal": {
+			"name": "灵态",
+			"description": "<div class=\"swade-core\">\n<ul>\n<li><strong>@Compendium[swade-core-rules.swade-rules.特殊能力 (灵态)]{灵态}:</strong> Ghosts can become invisible and immaterial at will and can only be harmed by magical attacks.</li>\n</ul>\n</div>"
+		},
+		"Fast Regeneration": {
+			"name": "快速再生",
+			"description": "<div class=\"swade-core\">\n<ul>\n<li><strong>@Compendium[swade-core-rules.swade-rules.特殊能力 (再生)]{快速再生}:</strong> Some creatures heal quickly and may attempt a @Compendium[swade-core-rules.swade-rules.医疗]{自然恢复} roll every round, even if @Compendium[swade-core-rules.swade-rules.伤害效果]{无力化}, unless their @Compendium[swade-core-rules.swade-rules.伤害效果]{损伤} were caused by ﬁre or ﬂame or they&rsquo;re put to the torch afterward.</li>\n</ul>\n</div>"
+		},
+		"Fear": {
+			"name": "恐惧",
+			"description": "<div class=\"swade-core\">\n<ul>\n<li><strong>@Compendium[swade-core-rules.swade-rules.特殊能力 (恐惧)]{恐惧}:</strong> Anyone who sees this terror must make a Fear check.</li>\n</ul>\n</div>"
+		},
+		"Fear (-2)": {
+			"name": "恐惧 (-2)",
+			"description": "<div class=\"swade-core\">\n<ul>\n<li><strong>@Compendium[swade-core-rules.swade-rules.特殊能力 (恐惧)]{恐惧} (&minus;2):</strong> Anyone who sees this horror must make a Fear check at &minus;2.</li>\n</ul>\n</div>"
+		},
+		"Fearless": {
+			"name": "无畏",
+			"description": "<div class=\"swade-core\">\n<ul>\n<li><strong>@Compendium[swade-core-rules.swade-rules.特殊能力 (无畏)]{无畏}:</strong> Immune to @Compendium[swade-core-rules.swade-rules.恐惧]{恐惧} and @Compendium[swade-core-rules.swade-skills.威吓]{威吓}, but may be smart enough to react to fear-causing situations aptly.</li>\n</ul>\n</div>"
+		},
+		"Flight": {
+			"name": "飞行",
+			"description": "<div class=\"swade-core\">\n<ul>\n<li><strong>@Compendium[swade-core-rules.swade-rules.特殊能力 (飞行)]{飞行}:</strong> Flying Pace of 24&Prime;.</li>\n</ul>\n</div>"
+		},
+		"Gaseous Form": {
+			"name": "气态",
+			"description": "<div class=\"swade-core\">\n<ul>\n<li><strong>Gaseous Form:</strong> Can maneuver through any non-solid surface, pass through cracks in doors or windows, bubble through water, etc.</li>\n</ul>\n</div>"
+		},
+		"Hardy": {
+			"name": "顽强",
+			"description": "<div class=\"swade-core\">\n<ul>\n<li><strong>@Compendium[swade-core-rules.swade-rules.特殊能力 (顽强)]{顽强}:</strong> The creature does not suffer a Wound from being @Compendium[swade-core-rules.swade-rules.伤害效果]{动摇} twice.</li>\n</ul>\n</div>"
+		},
+		"Immunity": {
+			"name": "免疫",
+			"description": "<div class=\"swade-core\">\n<ul>\n<li><strong>@Compendium[swade-core-rules.swade-rules.特殊能力 (免疫)]{免疫}:</strong> Immune to water-based attacks.</li>\n</ul>\n</div>"
+		},
+		"Infection": {
+			"name": "感染",
+			"description": "<div class=\"swade-core\">\n<ul>\n<li><strong>Infection:</strong> Anyone slain by a were&shy;wolf has a 50% chance of rising as a werewolf themselves. The character involuntarily transforms every full moon. He gains control of his lycanthropy only after [[/sr 1d6 # Years after which the character gains control of lycanthropy]] years as a werewolf.</li>\n</ul>\n</div>"
+		},
+		"Infravision": {
+			"name": "红外感应",
+			"description": "<div class=\"swade-core\">\n<ul>\n<li><strong>@Compendium[swade-core-rules.swade-rules.特殊能力 (红外感应)]{红外感应}</strong>&nbsp;Halve penalties for Illumination when attacking warm targets.</li>\n</ul>\n</div>"
+		},
+		"Invulnerability": {
+			"name": "无敌",
+			"description": "<div class=\"swade-core\">\n<ul>\n<li><strong>@Compendium[swade-core-rules.swade-rules.特殊能力 (无敌)]{无敌}:</strong> Immune to non-magical attacks.</li>\n</ul>\n</div>"
+		},
+		"Low Light Vision": {
+			"name": "微光视觉",
+			"description": "<div class=\"swade-core\">\n<ul>\n<li><strong>@Compendium[swade-core-rules.swade-rules.特殊能力 (微光视觉)]{微光视觉}:</strong> Ignore penalties for Dim and Dark @Compendium[swade-core-rules.swade-rules.照明]{照明}.</li>\n</ul>\n</div>"
+		},
+		"Mist": {
+			"name": "化雾",
+			"description": "<div class=\"swade-core\">\n<ul>\n<li><strong>Mist:</strong> Ancient vampires have the ability to turn into mist. Doing so (or returning to human form) requires an action and a @Compendium[swade-core-rules.swade-rules.特性]{聪慧} roll at &minus;2.</li>\n</ul>\n</div>"
+		},
+		"Night Vision": {
+			"name": "夜视",
+			"description": "<div class=\"swade-core\">\n<ul>\n<li><strong>Night Vision:</strong> Sensor packages ignore penalties for @Compendium[swade-core-rules.swade-rules.照明]{照明}.</li>\n</ul>\n</div>"
+		},
+		"Ornery": {
+			"name": "犟脾气",
+			"description": "<div class=\"swade-core\">\n<ul>\n<li><strong>Ornery:</strong> Mules are contrary creatures. Characters must subtract 1 from their @Compendium[swade-core-rules.swade-skills.骑乘]{骑乘} rolls when riding them.</li>\n</ul>\n</div>"
+		},
+		"Poison": {
+			"name": "毒素",
+			"description": "<div class=\"swade-core\">\n<ul>\n<li><strong>@Compendium[swade-core-rules.swade-rules.特殊能力 (毒素)]{毒素}: </strong> The GM chooses what kind of @Compendium[swade-core-rules.swade-rules.毒素]{毒素} the viper injects.</li>\n</ul>\n</div>"
+		},
+		"Poison (-4)": {
+			"name": "毒素 (-4)",
+			"description": "<div class=\"swade-core\">\n<ul>\n<li><strong>@Compendium[swade-core-rules.swade-rules.特殊能力 (毒素)]{毒素} (&minus;4):</strong> Usually @Compendium[swade-core-rules.swade-rules.毒素]{温和} or @Compendium[swade-core-rules.swade-rules.毒素]{致命}.</li>\n</ul>\n</div>"
+		},
+		"Resilient": {
+			"name": "强韧",
+			"description": "<div class=\"swade-core\">\n<ul>\n<li><strong>@Compendium[swade-core-rules.swade-rules.特殊能力 (强韧/非常强韧)]{强韧}:</strong> Some creatures can take one Wound before they&rsquo;re Incapacitated.</li>\n</ul>\n</div>"
+		},
+		"Seep": {
+			"name": "渗透",
+			"description": "<div class=\"swade-core\">\n<ul>\n<li><strong>Seep:</strong> Can squeeze through any porous gap as if it were @Compendium[swade-core-rules.swade-rules.移动]{困难地形}.</li>\n</ul>\n</div>"
+		},
+		"Sire": {
+			"name": "眷属",
+			"description": "<div class=\"swade-core\">\n<ul>\n<li><strong>Sire: </strong>Anyone slain by a vampire has a 50% chance of rising as a vampire in [[/r 1d4]] days.</li>\n</ul>\n</div>"
+		},
+		"Speed": {
+			"name": "渗透",
+			"description": "<div class=\"swade-core\">\n<ul>\n<li><strong>Speed:</strong> d10 @Compendium[swade-core-rules.swade-rules.移动]{奔跑骰}.</li>\n</ul>\n</div>"
+		},
+		"Split": {
+			"name": "分裂",
+			"description": "<div class=\"swade-core\">\n<ul>\n<li><strong>Split: </strong>Some swarms split into two smaller swarms when @Compendium[swade-core-rules.swade-rules.伤害效果]{损伤} (GM&rsquo;s call). Reduce the @Compendium[swade-core-rules.swade-rules.范围效果攻击]{爆散盖板} one size after a @Compendium[swade-core-rules.swade-rules.伤害效果]{损伤}; Small swarms are destroyed.</li>\n</ul>\n</div>"
+		},
+		"Swarm": {
+			"name": "集群",
+			"description": "<div class=\"swade-core\">\n<ul>\n<li><strong>Swarm: </strong>+2 to recover from being @Compendium[swade-core-rules.swade-rules.伤害效果]{动摇}, @Compendium[swade-core-rules.swade-rules.角色]{格挡} +2. Swarms are composed of many small creatures, so cutting and piercing weapons do no real damage. @Compendium[swade-core-rules.swade-rules.范围效果攻击]{Area eﬀect attacks} work normally, and a character can stomp to inﬂict his damage in @Compendium[swade-core-rules.swade-rules.特性]{力量} each round. Some swarms (bees, hornets, birds) may be foiled by total immersion in water.</li>\n</ul>\n</div>"
+		},
+		"Swat": {
+			"name": "猛击",
+			"description": "<div class=\"swade-core\">\n<ul>\n<li><strong>@Compendium[swade-core-rules.swade-rules.特殊能力 (猛击)]{猛击}:</strong> Dragons ignore up to 4 points of @Compendium[swade-core-rules.swade-rules.Size and Scale]{尺寸} penalties when attacking with their claws.</li>\n</ul>\n</div>"
+		},
+		"Undead": {
+			"name": "不死生物",
+			"description": "<div class=\"swade-core\">\n<ul>\n<li><strong>@Compendium[swade-core-rules.swade-rules.特殊能力 (不死生物)]{不死生物}:</strong> +2 Toughness; +2 to recover from being @Compendium[swade-core-rules.swade-rules.伤害效果]{动摇}; no additional damage from @Compendium[swade-core-rules.swade-rules.定点攻击]{定点攻击}; ignores 1 point of Wound penalties; doesn&rsquo;t breathe; immune to @Compendium[swade-core-rules.swade-rules.疾病]{疾病} and @Compendium[swade-core-rules.swade-rules.毒素]{毒素}.</li>\n</ul>\n</div>"
+		},
+		"Wall Walker": {
+			"name": "走壁",
+			"description": "<div class=\"swade-core\">\n<ul>\n<li><strong>@Compendium[swade-core-rules.swade-rules.特殊能力 (走壁)]{走壁}:</strong>The creatures move at their full @Compendium[swade-core-rules.swade-rules.移动]{移速} on walls and ceilings! Creepy!</li>\n</ul>\n</div>"
+		},
+		"Weakness": {
+			"name": "弱点",
+			"description": "<div class=\"swade-core\">\n<ul>\n<li><strong>Weakness (Invitation Only): </strong>Vampires cannot enter a private dwelling without being invited. They may enter public domains as they please.</li>\n</ul>\n</div>"
+		},
+		"Zombie": {
+			"name": "行尸",
+			"description": "<div class=\"swade-core\">\n<ul>\n<li><strong>Zombie:</strong> Liches are necromancers first and foremost. The undead they raise through the <em>@Compendium[swade-core-rules.swade-powers.行尸]{行尸}</em> spell are permanent, and they may raise @Compendium[swade-core-rules.swade-bestiary.骷髅]{骷髅} just like @Compendium[swade-core-rules.swade-bestiary.行尸]{zombies} as they choose. Some liches have built up entire armies of the undead at their disposal.</li>\n</ul>\n</div>"
+		}
+	}
+}
