@@ -2,7 +2,7 @@
 	"label": "SWADE专长",
 	"mapping": {
 		"description": "data.description",
-		"requirements": "data.requirements",
+		"requirements": "data.requirements.value",
 		"foldername": "flags.cf.name"
 	},
 	"entries": {
