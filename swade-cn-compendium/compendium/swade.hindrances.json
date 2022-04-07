@@ -71,7 +71,7 @@
 		},
 		{
 			"id": "Driven",
-			"name": "自我鞭策"
+			"name": "立志"
 		},
 		{
 			"id": "Elderly",
@@ -79,7 +79,7 @@
 		},
 		{
 			"id": "Enemy",
-			"name": "宿敌"
+			"name": "夙敌"
 		},
 		{
 			"id": "Greedy",
@@ -203,7 +203,7 @@
 		},
 		{
 			"id": "Tongue-Tied",
-			"name": "嘴笨"
+			"name": "拙舌"
 		},
 		{
 			"id": "Ugly",
@@ -215,7 +215,7 @@
 		},
 		{
 			"id": "Vow",
-			"name": "誓言加身"
+			"name": "誓言"
 		},
 		{
 			"id": "Wanted",
