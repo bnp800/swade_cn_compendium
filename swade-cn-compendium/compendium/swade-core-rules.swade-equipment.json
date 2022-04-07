@@ -275,7 +275,7 @@
 		"AK47": {
 			"name": "AK47",
 			"description": "<div class=\"swade-core\"><p>Additional magazines or clips cost 10% of the rifle and weigh 1 lb each.</p></div>",
-			"ammo": "Bullets, Medium",
+			"ammo": "中型子弹",
 			"actions": {
 				"skill": "射击",
 				"additional": {
@@ -378,7 +378,7 @@
 		"Barrett": {
 			"name": "巴雷特",
 			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器}, @Compendium[swade-core-rules.swade-rules.猝射]{猝射}. Barretts use a 10-shot removable magazine that weighs 2 lbs when loaded. They are almost always fitted with a @Compendium[swade-core-rules.swade-equipment.步枪瞄准镜]{步枪瞄准镜}.</p>\n<hr />\n<p>Additional magazines or clips cost 10% of the rifle and weigh 1 lb each.</p>\n</div>",
-			"ammo": "Bullets, Large",
+			"ammo": "大型子弹",
 			"actions": {
 				"skill": "射击",
 				"additional": {
@@ -448,7 +448,7 @@
 			"name": "喇叭枪",
 			"description": "<div class=\"swade-core\"><p>Black powder weapons are @Compendium[swade-core-rules.swade-rules.装填]{装填} 3.</p>\n<p>Treat as @Compendium[swade-core-rules.swade-rules.霰弹枪]{霰弹枪}.</p></div>",
 			"notes": "Black powder weapons are Reload 3. Treat as Shotgun.",
-			"ammo": "Shot (w/ powder)",
+			"ammo": "定装弹",
 			"actions": {
 				"skill": "射击",
 				"additional": {
@@ -500,7 +500,7 @@
 			"name": "弓",
 			"description": "<div class=\"swade-core\"></div>",
 			"notes": "",
-			"ammo": "Arrows/Bolts",
+			"ammo": "箭/矢",
 			"actions": {
 				"skill": "射击"
 			}
@@ -529,7 +529,7 @@
 			"name": "棕管枪或类似的火枪",
 			"description": "<div class=\"swade-core\"><p>Black powder weapons are @Compendium[swade-core-rules.swade-rules.装填]{装填} 3.</p></div>",
 			"notes": "Black powder weapons are Reload 3.",
-			"ammo": "Shot (w/ powder)",
+			"ammo": "定装弹",
 			"actions": {
 				"skill": "射击"
 			}
@@ -537,7 +537,7 @@
 		"Browning Automatic Rifle": {
 			"name": "勃朗宁自动步枪",
 			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.射速]{射速} 1 to 3. Uses magazines (one action to @Compendium[swade-core-rules.swade-rules.装填]{装填} instead of the usual 2).</p>\n<hr />\n<p>Machine guns are heavy, fully automatic weapons built to withstand prolonged fire. Most are fed by belts or drums and thus have far more ammo capacity than assault rifles, despite similar calibers and rates of fire.</p>\n<p><strong>Weapon Mount:</strong> Most machine-guns require a @Compendium[swade-core-rules.swade-equipment.两脚架/三脚架]{两脚架/三脚架} or vehicle mount to fire, which eliminates any Strength requirement and the @Compendium[swade-core-rules.swade-rules.后坐力]{后坐力} penalty. Their @Compendium[swade-core-rules.swade-rules.最低力量]{最低力量} is listed as &ldquo;NA,&rdquo; or &ldquo;Not Applicable.&rdquo; If a weapon has a Minimum Strength listed, it may be fired from the hip with the @Compendium[swade-core-rules.swade-rules.猝射]{猝射} and Recoil penalties.</p>\n<p><strong>Minimum Rate of Fire:</strong> Machine-guns have a minimum @Compendium[swade-core-rules.swade-rules.射速]{射速}&nbsp;of 2 unless otherwise noted.</p>\n</div>",
-			"ammo": "Bullets, Medium",
+			"ammo": "中型子弹",
 			"actions": {
 				"skill": "射击",
 				"additional": {
@@ -719,7 +719,7 @@
 		"Colt 1911": {
 			"name": "柯尔特 1911",
 			"description": "<div class=\"swade-core\"><p>Semi-automatics are fed from a magazine. Additional magazines may be purchased for 10% of the weapon&rsquo;s cost. They weigh about 1 lb each, fully loaded.</p></div>",
-			"ammo": "Bullets, Medium",
+			"ammo": "中型子弹",
 			"actions": {
 				"skill": "射击"
 			}
@@ -727,7 +727,7 @@
 		"Colt Peacemaker": {
 			"name": "柯尔特陆军转轮枪",
 			"description": "<div class=\"swade-core\"><p>Revolvers typically have six chambers that must be reloaded one bullet at a time, though separate cylinders called &ldquo;speed loaders&rdquo; are also available for more modern firearms for about 10% of the weapon&rsquo;s cost.</p></div>",
-			"ammo": "Bullets, Medium",
+			"ammo": "中型子弹",
 			"actions": {
 				"skill": "射击"
 			}
@@ -735,7 +735,7 @@
 		"Compound Bow": {
 			"name": "复合弓",
 			"description": "<div class=\"swade-core\"></div>",
-			"ammo": "Arrows/Bolts",
+			"ammo": "箭/矢",
 			"actions": {
 				"skill": "射击"
 			}
@@ -759,7 +759,7 @@
 		"Crossbow": {
 			"name": "弩",
 			"description": "<div class=\"swade-core\"></div>",
-			"ammo": "Arrows/Bolts",
+			"ammo": "箭/矢",
 			"actions": {
 				"skill": "射击"
 			}
@@ -768,7 +768,7 @@
 			"name": "弩 (手拉)",
 			"description": "<div class=\"swade-core\"><p>Hand-drawn.</p></div>",
 			"notes": "Hand-drawn",
-			"ammo": "Arrows/Bolts",
+			"ammo": "箭/矢",
 			"actions": {
 				"skill": "射击"
 			}
@@ -777,7 +777,7 @@
 			"name": "重弩",
 			"description": "<div class=\"swade-core\"><p>Requires a windlass to load. @Compendium[swade-core-rules.swade-rules.装填]{装填} 2.</p></div>",
 			"notes": "Requires a windlass to load. Reload 2",
-			"ammo": "Arrows/Bolts",
+			"ammo": "箭/矢",
 			"actions": {
 				"skill": "射击"
 			}
@@ -793,7 +793,8 @@
 				"skill": "格斗",
 				"additional": {
 					"24m3p44ver": {
-						"name": "运动(投掷)"
+						"name": "运动(投掷)",
+						"skillOverride": "运动"
 					}
 				}
 			}
@@ -805,7 +806,8 @@
 				"skill": "格斗",
 				"additional": {
 					"24m3p44ver": {
-						"name": "运动(投掷)"
+						"name": "运动(投掷)",
+						"skillOverride": "运动"
 					}
 				}
 			}
@@ -813,7 +815,7 @@
 		"Derringer": {
 			"name": "德林杰手枪",
 			"description": "<div class=\"swade-core\">\n<p>Revolvers typically have six chambers that must be reloaded one bullet at a time, though separate cylinders called &ldquo;speed loaders&rdquo; are also available for more modern firearms for about 10% of the weapon&rsquo;s cost.</p>\n<p>&minus;2 to be @Compendium[swade-core-rules.swade-skills.察觉]{察觉} if hidden.</p>\n</div>",
-			"ammo": "Bullets, Medium",
+			"ammo": "中型子弹",
 			"actions": {
 				"skill": "射击"
 			}
@@ -821,7 +823,7 @@
 		"Desert Eagle": {
 			"name": "沙漠之鹰",
 			"description": "<div class=\"swade-core\"><p>Semi-automatics are fed from a magazine. Additional magazines may be purchased for 10% of the weapon&rsquo;s cost. They weigh about 1 lb each, fully loaded.</p></div>",
-			"ammo": "Bullets, Large",
+			"ammo": "大型子弹",
 			"actions": {
 				"skill": "射击"
 			}
@@ -829,7 +831,7 @@
 		"Double-Barrel Shotgun": {
 			"name": "双管霰弹枪",
 			"description": "<div class=\"swade-core\"><p>@Compendium[swade-core-rules.swade-rules.霰弹枪]{霰弹枪} fire a spread of pellets (called &ldquo;shot&rdquo; or &ldquo;buckshot&rdquo;) to increase the shooter&rsquo;s chance of hitting his target. Up close, the blast can be devastating.</p></div>",
-			"ammo": "Shotgun Shells",
+			"ammo": "霰弹枪弹丸",
 			"actions": {
 				"skill": "射击",
 				"additional": {
@@ -913,7 +915,7 @@
 			"name": "燧发手枪",
 			"description": "<div class=\"swade-core\"><p>Black powder weapons are @Compendium[swade-core-rules.swade-rules.装填]{装填} 3.</p></div>",
 			"notes": "Black powder weapons are Reload 3.",
-			"ammo": "Shot (w/ powder)",
+			"ammo": "定装弹",
 			"actions": {
 				"skill": "射击"
 			}
@@ -925,7 +927,7 @@
 		"Gatling": {
 			"name": "加特林",
 			"description": "<div class=\"swade-core\"><p>Machine guns are heavy, fully automatic weapons built to withstand prolonged fire. Most are fed by belts or drums and thus have far more ammo capacity than assault rifles, despite similar calibers and rates of fire.</p>\n<p><strong>Weapon Mount:</strong> Most machine-guns require a @Compendium[swade-core-rules.swade-equipment.两脚架/三脚架]{两脚架/三脚架} or vehicle mount to fire, which eliminates any Strength requirement and the @Compendium[swade-core-rules.swade-rules.后坐力]{后坐力} penalty. Their @Compendium[swade-core-rules.swade-rules.最低力量]{最低力量} is listed as &ldquo;NA,&rdquo; or &ldquo;Not Applicable.&rdquo; If a weapon has a Minimum Strength listed, it may be fired from the hip with the @Compendium[swade-core-rules.swade-rules.猝射]{猝射} and Recoil penalties.</p>\n<p><strong>Minimum Rate of Fire:</strong> Machine-guns have a minimum @Compendium[swade-core-rules.swade-rules.射速]{射速} of 2 unless otherwise noted.</p>\n<p><strong>Reloading:</strong> Machine guns are&nbsp;@Compendium[swade-core-rules.swade-rules.装填]{装填}&nbsp;2, which includes changing belts or drums, cocking, etc.</p></div>",
-			"ammo": "Bullets, Medium",
+			"ammo": "中型子弹",
 			"actions": {
 				"skill": "射击",
 				"additional": {
@@ -942,6 +944,7 @@
 			"name": "加特林 (激光)",
 			"description": "<div class=\"swade-core\">\n<p>Lasers fire intensely focused beams of light to penetrate and burn their targets.</p>\n<p><strong>Cauterize:</strong> Anyone Incapacitated by a laser blast adds +2 to his @Compendium[swade-core-rules.swade-rules.特性]{活力} rolls to keep from @Compendium[swade-core-rules.swade-rules.伤害效果]{失血}.</p>\n<p><strong>Overcharge:</strong>&nbsp;This weapon can overcharge to cause an extra d6 damage, but if any of the @Compendium[swade-core-rules.swade-skills.射击]{射击} dice are a 1, the weapon must cool down for a full round before it can be fired again.</p>\n<p><strong>No Recoil:</strong> Pistols, SMGs, and rifles ignore the @Compendium[swade-core-rules.swade-rules.后坐力]{后坐力} penalty. Gatling lasers still take the penalty, however, which is why they&rsquo;re usually mounted on a @Compendium[swade-core-rules.swade-equipment.两脚架/三脚架]{三脚架}.</p>\n</div>",
 			"notes": "No Recoil, Overcharge, Cauterize",
+			"ammo": "激光枪电池, 加特林",
 			"actions": {
 				"skill": "射击",
 				"additional": {
@@ -963,7 +966,7 @@
 		"Glock (9mm)": {
 			"name": "格洛克 (9mm)",
 			"description": "<div class=\"swade-core\"><p>Semi-automatics are fed from a magazine. Additional magazines may be purchased for 10% of the weapon&rsquo;s cost. They weigh about 1 lb each, fully loaded.</p></div>",
-			"ammo": "Bullets, Medium",
+			"ammo": "中型子弹",
 			"actions": {
 				"skill": "射击"
 			}
@@ -991,7 +994,7 @@
 		"H&K MP5": {
 			"name": "H&K MP5",
 			"description": "<div class=\"swade-core\"><p>Typical magazine sizes are listed with each weapon. Additional magazines are available at 10% of the weapon&rsquo;s cost and weigh about 1 lb each, fully loaded.</p></div>",
-			"ammo": "Bullets, Medium",
+			"ammo": "中型子弹",
 			"actions": {
 				"skill": "射击",
 				"additional": {
@@ -1095,7 +1098,7 @@
 		"Hunting Rifle": {
 			"name": "狩猎步枪",
 			"description": "<div class=\"swade-core\"><p>@Compendium[swade-core-rules.swade-rules.猝射]{猝射}</p>\n<hr />\n<p>Additional magazines or clips cost 10% of the rifle and weigh 1 lb each.</p></div>",
-			"ammo": "Bullets, Medium",
+			"ammo": "中型子弹",
 			"actions": {
 				"skill": "射击",
 				"additional": {
@@ -1139,7 +1142,7 @@
 			"name": "肯塔基来复枪",
 			"description": "<div class=\"swade-core\"><p>@Compendium[swade-core-rules.swade-rules.装填]{装填} 4. The tight rifling requires four actions to reload instead of the usual three.</p></div>",
 			"notes": "Reload 4. The tight rifling requires four actions to reload instead of the usual three.",
-			"ammo": "Shot (w/ powder)",
+			"ammo": "定装弹",
 			"actions": {
 				"skill": "射击"
 			}
@@ -1242,7 +1245,7 @@
 		"Long Bow": {
 			"name": "长弓",
 			"description": "<div class=\"swade-core\"></div>",
-			"ammo": "Arrows/Bolts",
+			"ammo": "箭/矢",
 			"actions": {
 				"skill": "射击"
 			}
@@ -1250,7 +1253,7 @@
 		"M-16": {
 			"name": "M-16",
 			"description": "<div class=\"swade-core\"><p>The A-2 version can also fire a @Compendium[swade-core-rules.swade-rules.三连发]{三连发}.</p>\n<hr />\n<p>Additional magazines or clips cost 10% of the rifle and weigh 1 lb each.</p></div>",
-			"ammo": "Bullets, Medium",
+			"ammo": "中型子弹",
 			"actions": {
 				"skill": "射击",
 				"additional": {
@@ -1269,7 +1272,7 @@
 		"M1 Garand": {
 			"name": "M1 加兰德",
 			"description": "<div class=\"swade-core\"><p>The standard US infantry rifle in World War II.</p>\n<hr />\n<p><span style=\"color: #191813; background-color: #dfe6f5;\">Additional magazines or clips cost 10% of the rifle and weigh 1 lb each.</span></p></div>",
-			"ammo": "Bullets, Medium",
+			"ammo": "中型子弹",
 			"actions": {
 				"skill": "射击"
 			}
@@ -1277,7 +1280,7 @@
 		"M2 Browning": {
 			"name": "M2 勃朗宁",
 			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器}</p>\n<hr />\n<p>Machine guns are heavy, fully automatic weapons built to withstand prolonged fire. Most are fed by belts or drums and thus have far more ammo capacity than assault rifles, despite similar calibers and rates of fire.</p>\n<p><strong>Weapon Mount:</strong>&nbsp;Most machine-guns require a @Compendium[swade-core-rules.swade-equipment.两脚架/三脚架]{两脚架/三脚架} or vehicle mount to fire, which eliminates any Strength requirement and the @Compendium[swade-core-rules.swade-rules.后坐力]{后坐力} penalty. Their @Compendium[swade-core-rules.swade-rules.最低力量]{最低力量} is listed as &ldquo;NA,&rdquo; or &ldquo;Not Applicable.&rdquo; If a weapon has a Minimum Strength listed, it may be fired from the hip with the @Compendium[swade-core-rules.swade-rules.猝射]{猝射} and Recoil penalties.</p>\n<p><strong>Minimum Rate of Fire:</strong>&nbsp;Machine-guns have a minimum @Compendium[swade-core-rules.swade-rules.射速]{射速} of 2 unless otherwise noted.</p>\n<p><strong>Reloading:</strong>&nbsp;Machine guns are @Compendium[swade-core-rules.swade-rules.装填]{装填} 2, which includes changing belts or drums, cocking, etc.</p>\n</div>",
-			"ammo": "Bullets, Large",
+			"ammo": "大型子弹",
 			"actions": {
 				"skill": "射击",
 				"additional": {
@@ -1301,7 +1304,7 @@
 		"M60": {
 			"name": "M60",
 			"description": "<div class=\"swade-core\"><p>Machine guns are heavy, fully automatic weapons built to withstand prolonged fire. Most are fed by belts or drums and thus have far more ammo capacity than assault rifles, despite similar calibers and rates of fire.</p>\n<p><strong>Weapon Mount:</strong>&nbsp;Most machine-guns require a @Compendium[swade-core-rules.swade-equipment.两脚架/三脚架]{两脚架/三脚架} or vehicle mount to fire, which eliminates any Strength requirement and the @Compendium[swade-core-rules.swade-rules.后坐力]{后坐力} penalty. Their @Compendium[swade-core-rules.swade-rules.最低力量]{最低力量} is listed as &ldquo;NA,&rdquo; or &ldquo;Not Applicable.&rdquo; If a weapon has a Minimum Strength listed, it may be fired from the hip with the @Compendium[swade-core-rules.swade-rules.猝射]{猝射} and Recoil penalties.</p>\n<p><strong>Minimum Rate of Fire:</strong>&nbsp;Machine-guns have a minimum @Compendium[swade-core-rules.swade-rules.射速]{射速} of 2 unless otherwise noted.</p>\n<p><strong>Reloading:</strong>&nbsp;Machine guns are @Compendium[swade-core-rules.swade-rules.装填]{装填} 2, which includes changing belts or drums, cocking, etc.</p></div>",
-			"ammo": "Bullets, Medium",
+			"ammo": "中型子弹",
 			"actions": {
 				"skill": "射击",
 				"additional": {
@@ -1331,7 +1334,7 @@
 		"MG42": {
 			"name": "MG42",
 			"description": "<div class=\"swade-core\"><p>Machine guns are heavy, fully automatic weapons built to withstand prolonged fire. Most are fed by belts or drums and thus have far more ammo capacity than assault rifles, despite similar calibers and rates of fire.</p>\n<p><strong>Weapon Mount:</strong>&nbsp;Most machine-guns require a @Compendium[swade-core-rules.swade-equipment.两脚架/三脚架]{两脚架/三脚架} or vehicle mount to fire, which eliminates any Strength requirement and the @Compendium[swade-core-rules.swade-rules.后坐力]{后坐力} penalty. Their @Compendium[swade-core-rules.swade-rules.最低力量]{最低力量} is listed as &ldquo;NA,&rdquo; or &ldquo;Not Applicable.&rdquo; If a weapon has a Minimum Strength listed, it may be fired from the hip with the @Compendium[swade-core-rules.swade-rules.猝射]{猝射} and Recoil penalties.</p>\n<p><strong>Minimum Rate of Fire:</strong>&nbsp;Machine-guns have a minimum @Compendium[swade-core-rules.swade-rules.射速]{射速} of 2 unless otherwise noted.</p>\n<p><strong>Reloading:</strong>&nbsp;Machine guns are @Compendium[swade-core-rules.swade-rules.装填]{装填} 2, which includes changing belts or drums, cocking, etc.</p></div>",
-			"ammo": "Bullets, Medium",
+			"ammo": "中型子弹",
 			"actions": {
 				"skill": "射击",
 				"additional": {
@@ -1375,8 +1378,7 @@
 				"skill": "格斗",
 				"additional": {
 					"au687uqfb3": {
-						"name": "单手",
-						"shotsUsed": null
+						"name": "单手"
 					}
 				}
 			}
@@ -1416,7 +1418,7 @@
 		"Minigun": {
 			"name": "M134机枪",
 			"description": "<div class=\"swade-core\"><p>Minimum @Compendium[swade-core-rules.swade-rules.射速]{射速} 3, requires backpack harness with ammo which weighs an additional 85 pounds when full (carries 4000 linked rounds).</p>\n<hr />\n<p>Machine guns are heavy, fully automatic weapons built to withstand prolonged fire. Most are fed by belts or drums and thus have far more ammo capacity than assault rifles, despite similar calibers and rates of fire.</p>\n<p><strong>Weapon Mount:</strong>&nbsp;Most machine-guns require a @Compendium[swade-core-rules.swade-equipment.两脚架/三脚架]{两脚架/三脚架} or vehicle mount to fire, which eliminates any Strength requirement and the @Compendium[swade-core-rules.swade-rules.后坐力]{后坐力} penalty. Their @Compendium[swade-core-rules.swade-rules.最低力量]{最低力量} is listed as &ldquo;NA,&rdquo; or &ldquo;Not Applicable.&rdquo; If a weapon has a Minimum Strength listed, it may be fired from the hip with the @Compendium[swade-core-rules.swade-rules.猝射]{猝射} and Recoil penalties.</p>\n<p><strong>Reloading:</strong>&nbsp;Machine guns are @Compendium[swade-core-rules.swade-rules.装填]{装填} 2, which includes changing belts or drums, cocking, etc.</p></div>",
-			"ammo": "Bullets, Medium",
+			"ammo": "中型子弹",
 			"actions": {
 				"skill": "射击",
 				"additional": {
@@ -1514,8 +1516,7 @@
 				"skill": "射击",
 				"additional": {
 					"7q7m8whv0d": {
-						"name": "格斗",
-						"shotsUsed": 1
+						"name": "格斗"
 					}
 				}
 			}
@@ -1536,8 +1537,8 @@
 		"Pistol (Laser)": {
 			"name": "手枪 (激光)",
 			"description": "<div class=\"swade-core\">\n<p>Lasers fire intensely focused beams of light to penetrate and burn their targets.</p>\n<p><strong>Cauterize:</strong> Anyone Incapacitated by a laser blast adds +2 to his @Compendium[swade-core-rules.swade-rules.特性]{活力} rolls to keep from @Compendium[swade-core-rules.swade-rules.伤害效果]{失血}.</p>\n<p><strong>Overcharge:</strong>&nbsp;This weapon can overcharge to cause an extra d6 damage, but if any of the @Compendium[swade-core-rules.swade-skills.射击]{射击} dice are a 1, the weapon must cool down for a full round before it can be fired again.</p>\n<p><strong>No Recoil:</strong>&nbsp;Pistols, SMGs, and rifles ignore the @Compendium[swade-core-rules.swade-rules.后坐力]{后坐力} penalty. Gatling lasers still take the penalty, however, which is why they&rsquo;re usually mounted on a @Compendium[swade-core-rules.swade-equipment.两脚架/三脚架]{三脚架}.</p>\n</div>",
-			"ammo": "Laser Battery, Pistol",
-			"notes": "Laser Battery, Pistol",
+			"ammo": "激光枪电池, 手枪",
+			"notes": "激光枪电池, 手枪",
 			"actions": {
 				"skill": "射击",
 				"additional": {
@@ -1554,7 +1555,7 @@
 		"Police Revolver": {
 			"name": "警用转轮枪",
 			"description": "<div class=\"swade-core\"><p><span style=\"color: #191813; background-color: #dfe6f5;\">Revolvers typically have six chambers that must be reloaded one bullet at a time, though separate cylinders called &ldquo;speed loaders&rdquo; are also available for more modern firearms for about 10% of the weapon&rsquo;s cost.</span></p></div>",
-			"ammo": "Bullets, Medium",
+			"ammo": "中型子弹",
 			"actions": {
 				"skill": "射击"
 			}
@@ -1608,7 +1609,7 @@
 		"Pump Action Shotgun": {
 			"name": "泵动式霰弹枪",
 			"description": "<div class=\"swade-core\"><p><span style=\"color: #191813; background-color: #dfe6f5;\">@Compendium[swade-core-rules.swade-rules.霰弹枪]{霰弹枪} fire a spread of pellets (called &ldquo;shot&rdquo; or &ldquo;buckshot&rdquo;) to increase the shooter&rsquo;s chance of hitting his target. Up close, the blast can be devastating.</span></p></div>",
-			"ammo": "Shotgun Shells",
+			"ammo": "霰弹枪弹丸",
 			"actions": {
 				"skill": "射击",
 				"additional": {
@@ -1646,7 +1647,7 @@
 			"name": "步枪 (激光)",
 			"description": "<div class=\"swade-core\">\n<p>Lasers fire intensely focused beams of light to penetrate and burn their targets.</p>\n<p><strong>Cauterize:</strong> Anyone Incapacitated by a laser blast adds +2 to his @Compendium[swade-core-rules.swade-rules.特性]{活力} rolls to keep from @Compendium[swade-core-rules.swade-rules.伤害效果]{失血}.</p>\n<p><strong>Overcharge:</strong>&nbsp;This weapon can overcharge to cause an extra d6 damage, but if any of the @Compendium[swade-core-rules.swade-skills.射击]{射击} dice are a 1, the weapon must cool down for a full round before it can be fired again.</p>\n<p><strong>No Recoil:</strong>&nbsp;Pistols, SMGs, and rifles ignore the @Compendium[swade-core-rules.swade-rules.后坐力]{后坐力} penalty. Gatling lasers still take the penalty, however, which is why they&rsquo;re usually mounted on a @Compendium[swade-core-rules.swade-equipment.两脚架/三脚架]{三脚架}.</p>\n</div>",
 			"notes": "Laser Battery, SMG/Rifle",
-			"ammo": "Laser Battery, Rifle / SMG",
+			"ammo": "激光枪电池, 步枪/冲锋枪",
 			"actions": {
 				"skill": "射击",
 				"additional": {
@@ -1693,7 +1694,7 @@
 		"Ruger": {
 			"name": "鲁格",
 			"description": "<div class=\"swade-core\"><p>Semi-automatics are fed from a magazine. Additional magazines may be purchased for 10% of the weapon&rsquo;s cost. They weigh about 1 lb each, fully loaded.</p></div>",
-			"ammo": "Bullets, Small",
+			"ammo": "小型子弹",
 			"actions": {
 				"skill": "射击"
 			}
@@ -1701,7 +1702,7 @@
 		"SAW": {
 			"name": "SAW",
 			"description": "<div class=\"swade-core\"><p>Machine guns are heavy, fully automatic weapons built to withstand prolonged fire. Most are fed by belts or drums and thus have far more ammo capacity than assault rifles, despite similar calibers and rates of fire.</p>\n<p><strong>Weapon Mount:</strong>&nbsp;Most machine-guns require a @Compendium[swade-core-rules.swade-equipment.两脚架/三脚架]{两脚架/三脚架} or vehicle mount to fire, which eliminates any Strength requirement and the @Compendium[swade-core-rules.swade-rules.后坐力]{后坐力} penalty. Their @Compendium[swade-core-rules.swade-rules.最低力量]{最低力量} is listed as &ldquo;NA,&rdquo; or &ldquo;Not Applicable.&rdquo; If a weapon has a Minimum Strength listed, it may be fired from the hip with the @Compendium[swade-core-rules.swade-rules.猝射]{猝射} and Recoil penalties.</p>\n<p><strong>Minimum Rate of Fire:</strong>&nbsp;Machine-guns have a minimum @Compendium[swade-core-rules.swade-rules.射速]{射速} of 2 unless otherwise noted.</p>\n<p><strong>Reloading:</strong>&nbsp;Machine guns are @Compendium[swade-core-rules.swade-rules.装填]{装填} 2, which includes changing belts or drums, cocking, etc.</p></div>",
-			"ammo": "Bullets, Medium",
+			"ammo": "中型子弹",
 			"actions": {
 				"skill": "射击",
 				"additional": {
@@ -1730,7 +1731,7 @@
 			"name": "冲锋枪 (激光)",
 			"description": "<div class=\"swade-core\">\n<p>Lasers fire intensely focused beams of light to penetrate and burn their targets.</p>\n<p><strong>Cauterize:</strong> Anyone Incapacitated by a laser blast adds +2 to his @Compendium[swade-core-rules.swade-rules.特性]{活力} rolls to keep from @Compendium[swade-core-rules.swade-rules.伤害效果]{失血}.</p>\n<p><strong>Overcharge:</strong>&nbsp;This weapon can overcharge to cause an extra d6 damage, but if any of the @Compendium[swade-core-rules.swade-skills.射击]{射击} dice are a 1, the weapon must cool down for a full round before it can be fired again.</p>\n<p><strong>No Recoil:</strong>&nbsp;Pistols, SMGs, and rifles ignore the @Compendium[swade-core-rules.swade-rules.后坐力]{后坐力} penalty. Gatling lasers still take the penalty, however, which is why they&rsquo;re usually mounted on a @Compendium[swade-core-rules.swade-equipment.两脚架/三脚架]{三脚架}.</p>\n</div>",
 			"notes": "Laser Battery, SMG/Rifle",
-			"ammo": "Laser Battery, Rifle / SMG",
+			"ammo": "激光枪电池, 步枪/冲锋枪",
 			"actions": {
 				"skill": "射击",
 				"additional": {
@@ -1756,7 +1757,7 @@
 		"Sawed-Off Double-Barrel Shotgun": {
 			"name": "双短管霰弹枪",
 			"description": "<div class=\"swade-core\"><p>@Compendium[swade-core-rules.swade-rules.霰弹枪]{霰弹枪} fire a spread of pellets (called &ldquo;shot&rdquo; or &ldquo;buckshot&rdquo;) to increase the shooter&rsquo;s chance of hitting his target. Up close, the blast can be devastating.</p></div>",
-			"ammo": "Shotgun Shells",
+			"ammo": "霰弹枪弹丸",
 			"actions": {
 				"skill": "射击",
 				"additional": {
@@ -1796,7 +1797,7 @@
 		"Sharps Big 50": {
 			"name": "夏普大50式",
 			"description": "<div class=\"swade-core\"><p>@Compendium[swade-core-rules.swade-rules.猝射]{猝射}</p>\n<hr />\n<p>Additional magazines or clips cost 10% of the rifle and weigh 1 lb each.</p></div>",
-			"ammo": "Bullets, Large",
+			"ammo": "大型子弹",
 			"actions": {
 				"skill": "射击",
 				"additional": {
@@ -1867,7 +1868,7 @@
 		"Smith & Wesson": {
 			"name": "史密斯&威森",
 			"description": "<div class=\"swade-core\"><p>Revolvers typically have six chambers that must be reloaded one bullet at a time, though separate cylinders called &ldquo;speed loaders&rdquo; are also available for more modern firearms for about 10% of the weapon&rsquo;s cost.</p></div>",
-			"ammo": "Bullets, Medium",
+			"ammo": "中型子弹",
 			"actions": {
 				"skill": "射击"
 			}
@@ -1905,7 +1906,8 @@
 				"skill": "运动",
 				"additional": {
 					"aryl7v6r72": {
-						"name": "运动(投掷)"
+						"name": "运动(投掷)",
+						"skillOverride": "运动"
 					}
 				}
 			}
@@ -1920,7 +1922,7 @@
 		"Spencer Carbine": {
 			"name": "斯宾塞卡宾枪",
 			"description": "<div class=\"swade-core\"><p>Additional magazines or clips cost 10% of the rifle and weigh 1 lb each.</p></div>",
-			"ammo": "Bullets, Medium",
+			"ammo": "中型子弹",
 			"actions": {
 				"skill": "射击"
 			}
@@ -1929,7 +1931,7 @@
 			"name": "春田M1861式步枪",
 			"description": "<div class=\"swade-core\"><p>Black powder weapons are @Compendium[swade-core-rules.swade-rules.装填]{装填} 3.</p></div>",
 			"notes": "Black powder weapons are Reload 3.",
-			"ammo": "Shot (w/ powder)",
+			"ammo": "定装弹",
 			"actions": {
 				"skill": "射击"
 			}
@@ -1950,7 +1952,7 @@
 		"Steyr AUG": {
 			"name": "斯太尔 AUG",
 			"description": "<div class=\"swade-core\"><p>May fire a @Compendium[swade-core-rules.swade-rules.三连发]{三连发}.</p></div>",
-			"ammo": "Bullets, Medium",
+			"ammo": "中型子弹",
 			"actions": {
 				"skill": "射击",
 				"additional": {
@@ -1969,7 +1971,7 @@
 		"Streetsweeper Shotgun": {
 			"name": "清道夫霰弹枪",
 			"description": "<div class=\"swade-core\"><p>@Compendium[swade-core-rules.swade-rules.霰弹枪]{霰弹枪} fire a spread of pellets (called &ldquo;shot&rdquo; or &ldquo;buckshot&rdquo;) to increase the shooter&rsquo;s chance of hitting his target. Up close, the blast can be devastating.</p></div>",
-			"ammo": "Shotgun Shells",
+			"ammo": "霰弹枪弹丸",
 			"actions": {
 				"skill": "射击",
 				"additional": {
@@ -2071,7 +2073,7 @@
 		"Tommy Gun": {
 			"name": "汤普森冲锋枪",
 			"description": "<div class=\"swade-core\">\n<p>Thompson submachine guns may also use a 50-round drum. This increases the weight by 2 lbs and each loaded drum costs $50.</p>\n<hr />\n<p>Typical magazine sizes are listed with each weapon. Additional magazines are available at 10% of the weapon&rsquo;s cost and weigh about 1 lb each, fully loaded.</p>\n<p>&nbsp;</p>\n</div>",
-			"ammo": "Bullets, Medium",
+			"ammo": "中型子弹",
 			"actions": {
 				"skill": "射击",
 				"additional": {
@@ -2123,7 +2125,7 @@
 		"Uzi": {
 			"name": "Uzi",
 			"description": "<div class=\"swade-core\"><p>Typical magazine sizes are listed with each weapon. Additional magazines are available at 10% of the weapon&rsquo;s cost and weigh about 1 lb each, fully loaded.</p></div>",
-			"ammo": "Bullets, Medium",
+			"ammo": "中型子弹",
 			"actions": {
 				"skill": "射击",
 				"additional": {
@@ -2182,7 +2184,7 @@
 		"Winchester ‘73": {
 			"name": "温切斯特73式步枪",
 			"description": "<div class=\"swade-core\"><p>Additional magazines or clips cost 10% of the rifle and weigh 1 lb each.</p></div>",
-			"ammo": "Bullets, Medium",
+			"ammo": "中型子弹",
 			"actions": {
 				"skill": "射击"
 			}
@@ -2200,7 +2202,7 @@
 			"description": "<div class=\"swade-core\">\n<h2>Improvised Weapons</h2>\n<p>Heroes often fight with objects that aren&rsquo;t intended for use as weapons. Torches, vases, chairs, tankards, bottles, tools, and other mundane items are frequently pressed into service in combat.</p>\n<p>Characters with improvised weapons count as armed but subtract 2 from attack rolls. @Compendium[swade-core-rules.swade-rules.射程]{射程}, @Compendium[swade-core-rules.swade-rules.伤害]{伤害} and @Compendium[swade-core-rules.swade-rules.最低力量]{最低力量} are determined by type:</p>\n<ul class=\"red-bullet-list\">\n<li><strong>LIGHT: </strong>Metal beer stein, fist-sized rock, pistol (as a club). Range 3/6/12, Damage Str+d4, Min Str d4.</li>\n<li><strong>MEDIUM: </strong>Bowling ball, submachine gun (as a club), wooden chair. Range 2/4/8, Damage Str+d6, Min. Str d6.</li>\n<li><strong>HEAVY: </strong>Head-size rock, metal chair, duffel bag full of guns. Range 1/2/4, Damage Str+d8, Min. Str d8.</li>\n</ul>\n<p>The GM can adjust the damage down a level or two if the item is softer than the examples above, like a duffel bag full of money.</p>\n</div>",
 			"notes": "",
 			"actions": {
-				"skill": "Fighting",
+				"skill": "格斗",
 				"additional": {
 					"p0sizbjx38": {
 						"name": "运动"
