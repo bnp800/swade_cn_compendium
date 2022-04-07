@@ -121,7 +121,7 @@
 			"description": "<div class=\"swade-core\">\n<ul>\n<li><strong>Sire: </strong>Anyone slain by a vampire has a 50% chance of rising as a vampire in [[/r 1d4]] days.</li>\n</ul>\n</div>"
 		},
 		"Speed": {
-			"name": "渗透",
+			"name": "疾速",
 			"description": "<div class=\"swade-core\">\n<ul>\n<li><strong>Speed:</strong> d10 @Compendium[swade-core-rules.swade-rules.移动]{奔跑骰}.</li>\n</ul>\n</div>"
 		},
 		"Split": {
