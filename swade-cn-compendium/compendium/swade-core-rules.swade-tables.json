@@ -8,13 +8,13 @@
 		},
 		"Battle Effects": {
 			"name": "战斗效果",
-			"description": "<div class=\"swade-core\">See <b>@Compendium[swade-core-rules.swade-rules.集团战斗]{集团战斗}</b> for when to use this table.</div>",
+			"description": "<div class=\"swade-core\">See <b>@Compendium[swade-core-rules.swade-rules.大规模作战]{大规模作战}</b> for when to use this table.</div>",
 			"results":{
-				"2-2":"<div class=\"swade-core\"><b>Inspire: </b>The warrior battles valiantly, inspiring the troops and urging them to fight on despite their injuries. Her side immediately recovers one @Compendium[swade-core-rules.swade-rules.集团战斗]{兵力标识}.</div>",
-				"3-4":"<div class=\"swade-core\"><b>Terrorize: </b>The fighter’s fury terrorizes her foes. The enemy commander subtracts 2 from his @Compendium[swade-core-rules.swade-rules.特性]{心魂} roll if forced to test @Compendium[swade-core-rules.swade-rules.集团战斗]{士气} this round.</div>",
+				"2-2":"<div class=\"swade-core\"><b>Inspire: </b>The warrior battles valiantly, inspiring the troops and urging them to fight on despite their injuries. Her side immediately recovers one @Compendium[swade-core-rules.swade-rules.大规模作战]{兵力标识}.</div>",
+				"3-4":"<div class=\"swade-core\"><b>Terrorize: </b>The fighter’s fury terrorizes her foes. The enemy commander subtracts 2 from his @Compendium[swade-core-rules.swade-rules.特性]{心魂} roll if forced to test @Compendium[swade-core-rules.swade-rules.大规模作战]{士气} this round.</div>",
 				"5-9":"<div class=\"swade-core\"><b>Valor: </b>The warrior’s @Compendium[swade-core-rules.swade-rules.援助]{援助} adds +2 to the commander’s @Compendium[swade-core-rules.swade-skills.作战]{作战} roll as usual.</div>",
 				"10-11":"<div class=\"swade-core\"><b>Slaughter: </b>The foe reels at the champ­ion’s onslaught. Subtract 2 from the enemy commander’s @Compendium[swade-core-rules.swade-skills.作战]{作战} total.</div>",
-				"12-12":"<div class=\"swade-core\"><b>An Army of One: </b>Tales will be told and songs sung of the warrior’s epic feats this day. The enemy army loses a @Compendium[swade-core-rules.swade-rules.集团战斗]{兵力标识} immediately (this doesn’t subtract from his Battle roll but does cause a  @Compendium[swade-core-rules.swade-rules.集团战斗]{士气} check even if he wins).</div>"
+				"12-12":"<div class=\"swade-core\"><b>An Army of One: </b>Tales will be told and songs sung of the warrior’s epic feats this day. The enemy army loses a @Compendium[swade-core-rules.swade-rules.大规模作战]{兵力标识} immediately (this doesn’t subtract from his Battle roll but does cause a  @Compendium[swade-core-rules.swade-rules.大规模作战]{士气} check even if he wins).</div>"
 			}
 		},
 		"Creative Combat": {

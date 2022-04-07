@@ -18,7 +18,7 @@
 		},
 		"Battle": {
 			"name": "作战",
-			"description": "<div class=\"swade-core\"><p>作战是指个体的策略以及战术指挥能力。其能在综合军事知识以及在 @Compendium[swade-core-rules.swade-rules.集团战斗]{集团战斗}中指挥部队时派上重要用场。</p></div>"
+			"description": "<div class=\"swade-core\"><p>作战是指个体的策略以及战术指挥能力。其能在综合军事知识以及在 @Compendium[swade-core-rules.swade-rules.大规模作战]{大规模作战}中指挥部队时派上重要用场。</p></div>"
 		},
 		"Boating": {
 			"name": "驾船",
@@ -50,7 +50,7 @@
 		},
 		"Gambling": {
 			"name": "赌博",
-			"description": "<div class=\"swade-core\"><p>无论是在旧西部的酒吧，犯罪组织的密室，大部分军队的兵营或是科幻太空船的驾驶舱内，赌博都屡见不鲜。</p>\n<p>为了模拟时长1小时的赌博而不用为每次色子或是手牌投骰，在每个人同意诸如$10或是10金币之类的赌注后，参与赌局的所有人投一次赌博技能骰。结果最低者支付结果最高者二人技能骰之间差值倍数的赌注。结果次低者支付结果次高者二人技能骰之间差值倍数的赌注，如此类推。如果偶尔有家伙落在中间，则他不赚不赔。</p>\n<p class=\"embedded-example\"><strong>例子：</strong> 红投出了最高值10，加布骰出了最低值4。两者差值为6，则加布需支付给红6×$10赌注，即$60。</p>\n<p><strong>作弊：</strong>作弊的角色可在投骰结果上获得+2。GM可能会根据特定的游戏或是作弊的方法提高或降低该修正值。然而，如果角色投出@Compendium[swade-core-rules.swade-rules.特性投骰]{大失败}，他就露出马脚了。结果通常会根据情景以及是谁发现而定，但往往都不怎么愉快！</p></div>"
+			"description": "<div class=\"swade-core\"><p>无论是在旧西部的酒吧，犯罪组织的密室，大部分军队的兵营或是科幻太空船的驾驶舱内，赌博都屡见不鲜。</p>\n<p>为了模拟时长1小时的赌博而不用为每次色子或是手牌投骰，在每个人同意诸如$10或是10金币之类的赌注后，参与赌局的所有人投一次赌博技能骰。结果最低者支付结果最高者二人技能骰之间差值倍数的赌注。结果次低者支付结果次高者二人技能骰之间差值倍数的赌注，如此类推。如果偶尔有家伙落在中间，则他不赚不赔。</p>\n<p class=\"embedded-example\"><strong>例子：</strong> 红投出了最高值10，加布骰出了最低值4。两者差值为6，则加布需支付给红6×$10赌注，即$60。</p>\n<p><strong>作弊：</strong>作弊的角色可在投骰结果上获得+2。GM可能会根据特定的游戏或是作弊的方法提高或降低该调整值值。然而，如果角色投出@Compendium[swade-core-rules.swade-rules.特性投骰]{大失败}，他就露出马脚了。结果通常会根据情景以及是谁发现而定，但往往都不怎么愉快！</p></div>"
 		},
 		"Hacking": {
 			"name": "骇客",
@@ -133,7 +133,7 @@
 			"description": "<div class=\"swade-core\">\n<p>Lockpicking, safecracking, picking pockets, sleight of hand, setting and disabling traps and similar acts of misdirection, sabotage, subterfuge, and manipulation are called Thievery.</p>\n<p>If used to pick a lock, crack a safe, disable a trap, or perform a simple unopposed action, @Compendium[swade-core-rules.swade-rules.特性投骰]{成功} opens or disables the device, and a @Compendium[swade-core-rules.swade-rules.特性投骰]{优良} does it in less time, without tripping alarms, or whatever else the GM feels is appropriate.</p>\n<p>Sleight of hand, hiding or planting an item, or picking a pocket require a simple @Compendium[swade-core-rules.swade-rules.特性投骰]{成功}. If foes are actively watching the character, Thievery is @Compendium[swade-core-rules.swade-rules.特性投骰]{对抗} by @Compendium[swade-core-rules.swade-skills.察觉]{察觉}.</p>\n<p>The Game Master should assign @Compendium[swade-core-rules.swade-rules.特性投骰]{减值} for particularly difficult circumstances. Picking a heavy padlock might have a &minus;4 penalty, while hiding a revolver in bulky winter clothing might grant a +1 bonus. @Compendium[swade-core-rules.swade-rules.特性投骰]{失败} typically means the character is spotted or it takes too much time (after which the character can try again). A @Compendium[swade-core-rules.swade-rules.特性投骰]{大失败} typically sets off the trap, alerts the victim, or jams the device so that it must be opened or interacted with in a different way.</p>\n<p><strong>Limited: </strong>Using Thievery on an electronic device, such as a keypad, is limited by the thief&rsquo;s @Compendium[swade-core-rules.swade-skills.电子学]{电子学} skill. Use the lowest of the two skills.</p>\n</div>"
 		},
 		"Unskilled Attempt": {
-			"name": "拙劣尝试",
+			"name": "未受训尝试",
 			"description": "<div class=\"swade-core\">\n<p>If a character doesn&rsquo;t have a skill for an action he&rsquo;s attempting, he rolls a d4 for his skill die (and a Wild Die if a @Compendium[swade-core-rules.swade-rules.不羁角色与龙套们]{不羁角色}) and subtracts 2 from the total.</p>\n<p>The GM may decide certain tasks cannot be attempted unskilled, such as performing complex surgery or flying a commercial jet.</p>\n</div>"
 		},
 		"Weird Science": {

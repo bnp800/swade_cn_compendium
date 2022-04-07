@@ -77,7 +77,7 @@
 			"description": "<div class=\"swade-core\"><p><span class=\"fontstyle0\">Some people don&rsquo;t believe in the supernatural until they&rsquo;re halfway down some creature&rsquo;s gullet. Doubting Thomases are skeptics who try their best to rationalize supernatural events. They walk right into danger they don&rsquo;t believe in and look for alternate explanations to every supernatural event. </span></p>\n<p><span class=\"fontstyle0\">Even after being confronted with undeniable truth, the doubter&rsquo;s mind eventually begins to doubt what he saw, rationalizes it away, or compartmentalizes the event as &ldquo;one of a kind&rdquo; while continuing to doubt the next mystery.</span></p></div>"
 		},
 		"Driven": {
-			"name": "自我鞭策",
+			"name": "立志",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">(MINOR OR MAJOR)</span></p>\n<p><span class=\"fontstyle0\">A vow is a commitment to others. Driven characters want something for themselves. It may be to protect the realm, become a decorated officer, prove you&rsquo;re the best gladiator in Rome, or the best pilot in the galactic fleet. </span></p>\n<p><span class=\"fontstyle0\">The @Compendium[swade-core-rules.swade-rules.角色]{次要} version shapes the character and pushes his decisions but either happens rarely or is fairly harmless. As a @Compendium[swade-core-rules.swade-rules.角色]{主要} @Compendium[swade-core-rules.swade-rules.负赘]{负赘} it&rsquo;s an overriding desire that comes up frequently or causes peril for the heroine and those around her.</span></p>\n</div>"
 		},
 		"Elderly": {
@@ -85,7 +85,7 @@
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Your adventurer is getting on in years, but he&rsquo;s not quite ready for the nursing home yet. His</span> <span class=\"fontstyle0\">@Compendium[swade-core-rules.swade-rules.移动]{移速} is reduced by 1, and he subtracts 1 from </span><span class=\"fontstyle0\">@Compendium[swade-core-rules.swade-rules.移动]{奔跑投骰}</span><span class=\"fontstyle0\"> (minimum 1). He also suffers a -1 penalty to</span> <span class=\"fontstyle0\"><span class=\"fontstyle0\"><span class=\"fontstyle0\">@Compendium[swade-core-rules.swade-rules.特性]{灵巧}, @Compendium[swade-core-rules.swade-rules.特性]{力量}, and @Compendium[swade-core-rules.swade-rules.特性]{活力} rolls</span></span>, but not their linked @Compendium[swade-core-rules.swade-rules.特性]{技能}. </span></p>\n<p><span class=\"fontstyle0\">On the plus side, the wisdom of his years grants the hero 5 extra @Compendium[swade-core-rules.swade-rules.角色]{技能点} which may be used for any @Compendium[swade-core-rules.swade-rules.特性]{技能} linked to @Compendium[swade-core-rules.swade-rules.特性]{聪慧}</span><span class=\"fontstyle0\">.</span></p>\n</div>"
 		},
 		"Enemy": {
-			"name": "宿敌",
+			"name": "夙敌",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Someone out there hates the character and wants him ruined, locked away, or dead. The value of the @Compendium[swade-core-rules.swade-rules.负赘]{负赘} depends on how powerful the enemy is and how often he might show up. A @Compendium[swade-core-rules.swade-rules.角色]{次要} Enemy might be a lone gunslinger out for vengeance or a betrayed brotherhood that&rsquo;s deadly but appears rarely. A @Compendium[swade-core-rules.swade-rules.角色]{主要} </span><span class=\"fontstyle0\"><span class=\"fontstyle0\">Enemy</span> might represent powerful authorities, a band of outlaws, or a single very powerful and relentless rival.</span></p>\n<p><span class=\"fontstyle0\">If the enemy is one day defeated, the GM should gradually work in a replacement, or the hero may buy off the @Compendium[swade-core-rules.swade-rules.负赘]{负赘} by sacrificing an </span><span class=\"fontstyle0\">@Compendium[swade-core-rules.swade-rules.升级]{升级}.</span></p>\n</div>"
 		},
 		"Greedy": {
@@ -146,7 +146,7 @@
 		},
 		"One Arm": {
 			"name": "独臂",
-			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">By birth or battle, your hero has lost an arm. Fortunately, his other arm is (now) his &ldquo;good&rdquo; one. Tasks that require two hands, such as some @Compendium[swade-core-rules.swade-skills.运动]{运动} @Compendium[swade-core-rules.swade-rules.特性投骰]{投骰} (GM&rsquo;s call) or using a two-handed weapon, suffer a -4 @Compendium[swade-core-rules.swade-rules.特性投骰]{修正}.</span></p>\n</div>"
+			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">By birth or battle, your hero has lost an arm. Fortunately, his other arm is (now) his &ldquo;good&rdquo; one. Tasks that require two hands, such as some @Compendium[swade-core-rules.swade-skills.运动]{运动} @Compendium[swade-core-rules.swade-rules.特性投骰]{投骰} (GM&rsquo;s call) or using a two-handed weapon, suffer a -4 @Compendium[swade-core-rules.swade-rules.特性投骰]{调整值}.</span></p>\n</div>"
 		},
 		"One Eye": {
 			"name": "独眼",
@@ -182,7 +182,7 @@
 		},
 		"Secret": {
 			"name": "秘密",
-			"description": "<div class=\"swade-core\">\n<p>(MINOR OR MAJOR)</p>\n<p><span class=\"fontstyle0\">Your hero has a secret she keeps to protect herself or others. As a @Compendium[swade-core-rules.swade-rules.角色]{次要} @Compendium[swade-core-rules.swade-rules.负赘]{负赘}, the secret is troublesome but not life-threatening. The @Compendium[swade-core-rules.swade-rules.角色]{主要} version would cause severe problems if discovered. If it ever becomes public knowledge, she should trade it for @Compendium[swade-core-rules.swade-hindrances.宿敌]{宿敌}, @Compendium[swade-core-rules.swade-hindrances.耻辱]{耻辱}, @Compendium[swade-core-rules.swade-hindrances.通缉]{通缉}, or another appropriate @Compendium[swade-core-rules.swade-rules.负赘]{负赘} approved by the GM.</span></p>\n</div>"
+			"description": "<div class=\"swade-core\">\n<p>(MINOR OR MAJOR)</p>\n<p><span class=\"fontstyle0\">Your hero has a secret she keeps to protect herself or others. As a @Compendium[swade-core-rules.swade-rules.角色]{次要} @Compendium[swade-core-rules.swade-rules.负赘]{负赘}, the secret is troublesome but not life-threatening. The @Compendium[swade-core-rules.swade-rules.角色]{主要} version would cause severe problems if discovered. If it ever becomes public knowledge, she should trade it for @Compendium[swade-core-rules.swade-hindrances.夙敌]{夙敌}, @Compendium[swade-core-rules.swade-hindrances.耻辱]{耻辱}, @Compendium[swade-core-rules.swade-hindrances.通缉]{通缉}, or another appropriate @Compendium[swade-core-rules.swade-rules.负赘]{负赘} approved by the GM.</span></p>\n</div>"
 		},
 		"Shamed": {
 			"name": "耻辱",
@@ -209,7 +209,7 @@
 			"description": "<div class=\"swade-core\">\n<p>(MINOR OR MAJOR)</p>\n<p><span class=\"fontstyle0\">Personal attacks really get under this individual&rsquo;s skin. As a @Compendium[swade-core-rules.swade-rules.角色]{次要} @Compendium[swade-core-rules.swade-rules.负赘]{负赘}, he subtracts 2 when resisting @Compendium[swade-core-rules.swade-skills.嘲弄]{嘲弄} attacks. As a @Compendium[swade-core-rules.swade-rules.角色]{主要}, he subtracts 4.</span></p>\n</div>"
 		},
 		"Tongue-Tied": {
-			"name": "嘴笨",
+			"name": "拙舌",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Your adventurer flubs cool lines (or thinks of them afterwards!), goes off on tangents when he&rsquo;s trying to talk someone into something, and generally miscommunicates most everything he says. He suffers a -1 @Compendium[swade-core-rules.swade-rules.特性投骰]{减值} to @Compendium[swade-core-rules.swade-skills.威吓]{威吓}, @Compendium[swade-core-rules.swade-skills.表演]{表演}, @Compendium[swade-core-rules.swade-skills.交涉]{交涉}, and @Compendium[swade-core-rules.swade-skills.嘲弄]{嘲弄} rolls that involve speech.</span></p>\n</div>"
 		},
 		"Ugly": {
@@ -221,7 +221,7 @@
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">(MINOR OR MAJOR)</span></p>\n<p><span class=\"fontstyle0\">Payback is&hellip; well&hellip; bad news for someone, and this adventurer is going to get it.</span></p>\n<p><span class=\"fontstyle0\">As a @Compendium[swade-core-rules.swade-rules.角色]{次要} @Compendium[swade-core-rules.swade-rules.负赘]{负赘} she usually seeks vengeance legally. The method varies by situation. Some plot and scheme for months while others demand immediate results.</span></p>\n<p><span class=\"fontstyle0\">Those with the @Compendium[swade-core-rules.swade-rules.角色]{主要} version of this @Compendium[swade-core-rules.swade-rules.负赘]{负赘} don&rsquo;t let anything prevent them from a reckoning. This doesn&rsquo;t mean they immediately resort to violence, but their actions always escalate until total and complete satisfaction is achieved.</span></p>\n</div>"
 		},
 		"Vow": {
-			"name": "誓言加身",
+			"name": "誓言",
 			"description": "<div class=\"swade-core\">\n<p>(MINOR OR MAJOR)</p>\n<p><span class=\"fontstyle0\">The character has sworn an oath to someone or something he believes in.</span></p>\n<p><span class=\"fontstyle0\">The danger in fulfilling the Vow and how often it might occur determines the level of the @Compendium[swade-core-rules.swade-rules.负赘]{负赘}. A @Compendium[swade-core-rules.swade-rules.角色]{次要} </span><span class=\"fontstyle0\"><span class=\"fontstyle0\">Vow</span> might be to serve an order with a broad mandate that rarely conflicts with the party&rsquo;s goals.</span></p>\n<p><span class=\"fontstyle0\">A @Compendium[swade-core-rules.swade-rules.角色]{主要} </span><span class=\"fontstyle0\"><span class=\"fontstyle0\">Vow</span> makes long-term and frequent demands on the servant&rsquo;s time and results in great risks to his life.</span></p>\n</div>"
 		},
 		"Wanted": {
