@@ -1,13 +1,9 @@
 {
 	"label": "SWADE负赘",
 	"mapping": {
-		"description": "data.description",
-		"foldername": "flags.cf.name"
+		"description": "data.description"
 	},
 	"entries": {
-		"xtaUPCsQHGcWSNiJ": {
-			"foldername": "负赘"
-		},
 		"All Thumbs": {
 			"name": "一窍不通",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Due to upbringing, lack of exposure, or pure bad luck, some individuals are &ldquo;all<br />thumbs&rdquo; when it comes to mechanical or technological devices.<br /></span></p>\n<p><span class=\"fontstyle0\">All Thumbs inflicts a -2 @Compendium[swade-core-rules.swade-rules.特性投骰]{减值} when using mechanical or electrical devices. If he rolls a @Compendium[swade-core-rules.swade-rules.特性投骰]{大失败} while using such a device (and it doesn&rsquo;t already have a built-in effect), it&rsquo;s broken. If the GM feels it&rsquo;s appropriate, it can be fixed with a @Compendium[swade-core-rules.swade-skills.修理]{修理} roll and 1d6 hours.</span></p>\n</div>"

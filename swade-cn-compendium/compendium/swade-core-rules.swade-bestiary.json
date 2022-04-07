@@ -3,13 +3,9 @@
 	"mapping": {
 		"biography": "data.details.biography.value",
 		"effects": "effects",
-		"label": "effects.label",
-		"foldername": "flags.cf.name"
+		"label": "effects.label"
 	},
 	"entries": {
-		"VQFq0t0Z6uUlOvnk": {
-			"foldername": "怪物图鉴"
-		},
 		"Alligator/Crocodile": {
 			"name": "鳄鱼/短吻鳄",
 			"biography": "<div class=\"swade-core\">\n<p>鳄鱼与短吻鳄是大多数沼地类冒险的常客，以下数据代表了这两种常见的鳄鱼样例。在一些偏远的地区时而会有体型更大的种类。</p>\n<p><strong>特殊能力:</strong></p>\n<ul>\n<li><strong>@Compendium[swade-core-rules.swade-rules.特殊能力 (水栖)]{水栖}:</strong> @Compendium[swade-core-rules.swade-rules.移动]{移速} 5.</li>\n<li><strong>@Compendium[swade-core-rules.swade-rules.特殊能力 (体型)]{体型} 1:</strong> 通常鳄鱼有12英尺长，皮糙肉厚，重量差不多在500磅左右。</li>\n</ul>\n</div>",

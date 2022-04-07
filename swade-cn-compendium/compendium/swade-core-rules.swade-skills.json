@@ -1,13 +1,9 @@
 {
 	"label": "SWADE技能",
 	"mapping": {
-		"description": "data.description",
-		"foldername": "flags.cf.name"
+		"description": "data.description"
 	},
 	"entries": {
-		"NSNVNkHBCUOSoNRV": {
-			"foldername": "技能"
-		},
 		"Academics": {
 			"name": "人文",
 			"description": "<div class=\"swade-core\"><p>人文象征着人文学科，社会科学，文学，历史，考古学等相似领域。如果角色想去回忆玛雅日历结束时间或是背诵<cite>麦克白</cite>的某段台词，这就是需要的技能。</p></div>"

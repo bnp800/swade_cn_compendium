@@ -4,10 +4,6 @@
 		"description": "data.description"
 	},
 	"entries": {
-		"#[CF_tempEntity]": {
-			"name": "#[CF_tempEntity]",
-			"description": ""
-		},
 		"Aquatic": {
 			"name": "水栖",
 			"description": "<div class=\"swade-core\">\n<ul>\n<li><strong>@Compendium[swade-core-rules.swade-rules.特殊能力 (水栖)]{水栖}:</strong> @Compendium[swade-core-rules.swade-rules.移动]{移速} 5.</li>\n</ul>\n</div>"

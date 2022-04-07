@@ -2,37 +2,9 @@
 	"label": "SWADE专长",
 	"mapping": {
 		"description": "data.description",
-		"requirements": "data.requirements.value",
-		"foldername": "flags.cf.name"
+		"requirements": "data.requirements.value"
 	},
 	"entries": {
-		"2CIvOdMFUb3IgBlw": {
-			"foldername": "战斗专长"
-		},
-		"7sLfyNLO2g6E63hy": {
-			"foldername": "术业专长"
-		},
-		"8MxRoxixBH9kOQcC": {
-			"foldername": "领导力专长"
-		},
-		"UsDlfJtQ36FMtbRE": {
-			"foldername": "专长"
-		},
-		"aONyRLOYseLse5fM": {
-			"foldername": "传奇专长"
-		},
-		"k2jYj3iaRsXkooLj": {
-			"foldername": "奇术专长"
-		},
-		"lJUYx7fCBuGxl2IT": {
-			"foldername": "社交专长"
-		},
-		"ozf9MkDp2k8EEQbx": {
-			"foldername": "背景专长"
-		},
-		"sRsFDWRLqZkEInCC": {
-			"foldername": "奇异专长"
-		},
 		"Ace": {
 			"name": "王牌机师",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Aces are pilots and drivers who have a special affinity with their car, boat, plane, or other vehicle. They ignore two points of penalties to any @Compendium[swade-core-rules.swade-skills.驾船]{驾船}, @Compendium[swade-core-rules.swade-skills.驾驶]{驾驶}, or @Compendium[swade-core-rules.swade-skills.航空]{航空} roll, and may spend @Compendium[swade-core-rules.swade-rules.助力点]{助力点} to @Compendium[swade-core-rules.swade-rules.化解投骰]{化解} damage for any @Compendium[swade-core-rules.swade-rules.载具注释]{载具} they control or command, using the appropriate Boating, Driving, or Piloting skill instead of @Compendium[swade-core-rules.swade-rules.特性]{活力}. Each success and raise negates a @Compendium[swade-core-rules.swade-rules.伤害效果]{损伤}.</span></p>\n</div>",

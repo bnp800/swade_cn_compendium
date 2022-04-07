@@ -2,40 +2,9 @@
 	"label": "SWADE载具",
 	"mapping": {
 		"description": "data.description",
-		"skill": "data.driver.skill",
-		"foldername": "flags.cf.name"
+		"skill": "data.driver.skill"
 	},
 	"entries": {
-		"0LxGrN1n2iJb9eMU": {
-			"foldername": "船只"
-		},
-		"IGoQYbDybCrY1SQh": {
-			"foldername": "现代军用航空器"
-		},
-		"LLmdHZexGfwmJhrd": {
-			"foldername": "二战军用航空器"
-		},
-		"TnFfAgCYKZvq9bDn": {
-			"foldername": "二战军用载具"
-		},
-		"eGYuOMMrDDCyQ6x8": {
-			"foldername": "民用"
-		},
-		"fkM6boxYHGgLii0g": {
-			"foldername": "地面载具"
-		},
-		"iz6gU8KBfeofmJpG": {
-			"foldername": "航空器"
-		},
-		"jvzshu6wIu4KM6Jf": {
-			"foldername": "民用载具"
-		},
-		"ttyjWyf92ytL2csi": {
-			"foldername": "载具"
-		},
-		"vJpsu4W2RR4C07Fj": {
-			"foldername": "未来军用载具"
-		},
 		"AH-64 Apache": {
 			"name": "AH-64 阿帕奇武装直升机",
 			"description": "<div class=\"swade-core\">\n<p>Helicopter, @Compendium[swade-core-rules.swade-rules.载具注释]{夜视}.</p>\n</div>",

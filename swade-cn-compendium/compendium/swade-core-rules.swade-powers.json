@@ -5,13 +5,9 @@
 		"rank": "data.rank",
 		"range": "data.range",
 		"duration": "data.duration",
-		"trapping": "data.trapping",
-		"foldername": "flags.cf.name"
+		"trapping": "data.trapping"
 	},
 	"entries": {
-		"zg9LySuee24fhPnB": {
-			"foldername": "奇术"
-		},
 		"Arcane Protection": {
 			"name": "奥法防护",
 			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.特性投骰]{成功} with arcane protection means hostile powers suffer a &minus;2 @Compendium[swade-core-rules.swade-rules.特性投骰]{减值} (&minus;4 with a raise) to affect this character.</p>\n<p>If the power causes harm, @Compendium[swade-core-rules.swade-rules.伤害效果]{伤害} is also reduced a like amount. Arcane Protection stacks with @Compendium[swade-core-rules.swade-edges.奥法抗性]{奥法抗性} should the recipient have both!</p>\n<p><strong>Modifiers</strong></p>\n<ul>\n<li><strong><span class=\"fontstyle0\">Additional Recipients (+1): </span></strong><span class=\"fontstyle2\">The power may affect more than one target for 1 additional @Compendium[swade-core-rules.swade-rules.奥法背景]{奇术点} each.</span></li>\n</ul>\n</div>",
