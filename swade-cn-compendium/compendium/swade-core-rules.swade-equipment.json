@@ -14,7 +14,7 @@
 		},
 		"120mm Tank Gun (AP Rounds)": {
 			"name": "120mm 坦克炮 (穿甲弹)",
-			"description": "<div class=\"swade-core\">\n<p><strong>Tank and AT Guns:</strong>&nbsp;May fire either @Compendium[swade-core-rules.swade-rules.穿甲 (AP)]{穿甲} or @Compendium[swade-core-rules.swade-rules.高爆 (HE)]{高爆} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.射程]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}&nbsp;</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p><strong>坦克与反坦克炮:</strong>能根据炮手的选择发射@Compendium[swade-core-rules.swade-rules.穿甲 (AP)]{穿甲}弹或是@Compendium[swade-core-rules.swade-rules.高爆 (HE)]{高爆}弹。穿甲弹在接近时会造成额外伤害。如果在短距@Compendium[swade-core-rules.swade-rules.射程]{射程}的一半及以下的距离内开火，则武器的伤害骰子增加一枚。(举例而言，4d10+2变为5d10+2)。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}&nbsp;</p>\n</div>",
 			"notes": "重武器",
 			"actions": {
 				"skill": "射击",
@@ -27,7 +27,7 @@
 		},
 		"120mm Tank Gun (HE Rounds)": {
 			"name": "120mm 坦克炮 (高爆弹)",
-			"description": "<div class=\"swade-core\">\n<p><strong>Tank and AT Guns:</strong>&nbsp;May fire either @Compendium[swade-core-rules.swade-rules.穿甲 (AP)]{穿甲} or @Compendium[swade-core-rules.swade-rules.高爆 (HE)]{高爆} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.射程]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)} @Compendium[swade-core-rules.swade-rules.范围效果攻击]{中型爆散盖板}</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p><strong>坦克与反坦克炮:</strong>能根据炮手的选择发射@Compendium[swade-core-rules.swade-rules.穿甲 (AP)]{穿甲}弹或是@Compendium[swade-core-rules.swade-rules.高爆 (HE)]{高爆}弹。穿甲弹在接近时会造成额外伤害。如果在短距@Compendium[swade-core-rules.swade-rules.射程]{射程}的一半及以下的距离内开火，则武器的伤害骰子增加一枚。(举例而言，4d10+2变为5d10+2)。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)} @Compendium[swade-core-rules.swade-rules.范围效果攻击]{中型爆散盖板}</p>\n</div>",
 			"notes": "中型爆散盖板, 重武器",
 			"actions": {
 				"skill": "射击"
@@ -35,7 +35,7 @@
 		},
 		"125mm Tank Gun (AP Rounds)": {
 			"name": "125mm 坦克炮 (穿甲弹)",
-			"description": "<div class=\"swade-core\">\n<p><strong>Tank and AT Guns:</strong>&nbsp;May fire either @Compendium[swade-core-rules.swade-rules.穿甲 (AP)]{穿甲} or @Compendium[swade-core-rules.swade-rules.高爆 (HE)]{高爆} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.射程]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}&nbsp;</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p><strong>坦克与反坦克炮:</strong>能根据炮手的选择发射@Compendium[swade-core-rules.swade-rules.穿甲 (AP)]{穿甲}弹或是@Compendium[swade-core-rules.swade-rules.高爆 (HE)]{高爆}弹。穿甲弹在接近时会造成额外伤害。如果在短距@Compendium[swade-core-rules.swade-rules.射程]{射程}的一半及以下的距离内开火，则武器的伤害骰子增加一枚。(举例而言，4d10+2变为5d10+2)。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}&nbsp;</p>\n</div>",
 			"notes": "重武器",
 			"actions": {
 				"skill": "射击",
@@ -48,7 +48,7 @@
 		},
 		"125mm Tank Gun (HE Rounds)": {
 			"name": "125mm 坦克炮 (高爆弹)",
-			"description": "<div class=\"swade-core\">\n<p><strong>Tank and AT Guns:</strong>&nbsp;May fire either @Compendium[swade-core-rules.swade-rules.穿甲 (AP)]{穿甲} or @Compendium[swade-core-rules.swade-rules.高爆 (HE)]{高爆} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.射程]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)} @Compendium[swade-core-rules.swade-rules.范围效果攻击]{中型爆散盖板}</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p><strong>坦克与反坦克炮:</strong>能根据炮手的选择发射@Compendium[swade-core-rules.swade-rules.穿甲 (AP)]{穿甲}弹或是@Compendium[swade-core-rules.swade-rules.高爆 (HE)]{高爆}弹。穿甲弹在接近时会造成额外伤害。如果在短距@Compendium[swade-core-rules.swade-rules.射程]{射程}的一半及以下的距离内开火，则武器的伤害骰子增加一枚。(举例而言，4d10+2变为5d10+2)。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)} @Compendium[swade-core-rules.swade-rules.范围效果攻击]{中型爆散盖板}</p>\n</div>",
 			"notes": "中型爆散盖板, 重武器",
 			"actions": {
 				"skill": "射击"
@@ -56,7 +56,7 @@
 		},
 		"2 pd AT Gun (AP Rounds)": {
 			"name": "2 pd 反坦克炮 (穿甲弹)",
-			"description": "<div class=\"swade-core\"><p><strong>Tank and AT Guns:</strong>&nbsp;May fire either @Compendium[swade-core-rules.swade-rules.穿甲 (AP)]{穿甲} or @Compendium[swade-core-rules.swade-rules.高爆 (HE)]{高爆} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.射程]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p></div>",
+			"description": "<div class=\"swade-core\"><p><strong>坦克与反坦克炮:</strong>能根据炮手的选择发射@Compendium[swade-core-rules.swade-rules.穿甲 (AP)]{穿甲}弹或是@Compendium[swade-core-rules.swade-rules.高爆 (HE)]{高爆}弹。穿甲弹在接近时会造成额外伤害。如果在短距@Compendium[swade-core-rules.swade-rules.射程]{射程}的一半及以下的距离内开火，则武器的伤害骰子增加一枚。(举例而言，4d10+2变为5d10+2)。</p></div>",
 			"notes": "重武器",
 			"actions": {
 				"skill": "射击",
@@ -69,7 +69,7 @@
 		},
 		"2 pd AT Gun (HE Rounds)": {
 			"name": "2 pd 反坦克炮 (高爆弹)",
-			"description": "<div class=\"swade-core\">\n<p><strong>Tank and AT Guns:</strong>&nbsp;May fire either @Compendium[swade-core-rules.swade-rules.穿甲 (AP)]{穿甲} or @Compendium[swade-core-rules.swade-rules.高爆 (HE)]{高爆} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.射程]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)} @Compendium[swade-core-rules.swade-rules.范围效果攻击]{中型爆散盖板}</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p><strong>坦克与反坦克炮:</strong>能根据炮手的选择发射@Compendium[swade-core-rules.swade-rules.穿甲 (AP)]{穿甲}弹或是@Compendium[swade-core-rules.swade-rules.高爆 (HE)]{高爆}弹。穿甲弹在接近时会造成额外伤害。如果在短距@Compendium[swade-core-rules.swade-rules.射程]{射程}的一半及以下的距离内开火，则武器的伤害骰子增加一枚。(举例而言，4d10+2变为5d10+2)。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)} @Compendium[swade-core-rules.swade-rules.范围效果攻击]{中型爆散盖板}</p>\n</div>",
 			"notes": "中型爆散盖板, 重武器",
 			"actions": {
 				"skill": "射击"
@@ -128,7 +128,7 @@
 		},
 		"37mm AT Gun (AP Rounds)": {
 			"name": "37mm 反坦克炮 (穿甲弹)",
-			"description": "<div class=\"swade-core\"><p><strong>Tank and AT Guns:</strong>&nbsp;May fire either @Compendium[swade-core-rules.swade-rules.穿甲 (AP)]{穿甲} or @Compendium[swade-core-rules.swade-rules.高爆 (HE)]{高爆} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.射程]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p></div>",
+			"description": "<div class=\"swade-core\"><p><strong>坦克与反坦克炮:</strong>能根据炮手的选择发射@Compendium[swade-core-rules.swade-rules.穿甲 (AP)]{穿甲}弹或是@Compendium[swade-core-rules.swade-rules.高爆 (HE)]{高爆}弹。穿甲弹在接近时会造成额外伤害。如果在短距@Compendium[swade-core-rules.swade-rules.射程]{射程}的一半及以下的距离内开火，则武器的伤害骰子增加一枚。(举例而言，4d10+2变为5d10+2)。</p></div>",
 			"notes": "重武器",
 			"actions": {
 				"skill": "射击",
@@ -141,7 +141,7 @@
 		},
 		"37mm AT Gun (HE Rounds)": {
 			"name": "37mm 反坦克炮 (高爆弹)",
-			"description": "<div class=\"swade-core\">\n<p><strong>Tank and AT Guns:</strong> May fire either @Compendium[swade-core-rules.swade-rules.穿甲 (AP)]{穿甲} or @Compendium[swade-core-rules.swade-rules.高爆 (HE)]{高爆} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.射程]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)} @Compendium[swade-core-rules.swade-rules.范围效果攻击]{中型爆散盖板}</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p><strong>坦克与反坦克炮:</strong> May fire either @Compendium[swade-core-rules.swade-rules.穿甲 (AP)]{穿甲} or @Compendium[swade-core-rules.swade-rules.高爆 (HE)]{高爆} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.射程]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)} @Compendium[swade-core-rules.swade-rules.范围效果攻击]{中型爆散盖板}</p>\n</div>",
 			"notes": "中型爆散盖板, 重武器",
 			"actions": {
 				"skill": "射击"
@@ -149,7 +149,7 @@
 		},
 		"40mm Cannon (AP Rounds)": {
 			"name": "40mm 加农炮 (穿甲弹)",
-			"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong>&nbsp;Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.射速]{射速} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p><strong>Tank and AT Guns:</strong> May fire either @Compendium[swade-core-rules.swade-rules.穿甲 (AP)]{穿甲} or @Compendium[swade-core-rules.swade-rules.高爆 (HE)]{高爆} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.射程]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong>&nbsp;Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.射速]{射速} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p><strong>坦克与反坦克炮:</strong> May fire either @Compendium[swade-core-rules.swade-rules.穿甲 (AP)]{穿甲} or @Compendium[swade-core-rules.swade-rules.高爆 (HE)]{高爆} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.射程]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p>\n</div>",
 			"notes": "重武器",
 			"actions": {
 				"skill": "射击",
@@ -171,7 +171,7 @@
 		},
 		"40mm Cannon (HE Rounds)": {
 			"name": "40mm 加农炮 (高爆弹)",
-			"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong>&nbsp;Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.射速]{射速} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p><strong>Tank and AT Guns:</strong> May fire either @Compendium[swade-core-rules.swade-rules.穿甲 (AP)]{穿甲} or @Compendium[swade-core-rules.swade-rules.高爆 (HE)]{高爆} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.射程]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)} @Compendium[swade-core-rules.swade-rules.范围效果攻击]{中型爆散盖板}</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong>&nbsp;Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.射速]{射速} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p><strong>坦克与反坦克炮:</strong> May fire either @Compendium[swade-core-rules.swade-rules.穿甲 (AP)]{穿甲} or @Compendium[swade-core-rules.swade-rules.高爆 (HE)]{高爆} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.射程]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)} @Compendium[swade-core-rules.swade-rules.范围效果攻击]{中型爆散盖板}</p>\n</div>",
 			"notes": "中型爆散盖板, 重武器",
 			"actions": {
 				"skill": "射击",
@@ -190,7 +190,7 @@
 		},
 		"57mm AT Gun (AP Rounds)": {
 			"name": "57mm 反坦克炮 (穿甲弹)",
-			"description": "<div class=\"swade-core\"><p><strong>Tank and AT Guns:</strong>&nbsp;May fire either @Compendium[swade-core-rules.swade-rules.穿甲 (AP)]{穿甲} or @Compendium[swade-core-rules.swade-rules.高爆 (HE)]{高爆} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.射程]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p></div>",
+			"description": "<div class=\"swade-core\"><p><strong>坦克与反坦克炮:</strong>能根据炮手的选择发射@Compendium[swade-core-rules.swade-rules.穿甲 (AP)]{穿甲}弹或是@Compendium[swade-core-rules.swade-rules.高爆 (HE)]{高爆}弹。穿甲弹在接近时会造成额外伤害。如果在短距@Compendium[swade-core-rules.swade-rules.射程]{射程}的一半及以下的距离内开火，则武器的伤害骰子增加一枚。(举例而言，4d10+2变为5d10+2)。</p></div>",
 			"notes": "重武器",
 			"actions": {
 				"skill": "射击",
@@ -203,7 +203,7 @@
 		},
 		"57mm AT Gun (HE Rounds)": {
 			"name": "57mm 反坦克炮 (高爆弹)",
-			"description": "<div class=\"swade-core\">\n<p><strong>Tank and AT Guns:</strong>&nbsp;May fire either @Compendium[swade-core-rules.swade-rules.穿甲 (AP)]{穿甲} or @Compendium[swade-core-rules.swade-rules.高爆 (HE)]{高爆} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.射程]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)} @Compendium[swade-core-rules.swade-rules.范围效果攻击]{中型爆散盖板}</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p><strong>坦克与反坦克炮:</strong>能根据炮手的选择发射@Compendium[swade-core-rules.swade-rules.穿甲 (AP)]{穿甲}弹或是@Compendium[swade-core-rules.swade-rules.高爆 (HE)]{高爆}弹。穿甲弹在接近时会造成额外伤害。如果在短距@Compendium[swade-core-rules.swade-rules.射程]{射程}的一半及以下的距离内开火，则武器的伤害骰子增加一枚。(举例而言，4d10+2变为5d10+2)。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)} @Compendium[swade-core-rules.swade-rules.范围效果攻击]{中型爆散盖板}</p>\n</div>",
 			"notes": "中型爆散盖板, 重武器",
 			"actions": {
 				"skill": "射击"
@@ -211,7 +211,7 @@
 		},
 		"75mm Tank Gun (AP Rounds)": {
 			"name": "75mm 坦克炮 (穿甲弹)",
-			"description": "<div class=\"swade-core\">\n<p><strong>Tank and AT Guns:</strong>&nbsp;May fire either @Compendium[swade-core-rules.swade-rules.穿甲 (AP)]{穿甲} or @Compendium[swade-core-rules.swade-rules.高爆 (HE)]{高爆} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.射程]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}&nbsp;</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p><strong>坦克与反坦克炮:</strong>能根据炮手的选择发射@Compendium[swade-core-rules.swade-rules.穿甲 (AP)]{穿甲}弹或是@Compendium[swade-core-rules.swade-rules.高爆 (HE)]{高爆}弹。穿甲弹在接近时会造成额外伤害。如果在短距@Compendium[swade-core-rules.swade-rules.射程]{射程}的一半及以下的距离内开火，则武器的伤害骰子增加一枚。(举例而言，4d10+2变为5d10+2)。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}&nbsp;</p>\n</div>",
 			"notes": "重武器",
 			"actions": {
 				"skill": "射击",
@@ -224,7 +224,7 @@
 		},
 		"75mm Tank Gun (HE Rounds)": {
 			"name": "75mm 坦克炮 (高爆弹)",
-			"description": "<div class=\"swade-core\">\n<p><strong>Tank and AT Guns:</strong>&nbsp;May fire either @Compendium[swade-core-rules.swade-rules.穿甲 (AP)]{穿甲} or @Compendium[swade-core-rules.swade-rules.高爆 (HE)]{高爆} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.射程]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)} @Compendium[swade-core-rules.swade-rules.范围效果攻击]{中型爆散盖板}</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p><strong>坦克与反坦克炮:</strong>能根据炮手的选择发射@Compendium[swade-core-rules.swade-rules.穿甲 (AP)]{穿甲}弹或是@Compendium[swade-core-rules.swade-rules.高爆 (HE)]{高爆}弹。穿甲弹在接近时会造成额外伤害。如果在短距@Compendium[swade-core-rules.swade-rules.射程]{射程}的一半及以下的距离内开火，则武器的伤害骰子增加一枚。(举例而言，4d10+2变为5d10+2)。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)} @Compendium[swade-core-rules.swade-rules.范围效果攻击]{中型爆散盖板}</p>\n</div>",
 			"notes": "中型爆散盖板, 重武器",
 			"actions": {
 				"skill": "射击"
@@ -232,7 +232,7 @@
 		},
 		"76mm Tank Gun (AP Rounds)": {
 			"name": "76mm 坦克炮 (穿甲弹)",
-			"description": "<div class=\"swade-core\">\n<p><strong>Tank and AT Guns:</strong>&nbsp;May fire either @Compendium[swade-core-rules.swade-rules.穿甲 (AP)]{穿甲} or @Compendium[swade-core-rules.swade-rules.高爆 (HE)]{高爆} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.射程]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}&nbsp;</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p><strong>坦克与反坦克炮:</strong>能根据炮手的选择发射@Compendium[swade-core-rules.swade-rules.穿甲 (AP)]{穿甲}弹或是@Compendium[swade-core-rules.swade-rules.高爆 (HE)]{高爆}弹。穿甲弹在接近时会造成额外伤害。如果在短距@Compendium[swade-core-rules.swade-rules.射程]{射程}的一半及以下的距离内开火，则武器的伤害骰子增加一枚。(举例而言，4d10+2变为5d10+2)。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}&nbsp;</p>\n</div>",
 			"notes": "重武器",
 			"actions": {
 				"skill": "射击",
@@ -245,7 +245,7 @@
 		},
 		"76mm Tank Gun (HE Rounds)": {
 			"name": "76mm 坦克炮 (高爆弹)",
-			"description": "<div class=\"swade-core\">\n<p><strong>Tank and AT Guns:</strong>&nbsp;May fire either @Compendium[swade-core-rules.swade-rules.穿甲 (AP)]{穿甲} or @Compendium[swade-core-rules.swade-rules.高爆 (HE)]{高爆} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.射程]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)} @Compendium[swade-core-rules.swade-rules.范围效果攻击]{中型爆散盖板}</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p><strong>坦克与反坦克炮:</strong>能根据炮手的选择发射@Compendium[swade-core-rules.swade-rules.穿甲 (AP)]{穿甲}弹或是@Compendium[swade-core-rules.swade-rules.高爆 (HE)]{高爆}弹。穿甲弹在接近时会造成额外伤害。如果在短距@Compendium[swade-core-rules.swade-rules.射程]{射程}的一半及以下的距离内开火，则武器的伤害骰子增加一枚。(举例而言，4d10+2变为5d10+2)。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)} @Compendium[swade-core-rules.swade-rules.范围效果攻击]{中型爆散盖板}</p>\n</div>",
 			"notes": "中型爆散盖板, 重武器",
 			"actions": {
 				"skill": "射击"
@@ -253,7 +253,7 @@
 		},
 		"88mm Tank Gun (AP Rounds)": {
 			"name": "88mm 坦克炮 (穿甲弹)",
-			"description": "<div class=\"swade-core\">\n<p><strong>Tank and AT Guns:</strong>&nbsp;May fire either @Compendium[swade-core-rules.swade-rules.穿甲 (AP)]{穿甲} or @Compendium[swade-core-rules.swade-rules.高爆 (HE)]{高爆} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.射程]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}&nbsp;</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p><strong>坦克与反坦克炮:</strong>能根据炮手的选择发射@Compendium[swade-core-rules.swade-rules.穿甲 (AP)]{穿甲}弹或是@Compendium[swade-core-rules.swade-rules.高爆 (HE)]{高爆}弹。穿甲弹在接近时会造成额外伤害。如果在短距@Compendium[swade-core-rules.swade-rules.射程]{射程}的一半及以下的距离内开火，则武器的伤害骰子增加一枚。(举例而言，4d10+2变为5d10+2)。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}&nbsp;</p>\n</div>",
 			"notes": "重武器",
 			"actions": {
 				"skill": "射击",
@@ -266,7 +266,7 @@
 		},
 		"88mm Tank Gun (HE Rounds)": {
 			"name": "88mm 坦克炮 (高爆弹)",
-			"description": "<div class=\"swade-core\">\n<p><strong>Tank and AT Guns:</strong>&nbsp;May fire either @Compendium[swade-core-rules.swade-rules.穿甲 (AP)]{穿甲} or @Compendium[swade-core-rules.swade-rules.高爆 (HE)]{高爆} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.射程]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)} @Compendium[swade-core-rules.swade-rules.范围效果攻击]{中型爆散盖板}</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p><strong>坦克与反坦克炮:</strong>能根据炮手的选择发射@Compendium[swade-core-rules.swade-rules.穿甲 (AP)]{穿甲}弹或是@Compendium[swade-core-rules.swade-rules.高爆 (HE)]{高爆}弹。穿甲弹在接近时会造成额外伤害。如果在短距@Compendium[swade-core-rules.swade-rules.射程]{射程}的一半及以下的距离内开火，则武器的伤害骰子增加一枚。(举例而言，4d10+2变为5d10+2)。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)} @Compendium[swade-core-rules.swade-rules.范围效果攻击]{中型爆散盖板}</p>\n</div>",
 			"notes": "中型爆散盖板, 重武器",
 			"actions": {
 				"skill": "射击"

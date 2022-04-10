@@ -12,26 +12,26 @@
 			"items": [
 				{
 					"id": "ZkQ5MB1hMIOKYsnN",
-					"name": "Hellfire Missiles",
+					"name": "地狱火导弹",
 					"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}. A laser-guided missile fired from a vehicle-mounted launcher.</p>\n<hr />\n<p>Unless otherwise noted, missiles must &ldquo;lock&rdquo; onto their targets before they can be fired. This action is an opposed @Compendium[swade-core-rules.swade-skills.电子学]{电子学} roll versus the target&rsquo;s maneuvering skill (@Compendium[swade-core-rules.swade-skills.驾船]{驾船}, @Compendium[swade-core-rules.swade-skills.驾驶]{驾驶}, or @Compendium[swade-core-rules.swade-skills.航空]{航空}, as appropriate). Success gives the attacker a &ldquo;short&rdquo; lock and allows him to fire up to half the missiles his particular craft can fire at once. A raise is a more solid lock and allows him to fire all of them.</p>\n<p>The enemy attempts to evade each missile separately by making a @Compendium[swade-core-rules.swade-rules.追逐与载具{机动} roll at &minus;4 (or &minus;2 if the target has substantial cover to hide behind&mdash;such as asteroids, skyscrapers, canyon walls, or even large enemy ships. A @Compendium[swade-core-rules.swade-rules.特性投骰]{大失败} means the craft goes <strong>@Compendium[swade-core-rules.swade-tables.失控]{失控}</strong>.</p>\n<p><strong>Anti-Missile Systems: </strong>Warships and futuristic space vessels often have &ldquo;point defense&rdquo; systems to shoot down incoming missiles. Operators must be on @Compendium[swade-core-rules.swade-rules.待机]{待机} to shoot down missiles; automated systems attack automatically. The system grants a single @Compendium[swade-core-rules.swade-skills.射击]{射击} roll per missile at @Compendium[swade-core-rules.swade-rules.射程]{近距} and any other relevant modifiers (including @Compendium[swade-core-rules.swade-rules.速度]{速度}&mdash;missiles move at Mach 1, a &minus;6 penalty, unless otherwise noted). Unless otherwise noted, missiles are objects with a @Compendium[swade-core-rules.swade-rules.角色]{坚韧} of 8 (2) (see <strong>@Compendium[swade-core-rules.swade-rules.破坏物体]{破坏物体}</strong>).</p>\n</div>",
-					"notes": "Heavy Weapon. A laser-guided missile fired from a vehicle-mounted launcher.",
+					"notes": "重武器. A laser-guided missile fired from a vehicle-mounted launcher.",
 					"actions": {
-						"skill": "Shooting"
+						"skill": "射击"
 					}
 				},
 				{
 					"id": "lnvng9WbqaaN1Q2x",
-					"name": "30mm Cannon (Fixed Front)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.射速]{射速} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p>\n</div>",
-					"notes": "Heavy Weapon",
+					"name": "30mm 加农炮 (前固定)",
+					"description": "<div class=\"swade-core\">\n<p><strong>最低射速：</strong>@Compendium[swade-core-rules.swade-rules.射速]{射速}3或以上的载具武器其最低射速为2。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p>\n</div>",
+					"notes": "重武器",
 					"actions": {
-						"skill": "Shooting",
+						"skill": "射击",
 						"additional": {
 							"i4ht7b587x": {
-								"name": "RoF 3 Attack"
+								"name": "射速3 攻击"
 							},
 							"obyryv42xo": {
-								"name": "RoF 2 Attack"
+								"name": "射速2 攻击"
 							}
 						}
 					}
@@ -45,28 +45,28 @@
 			"items": [
 				{
 					"id": "scF8tYijOo5SXEYe",
-					"name": "25mm Cannon (Fixed Front)",
-					"description": "<div class='swade-core'><p><strong>Minimum Rate of Fire:</strong>&nbsp;Vehicular weapons with a Rate of Fire 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p></div>",
-					"notes": "Heavy Weapon",
+					"name": "25mm 加农炮 (前固定)",
+					"description": "<div class='swade-core'><p><strong>最低射速：</strong>&nbsp;@Compendium[swade-core-rules.swade-rules.射速]{射速}3或以上的载具武器其最低射速为2。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p></div>",
+					"notes": "重武器",
 					"actions": {
-						"skill": "Shooting",
+						"skill": "射击",
 						"additional": {
 							"5yjdf9igio": {
-								"name": "RoF 3 Attack"
+								"name": "射速3 攻击"
 							},
 							"zsg7m6dasg": {
-								"name": "RoF 2 Attack"
+								"name": "射速2 攻击"
 							}
 						}
 					}
 				},
 				{
 					"id": "EdvU8l2DYvpFGYRV",
-					"name": "Sidewinder Missiles",
+					"name": "响尾蛇导弹",
 					"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}. A short range, heat-seeking missile fired from an aircraft.</p>\n<hr />\n<p>Unless otherwise noted, missiles must &ldquo;lock&rdquo; onto their targets before they can be fired. This action is an opposed @Compendium[swade-core-rules.swade-skills.电子学]{电子学} roll versus the target&rsquo;s maneuvering skill (@Compendium[swade-core-rules.swade-skills.驾船]{驾船}, @Compendium[swade-core-rules.swade-skills.驾驶]{驾驶}, or @Compendium[swade-core-rules.swade-skills.航空]{航空}, as appropriate). Success gives the attacker a &ldquo;short&rdquo; lock and allows him to fire up to half the missiles his particular craft can fire at once. A raise is a more solid lock and allows him to fire all of them.</p>\n<p>The enemy attempts to evade each missile separately by making a @Compendium[swade-core-rules.swade-rules.追逐与载具{机动} roll at &minus;4 (or &minus;2 if the target has substantial cover to hide behind&mdash;such as asteroids, skyscrapers, canyon walls, or even large enemy ships. A @Compendium[swade-core-rules.swade-rules.特性投骰]{大失败} means the craft goes <strong>@Compendium[swade-core-rules.swade-tables.失控]{失控}</strong>.</p>\n<p><strong>Anti-Missile Systems: </strong>Warships and futuristic space vessels often have &ldquo;point defense&rdquo; systems to shoot down incoming missiles. Operators must be on @Compendium[swade-core-rules.swade-rules.待机]{待机} to shoot down missiles; automated systems attack automatically. The system grants a single @Compendium[swade-core-rules.swade-skills.射击]{射击} roll per missile at @Compendium[swade-core-rules.swade-rules.射程]{近距} and any other relevant modifiers (including @Compendium[swade-core-rules.swade-rules.速度]{速度}&mdash;missiles move at Mach 1, a &minus;6 penalty, unless otherwise noted). Unless otherwise noted, missiles are objects with a @Compendium[swade-core-rules.swade-rules.角色]{坚韧} of 8 (2) (see <strong>@Compendium[swade-core-rules.swade-rules.破坏物体]{破坏物体}</strong>).</p>\n</div>",
-					"notes": "Heavy Weapon. A short range, heat-seeking missile fired from an aircraft.",
+					"notes": "重武器. A short range, heat-seeking missile fired from an aircraft.",
 					"actions": {
-						"skill": "Shooting"
+						"skill": "射击"
 					}
 				}
 			]
@@ -78,85 +78,85 @@
 			"items": [
 				{
 					"id": "vGDSgq9MVjJyk3Hl",
-					"name": "2× Linked Heavy MG (Fixed Front)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.射速]{射速} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p>\n</div>",
-					"notes": "Heavy Weapon.",
+					"name": "2×联装重型机枪 (前固定)",
+					"description": "<div class=\"swade-core\">\n<p><strong>最低射速：</strong>@Compendium[swade-core-rules.swade-rules.射速]{射速}3或以上的载具武器其最低射速为2。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p>\n</div>",
+					"notes": "重武器.",
 					"actions": {
-						"skill": "Shooting",
+						"skill": "射击",
 						"additional": {
 							"slr23nl1ss": {
-								"name": "RoF 3 Attack"
+								"name": "射速3 攻击"
 							},
 							"q3e75vog4f": {
-								"name": "RoF 2 Attack"
+								"name": "射速2 攻击"
 							}
 						}
 					}
 				},
 				{
 					"id": "8T1mpMsIcuhLXWDZ",
-					"name": "2× Linked Heavy MG (Top Turret)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.射速]{射速} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p>\n</div>",
-					"notes": "Heavy Weapon.",
+					"name": "2×联装重型机枪 (前端转台)",
+					"description": "<div class=\"swade-core\">\n<p><strong>最低射速：</strong>@Compendium[swade-core-rules.swade-rules.射速]{射速}3或以上的载具武器其最低射速为2。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p>\n</div>",
+					"notes": "重武器.",
 					"actions": {
-						"skill": "Shooting",
+						"skill": "射击",
 						"additional": {
 							"slr23nl1ss": {
-								"name": "RoF 3 Attack"
+								"name": "射速3 攻击"
 							},
 							"q3e75vog4f": {
-								"name": "RoF 2 Attack"
+								"name": "射速2 攻击"
 							}
 						}
 					}
 				},
 				{
 					"id": "eHamz63rpUvEmwjo",
-					"name": "2× Linked Heavy MG (Ball Turret)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.射速]{射速} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p>\n</div>",
-					"notes": "Heavy Weapon.",
+					"name": "2×联装重型机枪 (球形转台)",
+					"description": "<div class=\"swade-core\">\n<p><strong>最低射速：</strong>@Compendium[swade-core-rules.swade-rules.射速]{射速}3或以上的载具武器其最低射速为2。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p>\n</div>",
+					"notes": "重武器.",
 					"actions": {
-						"skill": "Shooting",
+						"skill": "射击",
 						"additional": {
 							"slr23nl1ss": {
-								"name": "RoF 3 Attack"
+								"name": "射速3 攻击"
 							},
 							"q3e75vog4f": {
-								"name": "RoF 2 Attack"
+								"name": "射速2 攻击"
 							}
 						}
 					}
 				},
 				{
 					"id": "9zs2WdfPObWDx45b",
-					"name": "2× Linked Heavy MG (Fixed Left)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.射速]{射速} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p>\n</div>",
-					"notes": "Heavy Weapon.",
+					"name": "2×联装重型机枪 (左固定)",
+					"description": "<div class=\"swade-core\">\n<p><strong>最低射速：</strong>@Compendium[swade-core-rules.swade-rules.射速]{射速}3或以上的载具武器其最低射速为2。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p>\n</div>",
+					"notes": "重武器.",
 					"actions": {
-						"skill": "Shooting",
+						"skill": "射击",
 						"additional": {
 							"slr23nl1ss": {
-								"name": "RoF 3 Attack"
+								"name": "射速3 攻击"
 							},
 							"q3e75vog4f": {
-								"name": "RoF 2 Attack"
+								"name": "射速2 攻击"
 							}
 						}
 					}
 				},
 				{
 					"id": "eSmG24Nukyi7LJ2O",
-					"name": "2× Linked Heavy MG (Fixed Right)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.射速]{射速} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p>\n</div>",
-					"notes": "Heavy Weapon.",
+					"name": "2×联装重型机枪 (右固定)",
+					"description": "<div class=\"swade-core\">\n<p><strong>最低射速：</strong>@Compendium[swade-core-rules.swade-rules.射速]{射速}3或以上的载具武器其最低射速为2。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p>\n</div>",
+					"notes": "重武器.",
 					"actions": {
-						"skill": "Shooting",
+						"skill": "射击",
 						"additional": {
 							"slr23nl1ss": {
-								"name": "RoF 3 Attack"
+								"name": "射速3 攻击"
 							},
 							"q3e75vog4f": {
-								"name": "RoF 2 Attack"
+								"name": "射速2 攻击"
 							}
 						}
 					}
@@ -170,37 +170,37 @@
 			"items": [
 				{
 					"id": "mscUj2HMfBODgiLY",
-					"name": "2× Linked Heavy MG (Fixed Front)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.射速]{射速} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p>\n</div>",
-					"notes": "Heavy Weapon.",
+					"name": "2×联装重型机枪 (前固定)",
+					"description": "<div class=\"swade-core\">\n<p><strong>最低射速：</strong>@Compendium[swade-core-rules.swade-rules.射速]{射速}3或以上的载具武器其最低射速为2。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p>\n</div>",
+					"notes": "重武器.",
 					"actions": {
-						"skill": "Shooting",
+						"skill": "射击",
 						"additional": {
 							"slr23nl1ss": {
-								"name": "RoF 3 Attack"
+								"name": "射速3 攻击"
 							},
 							"q3e75vog4f": {
-								"name": "RoF 2 Attack"
+								"name": "射速2 攻击"
 							}
 						}
 					}
 				},
 				{
 					"id": "k6vKhGYNbFUuibDv",
-					"name": "20mm Cannon (Fixed Front)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a Rate of Fire 3 or higher have a minimum @Compendium[swade-core-rules.swade-rules.射速]{射速} of 2.</p>\n</div>",
+					"name": "20mm 加农炮 (前固定)",
+					"description": "<div class=\"swade-core\">\n<p><strong>最低射速：</strong>@Compendium[swade-core-rules.swade-rules.射速]{射速}3或以上的载具武器其最低射速为2。</p>\n</div>",
 					"notes": "Heavy",
 					"actions": {
-						"skill": "Shooting",
+						"skill": "射击",
 						"additional": {
 							"v55r9y7c1y": {
-								"name": "RoF 4 Attack"
+								"name": "射速4 攻击"
 							},
 							"4jefkit9vp": {
-								"name": "RoF 3 Attack"
+								"name": "射速3 攻击"
 							},
 							"fj7aptxndg": {
-								"name": "RoF 2 Attack"
+								"name": "射速2 攻击"
 							}
 						}
 					}
@@ -214,34 +214,34 @@
 			"items": [
 				{
 					"id": "4wJIKzRHGm6xIpJt",
-					"name": "Heavy Machine Gun (Turret)",
-					"description": "<div class='swade-core'><p><strong>Minimum Rate of Fire:</strong>&nbsp;Vehicular weapons with a Rate of Fire 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p></div>",
-					"notes": "Heavy Weapon.",
+					"name": "重型机枪 (转塔)",
+					"description": "<div class='swade-core'><p><strong>最低射速：</strong>&nbsp;@Compendium[swade-core-rules.swade-rules.射速]{射速}3或以上的载具武器其最低射速为2。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p></div>",
+					"notes": "重武器.",
 					"actions": {
-						"skill": "Shooting",
+						"skill": "射击",
 						"additional": {
 							"slr23nl1ss": {
-								"name": "RoF 3 Attack"
+								"name": "射速3 攻击"
 							},
 							"q3e75vog4f": {
-								"name": "RoF 2 Attack"
+								"name": "射速2 攻击"
 							}
 						}
 					}
 				},
 				{
 					"id": "D4KqNRF9tmb2X7v3",
-					"name": "Medium Machine Gun (Turret)",
-					"description": "<div class='swade-core'><p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a Rate of Fire 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p></div>",
-					"notes": "Heavy Weapon.",
+					"name": "中型机枪 (转塔)",
+					"description": "<div class='swade-core'><p><strong>最低射速：</strong> @Compendium[swade-core-rules.swade-rules.射速]{射速}3或以上的载具武器其最低射速为2。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p></div>",
+					"notes": "重武器.",
 					"actions": {
-						"skill": "Shooting",
+						"skill": "射击",
 						"additional": {
 							"81qhst5kyq": {
-								"name": "RoF 3 Attack"
+								"name": "射速3 攻击"
 							},
 							"yjszf9r0co": {
-								"name": "RoF 2 Attack"
+								"name": "射速2 攻击"
 							}
 						}
 					}
@@ -290,20 +290,20 @@
 			"items": [
 				{
 					"id": "dffORL9Ksa1YunhZ",
-					"name": "20mm Cannon (Fixed Front)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a Rate of Fire 3 or higher have a minimum @Compendium[swade-core-rules.swade-rules.射速]{射速} of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p>\n</div>",
-					"notes": "Heavy Weapon",
+					"name": "20mm 加农炮 (前固定)",
+					"description": "<div class=\"swade-core\">\n<p><strong>最低射速：</strong>@Compendium[swade-core-rules.swade-rules.射速]{射速}3或以上的载具武器其最低射速为2。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p>\n</div>",
+					"notes": "重武器",
 					"actions": {
-						"skill": "Shooting",
+						"skill": "射击",
 						"additional": {
 							"v55r9y7c1y": {
-								"name": "RoF 4 Attack"
+								"name": "射速4 攻击"
 							},
 							"4jefkit9vp": {
-								"name": "RoF 3 Attack"
+								"name": "射速3 攻击"
 							},
 							"fj7aptxndg": {
-								"name": "RoF 2 Attack"
+								"name": "射速2 攻击"
 							}
 						}
 					}
@@ -317,17 +317,17 @@
 			"items": [
 				{
 					"id": "7WuOXZ4o4Tlpfpyx",
-					"name": "16 to 46 Cannons (12 lb), Solid Shot (Fixed Left and Right)",
-					"description": "<div class=\"swade-core\">\n<p>Cannons are used to destroy city walls or break up large troop formations. The leader of the weapon&rsquo;s crew makes the @Compendium[swade-core-rules.swade-skills.射击]{射击} roll.</p>\n<p><strong>Bombard:</strong> Assuming they have a rough idea of their target&rsquo;s location, howitzers, mortars, and bombards may fire at targets they cannot see by lobbing projectiles over intervening terrain or obstacles. Bombarding suffers a &minus;4 penalty in addition to all other modifiers, and doubles deviation when the @Compendium[swade-core-rules.swade-skills.射击]{射击} roll is failed (see @Compendium[swade-core-rules.swade-rules.范围效果攻击]{范围效果攻击}). Reduce the penalty to &minus;2 with precise coordinates (such as from a spotter).</p>\n<p><strong>Solid Shot:</strong> Heavy balls of iron, lead, or stone designed to batter walls or plow through packed ranks of troops. To fire, the leader of the crew makes a @Compendium[swade-core-rules.swade-skills.射击]{射击} roll as usual. If successful, roll a die. If even, it bounces to another victim behind and within 6&rdquo; of the first and hits him as well. Continue in this way until the die roll is odd.</p>\n<p>Compare the @Compendium[swade-core-rules.swade-skills.射击]{射击} roll to every target within using a base TN of 4, adjusted for each target&rsquo;s @Compendium[swade-core-rules.swade-rules.掩蔽与障碍]{掩蔽}, special abilities like the @Compendium[swade-core-rules.swade-edges.闪避]{闪避} Edge, etc. A hit causes 2d6 damage and a raise causes 3d6.</p>\n<p><strong>Note:</strong> All types of shot are @Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}, @Compendium[swade-core-rules.swade-rules.装填]{装填} 8. Two crew members may reload at the same time.</p>\n</div>",
+					"name": "16到46x加农炮 (12磅), 实心弹(左右固定)",
+					"description": "<div class=\"swade-core\">\n<p>Cannons are used to destroy city walls or break up large troop formations. The leader of the weapon&rsquo;s crew makes the @Compendium[swade-core-rules.swade-skills.射击]{射击} roll.</p>\n<p><strong>炮轰:</strong> Assuming they have a rough idea of their target&rsquo;s location, howitzers, mortars, and bombards may fire at targets they cannot see by lobbing projectiles over intervening terrain or obstacles. Bombarding suffers a &minus;4 penalty in addition to all other modifiers, and doubles deviation when the @Compendium[swade-core-rules.swade-skills.射击]{射击} roll is failed (see @Compendium[swade-core-rules.swade-rules.范围效果攻击]{范围效果攻击}). Reduce the penalty to &minus;2 with precise coordinates (such as from a spotter).</p>\n<p><strong>Solid Shot:</strong> Heavy balls of iron, lead, or stone designed to batter walls or plow through packed ranks of troops. To fire, the leader of the crew makes a @Compendium[swade-core-rules.swade-skills.射击]{射击} roll as usual. If successful, roll a die. If even, it bounces to another victim behind and within 6&rdquo; of the first and hits him as well. Continue in this way until the die roll is odd.</p>\n<p>Compare the @Compendium[swade-core-rules.swade-skills.射击]{射击} roll to every target within using a base TN of 4, adjusted for each target&rsquo;s @Compendium[swade-core-rules.swade-rules.掩蔽与障碍]{掩蔽}, special abilities like the @Compendium[swade-core-rules.swade-edges.闪避]{闪避} Edge, etc. A hit causes 2d6 damage and a raise causes 3d6.</p>\n<p><strong>Note:</strong> All types of shot are @Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}, @Compendium[swade-core-rules.swade-rules.装填]{装填} 8. Two crew members may reload at the same time.</p>\n</div>",
 					"notes": "All types of shot are Heavy Weapons, Reload 8. Two crew members may reload at the same time.",
 					"actions": {
-						"skill": "Shooting",
+						"skill": "射击",
 						"additional": {
 							"0urmam31b2": {
-								"name": "Bombard, Rough Location"
+								"name": "炮轰, 大概位置"
 							},
 							"41i04mkdo8": {
-								"name": "Bombard, Precise Location"
+								"name": "炮轰, 精准位置"
 							}
 						}
 					}
@@ -341,11 +341,11 @@
 			"items": [
 				{
 					"id": "lJGPVUQLj4tQ2f6Z",
-					"name": "Catapult (Fixed Front)",
+					"name": "投石机 (前固定)",
 					"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.范围效果攻击]{中型爆散盖板}</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}, Reload time is every 5 minutes with a crew of 4.</p>\n<hr />\n<p>Catapults are simple devices that hurl large stones at enemy defenses or ranks of troops. They normally require a crew of eight to load the projectile, crank down the lever that propels it, then sight and aim it. Firing can be done by a single person, but @Compendium[swade-core-rules.swade-rules.装填]{装填} the projectile takes at least four.</p>\n</div>",
-					"notes": "MBT, Heavy Weapon, Reload time is every 5 minutes with a crew of 4.",
+					"notes": "MBT, 重武器, Reload time is every 5 minutes with a crew of 4.",
 					"actions": {
-						"skill": "Shooting"
+						"skill": "射击"
 					}
 				}
 			]
@@ -362,32 +362,32 @@
 			"items": [
 				{
 					"id": "1il4m3UBnNEG9Gzq",
-					"name": "Gatling (Laser) (Fixed Front, Reaction Fire)",
-					"description": "<div class='swade-core'><p>@Compendium[swade-core-rules.swade-rules.激光 (未来) 表]{No Recoil, Overcharge, Cauterize}</p></div>",
-					"notes": "No Recoil, Overcharge, Cauterize",
+					"name": "加特林 (激光) (前固定, 应敌火力)",
+					"description": "<div class='swade-core'><p>@Compendium[swade-core-rules.swade-rules.激光 (未来) 表]{无后座, 超载, 烧灼}</p></div>",
+					"notes": "无后座, 超载, 烧灼",
 					"actions": {
-						"skill": "Shooting",
+						"skill": "射击",
 						"additional": {
 							"1wmca7vx5i": {
-								"name": "RoF 4 Attack"
+								"name": "射速4 攻击"
 							},
 							"whqv1usyq4": {
-								"name": "RoF 3 Attack"
+								"name": "射速3 攻击"
 							},
 							"ylps4cskeu": {
-								"name": "RoF 2 Attack"
+								"name": "射速2 攻击"
 							},
 							"tmf4mxdq73": {
-								"name": "RoF 4 Reaction Fire"
+								"name": "射速4 应敌火力"
 							},
 							"iaeloj64lc": {
-								"name": "RoF 3 Reaction Fire"
+								"name": "射速3 应敌火力"
 							},
 							"mxkqcw5evu": {
-								"name": "RoF 2 Reaction Fire"
+								"name": "射速2 应敌火力"
 							},
 							"qydxwqerih": {
-								"name": "Overcharge"
+								"name": "超载"
 							}
 						}
 					}
@@ -401,46 +401,46 @@
 			"items": [
 				{
 					"id": "JwBrJ8FKE3KcJEuT",
-					"name": "Heavy Laser (Turret, Improved Stabilizer)",
+					"name": "重型激光炮 (转台, 高级稳定器)",
 					"description": "<div class='swade-core'><p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p></div>",
-					"notes": "Heavy Weapon.",
+					"notes": "重武器.",
 					"actions": {
-						"skill": "Shooting",
+						"skill": "射击",
 						"additional": {
 							"ns40ntpasw": {
-								"name": "Overcharge"
+								"name": "超载"
 							}
 						}
 					}
 				},
 				{
 					"id": "VGWEThHm3ub99k4g",
-					"name": "Gatling (Laser) (Fixed Front, Reaction Fire)",
-					"description": "<div class='swade-core'><p>@Compendium[swade-core-rules.swade-rules.激光 (未来) 表]{No Recoil, Overcharge, Cauterize}</p></div>",
-					"notes": "No Recoil, Overcharge, Cauterize",
+					"name": "加特林 (激光) (前固定, 应敌火力)",
+					"description": "<div class='swade-core'><p>@Compendium[swade-core-rules.swade-rules.激光 (未来) 表]{无后座, 超载, 烧灼}</p></div>",
+					"notes": "无后座, 超载, 烧灼",
 					"actions": {
-						"skill": "Shooting",
+						"skill": "射击",
 						"additional": {
 							"1wmca7vx5i": {
-								"name": "RoF 4 Attack"
+								"name": "射速4 攻击"
 							},
 							"whqv1usyq4": {
-								"name": "RoF 3 Attack"
+								"name": "射速3 攻击"
 							},
 							"ylps4cskeu": {
-								"name": "RoF 2 Attack"
+								"name": "射速2 攻击"
 							},
 							"4cmmljg729": {
-								"name": "RoF 4 Reaction Fire"
+								"name": "射速4 应敌火力"
 							},
 							"llu10do9xv": {
-								"name": "RoF 3 Reaction Fire"
+								"name": "射速3 应敌火力"
 							},
 							"hd90xzrsf1": {
-								"name": "RoF 2 Reaction Fire"
+								"name": "射速2 应敌火力"
 							},
 							"0rlkbuly0q": {
-								"name": "Overcharge"
+								"name": "超载"
 							}
 						}
 					}
@@ -459,37 +459,37 @@
 			"items": [
 				{
 					"id": "eiXElDvhNrsI8VHn",
-					"name": "2× Linked Medium MG (Fixed Front)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.射速]{射速} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p>\n</div>",
-					"notes": "Heavy Weapon.",
+					"name": "2×联装中型机枪 (前固定)",
+					"description": "<div class=\"swade-core\">\n<p><strong>最低射速：</strong>@Compendium[swade-core-rules.swade-rules.射速]{射速}3或以上的载具武器其最低射速为2。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p>\n</div>",
+					"notes": "重武器.",
 					"actions": {
-						"skill": "Shooting",
+						"skill": "射击",
 						"additional": {
 							"81qhst5kyq": {
-								"name": "RoF 3 Attack"
+								"name": "射速3 攻击"
 							},
 							"yjszf9r0co": {
-								"name": "RoF 2 Attack"
+								"name": "射速2 攻击"
 							}
 						}
 					}
 				},
 				{
 					"id": "ynEMEFr7HBYkKlk4",
-					"name": "2× Linked 20mm Cannons (Fixed Front)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.射速]{射速} 3 or higher have a minimum Rate of Fire of 2.</p>\n</div>",
+					"name": "2×联装20mm加农炮 (前固定)",
+					"description": "<div class=\"swade-core\">\n<p><strong>最低射速：</strong>@Compendium[swade-core-rules.swade-rules.射速]{射速}3或以上的载具武器其最低射速为2。</p>\n</div>",
 					"notes": "Heavy",
 					"actions": {
-						"skill": "Shooting",
+						"skill": "射击",
 						"additional": {
 							"v55r9y7c1y": {
-								"name": "RoF 4 Attack"
+								"name": "射速4 攻击"
 							},
 							"4jefkit9vp": {
-								"name": "RoF 3 Attack"
+								"name": "射速3 攻击"
 							},
 							"fj7aptxndg": {
-								"name": "RoF 2 Attack"
+								"name": "射速2 攻击"
 							}
 						}
 					}
@@ -503,17 +503,17 @@
 			"items": [
 				{
 					"id": "aQoMV9JHbSnuW9UC",
-					"name": "Heavy Machine Gun (Front Pintle Mount)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.射速]{射速} 3 or higher have a minimum Rate of Fire of 2.</p>\n</div>",
-					"notes": "Heavy Weapon.",
+					"name": "重型机枪 (前同轴)",
+					"description": "<div class=\"swade-core\">\n<p><strong>最低射速：</strong>@Compendium[swade-core-rules.swade-rules.射速]{射速}3或以上的载具武器其最低射速为2。</p>\n</div>",
+					"notes": "重武器.",
 					"actions": {
-						"skill": "Shooting",
+						"skill": "射击",
 						"additional": {
 							"slr23nl1ss": {
-								"name": "RoF 3 Attack"
+								"name": "射速3 攻击"
 							},
 							"q3e75vog4f": {
-								"name": "RoF 2 Attack"
+								"name": "射速2 攻击"
 							}
 						}
 					}
@@ -532,48 +532,48 @@
 			"items": [
 				{
 					"id": "mb6PTM4s4oyowckx",
-					"name": "120mm Tank Gun (AP Rounds) (Imp Stabilizer)",
-					"description": "<div class='swade-core'><p><strong>Tank and AT Guns:</strong> May fire either @Compendium[swade-core-rules.swade-rules.穿甲 (AP)]{穿甲} or @Compendium[swade-core-rules.swade-rules.高爆 (HE)]{高爆} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short Range or less (so 4d10+2 becomes 5d10+2, for example).</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p></div>",
-					"notes": "Heavy Weapon",
+					"name": "120mm 坦克炮 (穿甲弹) (高级稳定器)",
+					"description": "<div class='swade-core'><p><strong>坦克与反坦克炮:</strong>能根据炮手的选择发射@Compendium[swade-core-rules.swade-rules.穿甲 (AP)]{穿甲}弹或是@Compendium[swade-core-rules.swade-rules.高爆 (HE)]{高爆}弹。穿甲弹在接近时会造成额外伤害。如果在短距@Compendium[swade-core-rules.swade-rules.射程]{射程}的一半及以下的距离内开火，则武器的伤害骰子增加一枚。(举例而言，4d10+2变为5d10+2)。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p></div>",
+					"notes": "重武器",
 					"actions": {
-						"skill": "Shooting",
+						"skill": "射击",
 						"additional": {
 							"7400xvwkea": {
-								"name": "Close Range"
+								"name": "近距"
 							}
 						}
 					}
 				},
 				{
 					"id": "Dyc2Twy7EFW8ER1B",
-					"name": "Medium Machine Gun (Front Fixed and in Turret)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a Rate of Fire 3 or higher have a minimum @Compendium[swade-core-rules.swade-rules.射速]{射速} of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}.</p>\n</div>",
-					"notes": "Heavy Weapon.",
+					"name": "中型机枪 (前固定及转塔)",
+					"description": "<div class=\"swade-core\">\n<p><strong>最低射速：</strong>@Compendium[swade-core-rules.swade-rules.射速]{射速}3或以上的载具武器其最低射速为2。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}.</p>\n</div>",
+					"notes": "重武器.",
 					"actions": {
-						"skill": "Shooting",
+						"skill": "射击",
 						"additional": {
 							"81qhst5kyq": {
-								"name": "RoF 3 Attack"
+								"name": "射速3 攻击"
 							},
 							"yjszf9r0co": {
-								"name": "RoF 2 Attack"
+								"name": "射速2 攻击"
 							}
 						}
 					}
 				},
 				{
 					"id": "tN123StgP65SKmEe",
-					"name": "Heavy Machine Gun (Pintle Mount on Turret)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a Rate of Fire 3 or higher have a minimum @Compendium[swade-core-rules.swade-rules.射速]{射速} of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p>\n</div>",
-					"notes": "Heavy Weapon.",
+					"name": "重型机枪 (转塔同轴)",
+					"description": "<div class=\"swade-core\">\n<p><strong>最低射速：</strong>@Compendium[swade-core-rules.swade-rules.射速]{射速}3或以上的载具武器其最低射速为2。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p>\n</div>",
+					"notes": "重武器.",
 					"actions": {
-						"skill": "Shooting",
+						"skill": "射击",
 						"additional": {
 							"slr23nl1ss": {
-								"name": "RoF 3 Attack"
+								"name": "射速3 攻击"
 							},
 							"q3e75vog4f": {
-								"name": "RoF 2 Attack"
+								"name": "射速2 攻击"
 							}
 						}
 					}
@@ -587,34 +587,34 @@
 			"items": [
 				{
 					"id": "uJiBGbLSAqWlLvnE",
-					"name": "25mm Cannon (Improved Stabilizer)",
-					"description": "<div class='swade-core'><p><strong>Minimum Rate of Fire:</strong>&nbsp;Vehicular weapons with a Rate of Fire 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p></div>",
-					"notes": "Heavy Weapon",
+					"name": "25mm 加农炮 (高级稳定器)",
+					"description": "<div class='swade-core'><p><strong>最低射速：</strong>&nbsp;@Compendium[swade-core-rules.swade-rules.射速]{射速}3或以上的载具武器其最低射速为2。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p></div>",
+					"notes": "重武器",
 					"actions": {
-						"skill": "Shooting",
+						"skill": "射击",
 						"additional": {
 							"5yjdf9igio": {
-								"name": "RoF 3 Attack"
+								"name": "射速3 攻击"
 							},
 							"zsg7m6dasg": {
-								"name": "RoF 2 Attack"
+								"name": "射速2 攻击"
 							}
 						}
 					}
 				},
 				{
 					"id": "GOvJX3jxt6G6WhH8",
-					"name": "Medium Machine Gun (In Turret)",
-					"description": "<div class='swade-core'><p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a Rate of Fire 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p></div>",
-					"notes": "Heavy Weapon.",
+					"name": "中型机枪 (转塔上)",
+					"description": "<div class='swade-core'><p><strong>最低射速：</strong> @Compendium[swade-core-rules.swade-rules.射速]{射速}3或以上的载具武器其最低射速为2。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p></div>",
+					"notes": "重武器.",
 					"actions": {
-						"skill": "Shooting",
+						"skill": "射击",
 						"additional": {
 							"81qhst5kyq": {
-								"name": "RoF 3 Attack"
+								"name": "射速3 攻击"
 							},
 							"yjszf9r0co": {
-								"name": "RoF 2 Attack"
+								"name": "射速2 攻击"
 							}
 						}
 					}
@@ -628,48 +628,48 @@
 			"items": [
 				{
 					"id": "iK28mNind2BYFWyM",
-					"name": "Medium Machine Gun (Fixed Front)",
-					"description": "<div class='swade-core'><p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a Rate of Fire 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p></div>",
-					"notes": "Heavy Weapon.",
+					"name": "中型机枪 (前固定)",
+					"description": "<div class='swade-core'><p><strong>最低射速：</strong> @Compendium[swade-core-rules.swade-rules.射速]{射速}3或以上的载具武器其最低射速为2。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p></div>",
+					"notes": "重武器.",
 					"actions": {
-						"skill": "Shooting",
+						"skill": "射击",
 						"additional": {
 							"81qhst5kyq": {
-								"name": "RoF 3 Attack"
+								"name": "射速3 攻击"
 							},
 							"yjszf9r0co": {
-								"name": "RoF 2 Attack"
+								"name": "射速2 攻击"
 							}
 						}
 					}
 				},
 				{
 					"id": "K4eedxjRyajTcrOd",
-					"name": "Heavy Machine Gun (Pintle Mount on Turret)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.射速]{射速} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p>\n<p class=\"p1\" style=\"margin-top: 0px; margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 12px; line-height: normal; font-family: 'Helvetica Neue'; -webkit-text-stroke-color: #000000;\">&nbsp;</p>\n</div>",
-					"notes": "Heavy Weapon.",
+					"name": "重型机枪 (转塔同轴)",
+					"description": "<div class=\"swade-core\">\n<p><strong>最低射速：</strong>@Compendium[swade-core-rules.swade-rules.射速]{射速}3或以上的载具武器其最低射速为2。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p>\n<p class=\"p1\" style=\"margin-top: 0px; margin-bottom: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 12px; line-height: normal; font-family: 'Helvetica Neue'; -webkit-text-stroke-color: #000000;\">&nbsp;</p>\n</div>",
+					"notes": "重武器.",
 					"actions": {
-						"skill": "Shooting",
+						"skill": "射击",
 						"additional": {
 							"slr23nl1ss": {
-								"name": "RoF 3 Attack"
+								"name": "射速3 攻击"
 							},
 							"q3e75vog4f": {
-								"name": "RoF 2 Attack"
+								"name": "射速2 攻击"
 							}
 						}
 					}
 				},
 				{
 					"id": "oRqTE9IQLdxfOZX1",
-					"name": "75mm Tank Gun (AP Rounds) (Turret, Stabilizer)",
-					"description": "<div class='swade-core'><p><strong>Tank and AT Guns:</strong> May fire either @Compendium[swade-core-rules.swade-rules.穿甲 (AP)]{穿甲} or @Compendium[swade-core-rules.swade-rules.高爆 (HE)]{高爆} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short Range or less (so 4d10+2 becomes 5d10+2, for example).</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p></div>",
-					"notes": "Heavy Weapon",
+					"name": "75mm 坦克炮 (穿甲弹) (转台, 稳定器)",
+					"description": "<div class='swade-core'><p><strong>坦克与反坦克炮:</strong>能根据炮手的选择发射@Compendium[swade-core-rules.swade-rules.穿甲 (AP)]{穿甲}弹或是@Compendium[swade-core-rules.swade-rules.高爆 (HE)]{高爆}弹。穿甲弹在接近时会造成额外伤害。如果在短距@Compendium[swade-core-rules.swade-rules.射程]{射程}的一半及以下的距离内开火，则武器的伤害骰子增加一枚。(举例而言，4d10+2变为5d10+2)。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p></div>",
+					"notes": "重武器",
 					"actions": {
-						"skill": "Shooting",
+						"skill": "射击",
 						"additional": {
 							"a7ahcucjed": {
-								"name": "Close Range"
+								"name": "近距"
 							}
 						}
 					}
@@ -683,48 +683,48 @@
 			"items": [
 				{
 					"id": "7vPQYG4hx8cRtKJe",
-					"name": "37mm AT Gun (AP Rounds) (Turret, Stabilizer)",
-					"description": "<div class='swade-core'><p><strong>Tank and AT Guns:</strong> May fire either @Compendium[swade-core-rules.swade-rules.穿甲 (AP)]{穿甲} or @Compendium[swade-core-rules.swade-rules.高爆 (HE)]{高爆} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short Range or less (so 4d10+2 becomes 5d10+2, for example).</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p></div>",
-					"notes": "Heavy Weapon",
+					"name": "37mm 反坦克炮 (穿甲弹) (转台, 稳定器)",
+					"description": "<div class='swade-core'><p><strong>坦克与反坦克炮:</strong>能根据炮手的选择发射@Compendium[swade-core-rules.swade-rules.穿甲 (AP)]{穿甲}弹或是@Compendium[swade-core-rules.swade-rules.高爆 (HE)]{高爆}弹。穿甲弹在接近时会造成额外伤害。如果在短距@Compendium[swade-core-rules.swade-rules.射程]{射程}的一半及以下的距离内开火，则武器的伤害骰子增加一枚。(举例而言，4d10+2变为5d10+2)。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p></div>",
+					"notes": "重武器",
 					"actions": {
-						"skill": "Shooting",
+						"skill": "射击",
 						"additional": {
 							"pmv6i5ctzd": {
-								"name": "Close Range"
+								"name": "近距"
 							}
 						}
 					}
 				},
 				{
 					"id": "9UNgNinz3Fhl1U8G",
-					"name": "Medium Machine Gun (Front Fixed)",
-					"description": "<div class='swade-core'><p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a Rate of Fire 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p></div>",
-					"notes": "Heavy Weapon.",
+					"name": "中型机枪 (前固定)",
+					"description": "<div class='swade-core'><p><strong>最低射速：</strong> @Compendium[swade-core-rules.swade-rules.射速]{射速}3或以上的载具武器其最低射速为2。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p></div>",
+					"notes": "重武器.",
 					"actions": {
-						"skill": "Shooting",
+						"skill": "射击",
 						"additional": {
 							"81qhst5kyq": {
-								"name": "RoF 3 Attack"
+								"name": "射速3 攻击"
 							},
 							"yjszf9r0co": {
-								"name": "RoF 2 Attack"
+								"name": "射速2 攻击"
 							}
 						}
 					}
 				},
 				{
 					"id": "ezLyfZf6P8encMPJ",
-					"name": "Heavy Machine Gun (Pintle Mount on Turret)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a Rate of Fire 3 or higher have a minimum @Compendium[swade-core-rules.swade-rules.射速]{射速}&nbsp;of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p>\n</div>",
-					"notes": "Heavy Weapon.",
+					"name": "重型机枪 (转塔同轴)",
+					"description": "<div class=\"swade-core\">\n<p><strong>最低射速：</strong>@Compendium[swade-core-rules.swade-rules.射速]{射速}3或以上的载具武器其最低射速为2。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p>\n</div>",
+					"notes": "重武器.",
 					"actions": {
-						"skill": "Shooting",
+						"skill": "射击",
 						"additional": {
 							"slr23nl1ss": {
-								"name": "RoF 3 Attack"
+								"name": "射速3 攻击"
 							},
 							"q3e75vog4f": {
-								"name": "RoF 2 Attack"
+								"name": "射速2 攻击"
 							}
 						}
 					}
@@ -748,51 +748,51 @@
 			"items": [
 				{
 					"id": "9KyMYbkYSjKHAes1",
-					"name": "2× Linked Heavy MG (Fixed Front)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.射速]{射速} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p>\n</div>",
-					"notes": "Heavy Weapon.",
+					"name": "2×联装重型机枪 (前固定)",
+					"description": "<div class=\"swade-core\">\n<p><strong>最低射速：</strong>@Compendium[swade-core-rules.swade-rules.射速]{射速}3或以上的载具武器其最低射速为2。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p>\n</div>",
+					"notes": "重武器.",
 					"actions": {
-						"skill": "Shooting",
+						"skill": "射击",
 						"additional": {
 							"slr23nl1ss": {
-								"name": "RoF 3 Attack"
+								"name": "射速3 攻击"
 							},
 							"q3e75vog4f": {
-								"name": "RoF 2 Attack"
+								"name": "射速2 攻击"
 							}
 						}
 					}
 				},
 				{
 					"id": "I37Wh5utmCezlMZ5",
-					"name": "2× Linked Heavy MG (Fixed Front)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.射速]{射速} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p>\n</div>",
-					"notes": "Heavy Weapon.",
+					"name": "2×联装重型机枪 (前固定)",
+					"description": "<div class=\"swade-core\">\n<p><strong>最低射速：</strong>@Compendium[swade-core-rules.swade-rules.射速]{射速}3或以上的载具武器其最低射速为2。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p>\n</div>",
+					"notes": "重武器.",
 					"actions": {
-						"skill": "Shooting",
+						"skill": "射击",
 						"additional": {
 							"slr23nl1ss": {
-								"name": "RoF 3 Attack"
+								"name": "射速3 攻击"
 							},
 							"q3e75vog4f": {
-								"name": "RoF 2 Attack"
+								"name": "射速2 攻击"
 							}
 						}
 					}
 				},
 				{
 					"id": "dRJkqj0bIuL67cNe",
-					"name": "2× Linked Heavy MG (Fixed Front)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.射速]{射速} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p>\n</div>",
-					"notes": "Heavy Weapon.",
+					"name": "2×联装重型机枪 (前固定)",
+					"description": "<div class=\"swade-core\">\n<p><strong>最低射速：</strong>@Compendium[swade-core-rules.swade-rules.射速]{射速}3或以上的载具武器其最低射速为2。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p>\n</div>",
+					"notes": "重武器.",
 					"actions": {
-						"skill": "Shooting",
+						"skill": "射击",
 						"additional": {
 							"slr23nl1ss": {
-								"name": "RoF 3 Attack"
+								"name": "射速3 攻击"
 							},
 							"q3e75vog4f": {
-								"name": "RoF 2 Attack"
+								"name": "射速2 攻击"
 							}
 						}
 					}
@@ -806,45 +806,45 @@
 			"items": [
 				{
 					"id": "4v74UcGjmOzxJpEe",
-					"name": "50 cal MG (Front Pintle Mount)",
-					"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器}</p>\n<hr />\n<p>Machine guns are heavy, fully automatic weapons built to withstand prolonged fire. Most are fed by belts or drums and thus have far more ammo capacity than assault rifles, despite similar calibers and rates of fire.</p>\n<p><strong>Weapon Mount:</strong>&nbsp;Most machine-guns require a @Compendium[swade-core-rules.swade-equipment.Bipod/Tripod]{Bipod/Tripod} or vehicle mount to fire, which eliminates any Strength requirement and the @Compendium[swade-core-rules.swade-rules.后坐力]{后坐力} penalty. Their @Compendium[swade-core-rules.swade-rules.最低力量]{最低力量} is listed as &ldquo;NA,&rdquo; or &ldquo;Not Applicable.&rdquo; If a weapon has a Minimum Strength listed, it may be fired from the hip with the @Compendium[swade-core-rules.swade-rules.猝射]{猝射} and Recoil penalties.</p>\n<p><strong>Minimum Rate of Fire:</strong>&nbsp;Machine-guns have a minimum @Compendium[swade-core-rules.swade-rules.射速]{射速} of 2 unless otherwise noted.</p>\n<p><strong>Reloading:</strong>&nbsp;Machine guns are @Compendium[swade-core-rules.swade-rules.装填]{装填} 2, which includes changing belts or drums, cocking, etc.</p>\n</div>",
-					"notes": "Heavy Weapon.",
+					"name": ".50口径机枪 (前同轴)",
+					"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器}</p>\n<hr />\n<p>Machine guns are heavy, fully automatic weapons built to withstand prolonged fire. Most are fed by belts or drums and thus have far more ammo capacity than assault rifles, despite similar calibers and rates of fire.</p>\n<p><strong>Weapon Mount:</strong>&nbsp;Most machine-guns require a @Compendium[swade-core-rules.swade-equipment.Bipod/Tripod]{Bipod/Tripod} or vehicle mount to fire, which eliminates any Strength requirement and the @Compendium[swade-core-rules.swade-rules.后坐力]{后坐力} penalty. Their @Compendium[swade-core-rules.swade-rules.最低力量]{最低力量} is listed as &ldquo;NA,&rdquo; or &ldquo;Not Applicable.&rdquo; If a weapon has a Minimum Strength listed, it may be fired from the hip with the @Compendium[swade-core-rules.swade-rules.猝射]{猝射} and Recoil penalties.</p>\n<p><strong>最低射速：</strong>&nbsp;Machine-guns have a minimum @Compendium[swade-core-rules.swade-rules.射速]{射速} of 2 unless otherwise noted.</p>\n<p><strong>Reloading:</strong>&nbsp;Machine guns are @Compendium[swade-core-rules.swade-rules.装填]{装填} 2, which includes changing belts or drums, cocking, etc.</p>\n</div>",
+					"notes": "重武器.",
 					"actions": {
-						"skill": "Shooting",
+						"skill": "射击",
 						"additional": {
 							"7r05pvxs8m": {
-								"name": "RoF 3 Attack"
+								"name": "射速3 攻击"
 							},
 							"jnh5swl3sr": {
-								"name": "RoF 2 Attack"
+								"name": "射速2 攻击"
 							}
 						}
 					}
 				},
 				{
 					"id": "tdNJIhLncR6FtGaQ",
-					"name": "Heavy MG (Rear Pintle Mount)",
-					"description": "<div class='swade-core'><p><strong>Minimum Rate of Fire:</strong>&nbsp;Vehicular weapons with a Rate of Fire 3 or higher have a minimum Rate of Fire of 2.</p></div>",
-					"notes": "Heavy Weapon.",
+					"name": "重型机枪 (后同轴)",
+					"description": "<div class='swade-core'><p><strong>最低射速：</strong>&nbsp;@Compendium[swade-core-rules.swade-rules.射速]{射速}3或以上的载具武器其最低射速为2。</p></div>",
+					"notes": "重武器.",
 					"actions": {
-						"skill": "Shooting",
+						"skill": "射击",
 						"additional": {
 							"slr23nl1ss": {
-								"name": "RoF 3 Attack"
+								"name": "射速3 攻击"
 							},
 							"q3e75vog4f": {
-								"name": "RoF 2 Attack"
+								"name": "射速2 攻击"
 							}
 						}
 					}
 				},
 				{
 					"id": "tTmL36kU3p8opaIL",
-					"name": "4× torpedo tubes (Fixed Forward)",
+					"name": "4×鱼雷管 (前固定)",
 					"description": "<div class='swade-core'><p>Rocket launchers and early torpedoes are direct-fire weapons that explode on contact with their target. All the listed weapons are @Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}.</p>\n<p>@Compendium[swade-core-rules.swade-rules.范围效果攻击]{大型爆散盖板}</p></div>",
-					"notes": "LBT, Heavy Weapon.",
+					"notes": "LBT, 重武器.",
 					"actions": {
-						"skill": "Shooting"
+						"skill": "射击"
 					}
 				}
 			]
@@ -856,51 +856,51 @@
 			"items": [
 				{
 					"id": "7UJmPpc549mdCmSh",
-					"name": "2× Linked Heavy MG (Front Front Pintle Mount)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.射速]{射速} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p>\n</div>",
-					"notes": "Heavy Weapon.",
+					"name": "2×联装重型机枪 (前同轴)",
+					"description": "<div class=\"swade-core\">\n<p><strong>最低射速：</strong>@Compendium[swade-core-rules.swade-rules.射速]{射速}3或以上的载具武器其最低射速为2。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p>\n</div>",
+					"notes": "重武器.",
 					"actions": {
-						"skill": "Shooting",
+						"skill": "射击",
 						"additional": {
 							"slr23nl1ss": {
-								"name": "RoF 3 Attack"
+								"name": "射速3 攻击"
 							},
 							"q3e75vog4f": {
-								"name": "RoF 2 Attack"
+								"name": "射速2 攻击"
 							}
 						}
 					}
 				},
 				{
 					"id": "LFrUWmn3bpQ4LVv8",
-					"name": "2× Linked Medium MG (Left and Right)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.射速]{射速} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p>\n</div>",
-					"notes": "Heavy Weapon.",
+					"name": "2×联装中型机枪 (左右两边)",
+					"description": "<div class=\"swade-core\">\n<p><strong>最低射速：</strong>@Compendium[swade-core-rules.swade-rules.射速]{射速}3或以上的载具武器其最低射速为2。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p>\n</div>",
+					"notes": "重武器.",
 					"actions": {
-						"skill": "Shooting",
+						"skill": "射击",
 						"additional": {
 							"81qhst5kyq": {
-								"name": "RoF 3 Attack"
+								"name": "射速3 攻击"
 							},
 							"yjszf9r0co": {
-								"name": "RoF 2 Attack"
+								"name": "射速2 攻击"
 							}
 						}
 					}
 				},
 				{
 					"id": "fqbUNGy2HYpgNUfJ",
-					"name": "Heavy Machine Gun (Stern)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.射速]{射速} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p>\n</div>",
-					"notes": "Heavy Weapon.",
+					"name": "重型机枪 (船尾)",
+					"description": "<div class=\"swade-core\">\n<p><strong>最低射速：</strong>@Compendium[swade-core-rules.swade-rules.射速]{射速}3或以上的载具武器其最低射速为2。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p>\n</div>",
+					"notes": "重武器.",
 					"actions": {
-						"skill": "Shooting",
+						"skill": "射击",
 						"additional": {
 							"slr23nl1ss": {
-								"name": "RoF 3 Attack"
+								"name": "射速3 攻击"
 							},
 							"q3e75vog4f": {
-								"name": "RoF 2 Attack"
+								"name": "射速2 攻击"
 							}
 						}
 					}
@@ -914,31 +914,31 @@
 			"items": [
 				{
 					"id": "2OBqmO7ExtPsCFka",
-					"name": "Medium Machine Gun (Front Fixed and in Turret)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a Rate of Fire 3 or higher have a minimum @Compendium[swade-core-rules.swade-rules.射速]{射速} of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p>\n</div>",
-					"notes": "Heavy Weapon.",
+					"name": "中型机枪 (前固定及转塔)",
+					"description": "<div class=\"swade-core\">\n<p><strong>最低射速：</strong>@Compendium[swade-core-rules.swade-rules.射速]{射速}3或以上的载具武器其最低射速为2。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p>\n</div>",
+					"notes": "重武器.",
 					"actions": {
-						"skill": "Shooting",
+						"skill": "射击",
 						"additional": {
 							"81qhst5kyq": {
-								"name": "RoF 3 Attack"
+								"name": "射速3 攻击"
 							},
 							"yjszf9r0co": {
-								"name": "RoF 2 Attack"
+								"name": "射速2 攻击"
 							}
 						}
 					}
 				},
 				{
 					"id": "QO1pqbx91oyr77CA",
-					"name": "75mm Tank Gun (AP Rounds) (Turret)",
-					"description": "<div class='swade-core'><p><strong>Tank and AT Guns:</strong> May fire either @Compendium[swade-core-rules.swade-rules.穿甲 (AP)]{穿甲} or @Compendium[swade-core-rules.swade-rules.高爆 (HE)]{高爆} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short Range or less (so 4d10+2 becomes 5d10+2, for example).</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p></div>",
-					"notes": "Heavy Weapon",
+					"name": "75mm 坦克炮 (穿甲弹) (转塔)",
+					"description": "<div class='swade-core'><p><strong>坦克与反坦克炮:</strong>能根据炮手的选择发射@Compendium[swade-core-rules.swade-rules.穿甲 (AP)]{穿甲}弹或是@Compendium[swade-core-rules.swade-rules.高爆 (HE)]{高爆}弹。穿甲弹在接近时会造成额外伤害。如果在短距@Compendium[swade-core-rules.swade-rules.射程]{射程}的一半及以下的距离内开火，则武器的伤害骰子增加一枚。(举例而言，4d10+2变为5d10+2)。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p></div>",
+					"notes": "重武器",
 					"actions": {
-						"skill": "Shooting",
+						"skill": "射击",
 						"additional": {
 							"a7ahcucjed": {
-								"name": "Close Range"
+								"name": "近距"
 							}
 						}
 					}
@@ -952,31 +952,31 @@
 			"items": [
 				{
 					"id": "bTZ7BXL7mbuuzw4y",
-					"name": "88mm Tank Gun (AP Rounds) (Turret)",
-					"description": "<div class='swade-core'><p><strong>Tank and AT Guns:</strong> May fire either @Compendium[swade-core-rules.swade-rules.穿甲 (AP)]{穿甲} or @Compendium[swade-core-rules.swade-rules.高爆 (HE)]{高爆} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short Range or less (so 4d10+2 becomes 5d10+2, for example).</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p></div>",
-					"notes": "Heavy Weapon",
+					"name": "88mm 坦克炮 (穿甲弹) (转塔)",
+					"description": "<div class='swade-core'><p><strong>坦克与反坦克炮:</strong>能根据炮手的选择发射@Compendium[swade-core-rules.swade-rules.穿甲 (AP)]{穿甲}弹或是@Compendium[swade-core-rules.swade-rules.高爆 (HE)]{高爆}弹。穿甲弹在接近时会造成额外伤害。如果在短距@Compendium[swade-core-rules.swade-rules.射程]{射程}的一半及以下的距离内开火，则武器的伤害骰子增加一枚。(举例而言，4d10+2变为5d10+2)。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p></div>",
+					"notes": "重武器",
 					"actions": {
-						"skill": "Shooting",
+						"skill": "射击",
 						"additional": {
 							"gj8eb9r0ki": {
-								"name": "Close Range"
+								"name": "近距"
 							}
 						}
 					}
 				},
 				{
 					"id": "tLd4094TVYknQTt3",
-					"name": "Medium Machine Gun (Front Fixed and in Turret)",
-					"description": "<div class='swade-core'><p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a Rate of Fire 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p></div>",
-					"notes": "Heavy Weapon.",
+					"name": "中型机枪 (前固定及转塔)",
+					"description": "<div class='swade-core'><p><strong>最低射速：</strong> @Compendium[swade-core-rules.swade-rules.射速]{射速}3或以上的载具武器其最低射速为2。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p></div>",
+					"notes": "重武器.",
 					"actions": {
-						"skill": "Shooting",
+						"skill": "射击",
 						"additional": {
 							"81qhst5kyq": {
-								"name": "RoF 3 Attack"
+								"name": "射速3 攻击"
 							},
 							"yjszf9r0co": {
-								"name": "RoF 2 Attack"
+								"name": "射速2 攻击"
 							}
 						}
 					}
@@ -995,28 +995,28 @@
 			"items": [
 				{
 					"id": "DMVzHDZh1Lg6Tbfp",
-					"name": "30mm Cannon (Fixed Front)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a Rate of Fire 3 or higher have a minimum @Compendium[swade-core-rules.swade-rules.射速]{射速} of 2.</p>\n</div>",
-					"notes": "Heavy Weapon",
+					"name": "30mm 加农炮 (前固定)",
+					"description": "<div class=\"swade-core\">\n<p><strong>最低射速：</strong>@Compendium[swade-core-rules.swade-rules.射速]{射速}3或以上的载具武器其最低射速为2。</p>\n</div>",
+					"notes": "重武器",
 					"actions": {
-						"skill": "Shooting",
+						"skill": "射击",
 						"additional": {
 							"i4ht7b587x": {
-								"name": "RoF 3 Attack"
+								"name": "射速3 攻击"
 							},
 							"obyryv42xo": {
-								"name": "RoF 2 Attack"
+								"name": "射速2 攻击"
 							}
 						}
 					}
 				},
 				{
 					"id": "u9DHb70boP2rn4kI",
-					"name": "Sidewinder Missiles (Soviet equivalent)",
+					"name": "响尾蛇导弹 (苏联同等级别导弹)",
 					"description": "<div class=\"swade-core\">\n<p><span style=\"background-color: #dfe6f5; color: #191813;\">@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器}</span>. A short range, heat-seeking missile fired from an aircraft. @Compendium[swade-core-rules.swade-rules.范围效果攻击]{小型爆散盖板}.</p>\n<hr />\n<p>Unless otherwise noted, missiles must &ldquo;lock&rdquo; onto their targets before they can be fired. This action is an opposed @Compendium[swade-core-rules.swade-skills.电子学]{电子学} roll versus the target&rsquo;s maneuvering skill (@Compendium[swade-core-rules.swade-skills.驾船]{驾船}, @Compendium[swade-core-rules.swade-skills.驾驶]{驾驶}, or @Compendium[swade-core-rules.swade-skills.航空]{航空}, as appropriate). Success gives the attacker a &ldquo;short&rdquo; lock and allows him to fire up to half the missiles his particular craft can fire at once. A raise is a more solid lock and allows him to fire all of them.</p>\n<p>The enemy attempts to evade each missile separately by making a maneuvering roll at &minus;4 (or &minus;2 if the target has substantial cover to hide behind&mdash;such as asteroids, skyscrapers, canyon walls, or even large enemy ships. A @Compendium[swade-core-rules.swade-rules.特性投骰]{大失败} means the craft goes @Compendium[swade-core-rules.swade-tables.失控]{失控}.</p>\n<p><strong>Anti-Missile Systems:</strong> Warships and futuristic space vessels often have &ldquo;point defense&rdquo; systems to shoot down incoming missiles. Operators must be on @Compendium[swade-core-rules.swade-rules.待机]{待机} to shoot down missiles; automated systems attack automatically. The system grants a single @Compendium[swade-core-rules.swade-skills.射击]{射击} roll per missile at Short @Compendium[swade-core-rules.swade-rules.射程]{射程} and any other relevant modifiers (including @Compendium[swade-core-rules.swade-rules.速度]{速度}&mdash;missiles move at Mach 1, a &minus;6 penalty, unless otherwise noted). Unless otherwise noted, missiles are objects with a @Compendium[swade-core-rules.swade-rules.破坏物体]{坚韧} of 8 (2).</p>\n</div>",
-					"notes": "Heavy Weapon. A short range, heat-seeking missile fired from an aircraft.",
+					"notes": "重武器. A short range, heat-seeking missile fired from an aircraft.",
 					"actions": {
-						"skill": "Shooting"
+						"skill": "射击"
 					}
 				}
 			]
@@ -1048,34 +1048,34 @@
 			"items": [
 				{
 					"id": "Et0TUJzkbZVncwAq",
-					"name": "4× Linked Medium MG (Fixed Front)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.射速]{射速} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p>\n</div>",
-					"notes": "Heavy Weapon.",
+					"name": "4×联装中型机枪 (前固定)",
+					"description": "<div class=\"swade-core\">\n<p><strong>最低射速：</strong>@Compendium[swade-core-rules.swade-rules.射速]{射速}3或以上的载具武器其最低射速为2。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p>\n</div>",
+					"notes": "重武器.",
 					"actions": {
-						"skill": "Shooting",
+						"skill": "射击",
 						"additional": {
 							"81qhst5kyq": {
-								"name": "RoF 3 Attack"
+								"name": "射速3 攻击"
 							},
 							"yjszf9r0co": {
-								"name": "RoF 2 Attack"
+								"name": "射速2 攻击"
 							}
 						}
 					}
 				},
 				{
 					"id": "dlbJt1xpqgODvQ77",
-					"name": "4× Linked Medium MG (Fixed Front)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.射速]{射速} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p>\n</div>",
-					"notes": "Heavy Weapon.",
+					"name": "4×联装中型机枪 (前固定)",
+					"description": "<div class=\"swade-core\">\n<p><strong>最低射速：</strong>@Compendium[swade-core-rules.swade-rules.射速]{射速}3或以上的载具武器其最低射速为2。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p>\n</div>",
+					"notes": "重武器.",
 					"actions": {
-						"skill": "Shooting",
+						"skill": "射击",
 						"additional": {
 							"81qhst5kyq": {
-								"name": "RoF 3 Attack"
+								"name": "射速3 攻击"
 							},
 							"yjszf9r0co": {
-								"name": "RoF 2 Attack"
+								"name": "射速2 攻击"
 							}
 						}
 					}
@@ -1104,31 +1104,31 @@
 			"items": [
 				{
 					"id": "izqnBfepu5r5upwN",
-					"name": "76mm Tank Gun (AP Rounds) (Turret)",
-					"description": "<div class='swade-core'><p><strong>Tank and AT Guns:</strong> May fire either @Compendium[swade-core-rules.swade-rules.穿甲 (AP)]{穿甲} or @Compendium[swade-core-rules.swade-rules.高爆 (HE)]{高爆} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short Range or less (so 4d10+2 becomes 5d10+2, for example).</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p></div>",
-					"notes": "Heavy Weapon.",
+					"name": "76mm 坦克炮 (穿甲弹) (转塔)",
+					"description": "<div class='swade-core'><p><strong>坦克与反坦克炮:</strong>能根据炮手的选择发射@Compendium[swade-core-rules.swade-rules.穿甲 (AP)]{穿甲}弹或是@Compendium[swade-core-rules.swade-rules.高爆 (HE)]{高爆}弹。穿甲弹在接近时会造成额外伤害。如果在短距@Compendium[swade-core-rules.swade-rules.射程]{射程}的一半及以下的距离内开火，则武器的伤害骰子增加一枚。(举例而言，4d10+2变为5d10+2)。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p></div>",
+					"notes": "重武器.",
 					"actions": {
-						"skill": "Shooting",
+						"skill": "射击",
 						"additional": {
 							"deh7sce7my": {
-								"name": "Close Range"
+								"name": "近距"
 							}
 						}
 					}
 				},
 				{
 					"id": "fI9uqqLwaczVWR4r",
-					"name": "Medium Machine Gun (Front Fixed and in Turret)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a @Compendium[swade-core-rules.swade-rules.射速]{射速} 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p>\n</div>",
-					"notes": "Heavy Weapon.",
+					"name": "中型机枪 (前固定及转塔)",
+					"description": "<div class=\"swade-core\">\n<p><strong>最低射速：</strong>@Compendium[swade-core-rules.swade-rules.射速]{射速}3或以上的载具武器其最低射速为2。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p>\n</div>",
+					"notes": "重武器.",
 					"actions": {
-						"skill": "Shooting",
+						"skill": "射击",
 						"additional": {
 							"81qhst5kyq": {
-								"name": "RoF 3 Attack"
+								"name": "射速3 攻击"
 							},
 							"yjszf9r0co": {
-								"name": "RoF 2 Attack"
+								"name": "射速2 攻击"
 							}
 						}
 					}
@@ -1142,48 +1142,48 @@
 			"items": [
 				{
 					"id": "SPjWzVjoyXetiGzF",
-					"name": "125mm Tank Gun (AP Rounds)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Tank and AT Guns:</strong>&nbsp;May fire either @Compendium[swade-core-rules.swade-rules.穿甲 (AP)]{穿甲} or @Compendium[swade-core-rules.swade-rules.高爆 (HE)]{高爆} rounds as the gunner chooses. AP rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short @Compendium[swade-core-rules.swade-rules.射程]{射程} or less (so 4d10+2 becomes 5d10+2, for example).</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}&nbsp;</p>\n</div>",
-					"notes": "Heavy Weapon.",
+					"name": "125mm 坦克炮 (穿甲弹)",
+					"description": "<div class=\"swade-core\">\n<p><strong>坦克与反坦克炮:</strong>能根据炮手的选择发射@Compendium[swade-core-rules.swade-rules.穿甲 (AP)]{穿甲}弹或是@Compendium[swade-core-rules.swade-rules.高爆 (HE)]{高爆}弹。穿甲弹在接近时会造成额外伤害。如果在短距@Compendium[swade-core-rules.swade-rules.射程]{射程}的一半及以下的距离内开火，则武器的伤害骰子增加一枚。(举例而言，4d10+2变为5d10+2)。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}&nbsp;</p>\n</div>",
+					"notes": "重武器.",
 					"actions": {
-						"skill": "Shooting",
+						"skill": "射击",
 						"additional": {
 							"wbhu8yehva": {
-								"name": "Close Range AP"
+								"name": "近距 AP"
 							}
 						}
 					}
 				},
 				{
 					"id": "xW0FNYteTDslG9g1",
-					"name": "Medium Machine Gun (In Turret)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a Rate of Fire 3 or higher have a minimum @Compendium[swade-core-rules.swade-rules.射速]{射速} of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p>\n</div>",
-					"notes": "Heavy Weapon.",
+					"name": "中型机枪 (转塔上)",
+					"description": "<div class=\"swade-core\">\n<p><strong>最低射速：</strong>@Compendium[swade-core-rules.swade-rules.射速]{射速}3或以上的载具武器其最低射速为2。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p>\n</div>",
+					"notes": "重武器.",
 					"actions": {
-						"skill": "Shooting",
+						"skill": "射击",
 						"additional": {
 							"81qhst5kyq": {
-								"name": "RoF 3 Attack"
+								"name": "射速3 攻击"
 							},
 							"yjszf9r0co": {
-								"name": "RoF 2 Attack"
+								"name": "射速2 攻击"
 							}
 						}
 					}
 				},
 				{
 					"id": "dkO6ixIyKRsiSTOB",
-					"name": "Heavy Machine Gun (Pintle Mount on Turret)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a Rate of Fire 3 or higher have a minimum @Compendium[swade-core-rules.swade-rules.射速]{射速} of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p>\n</div>",
-					"notes": "Heavy Weapon.",
+					"name": "重型机枪 (转塔同轴)",
+					"description": "<div class=\"swade-core\">\n<p><strong>最低射速：</strong>@Compendium[swade-core-rules.swade-rules.射速]{射速}3或以上的载具武器其最低射速为2。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p>\n</div>",
+					"notes": "重武器.",
 					"actions": {
-						"skill": "Shooting",
+						"skill": "射击",
 						"additional": {
 							"slr23nl1ss": {
-								"name": "RoF 3 Attack"
+								"name": "射速3 攻击"
 							},
 							"q3e75vog4f": {
-								"name": "RoF 2 Attack"
+								"name": "射速2 攻击"
 							}
 						}
 					}
@@ -1197,48 +1197,48 @@
 			"items": [
 				{
 					"id": "8UZ7FALmttsECSoR",
-					"name": "125mm Tank Gun (AP Rounds) (Improved Stabilizer)",
-					"description": "<div class='swade-core'><p><strong>Tank and AT Guns:</strong> @Compendium[swade-core-rules.swade-rules.穿甲 (AP)]{穿甲} rounds do additional damage up close. Increase the weapon&rsquo;s damage dice by one when fired at half their Short Range or less (so 4d10+2 becomes 5d10+2, for example).</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p></div>",
-					"notes": "Heavy Weapon.",
+					"name": "125mm 坦克炮 (穿甲弹) (高级稳定器)",
+					"description": "<div class='swade-core'><p><strong>坦克与反坦克炮:</strong>能根据炮手的选择发射@Compendium[swade-core-rules.swade-rules.穿甲 (AP)]{穿甲}弹或是@Compendium[swade-core-rules.swade-rules.高爆 (HE)]{高爆}弹。穿甲弹在接近时会造成额外伤害。如果在短距@Compendium[swade-core-rules.swade-rules.射程]{射程}的一半及以下的距离内开火，则武器的伤害骰子增加一枚。(举例而言，4d10+2变为5d10+2)。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p></div>",
+					"notes": "重武器.",
 					"actions": {
-						"skill": "Shooting",
+						"skill": "射击",
 						"additional": {
 							"wbhu8yehva": {
-								"name": "Close Range AP"
+								"name": "近距 AP"
 							}
 						}
 					}
 				},
 				{
 					"id": "vO5OqdqKZpD1Ay2k",
-					"name": "Med. Machine Gun (In Turret)",
-					"description": "<div class='swade-core'><p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a Rate of Fire 3 or higher have a minimum Rate of Fire of 2.</p></div>",
-					"notes": "Heavy Weapon.",
+					"name": "中型机枪 (转塔上)",
+					"description": "<div class='swade-core'><p><strong>最低射速：</strong> @Compendium[swade-core-rules.swade-rules.射速]{射速}3或以上的载具武器其最低射速为2。</p></div>",
+					"notes": "重武器.",
 					"actions": {
-						"skill": "Shooting",
+						"skill": "射击",
 						"additional": {
 							"81qhst5kyq": {
-								"name": "RoF 3 Attack"
+								"name": "射速3 攻击"
 							},
 							"yjszf9r0co": {
-								"name": "RoF 2 Attack"
+								"name": "射速2 攻击"
 							}
 						}
 					}
 				},
 				{
 					"id": "pJXPzaiI1Pbcm4Va",
-					"name": "Heavy Machine Gun (Pintle Mount on Turret)",
-					"description": "<div class='swade-core'><p><strong>Minimum Rate of Fire:</strong>&nbsp;Vehicular weapons with a Rate of Fire 3 or higher have a minimum Rate of Fire of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p></div>",
-					"notes": "Heavy Weapon.",
+					"name": "重型机枪 (转塔同轴)",
+					"description": "<div class='swade-core'><p><strong>最低射速：</strong>&nbsp;@Compendium[swade-core-rules.swade-rules.射速]{射速}3或以上的载具武器其最低射速为2。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p></div>",
+					"notes": "重武器.",
 					"actions": {
-						"skill": "Shooting",
+						"skill": "射击",
 						"additional": {
 							"slr23nl1ss": {
-								"name": "RoF 3 Attack"
+								"name": "射速3 攻击"
 							},
 							"q3e75vog4f": {
-								"name": "RoF 2 Attack"
+								"name": "射速2 攻击"
 							}
 						}
 					}
@@ -1252,17 +1252,17 @@
 			"items": [
 				{
 					"id": "aEhMXhg93IU380Cp",
-					"name": "Medium MG (Fixed Left or Right)",
-					"description": "<div class=\"swade-core\">\n<p><strong>Minimum Rate of Fire:</strong> Vehicular weapons with a Rate of Fire 3 or higher have a minimum @Compendium[swade-core-rules.swade-rules.射速]{射速} of 2.</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p>\n</div>",
-					"notes": "Heavy Weapon.",
+					"name": "中型机枪 (左/右固定)",
+					"description": "<div class=\"swade-core\">\n<p><strong>最低射速：</strong>@Compendium[swade-core-rules.swade-rules.射速]{射速}3或以上的载具武器其最低射速为2。</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}</p>\n</div>",
+					"notes": "重武器.",
 					"actions": {
-						"skill": "Shooting",
+						"skill": "射击",
 						"additional": {
 							"81qhst5kyq": {
-								"name": "RoF 3 Attack"
+								"name": "射速3 攻击"
 							},
 							"yjszf9r0co": {
-								"name": "RoF 2 Attack"
+								"name": "射速2 攻击"
 							}
 						}
 					}
