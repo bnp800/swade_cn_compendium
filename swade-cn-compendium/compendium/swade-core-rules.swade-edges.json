@@ -8,702 +8,702 @@
 		"Ace": {
 			"name": "王牌机师",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Aces are pilots and drivers who have a special affinity with their car, boat, plane, or other vehicle. They ignore two points of penalties to any @Compendium[swade-core-rules.swade-skills.驾船]{驾船}, @Compendium[swade-core-rules.swade-skills.驾驶]{驾驶}, or @Compendium[swade-core-rules.swade-skills.航空]{航空} roll, and may spend @Compendium[swade-core-rules.swade-rules.助力点]{助力点} to @Compendium[swade-core-rules.swade-rules.化解投骰]{化解} damage for any @Compendium[swade-core-rules.swade-rules.载具注释]{载具} they control or command, using the appropriate Boating, Driving, or Piloting skill instead of @Compendium[swade-core-rules.swade-rules.特性]{活力}. Each success and raise negates a @Compendium[swade-core-rules.swade-rules.伤害效果]{损伤}.</span></p>\n</div>",
-			"requirements": "Novice, Agility d8+"
+			"requirements": "入门, 灵巧d8+"
 		},
 		"Acrobat": {
 			"name": "特技员",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">The Acrobat gets one free reroll on @Compendium[swade-core-rules.swade-skills.运动]{运动} totals that involve balance, tumbling, or grappling. It doesn&rsquo;t affect rolls to interrupt actions, climb, swim, or throw</span></p>\n</div>",
-			"requirements": "Novice, Agility d8+, Athletics d8+"
+			"requirements": "入门, 灵巧d8+, 运动d8+"
 		},
 		"Alertness": {
 			"name": "警觉",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Not much gets by this hero. He&rsquo;s very observant and perceptive, and adds +2 to his @Compendium[swade-core-rules.swade-skills.察觉]{察觉} rolls to hear, see, or otherwise sense the world around him.</span></p>\n</div>",
-			"requirements": "Novice"
+			"requirements": "入门"
 		},
 		"Ambidextrous": {
 			"name": "双巧手",
 			"description": "<div class=\"swade-core\">\n<p>Your warrior is as deft with his left hand as he is with his right. He ignores the @Compendium[swade-core-rules.swade-rules.副手攻击]{副手减值}</p>\n<p><span class=\"fontstyle0\">If holding a weapon in each hand, @Compendium[swade-core-rules.swade-edges.双巧手]{双巧手} characters may stack @Compendium[swade-core-rules.swade-rules.角色]{格挡} bonuses (if any) from both weapons.</span></p>\n</div>",
-			"requirements": "Novice, Agility d8+"
+			"requirements": "入门, 灵巧d8+"
 		},
 		"Arcane Background (Gifted)": {
 			"name": "奥法背景 (异禀)",
-			"description": "<div class=\"swade-core\">\n<ul>\n<li>Arcane Skill: @Compendium[swade-core-rules.swade-skills.集中]{集中} (Spirit)</li>\n<li>Starting @Compendium[swade-core-rules.swade-rules.奇术]{奇术}: 1</li>\n<li>@Compendium[swade-core-rules.swade-rules.奥法背景]{获得奇术点}: 15</li>\n</ul>\n<p><span class=\"fontstyle0\">The character has innate abilities that don&rsquo;t fit into the usual tropes of magic, miracles, or psionics. Their powers may be low-level super powers, divine gifts, or even alien abilities, and are often very unusual or unique for their setting</span></p>\n</div>",
-			"requirements": "Novice"
+			"description": "<div class=\"swade-core\">\n<ul>\n<li>Arcane Skill: @Compendium[swade-core-rules.swade-skills.集中]{集中} (心魂)</li>\n<li>Starting @Compendium[swade-core-rules.swade-rules.奇术]{奇术}: 1</li>\n<li>@Compendium[swade-core-rules.swade-rules.奥法背景]{获得奇术点}: 15</li>\n</ul>\n<p><span class=\"fontstyle0\">The character has innate abilities that don&rsquo;t fit into the usual tropes of magic, miracles, or psionics. Their powers may be low-level super powers, divine gifts, or even alien abilities, and are often very unusual or unique for their setting</span></p>\n</div>",
+			"requirements": "入门"
 		},
 		"Arcane Background (Magic)": {
 			"name": "奥法背景 (魔法)",
-			"description": "<div class=\"swade-core\">\n<ul>\n<li>Arcane Skill: @Compendium[swade-core-rules.swade-skills.施法]{施法} (Smarts)</li>\n<li>Starting @Compendium[swade-core-rules.swade-rules.奇术]{奇术}: 3</li>\n<li>@Compendium[swade-core-rules.swade-rules.奥法背景]{获得奇术点}: 10</li>\n</ul>\n<p><span class=\"fontstyle0\">Magicians range from powerful wizards to vile cultists. They draw on raw supernatural energy to fuel their eldritch fires. This energy infuses the worlds in which they live, and is drawn forth with gestures, words of power, or ancient runes.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>\n</div>",
-			"requirements": "Novice"
+			"description": "<div class=\"swade-core\">\n<ul>\n<li>Arcane Skill: @Compendium[swade-core-rules.swade-skills.施法]{施法} (聪慧)</li>\n<li>Starting @Compendium[swade-core-rules.swade-rules.奇术]{奇术}: 3</li>\n<li>@Compendium[swade-core-rules.swade-rules.奥法背景]{获得奇术点}: 10</li>\n</ul>\n<p><span class=\"fontstyle0\">Magicians range from powerful wizards to vile cultists. They draw on raw supernatural energy to fuel their eldritch fires. This energy infuses the worlds in which they live, and is drawn forth with gestures, words of power, or ancient runes.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>\n</div>",
+			"requirements": "入门"
 		},
-		"Arcane Background (Miracles)": {
+		"奥法背景 (奇迹)": {
 			"name": "奥法背景 (奇迹)",
-			"description": "<div class=\"swade-core\">\n<ul>\n<li>Arcane Skill: @Compendium[swade-core-rules.swade-skills.信仰]{信仰} (Spirit)</li>\n<li>Starting @Compendium[swade-core-rules.swade-rules.奇术]{奇术}: 3</li>\n<li>@Compendium[swade-core-rules.swade-rules.奥法背景]{获得奇术点}: 10</li>\n</ul>\n<p><span class=\"fontstyle0\">Those who invoke miracles draw their power from a divine presence of some sort, including gods, nature, or spirits. Their powers are usually invoked with a few words of prayer or by performing established rituals. </span></p>\n<p><span class=\"fontstyle0\">Those who cast miracles are champions of their particular religions. They typically have @Compendium[swade-core-rules.swade-rules.负赘]{负赘} that pertain to their service, such as @Compendium[swade-core-rules.swade-hindrances.誓言]{誓言} or @Compendium[swade-core-rules.swade-hindrances.义务]{义务}. They might also have @Compendium[swade-core-rules.swade-edges.人脉]{人脉} to others of their religion who can help them out when their divine energies wane</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>\n</div>",
-			"requirements": "Novice"
+			"description": "<div class=\"swade-core\">\n<ul>\n<li>Arcane Skill: @Compendium[swade-core-rules.swade-skills.信仰]{信仰} (心魂)</li>\n<li>Starting @Compendium[swade-core-rules.swade-rules.奇术]{奇术}: 3</li>\n<li>@Compendium[swade-core-rules.swade-rules.奥法背景]{获得奇术点}: 10</li>\n</ul>\n<p><span class=\"fontstyle0\">Those who invoke miracles draw their power from a divine presence of some sort, including gods, nature, or spirits. Their powers are usually invoked with a few words of prayer or by performing established rituals. </span></p>\n<p><span class=\"fontstyle0\">Those who cast miracles are champions of their particular religions. They typically have @Compendium[swade-core-rules.swade-rules.负赘]{负赘} that pertain to their service, such as @Compendium[swade-core-rules.swade-hindrances.誓言]{誓言} or @Compendium[swade-core-rules.swade-hindrances.义务]{义务}. They might also have @Compendium[swade-core-rules.swade-edges.人脉]{人脉} to others of their religion who can help them out when their divine energies wane</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>\n</div>",
+			"requirements": "入门"
 		},
 		"Arcane Background (Psionics)": {
 			"name": "奥法背景 (灵能)",
-			"description": "<div class=\"swade-core\">\n<ul>\n<li>Arcane Skill: @Compendium[swade-core-rules.swade-skills.灵能]{灵能} (Smarts)</li>\n<li>Starting @Compendium[swade-core-rules.swade-rules.奇术]{奇术}: 3</li>\n<li>@Compendium[swade-core-rules.swade-rules.奥法背景]{获得奇术点}: 10</li>\n</ul>\n<p><span class=\"fontstyle0\">Psionicists tap into their own mental energy to manipulate matter, read minds, and far more. Some are agents in the employ of a vast government agency, while others are often on the run from them! Some may have years of training or they might have developed their incredible powers in isolation</span> &nbsp;</p>\n<p>&nbsp;</p>\n</div>",
-			"requirements": "Novice"
+			"description": "<div class=\"swade-core\">\n<ul>\n<li>Arcane Skill: @Compendium[swade-core-rules.swade-skills.灵能]{灵能} (聪慧)</li>\n<li>Starting @Compendium[swade-core-rules.swade-rules.奇术]{奇术}: 3</li>\n<li>@Compendium[swade-core-rules.swade-rules.奥法背景]{获得奇术点}: 10</li>\n</ul>\n<p><span class=\"fontstyle0\">Psionicists tap into their own mental energy to manipulate matter, read minds, and far more. Some are agents in the employ of a vast government agency, while others are often on the run from them! Some may have years of training or they might have developed their incredible powers in isolation</span> &nbsp;</p>\n<p>&nbsp;</p>\n</div>",
+			"requirements": "入门"
 		},
 		"Arcane Background (Weird Science)": {
 			"name": "奥法背景 (奇异科学)",
-			"description": "<div class=\"swade-core\">\n<ul>\n<li>Arcane Skill: @Compendium[swade-core-rules.swade-skills.奇异科学] (Smarts)</li>\n<li>Starting @Compendium[swade-core-rules.swade-rules.奇术]{奇术}: 2</li>\n<li>@Compendium[swade-core-rules.swade-rules.奥法背景]{获得奇术点}: 15</li>\n</ul>\n<p><span class=\"fontstyle0\">Weird scientists use strange and powerful inventions beyond the normal technological level of the setting. Such creations might be possible due to super fuels, alien discoveries, or the raw intellect of rare super-geniuses who push the boundaries of science.<br /></span></p>\n<p><span class=\"fontstyle0\">A weird scientist&rsquo;s </span><strong><span class=\"fontstyle2\">@Compendium[swade-core-rules.swade-rules.特效]{特效}</span></strong><span class=\"fontstyle0\">&nbsp;must always include the item they&rsquo;re associated with. The </span><span class=\"fontstyle3\"><em>@Compendium[swade-core-rules.swade-powers.爆裂]{爆裂} </em></span><span class=\"fontstyle0\">power might manifest through a magical flamethrower in <em>Deadlands: Weird West</em></span><span class=\"fontstyle0\"><em>&nbsp;</em>, for instance, while &ldquo;Dr. Gabriel&rsquo;s Wondrous Restorative Elixir!&rdquo; is a </span><em><span class=\"fontstyle3\">@Compendium[swade-core-rules.swade-powers.医疗]{治疗} </span></em><span class=\"fontstyle0\">potion.<br /></span></p>\n<p><span class=\"fontstyle0\">Weird scientists must have their devices at hand to activate their powers (but see<strong> </strong></span><strong><span class=\"fontstyle2\">Jury Rig</span></strong><span class=\"fontstyle0\">, below).<br /></span></p>\n<p><span class=\"fontstyle0\">O</span><span class=\"fontstyle0\">ther characters can&rsquo;t activate the inventor&rsquo;s creations. They might not understand the strange mechanisms required to make it work, the device might not be &ldquo;calibrated&rdquo; or portioned for other users, or it might just &ldquo;fritz out&rdquo; for anyone but the creator. While this may seem a bit strange narratively, the &ldquo;magic&rdquo;&mdash;and the Power Points&mdash;come from the inventor so he must be the one to activate it.<br /></span></p>\n<p><span class=\"fontstyle0\">Creating devices for others is possible&mdash;it just requires an </span><span class=\"fontstyle2\"><strong>Arcane Device </strong></span><span class=\"fontstyle0\">and the </span><strong><span class=\"fontstyle2\">@Compendium[swade-core-rules.swade-edges.神器师]{神器师} </span></strong><span class=\"fontstyle0\">Edge .</span></p>\n<p><span class=\"fontstyle0\">The inventor can </span><span class=\"fontstyle2\">use </span><span class=\"fontstyle0\">his devices on others, of course, including administering drinks from his magical elixirs or giving them injections of some miraculous super serum he&rsquo;s created. If Dr. Gabriel administers his elixir, for example, he rolls to activate the power normally. If he </span><span class=\"fontstyle2\">gives </span><span class=\"fontstyle0\">someone the bottle to use later, they&rsquo;ll find it&rsquo;s lost its potency.<br /></span></p>\n<p><span class=\"fontstyle3\"><strong>Jury Rig</strong>: </span><span class=\"fontstyle0\">Weird scientists must usually activate their powers through their assigned device, but they can improvise other ways if needed at a -2 penalty. This requires a decent rationale relative to the setting and the GM&rsquo;s permission.</span></p>\n<p>&nbsp;</p>\n<h2><span class=\"fontstyle0\">Example</span></h2>\n<p><span class=\"fontstyle0\"><span class=\"fontstyle2\">Gabe is captured by evil aliens and all his equipment is taken. He&rsquo;s placed in a holding cell and decides he&rsquo;ll use the overhead lights and whatever the aliens use for electricity to create a makeshift </span><em><span class=\"fontstyle3\">@Compendium[swade-core-rules.swade-powers.爆发]{爆发}</span></em><span class=\"fontstyle2\">. The GM agrees this will work, but only once since it will destroy the lights and short out the cell&rsquo;s energy in the process.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /></span></p>\n</div>",
-			"requirements": "Novice"
+			"description": "<div class=\"swade-core\">\n<ul>\n<li>Arcane Skill: @Compendium[swade-core-rules.swade-skills.奇异科学] (聪慧)</li>\n<li>Starting @Compendium[swade-core-rules.swade-rules.奇术]{奇术}: 2</li>\n<li>@Compendium[swade-core-rules.swade-rules.奥法背景]{获得奇术点}: 15</li>\n</ul>\n<p><span class=\"fontstyle0\">Weird scientists use strange and powerful inventions beyond the normal technological level of the setting. Such creations might be possible due to super fuels, alien discoveries, or the raw intellect of rare super-geniuses who push the boundaries of science.<br /></span></p>\n<p><span class=\"fontstyle0\">A weird scientist&rsquo;s </span><strong><span class=\"fontstyle2\">@Compendium[swade-core-rules.swade-rules.特效]{特效}</span></strong><span class=\"fontstyle0\">&nbsp;must always include the item they&rsquo;re associated with. The </span><span class=\"fontstyle3\"><em>@Compendium[swade-core-rules.swade-powers.爆裂]{爆裂} </em></span><span class=\"fontstyle0\">power might manifest through a magical flamethrower in <em>Deadlands: Weird West</em></span><span class=\"fontstyle0\"><em>&nbsp;</em>, for instance, while &ldquo;Dr. Gabriel&rsquo;s Wondrous Restorative Elixir!&rdquo; is a </span><em><span class=\"fontstyle3\">@Compendium[swade-core-rules.swade-powers.医疗]{治疗} </span></em><span class=\"fontstyle0\">potion.<br /></span></p>\n<p><span class=\"fontstyle0\">Weird scientists must have their devices at hand to activate their powers (but see<strong> </strong></span><strong><span class=\"fontstyle2\">Jury Rig</span></strong><span class=\"fontstyle0\">, below).<br /></span></p>\n<p><span class=\"fontstyle0\">O</span><span class=\"fontstyle0\">ther characters can&rsquo;t activate the inventor&rsquo;s creations. They might not understand the strange mechanisms required to make it work, the device might not be &ldquo;calibrated&rdquo; or portioned for other users, or it might just &ldquo;fritz out&rdquo; for anyone but the creator. While this may seem a bit strange narratively, the &ldquo;magic&rdquo;&mdash;and the Power Points&mdash;come from the inventor so he must be the one to activate it.<br /></span></p>\n<p><span class=\"fontstyle0\">Creating devices for others is possible&mdash;it just requires an </span><span class=\"fontstyle2\"><strong>Arcane Device </strong></span><span class=\"fontstyle0\">and the </span><strong><span class=\"fontstyle2\">@Compendium[swade-core-rules.swade-edges.神器师]{神器师} </span></strong><span class=\"fontstyle0\">Edge .</span></p>\n<p><span class=\"fontstyle0\">The inventor can </span><span class=\"fontstyle2\">use </span><span class=\"fontstyle0\">his devices on others, of course, including administering drinks from his magical elixirs or giving them injections of some miraculous super serum he&rsquo;s created. If Dr. Gabriel administers his elixir, for example, he rolls to activate the power normally. If he </span><span class=\"fontstyle2\">gives </span><span class=\"fontstyle0\">someone the bottle to use later, they&rsquo;ll find it&rsquo;s lost its potency.<br /></span></p>\n<p><span class=\"fontstyle3\"><strong>Jury Rig</strong>: </span><span class=\"fontstyle0\">Weird scientists must usually activate their powers through their assigned device, but they can improvise other ways if needed at a -2 penalty. This requires a decent rationale relative to the setting and the GM&rsquo;s permission.</span></p>\n<p>&nbsp;</p>\n<h2><span class=\"fontstyle0\">Example</span></h2>\n<p><span class=\"fontstyle0\"><span class=\"fontstyle2\">Gabe is captured by evil aliens and all his equipment is taken. He&rsquo;s placed in a holding cell and decides he&rsquo;ll use the overhead lights and whatever the aliens use for electricity to create a makeshift </span><em><span class=\"fontstyle3\">@Compendium[swade-core-rules.swade-powers.爆发]{爆发}</span></em><span class=\"fontstyle2\">. The GM agrees this will work, but only once since it will destroy the lights and short out the cell&rsquo;s energy in the process.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /></span></p>\n</div>",
+			"requirements": "入门"
 		},
 		"Arcane Resistance": {
 			"name": "奥法抗性",
 			"description": "<div class=\"swade-core\"><p><span class=\"fontstyle0\">Magic and the supernatural hold little sway with this individual. Whether by nature, heritage, or training he&rsquo;s particularly resistant to magic, psionics, weird science, and other supernatural energies. </span></p>\n<p><span class=\"fontstyle0\">Arcane skills targeting the hero suffer a <strong>-2</strong> penalty (even if cast by allies!) and magical damage is reduced by<strong> 2</strong> as well.</span></p></div>",
-			"requirements": "Novice, Spirit d8+"
+			"requirements": "入门, 心魂d8+"
 		},
 		"Aristocrat": {
 			"name": "上流人士",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">This individual was born into privilege or came into it later in life. She may or may not have money (the @Compendium[swade-core-rules.swade-edges.富裕]{富裕} or @Compendium[swade-core-rules.swade-edges.殷富]{殷富} Edge), but she still walks in the elite social circles of the setting.</span></p>\n<p><span class=\"fontstyle0\">Aristocrats add +2 to @Compendium[swade-core-rules.swade-skills.交涉]{交涉} when </span><strong><span class=\"fontstyle3\">@Compendium[swade-core-rules.swade-rules.打点关系]{打点关系} </span></strong><span class=\"fontstyle0\">with the local elite, captains of industry, nobles, or other aristocrats. They also add +2 to @Compendium[swade-core-rules.swade-skills.通用知识]{通用知识} rolls made to know the etiquette of the upper class, recognize family trees or heraldry, or recall gossip concerning others of their station</span></p>\n</div>",
-			"requirements": "Novice"
+			"requirements": "入门"
 		},
 		"Artificer": {
 			"name": "神器师",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Those who tangle with supernatural forces sometimes find ways to imbue powers into items. They may turn an ordinary blade into a magic sword, grant powerful potions to their friends, or even bless holy relics with divine grace.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" />Artificers can create <strong>@Compendium[swade-core-rules.swade-rules.奥法装置]{奥法装置}</strong> and give them to their allies.</p>\n</div>",
-			"requirements": "Seasoned, Arcane Background (Any)"
+			"requirements": "行家, 奥法背景 (任意)"
 		},
 		"Assassin": {
 			"name": "刺客",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Assassins are trained killers who know how to kill even the toughest foes. They add +2 to damage rolls when their foe is @Compendium[swade-core-rules.swade-rules.分神与脆弱]{脆弱} or they have @Compendium[swade-core-rules.swade-rules.奇袭]{奇袭}</span></p>\n</div>",
-			"requirements": "Novice, Agility d8+, Fighting d6+, Stealth d8+"
+			"requirements": "入门, 灵巧d8+, 格斗d6+, 潜行d8+"
 		},
 		"Attractive": {
 			"name": "魅力惊人",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">It&rsquo;s no secret people are more willing to help those they find physically attractive. Your character adds +1 to @Compendium[swade-core-rules.swade-skills.表演]{表演} and @Compendium[swade-core-rules.swade-skills.交涉]{交涉} rolls</span>&nbsp;if the target is attracted to his general type (gender, sex, species, etc.).</p>\n</div>",
-			"requirements": "Novice, Vigor d6+"
+			"requirements": "入门, 活力d6+"
 		},
 		"Beast Bond": {
 			"name": "野兽联结",
 			"description": "<div class=\"swade-core\">\n<p>Some individuals have an extra&shy;ordinary bond with their animal companions. These characters may spend their own @Compendium[swade-core-rules.swade-rules.助力点]{助力点} for any animals under their control, including mounts, pets, familiars, and so on.</p>\n<p>&nbsp;</p>\n</div>",
-			"requirements": "Novice"
+			"requirements": "入门"
 		},
 		"Beast Master": {
 			"name": "野兽大师",
 			"description": "<div class=\"swade-core\">\n<p>Animals take to your hero quickly and easily. They won&rsquo;t attack him unless he attacks them first or they&rsquo;re enraged for some reason.</p>\n<p>The Beast Master&rsquo;s &ldquo;animal magnetism&rdquo; is so great he&rsquo;s attracted a loyal animal of some sort as well. This is typically an animal of @Compendium[swade-core-rules.swade-rules.体型与尺寸{体型} 0 or smaller, subject to the GM&rsquo;s approval.&nbsp;</p>\n<p>The beast is an @Compendium[swade-core-rules.swade-rules.不羁角色与龙套们]{龙套} and doesn&rsquo;t @Compendium[swade-core-rules.swade-rules.升级]{升级} in Rank or abilities. If a pet is dismissed or killed, the hero gains a replacement in [[/r 1d4]] days.</p>\n<p><strong>More Powerful Companions</strong>: Beast Master may be taken more than once. Choose one of the effects below each time it&rsquo;s chosen:</p>\n<ul>\n<li>Gain an additional pet.</li>\n<li>Increase one of the pet&rsquo;s @Compendium[swade-core-rules.swade-rules.特性]{特性} one die type (only one Trait per pet).</li>\n<li>Increase the maximum Size pet you may have by +1, to a maximum of 3.</li>\n<li>Make one pet a @Compendium[swade-core-rules.swade-rules.不羁角色与龙套们]{不羁角色}. (The hero must be of @Compendium[swade-core-rules.swade-rules.升级]{英杰位阶}).</li>\n</ul>\n</div>",
-			"requirements": "Novice, Spirit d8+"
+			"requirements": "入门, 心魂d8+"
 		},
 		"Berserk": {
 			"name": "狂化",
-			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Berserkers become wild and nearly uncontrollable when the &ldquo;red rage&rdquo; takes them, but<br />they are deadly killing machines as well! </span></p>\n<p><span class=\"fontstyle0\">Immediately after suffering a @Compendium[swade-core-rules.swade-rules.伤害效果]{损伤或动摇} result (from physical damage only), your hero must make a @Compendium[swade-core-rules.swade-rules.特性]{聪慧} roll or go Berserk. She </span><span class=\"fontstyle2\">can </span><span class=\"fontstyle0\">voluntarily fail this check if she likes.<br /></span></p>\n<p><span class=\"fontstyle0\">Going Berserk has the following effects:</span></p>\n<ul>\n<li>FURY:&nbsp; <span class=\"fontstyle0\">The character&rsquo;s Strength increases a die type and every melee attack must be a </span><strong><span class=\"fontstyle2\">@Compendium[swade-core-rules.swade-rules.不羁攻击]{不羁攻击}</span></strong><span class=\"fontstyle0\">. She cannot use any skills that require wit or concentration (GM&rsquo;s call). She may scream out threats and use @Compendium[swade-core-rules.swade-skills.威吓]{威吓}, for example.</span> &nbsp;</li>\n<li>ENRAGED:&nbsp; <span class=\"fontstyle0\">Adrenaline and rage fuel the berserker&rsquo;s muscles, adding +2 to @Compendium[swade-core-rules.swade-rules.角色]{坚韧}. She ignores one level of Wound penalties (this stacks with any other abilities that reduce Wound penalties).</span> &nbsp;</li>\n<li>RECKLESS ABANDON:&nbsp; <span class=\"fontstyle0\">Anytime a berserker rolls a @Compendium[swade-core-rules.swade-rules.特性投骰]{大失败} on a @Compendium[swade-core-rules.swade-skills.格斗]{格斗} check, she hits a random target within range of her attack (</span><span class=\"fontstyle2\">not </span><span class=\"fontstyle0\">the intended target), friend or foe. If there are no applicable targets, the blow simply misses, smashes nearby objects, etc.</span></li>\n</ul>\n<p><span class=\"fontstyle0\">After five consecutive rounds of berserk fury, the hero takes a level of @Compendium[swade-core-rules.swade-rules.疲乏]{疲劳}. At ten rounds, she takes another level of Fatigue and the rage ends. She may also </span><span class=\"fontstyle2\">choose </span><span class=\"fontstyle0\">to end her rage at any time by making a @Compendium[swade-core-rules.swade-rules.特性]{聪慧} -2 roll (as a free action; possibly avoiding Fatigue if she manages to end her rage before it&rsquo;s incurred!). Start the count anew if she goes berserk again, even in the same battle.</span></p>\n</div>",
-			"requirements": "Novice"
+			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Berserkers become wild and nearly uncontrollable when the &ldquo;red rage&rdquo; takes them, but<br />they are deadly killing machines as well! </span></p>\n<p><span class=\"fontstyle0\">Immediately after suffering a @Compendium[swade-core-rules.swade-rules.伤害效果]{损伤或动摇} result (from physical damage only), your hero must make a @Compendium[swade-core-rules.swade-rules.特性]{聪慧} roll or go Berserk. She </span><span class=\"fontstyle2\">can </span><span class=\"fontstyle0\">voluntarily fail this check if she likes.<br /></span></p>\n<p><span class=\"fontstyle0\">Going Berserk has the following effects:</span></p>\n<ul>\n<li>FURY:&nbsp; <span class=\"fontstyle0\">The character&rsquo;s 力量 increases a die type and every melee attack must be a </span><strong><span class=\"fontstyle2\">@Compendium[swade-core-rules.swade-rules.不羁攻击]{不羁攻击}</span></strong><span class=\"fontstyle0\">. She cannot use any skills that require wit or concentration (GM&rsquo;s call). She may scream out threats and use @Compendium[swade-core-rules.swade-skills.威吓]{威吓}, for example.</span> &nbsp;</li>\n<li>ENRAGED:&nbsp; <span class=\"fontstyle0\">Adrenaline and rage fuel the berserker&rsquo;s muscles, adding +2 to @Compendium[swade-core-rules.swade-rules.角色]{坚韧}. She ignores one level of Wound penalties (this stacks with any other abilities that reduce Wound penalties).</span> &nbsp;</li>\n<li>RECKLESS ABANDON:&nbsp; <span class=\"fontstyle0\">Anytime a berserker rolls a @Compendium[swade-core-rules.swade-rules.特性投骰]{大失败} on a @Compendium[swade-core-rules.swade-skills.格斗]{格斗} check, she hits a random target within range of her attack (</span><span class=\"fontstyle2\">not </span><span class=\"fontstyle0\">the intended target), friend or foe. If there are no applicable targets, the blow simply misses, smashes nearby objects, etc.</span></li>\n</ul>\n<p><span class=\"fontstyle0\">After five consecutive rounds of berserk fury, the hero takes a level of @Compendium[swade-core-rules.swade-rules.疲乏]{疲劳}. At ten rounds, she takes another level of Fatigue and the rage ends. She may also </span><span class=\"fontstyle2\">choose </span><span class=\"fontstyle0\">to end her rage at any time by making a @Compendium[swade-core-rules.swade-rules.特性]{聪慧} -2 roll (as a free action; possibly avoiding Fatigue if she manages to end her rage before it&rsquo;s incurred!). Start the count anew if she goes berserk again, even in the same battle.</span></p>\n</div>",
+			"requirements": "入门"
 		},
 		"Block": {
 			"name": "招架",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Through hard-fought experience your hero has learned to defend himself in vicious hand-to-hand combat. His @Compendium[swade-core-rules.swade-rules.角色]{格挡} increases by +1 and any @Compendium[swade-core-rules.swade-rules.围攻]{围攻} bonus against him is reduced by one</span></p>\n</div>",
-			"requirements": "Seasoned, Fighting d8+"
+			"requirements": "行家, 格斗d8+"
 		},
 		"Bolster": {
 			"name": "加把劲",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Belittling or humiliating an enemy can also boost your ally&rsquo;s spirits. When this character successfully @Compendium[swade-core-rules.swade-rules.考验]{考验}</span><span class=\"fontstyle0\">&nbsp;</span><span class=\"fontstyle0\">a foe, he may also remove the <strong>@Compendium[swade-core-rules.swade-rules.分神与脆弱]{分神或脆弱}</strong></span><strong><span class=\"fontstyle2\">&nbsp;</span></strong><span class=\"fontstyle0\">state from one of his allies.</span></p>\n</div>",
-			"requirements": "Novice, Spirit d8+"
+			"requirements": "入门, 心魂d8+"
 		},
 		"Brave": {
 			"name": "勇敢",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Those with this Edge have learned to master their fear, or have dealt with so many horrors they&rsquo;ve become jaded. These valiant explorers add +2 to @Compendium[swade-core-rules.swade-rules.恐惧]{恐惧} checks and subtract 2 from </span><strong><span class=\"fontstyle2\">@Compendium[swade-core-rules.swade-tables.Fear Table]{恐惧表} </span></strong><span class=\"fontstyle0\">results.</span></p>\n</div>",
-			"requirements": "Novice, Spirit d6+"
+			"requirements": "入门, 心魂d6+"
 		},
 		"Brawler": {
 			"name": "搏击手",
-			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">His fists hit like hammers or his talons cut like scythes. His body feels like it&rsquo;s made of stone. Brawlers increase their @Compendium[swade-core-rules.swade-rules.角色]{坚韧} by 1 and roll @Compendium[swade-core-rules.swade-rules.特性]{力量} +d4 when hitting with their fists or feet (or claws if they have them). If they already have a damage die from&nbsp;</span><span class=\"fontstyle0\"><strong>@Compendium[swade-core-rules.swade-rules.特殊能力 (爪抓)]{爪抓}</strong>, the @Compendium[swade-core-rules.swade-edges.武术家]{武术家} Edge, etc., increase the damage die type by one instead. </span></p>\n<p><span class=\"fontstyle0\">The Brawler Edge doesn&rsquo;t make the character&rsquo;s fists </span><strong><span class=\"fontstyle2\">@Compendium[swade-core-rules.swade-rules.天生武器]{天生武器}</span></strong></p>\n</div>",
-			"requirements": "Novice, Strength d8+, Vigor d8+"
+			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">His fists hit like hammers or his talons cut like scythes. His body feels like it&rsquo;s made of stone. Brawlers increase their @Compendium[swade-core-rules.swade-rules.角色]{坚韧} by 1 and roll @Compendium[swade-core-rules.swade-rules.特性]{力量} +d4 when hitting with their fists or feet (or claws if they have them). If they already have a damage die from&nbsp;</span><span class=\"fontstyle0\"><strong>@Compendium[swade-core-rules.swade-rules.特殊能力 (爪抓)]{爪抓}</strong>, the @Compendium[swade-core-rules.swade-edges.武术家]{武术家} Edge, etc., increase the damage die type by one instead. </span></p>\n<p><span class=\"fontstyle0\">The 搏击手 Edge doesn&rsquo;t make the character&rsquo;s fists </span><strong><span class=\"fontstyle2\">@Compendium[swade-core-rules.swade-rules.天生武器]{天生武器}</span></strong></p>\n</div>",
+			"requirements": "入门, 力量d8+, 活力d8+"
 		},
 		"Brawny": {
 			"name": "健壮",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Your bruiser is very large or very fit. Her @Compendium[swade-core-rules.swade-rules.体型与尺寸{体型} increases by +1 (and therefore @Compendium[swade-core-rules.swade-rules.角色]{坚韧} by 1) and she treats her @Compendium[swade-core-rules.swade-rules.特性]{力量} as one die type higher when determining <strong>@Compendium[swade-core-rules.swade-rules.装备注释]{负载}</strong></span><strong><span class=\"fontstyle2\">&nbsp;</span></strong><span class=\"fontstyle0\">and </span><strong><span class=\"fontstyle2\">@Compendium[swade-core-rules.swade-rules.最低力量]{最低力量} </span></strong><span class=\"fontstyle0\">to use armor, weapons, and equipment without a penalty.</span></p>\n<p><span class=\"fontstyle0\"><br />Brawny can&rsquo;t increase a character&rsquo;s Size above +3.</span></p>\n</div>",
-			"requirements": "Novice, Strength d6+, Vigor d6+"
+			"requirements": "入门, 力量d6+, 活力d6+"
 		},
 		"Bruiser": {
 			"name": "搏击师",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">The fighter increases his @Compendium[swade-core-rules.swade-rules.角色]{坚韧} an additional +1, and the damage caused with his fists or claws another die type.</span></p>\n</div>",
-			"requirements": "Seasoned, Brawler"
+			"requirements": "行家, 搏击手"
 		},
 		"Brute": {
 			"name": "蛮勇",
-			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Brutes focus on core strength and fitness over coordination and flexibility. They treat @Compendium[swade-core-rules.swade-skills.运动]{运动} as linked to @Compendium[swade-core-rules.swade-rules.特性]{力量} instead of @Compendium[swade-core-rules.swade-rules.特性]{灵巧} for purposes of @Compendium[swade-core-rules.swade-rules.升级]{升级}. The character may also resist Athletics @Compendium[swade-core-rules.swade-rules.考验]{考验} with Strength if she chooses. </span></p>\n<p><span class=\"fontstyle0\">Finally, Brutes increase the&nbsp;</span>@Compendium[swade-core-rules.swade-rules.射程]{近距} of any thrown item by +1. Double that for the adjusted Medium Range, and double again for Long Range. If a thrown item&rsquo;s Range is 3/6/12, for example, a Brute&rsquo;s Range is 4/8/16.</p>\n</div>",
-			"requirements": "Novice, Strength d6+, Vigor d6+"
+			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Brutes focus on core strength and fitness over coordination and flexibility. They treat @Compendium[swade-core-rules.swade-skills.运动]{运动} as linked to @Compendium[swade-core-rules.swade-rules.特性]{力量} instead of @Compendium[swade-core-rules.swade-rules.特性]{灵巧} for purposes of @Compendium[swade-core-rules.swade-rules.升级]{升级}. The character may also resist 运动 @Compendium[swade-core-rules.swade-rules.考验]{考验} with 力量 if she chooses. </span></p>\n<p><span class=\"fontstyle0\">Finally, Brutes increase the&nbsp;</span>@Compendium[swade-core-rules.swade-rules.射程]{近距} of any thrown item by +1. Double that for the adjusted Medium Range, and double again for Long Range. If a thrown item&rsquo;s Range is 3/6/12, for example, a Brute&rsquo;s Range is 4/8/16.</p>\n</div>",
+			"requirements": "入门, 力量d6+, 活力d6+"
 		},
 		"Calculating": {
 			"name": "谋定后动",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">A few seconds to study your foe&rsquo;s actions gives your hero a major advantage. When his @Compendium[swade-core-rules.swade-rules.行动卡 (先攻)]{行动卡} is a Five or less, he ignores up to 2 points of penalties on one action that turn, which can include @Compendium[swade-core-rules.swade-rules.多重动作]{多重动作}, cover, @Compendium[swade-core-rules.swade-rules.射程]{射程}, and even @Compendium[swade-core-rules.swade-rules.伤害效果]{损伤} penalties</span></p>\n</div>",
-			"requirements": "Novice, Smarts d8+"
+			"requirements": "入门, 聪慧d8+"
 		},
 		"Champion": {
 			"name": "勇士",
 			"description": "<div class=\"swade-core\">\n<p>Champions are holy (or unholy) men and women chosen to fight for a particular deity or religion. Most are pious souls ready and willing to lay down their lives for a greater cause, but some may have been born into the role and follow their path with some reluctance.</p>\n<p>Champions fight the forces of darkness (or good), adding +2 damage when attacking supernaturally evil (or good if they&rsquo;re evil) creatures. The bonus applies to @Compendium[swade-core-rules.swade-rules.范围效果攻击]{范围效果伤害}, @Compendium[swade-core-rules.swade-rules.攻击]{远程攻击}, @Compendium[swade-core-rules.swade-rules.奇术]{奇术}, etc.</p>\n<p>The GM must decide which foes this bonus applies to, but generally it&rsquo;s any evil (or good!) creature born of magic or with any supernatural abilities.</p>\n</div>",
-			"requirements": "Novice, Spirit d8+, Fighting d6+"
+			"requirements": "入门, 心魂d8+, 格斗d6+"
 		},
 		"Channeling": {
 			"name": "导能",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">When the character gets a @Compendium[swade-core-rules.swade-rules.特性投骰]{优良}on her arcane skill roll (or roll to activate or use an @Compendium[swade-core-rules.swade-rules.奥法装置]{奥法装置}), she reduces its @Compendium[swade-core-rules.swade-rules.奥法背景]{奇术点}</span><span class=\"fontstyle0\">&nbsp;cost by 1. This </span><span class=\"fontstyle2\">can </span><span class=\"fontstyle0\">take it to 0</span></p>\n</div>",
-			"requirements": "Seasoned, Arcane Background (any)"
+			"requirements": "行家, 奥法背景 (任意)"
 		},
 		"Charismatic": {
 			"name": "亲和力",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Your hero is likable for some reason. She may be trustworthy or kind, or might just exude confidence and goodwill. You get one free reroll on @Compendium[swade-core-rules.swade-skills.交涉]{交涉} rolls.</span></p>\n</div>",
-			"requirements": "Novice, Spirit d8+"
+			"requirements": "入门, 心魂d8+"
 		},
 		"Chi": {
 			"name": "气",
 			"description": "<div class=\"swade-core\">\n<p>Your hero&rsquo;s martial arts training goes beyond the norm and into the realm of the mystical. At the start of each combat encounter, she gains a &ldquo;Chi Point&rdquo; that can be spent to:</p>\n<ul>\n<li>Reroll one of her failed attacks (even a Critical Failure).</li>\n<li>Make an enemy discard an attack against her, then reroll it from scratch.</li>\n<li>Add +d6 damage to a successful @Compendium[swade-core-rules.swade-skills.格斗]{格斗} attack made with her hands, feet, claws, or other @Compendium[swade-core-rules.swade-rules.天生武器]{天生武器} (this may @Compendium[swade-core-rules.swade-rules.特性投骰]{王牌机师}).</li>\n</ul>\n<p>Unspent Chi is lost at the end of the combat encounter.</p>\n</div>",
-			"requirements": "Veteran, Martial Warrior"
+			"requirements": "老练, 武斗家"
 		},
 		"Combat Acrobat": {
 			"name": "战斗特技",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">The tumbler leaps quickly about so that attacks against her are made at -1 as long as she&rsquo;s aware of the attack, can reasonably move about, and isn&rsquo;t suffering any @Compendium[swade-core-rules.swade-rules.装备注释]{负载} or @Compendium[swade-core-rules.swade-rules.最低力量]{最低力量} penalties.</span></p>\n</div>",
-			"requirements": "Seasoned, Acrobat"
+			"requirements": "行家, 特技员"
 		},
 		"Combat Reflexes": {
 			"name": "战斗反应",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Your warrior recovers quickly from shock and trauma. He adds +2 to his rolls when attempting to recover from being @Compendium[swade-core-rules.swade-rules.伤害效果]{动摇} or @Compendium[swade-core-rules.swade-rules.震慑]{震慑}</span></p>\n</div>",
-			"requirements": "Seasoned"
+			"requirements": "行家"
 		},
 		"Command": {
 			"name": "指挥",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Command is the basic ability to give clear instructions and support to allies in the thick of battle. Extras in&nbsp;</span>@Compendium[swade-core-rules.swade-rules.专长]{指挥射程} add +1 to their @Compendium[swade-core-rules.swade-rules.特性]{心魂} rolls when attempting to recover from being @Compendium[swade-core-rules.swade-rules.伤害效果]{动摇} and +1 to @Compendium[swade-core-rules.swade-rules.特性]{活力} rolls when attempting to recover from being @Compendium[swade-core-rules.swade-rules.震慑]{震慑}.</p>\n</div>",
-			"requirements": "Novice, Smarts d6+"
+			"requirements": "入门, 聪慧d6+"
 		},
 		"Command Presence": {
 			"name": "指挥风度",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">A booming voice, effective commands, natural charisma, or simple training results in a much more effective combat element. A hero with this Edge has a @Compendium[swade-core-rules.swade-rules.专长]{指挥射程} of 10&Prime; (20 yards).</span></p>\n</div>",
-			"requirements": "Seasoned, Command"
+			"requirements": "行家, 指挥"
 		},
 		"Common Bond": {
 			"name": "共同联结",
 			"description": "<div class=\"swade-core\"><p><span class=\"fontstyle0\">Selfless heroes and determined leaders know their greatest strength often comes from their companions, and are willing to give some of their own fortune, fate, or luck to support them.<br />A character with this Edge may freely give her @Compendium[swade-core-rules.swade-rules.助力点]{助力点} to any other character she can communicate with. The player should explan what form this takes, from a quick shout of encouragement to a welcome pat on the back</span> </p></div>",
-			"requirements": "Wild Card, Novice, Spirit d8+"
+			"requirements": "不羁角色, 入门, 心魂d8+"
 		},
 		"Concentration": {
 			"name": "聚精会神",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Through training and focus, the caster is extremely efficient in channeling arcane forces. The base @Compendium[swade-core-rules.swade-rules.奇术]{奇术} of any non-Instant power is doubled. This includes maintaining powers as well.</span></p>\n</div>",
-			"requirements": "Seasoned, Arcane Background (Any)"
+			"requirements": "行家, 奥法背景 (任意)"
 		},
 		"Connections": {
 			"name": "人脉",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Your heroine is connected to people or organizations who can help her when the chips are down. It might be the mob, the Feds, a union, or even other adventurers.<br />Connections may be taken more than once, selecting a new faction or contact each time. Once per session, and assuming she can get in touch with them, the heroine can call on her friends for a favor.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><span class=\"fontstyle0\">The favor depends on the nature of the contact (GM&rsquo;s call), but might include a loan, gear, a few allied fighters, transportation, information, or even a professional with critical skills the party doesn&rsquo;t have, like a hacker or scholar.</span></p>\n</div>",
-			"requirements": "Novice"
+			"requirements": "入门"
 		},
 		"Counterattack": {
 			"name": "反击",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Fighters with this Edge deal instant punishment for an enemy&rsquo;s mistakes. Once per round (if not @Compendium[swade-core-rules.swade-rules.伤害效果]{动摇} or @Compendium[swade-core-rules.swade-rules.震慑]{震慑}</span><span class=\"fontstyle0\">), the character receives a&nbsp;</span><span class=\"fontstyle2\"><strong>@Compendium[swade-core-rules.swade-rules.自由攻击]{自由攻击} </strong></span><span class=\"fontstyle0\">&nbsp;against one failed @Compendium[swade-core-rules.swade-skills.格斗]{格斗} attack against him. The counterattack takes place immediately (before other hits against the hero on the same @Compendium[swade-core-rules.swade-rules.行动卡 (先攻)]{行动卡}, if any)</span></p>\n</div>",
-			"requirements": "Seasoned, Fighting d8+"
+			"requirements": "行家, 格斗d8+"
 		},
 		"Danger Sense": {
 			"name": "危险感知",
-			"description": "<div class=\"swade-core\">\n<p>Your hero can sense when something bad is about to happen. When rolling for <strong>@Compendium[swade-core-rules.swade-rules.突袭]{突袭}</strong>, he adds +2 to his @Compendium[swade-core-rules.swade-skills.察觉]{察觉} roll to act in the first round. With a raise, he starts the encounter on @Compendium[swade-core-rules.swade-rules.待机]{待机}.</p>\n<p>In other situations not covered by the Surprise rules (a sniper shot, pit trap, poisoned drink, etc.), Danger Sense gives him a @Compendium[swade-core-rules.swade-skills.察觉]{察觉} roll at &minus;2 (or +2 if a Notice roll is usually allowed) to detect the hazard and take appropriate action. If this was an attack and the hero makes his Notice roll, the foe doesn&rsquo;t get @Compendium[swade-core-rules.swade-rules.奇袭]{奇袭} against him.</p>\n</div>",
-			"requirements": "Novice"
+			"description": "<div class=\"swade-core\">\n<p>Your hero can sense when something bad is about to happen. When rolling for <strong>@Compendium[swade-core-rules.swade-rules.突袭]{突袭}</strong>, he adds +2 to his @Compendium[swade-core-rules.swade-skills.察觉]{察觉} roll to act in the first round. With a raise, he starts the encounter on @Compendium[swade-core-rules.swade-rules.待机]{待机}.</p>\n<p>In other situations not covered by the Surprise rules (a sniper shot, pit trap, poisoned drink, etc.), Danger Sense gives him a @Compendium[swade-core-rules.swade-skills.察觉]{察觉} roll at &minus;2 (or +2 if a 察觉 roll is usually allowed) to detect the hazard and take appropriate action. If this was an attack and the hero makes his 察觉 roll, the foe doesn&rsquo;t get @Compendium[swade-core-rules.swade-rules.奇袭]{奇袭} against him.</p>\n</div>",
+			"requirements": "入门"
 		},
 		"Dead Shot": {
 			"name": "死亡一射",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">When your @Compendium[swade-core-rules.swade-rules.行动卡 (先攻)]{行动卡} is a Joker, double the total damage of your first successful @Compendium[swade-core-rules.swade-skills.运动]{运动} (throwing) or @Compendium[swade-core-rules.swade-skills.射击]{射击} roll this round.</span></p>\n</div>",
-			"requirements": "Wild Card, Novice, Athletics or Shooting d8+"
+			"requirements": "不羁角色, 入门, 运动 or 射击d8+"
 		},
 		"Dodge": {
 			"name": "闪避",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">The hero can anticipate attacks or move erratically under fire. Unless the victim of a surprise attack and taken completely unaware, Dodge subtracts 2 from all @Compendium[swade-core-rules.swade-rules.攻击]{远程攻击} made against the character. Dodge does </span><span class=\"fontstyle2\">not </span><span class=\"fontstyle0\">stack with actual @Compendium[swade-core-rules.swade-rules.掩蔽与障碍]{掩蔽}, however</span></p>\n</div>",
-			"requirements": "Seasoned, Agility d8+"
+			"requirements": "行家, 灵巧d8+"
 		},
 		"Double Tap": {
 			"name": "双发快射",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Experienced firearms experts fire two shots in rapid succession without spoiling their aim. </span></p>\n<p><span class=\"fontstyle0\">Double Tap can only be used with weapons that have a @Compendium[swade-core-rules.swade-rules.射速]{射速} of 1 and can fire two shots without needing to manually @Compendium[swade-core-rules.swade-rules.装填]{装填}. It adds +1 to hit and damage at the cost of one extra bullet. This is per action, so a shooter can Double Tap more than once if she performs a @Compendium[swade-core-rules.swade-rules.多重动作]{多重动作}.</span></p>\n<p><span class=\"fontstyle0\">Double Tap </span><span class=\"fontstyle2\">cannot </span><span class=\"fontstyle0\">be combined with @Compendium[swade-core-rules.swade-edges.速射]{速射}.</span></p>\n<p><span class=\"fontstyle0\">If used with a weapon capable of&nbsp;</span><span class=\"fontstyle0\"><strong>@Compendium[swade-core-rules.swade-rules.三连发]{三连发}</strong>, it adds +2 to @Compendium[swade-core-rules.swade-skills.射击]{射击} and damage instead of +1 and expends </span><span class=\"fontstyle2\">six </span><span class=\"fontstyle0\">bullets.</span></p>\n</div>",
-			"requirements": "Seasoned, Shooting d6+"
+			"requirements": "行家, 射击d6+"
 		},
 		"Elan": {
 			"name": "热忱",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Elan means energy or spirit. Those who have it rise to the occasion when the going gets toughest. When you spend a @Compendium[swade-core-rules.swade-rules.助力点]{助力点} to reroll a @Compendium[swade-core-rules.swade-rules.特性]{特性}, add +2 to the total. The bonus applies only when rerolling. It doesn&rsquo;t apply to @Compendium[swade-core-rules.swade-rules.造成伤害]{伤害} rolls (since they&rsquo;re not Trait rolls), nor does it apply to @Compendium[swade-core-rules.swade-rules.化解投骰]{化解投骰} unless you&rsquo;re using </span><em><span class=\"fontstyle2\">another </span></em><span class=\"fontstyle0\">Benny to reroll the @Compendium[swade-core-rules.swade-rules.特性]{活力} check.</span></p>\n</div>",
-			"requirements": "Novice, Spirit d8+"
+			"requirements": "入门, 心魂d8+"
 		},
 		"Expert": {
 			"name": "专家水准",
 			"description": "<div class=\"swade-core\">\n<p>As the @Compendium[swade-core-rules.swade-edges.术业]{专业水准} Edge, increasing the @Compendium[swade-core-rules.swade-rules.特性]{特性} and its limit one additional step.</p>\n</div>",
-			"requirements": "Legendary, Professional in affected Trait"
+			"requirements": "传奇, Professional in affected Trait"
 		},
 		"Extra Effort": {
 			"name": "额外效能",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Some @Compendium[swade-core-rules.swade-edges.奥法背景 (异禀)]{异禀} can dig deep into their souls to significantly boost their powers.</span></p>\n<p><span class=\"fontstyle0\">Extra Effort increases a @Compendium[swade-core-rules.swade-skills.集中]{集中} total after it&rsquo;s rolled by +1 for 1 @Compendium[swade-core-rules.swade-rules.奥法背景]{奇术点}, or +2 for 3 Power Points. It may not be used to improve a @Compendium[swade-core-rules.swade-rules.特性投骰]{大失败}.</span></p>\n</div>",
-			"requirements": "Seasoned, Arcane Background (Gifted), Focus d6+"
+			"requirements": "行家, Arcane Background (Gifted), Focusd6+"
 		},
 		"Extraction": {
 			"name": "脱身",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">When a character withdraws from melee, adjacent attackers get a free @Compendium[swade-core-rules.swade-skills.格斗]{格斗} attack against him (see&nbsp;</span><span class=\"fontstyle0\"><strong>@Compendium[swade-core-rules.swade-rules.撤出近战]{撤出近战}</strong>). This is a very dangerous proposition for most, but not your wily champion.</span></p>\n<p><span class=\"fontstyle0\">When moving away from adjacent foes, one of them (player&rsquo;s choice), doesn&rsquo;t get his free @Compendium[swade-core-rules.swade-skills.格斗]{格斗} attack.</span></p>\n</div>",
-			"requirements": "Novice, Agility d8+"
+			"requirements": "入门, 灵巧d8+"
 		},
 		"Fame": {
 			"name": "小有名气",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Your character is a minor celebrity of some sort. She might be a popular bard known in a particular fiefdom, a minor rock star, or a beloved B-movie actor.</span></p>\n<p><span class=\"fontstyle0\">She makes double the normal fee when performing for pay (see </span><strong><span class=\"fontstyle2\">@Compendium[swade-core-rules.swade-skills.表演]{表演}</span></strong><span class=\"fontstyle0\">). She can also use her celebrity to add +1 to @Compendium[swade-core-rules.swade-skills.交涉]{交涉} rolls if a target is friendly and knows who she is (a @Compendium[swade-core-rules.swade-skills.通用知识]{通用知识} roll modified by how likely the individual is to know the celebrity).<br /></span></p>\n<p><span class=\"fontstyle0\">The downside of @Compendium[swade-core-rules.swade-edges.小有名气]{小有名气} is that the individual is often recognized, others frequently want something from her, she may be followed by fans or admirers, or she may not be able to shirk obligations, performances, or other duties without causing trouble for herself.</span></p>\n</div>",
-			"requirements": "Novice"
+			"requirements": "入门"
 		},
 		"Famous": {
 			"name": "名声大噪",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Your hero is truly famous. She&rsquo;s wellknown in a large circle such as a country, a large industry, or a popular medium (film or television, the music industry). She makes 5 &times; the normal fee when performing and adds +2 to @Compendium[swade-core-rules.swade-skills.交涉]{交涉} rolls when influencing friendly individuals who know who she is.</span></p>\n<p><span class=\"fontstyle0\">The price is higher for the truly @Compendium[swade-core-rules.swade-edges.名声大噪]{名声大噪}, too, with more demands on her time, obligations, rivals, scandals, and an inability to operate in crowds without being recognized.</span></p>\n</div>",
-			"requirements": "Seasoned, Fame"
+			"requirements": "行家, Fame"
 		},
 		"Fast Healer": {
 			"name": "快速痊愈",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Those with this blessing add +2 to @Compendium[swade-core-rules.swade-rules.特性]{活力} rolls for natural healing, and check every three days instead of five (see </span><strong><span class=\"fontstyle2\">@Compendium[swade-core-rules.swade-skills.医疗]{治疗}</span></strong><span class=\"fontstyle0\">).</span></p>\n</div>",
-			"requirements": "Novice, Vigor d8+"
+			"requirements": "入门, 活力d8+"
 		},
 		"Feint": {
 			"name": "虚招",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">When performing a </span><strong><span class=\"fontstyle2\">@Compendium[swade-core-rules.swade-rules.考验]{考验} </span></strong><span class=\"fontstyle0\">with the @Compendium[swade-core-rules.swade-skills.格斗]{格斗} skill, you can choose to make the foe resist with @Compendium[swade-core-rules.swade-rules.特性]{聪慧} instead of @Compendium[swade-core-rules.swade-rules.特性]{灵巧}.</span></p>\n</div>",
-			"requirements": "Novice, Fighting d8+"
+			"requirements": "入门, 格斗d8+"
 		},
 		"Fervor": {
 			"name": "热情洋溢",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">A simple phrase uttered by a great leader can sometimes have momentous results. A commander with this ability can inspire his troops to bloody fervor by yelling a motto, slogan, or other inspirational words. </span></p>\n<p><span class=\"fontstyle0\">@Compendium[swade-core-rules.swade-rules.不羁角色与龙套们]{龙套} in range add +1 to their @Compendium[swade-core-rules.swade-skills.格斗]{格斗} damage rolls</span></p>\n</div>",
-			"requirements": "Veteran, Spirit d8+, Command"
+			"requirements": "老练, 心魂d8+, 指挥"
 		},
 		"Filthy Rich": {
 			"name": "殷富",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">This fortunate individual is very wealthy. He has five times the @Compendium[swade-core-rules.swade-rules.角色]{起始资金} for the setting during character creation and, if appropriate, a yearly income after responsibilities of around $500,000. </span></p>\n<p><span class=\"fontstyle0\">Even wealthier characters may exist, but unless there&rsquo;s a game effect it probably shouldn&rsquo;t matter. This should be worked out with the GM and come with many more assets as well as onerous responsibilities</span></p>\n</div>",
-			"requirements": "Novice, Rich"
+			"requirements": "入门, Rich"
 		},
 		"First Strike": {
 			"name": "先发制人",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Once per round, as long as he&rsquo;s not @Compendium[swade-core-rules.swade-rules.伤害效果]{动摇} or @Compendium[swade-core-rules.swade-rules.震慑]{震慑},</span><span class=\"fontstyle0\"> the hero gets a free @Compendium[swade-core-rules.swade-skills.格斗]{格斗} attack against a foe immediately after he moves into @Compendium[swade-core-rules.swade-rules.触及]{触及}. (See</span><strong><span class=\"fontstyle2\"> @Compendium[swade-core-rules.swade-rules.自由攻击]{自由攻击}</span></strong><span class=\"fontstyle0\">)</span></p>\n</div>",
-			"requirements": "Novice, Agility d8+"
+			"requirements": "入门, 灵巧d8+"
 		},
 		"Fleet-Footed": {
 			"name": "飞毛腿",
-			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">The hero&rsquo;s @Compendium[swade-core-rules.swade-rules.移动]{移速} is increased by +2 and his @Compendium[swade-core-rules.swade-rules.移动]{奔跑骰} increases one step (from d6 to d8, for example)</span></p>\n</div>",
-			"requirements": "Novice, Agility d6+"
+			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">The hero&rsquo;s @Compendium[swade-core-rules.swade-rules.移动]{移速} is increased by +2 and his @Compendium[swade-core-rules.swade-rules.移动]{奔跑骰} increases one step (fromd6 tod8, for example)</span></p>\n</div>",
+			"requirements": "入门, 灵巧d6+"
 		},
 		"Followers": {
 			"name": "追随者",
 			"description": "<div class=\"swade-core\">\n<p>Each time this Edge is chosen, five followers come to fight by the hero&rsquo;s side. If any are lost, others eventually take their place (how long is up to the GM and the circumstances).</p>\n<p>Followers must be cared for and generally want a share of whatever loot, treasure, or other rewards the hero acquires. Otherwise, they are completely dedicated to their task. They won&rsquo;t throw their lives away but are willing to risk them repeatedly in his service.</p>\n<p>Use the <strong>@Compendium[swade-core-rules.swade-bestiary.士兵]{士兵} </strong>profile for the followers. A hero may outfit her allies as she sees fit. Followers <strong>@Compendium[swade-core-rules.swade-rules.升级]{升级} </strong>just like player characters.</p>\n<p>Use the <strong>@Compendium[swade-core-rules.swade-rules.盟友]{盟友} </strong>rules&nbsp; to give them distinctive personal&shy;ities if desired.</p>\n</div>",
-			"requirements": "Wild Card, Legendary"
+			"requirements": "不羁角色, 传奇"
 		},
 		"Free Runner": {
 			"name": "自由跑者",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Your character practices &ldquo;parkour&rdquo; or is just very skilled at running, jumping, swinging, scampering up walls, and over obstacles. </span></p>\n<p><span class=\"fontstyle0\">As long as there are obstacles she can bound on, bounce off, or swing on, she moves at her full @Compendium[swade-core-rules.swade-rules.移动]{移速} on @Compendium[swade-core-rules.swade-rules.移动]{困难地形} when on foot. She also adds +2 to her @Compendium[swade-core-rules.swade-skills.运动]{运动} rolls when climbing and in foot </span><strong><span class=\"fontstyle2\">Chases </span></strong><span class=\"fontstyle0\">(see <strong>@Compendium[swade-core-rules.swade-rules.追逐与载具]{追逐与载具}</strong></span><span class=\"fontstyle0\">).</span></p>\n</div>",
-			"requirements": "Novice, Agility d8+, Athletics d6+"
+			"requirements": "入门, 灵巧d8+, 运动d6+"
 		},
 		"Frenzy": {
 			"name": "连击",
-			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">A character with Frenzy&nbsp;rolls a second @Compendium[swade-core-rules.swade-skills.格斗]{格斗} die with any one of his Fighting attacks for the turn. The extra die may be allocated to the same or different targets as he sees fit. Resolve each separately</span></p>\n</div>",
-			"requirements": "Seasoned, Fighting d8+"
+			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">A character with Frenzy&nbsp;rolls a second @Compendium[swade-core-rules.swade-skills.格斗]{格斗} die with any one of his 格斗 attacks for the turn. The extra die may be allocated to the same or different targets as he sees fit. Resolve each separately</span></p>\n</div>",
+			"requirements": "行家, 格斗d8+"
 		},
 		"Gadgeteer": {
 			"name": "奇械匠",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Some mechanical gurus can build incredible devices out of most anything. </span></p>\n<p><span class=\"fontstyle0\">A Gadgeteer can spend up to three @Compendium[swade-core-rules.swade-rules.奥法背景]{获得奇术点} to &ldquo;jury rig&rdquo; a device from any reasonable collection of spare parts. This allows her to activate any @Compendium[swade-core-rules.swade-rules.奇术]{奇术} normally available to Weird Scientists of her @Compendium[swade-core-rules.swade-rules.升级]{位阶} or lower in her particular setting, with a Power Point cost of 3 or lower. </span></p>\n<p>The total cost of an individual power (plus any modifiers) cannot exceed the points spent to create it, nor can the inventor apply @Compendium[swade-core-rules.swade-rules.特效]{限制} to the gadget. She may attempt to create multiple devices as long as she has the points to do so.</p>\n<p>Each gadget is created and activated with a @Compendium[swade-core-rules.swade-skills.奇异科学]{奇异科学}} roll at &ndash;2. This takes one entire turn, during which she can do nothing else (she cannot take @Compendium[swade-core-rules.swade-rules.多重动作]{多重动作}&nbsp;that turn). In all other ways, it works as the normal activation of a power.</p>\n<p><span class=\"fontstyle0\">The inventor uses Power Points directly from her pool for the device, but once its initial @Compendium[swade-core-rules.swade-rules.奇术]{持续时间} is finished (it cannot be maintained) it falls apart into its component pieces.</span></p>\n<h2>Example</h2>\n<p><span class=\"fontstyle0\">Gabe is an inventor in the <em>Weird West</em>. He wants to use <em>@Compendium[swade-core-rules.swade-powers.提升/降低特性]{提升特性}</em></span><em><span class=\"fontstyle2\">&nbsp;</span></em><span class=\"fontstyle0\">to help Red fight a giant rattlesnake, but only has the </span><em><span class=\"fontstyle2\">@Compendium[swade-core-rules.swade-powers.爆裂]{爆裂} </span></em><span class=\"fontstyle0\">and </span><em><span class=\"fontstyle2\">@Compendium[swade-core-rules.swade-powers.爆发]{爆发} </span></em><span class=\"fontstyle0\">powers. Fortunately, he&rsquo;s a Gadgeteer, so Gabe can put </span><em><span class=\"fontstyle2\">boost Trait </span></em><span class=\"fontstyle0\">into an &ldquo;electrical bio-inducer.&rdquo; The device can take up to three points worth of powers, so he adds the @Compendium[swade-core-rules.swade-rules.妨碍或加快 (+1)]{加快} modifier and gives Red +2 @Compendium[swade-core-rules.swade-rules.移动]{移速} as well</span></p>\n</div>",
-			"requirements": "Seasoned, Arcane Background (Weird Science), Weird Science d6+"
+			"requirements": "行家, Arcane Background (Weird Science), Weird Scienced6+"
 		},
 		"Giant Killer": {
 			"name": "巨物杀手",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">The bigger they are, the harder they are to kill. At least for most. Your hero knows how to find the weak points in the most massive of foes. </span></p>\n<p><span class=\"fontstyle0\">He adds +1d6 damage when attacking creatures who are three or more Sizes larger than himself (see <strong>@Compendium[swade-core-rules.swade-rules.体型与尺寸{体型}</strong></span><span class=\"fontstyle0\">). A human (Size 0) gets the bonus against a creature of Size 3 or greater.</span></p>\n</div>",
-			"requirements": "Veteran"
+			"requirements": "老练"
 		},
 		"Great Luck": {
 			"name": "高等幸运",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">The player draws two extra @Compendium[swade-core-rules.swade-rules.助力点]{助力点} instead of one at the start of each session.</span></p>\n</div>",
-			"requirements": "Novice, Luck"
+			"requirements": "入门, 幸运"
 		},
 		"Hard To Kill": {
 			"name": "九死一生",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">This adventurer has more lives than a herd of cats. He may ignore his @Compendium[swade-core-rules.swade-rules.伤害效果]{损伤} penalties when making @Compendium[swade-core-rules.swade-rules.特性]{活力} rolls to avoid <strong>@Compendium[swade-core-rules.swade-rules.伤害效果]{失血}</strong></span><span class=\"fontstyle0\">.</span></p>\n</div>",
-			"requirements": "Novice, Spirit d8+"
+			"requirements": "入门, 心魂d8+"
 		},
 		"Harder To Kill": {
 			"name": "死里逃生",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Your hero is tougher to kill than Rasputin. If he is ever &ldquo;killed,&rdquo; roll a die. On an odd result, he&rsquo;s dead as usual. On an even roll, he&rsquo;s @Compendium[swade-core-rules.swade-rules.伤害效果]{无力化} but somehow escapes death. He may be captured, stripped of all his belongings, or mistakenly left for dead, but he somehow survives.</span></p>\n</div>",
-			"requirements": "Veteran, Hard To Kill"
+			"requirements": "老练, 九死一生"
 		},
 		"Healer": {
 			"name": "治疗师",
 			"description": "<div class=\"swade-core\">\n<p>A hero with this Edge adds +2 to all @Compendium[swade-core-rules.swade-rules.恢复]{治疗} rolls, whether natural or magical in nature.</p>\n</div>",
-			"requirements": "Novice, Spirit d8+"
+			"requirements": "入门, 心魂d8+"
 		},
 		"Hold the Line!": {
 			"name": "死守不退",
 			"description": "<div class=\"swade-core\">\n<p>Hold the Line strengthens the will of any @Compendium[swade-core-rules.swade-rules.不羁角色与龙套们]{龙套} under the hero's command, adding +1 to their @Compendium[swade-core-rules.swade-rules.角色]{坚韧}.</p>\n</div>",
-			"requirements": "Seasoned, Smarts d8+, Command"
+			"requirements": "行家, 聪慧d8+, 指挥"
 		},
 		"Holy/Unholy Warrior": {
 			"name": "神圣/邪恶战士",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Believers face grave dangers in service to their divine patrons. To survive such hardships, the forces of good (or evil) grant miracles and the ability to turn their favor into supernatural protection. </span></p>\n<p><span class=\"fontstyle0\">The chosen may add +1 to the total of a final @Compendium[swade-core-rules.swade-rules.化解投骰]{化解投骰} for each @Compendium[swade-core-rules.swade-rules.奥法背景]{奇术点} spent, to a maximum of +4.</span></p>\n</div>",
-			"requirements": "Seasoned, Arcane Background (Miracles), Faith d6+"
+			"requirements": "行家, 奥法背景 (奇迹), 信仰d6+"
 		},
 		"Humiliate": {
 			"name": "羞辱",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Those with a cruel wit can destroy a rival&rsquo;s ego in a single remark or well-timed gesture.<br />Your hero gets a free reroll on @Compendium[swade-core-rules.swade-skills.嘲弄]{嘲弄考验}</span></p>\n</div>",
-			"requirements": "Novice, Taunt d8+"
+			"requirements": "入门, 嘲弄d8+"
 		},
 		"Improved Arcane Resistance": {
 			"name": "精通奥法抗性",
 			"description": "<div class=\"swade-core\"><p><span class=\"fontstyle0\">Magic and the supernatural hold little sway with this individual. Whether by nature, heritage, or training he&rsquo;s particularly resistant to magic, psionics, weird science, and other supernatural energies. </span></p>\n<p><span class=\"fontstyle0\">Arcane skills targeting the hero suffer a <strong>-4</strong> penalty (even if cast by allies!) and magical damage is reduced by <strong>4</strong> as well.</span></p></div>",
-			"requirements": "Novice, Arcane Resistance"
+			"requirements": "入门, 奥法抗性"
 		},
 		"Improved Block": {
 			"name": "精通招架",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">The hero&rsquo;s @Compendium[swade-core-rules.swade-rules.角色]{格挡} bonus is now +2 and the @Compendium[swade-core-rules.swade-rules.围攻]{围攻} bonus against him is reduced by 2</span></p>\n</div>",
-			"requirements": "Veteran, Block"
+			"requirements": "老练, 招架"
 		},
 		"Improved Counterattack": {
 			"name": "精通反击",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">The hero gets a&nbsp;</span><span class=\"fontstyle2\"><strong>@Compendium[swade-core-rules.swade-rules.自由攻击]{自由攻击}&nbsp;</strong></span><span class=\"fontstyle0\">against up to three failed attacks each round.</span></p>\n</div>",
-			"requirements": "Veteran, Counterattack"
+			"requirements": "老练, 反击"
 		},
 		"Improved Dodge": {
 			"name": "精通闪避",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">The hero adds +2 when Evading area effect attacks. See </span><strong><span class=\"fontstyle2\">@Compendium[swade-core-rules.swade-rules.回避]{回避}</span></strong><span class=\"fontstyle0\">.</span></p>\n</div>",
-			"requirements": "Seasoned, Dodge"
+			"requirements": "行家, 闪避"
 		},
 		"Improved Extraction": {
 			"name": "精通脱身",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Up to three foes&rsquo; (player&rsquo;s choice) don&rsquo;t get attacks when your warrior @Compendium[swade-core-rules.swade-rules.撤出近战]{撤出近战} with them</span></p>\n</div>",
-			"requirements": "Seasoned, Extraction"
+			"requirements": "行家, 脱身"
 		},
 		"Improved First Strike": {
 			"name": "精通先发制人",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Once per round, as long as he&rsquo;s not @Compendium[swade-core-rules.swade-rules.伤害效果]{动摇} or @Compendium[swade-core-rules.swade-rules.震慑]{震慑}, the hero gets a free @Compendium[swade-core-rules.swade-skills.格斗]{格斗} attack against three foes immediately after he moves into @Compendium[swade-core-rules.swade-rules.触及]{触及}. (See </span><strong><span class=\"fontstyle2\">@Compendium[swade-core-rules.swade-rules.自由攻击]{自由攻击}</span></strong><span class=\"fontstyle0\">).</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>\n</div>",
-			"requirements": "Heroic, First Strike"
+			"requirements": "英杰, 先发制人"
 		},
 		"Improved Frenzy": {
 			"name": "精通连击",
-			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">The fighter rolls an extra @Compendium[swade-core-rules.swade-skills.格斗]{格斗} die with up to two Fighting attacks in the same turn</span></p>\n<h2>Example</h2>\n<p><span class=\"fontstyle0\">Red desperately attacks a giant crab-like creature on an alien planet. She has Improved Frenzy and decides to attack three times (a @Compendium[swade-core-rules.swade-rules.多重动作]{多重动作} at the usual penalty). She rolls her Fighting skill with an extra die for her first attack and second attack. She doesn&rsquo;t get the extra die on her third Fighting roll.</span></p>\n</div>",
-			"requirements": "Veteran, Frenzy"
+			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">The fighter rolls an extra @Compendium[swade-core-rules.swade-skills.格斗]{格斗} die with up to two 格斗 attacks in the same turn</span></p>\n<h2>Example</h2>\n<p><span class=\"fontstyle0\">Red desperately attacks a giant crab-like creature on an alien planet. She has Improved Frenzy and decides to attack three times (a @Compendium[swade-core-rules.swade-rules.多重动作]{多重动作} at the usual penalty). She rolls her 格斗 skill with an extra die for her first attack and second attack. She doesn&rsquo;t get the extra die on her third 格斗 roll.</span></p>\n</div>",
+			"requirements": "老练, 连击"
 		},
 		"Improved Level Headed": {
 			"name": "精通沉稳冷静",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Fighters who can keep their cool when everyone else is running for @Compendium[swade-core-rules.swade-rules.掩蔽与障碍]{掩蔽} make deadly combatants. A hero with this Edge draws <strong>two</strong> additional @Compendium[swade-core-rules.swade-rules.行动卡 (先攻)]{行动卡} in combat and chooses which to use.</span></p>\n</div>",
-			"requirements": "Seasoned, Level Headed"
+			"requirements": "行家, 沉稳冷静"
 		},
 		"Improved Nerves of Steel": {
 			"name": "精通钢铁神经",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">The hero ignores two points of @Compendium[swade-core-rules.swade-rules.伤害效果]{损伤} penalties.</span></p>\n</div>",
-			"requirements": "Novice, Nerves of Steel"
+			"requirements": "入门, 钢铁神经"
 		},
 		"Improved Rapid Fire": {
 			"name": "精通速射",
 			"description": "<div class=\"swade-core\">\n<p>The shooter may now increase her weapon's @Compendium[swade-core-rules.swade-rules.射速]{射速} by 1 twice in the same turn (via a @Compendium[swade-core-rules.swade-rules.多重动作]{多重动作})</p>\n<h2>Example</h2>\n<p><span class=\"fontstyle0\">Gabe fires a machine gun and has Improved Rapid Fire. The weapon has a Rate of Fire of 4 and Gabe decides to fire it on all three of his allowed actions (see Multi-Actions</span><span class=\"fontstyle0\">).</span></p>\n<p><span class=\"fontstyle0\">He rolls an extra @Compendium[swade-core-rules.swade-skills.射击]{射击} die with his first and second attack, raising the weapon&rsquo;s Rate of Fire to 5 each time. He doesn&rsquo;t get the bonus on his third attack&mdash;the machine gun&rsquo;s Rate of Fire remains a 4.</span></p>\n</div>",
-			"requirements": "Veteran, Rapid Fire"
+			"requirements": "老练, 精通速射"
 		},
 		"Improved Rapid Recharge": {
 			"name": "精通快速充能",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">The character now regains 20 @Compendium[swade-core-rules.swade-rules.奥法背景]{获得奇术点} per hour spent @Compendium[swade-core-rules.swade-rules.启动]{休息}.</span></p>\n</div>",
-			"requirements": "Veteran, Rapid Recharge"
+			"requirements": "老练, 快速充能"
 		},
 		"Improved Sweep": {
 			"name": "精通横扫",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Improved Sweep allows a character to make a single @Compendium[swade-core-rules.swade-skills.格斗]{格斗} attack and apply it against all targets in his @Compendium[swade-core-rules.swade-rules.触及]{触及} (friends and foes alike). Resolve damage separately for each enemy that&rsquo;s hit.</span></p>\n<p><span class=\"fontstyle0\">A fighter may only perform a Sweep once per turn. It may not be combined with @Compendium[swade-core-rules.swade-edges.连击]{连击}.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>\n</div>",
-			"requirements": "Veteran, Sweep"
+			"requirements": "老练, 横扫"
 		},
 		"Improved Trademark Weapon": {
 			"name": "精通招牌武器",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">The hero knows one unique weapon (Excalibur, Old Betsy, Sting) like the back of his hand. When using it, he adds <strong>+2</strong> to his @Compendium[swade-core-rules.swade-skills.运动]{运动} (throwing), @Compendium[swade-core-rules.swade-skills.格斗]{格斗}, or @Compendium[swade-core-rules.swade-skills.射击]{射击} rolls, and <strong>+2</strong> to @Compendium[swade-core-rules.swade-rules.角色]{格挡} when readied (even if it&rsquo;s a ranged weapon).</span></p>\n<p><span class=\"fontstyle0\">A fighter can take this Edge multiple times, applying it to a different weapon each time. If a Trademark Weapon&nbsp;is lost, he can replace it but the benefits don&rsquo;t kick in for a few days (however long the GM feels is dramatically appropriate).</span></p>\n</div>",
-			"requirements": "Seasoned, Trademark Weapon"
+			"requirements": "行家, 招牌武器"
 		},
 		"Improvisational Fighter": {
 			"name": "俯拾皆兵",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Heroes often find themselves fighting with pieces of equipment or furnishings not designed for combat. A brawler with this Edge has a knack for using such improvised weapons. He ignores the usual -2 penalty when wielding them. See </span><strong><span class=\"fontstyle2\">@Compendium[swade-core-rules.swade-rules.临时武器]{临时武器} </span></strong><span class=\"fontstyle2\">for more details</span><span class=\"fontstyle0\">.</span></p>\n</div>",
-			"requirements": "Seasoned, Smarts d6+"
+			"requirements": "行家, 聪慧d6+"
 		},
 		"Inspire": {
 			"name": "激励",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Exceptional leaders inspire those around them to great feats of valor and determination. Once per turn, the hero may roll his @Compendium[swade-core-rules.swade-skills.作战]{作战} skill to @Compendium[swade-core-rules.swade-rules.援助]{援助} one type of @Compendium[swade-core-rules.swade-rules.特性]{特性} roll, and apply it to </span><span class=\"fontstyle2\">all </span><span class=\"fontstyle0\">allied @Compendium[swade-core-rules.swade-rules.不羁角色与龙套们]{龙套} in @Compendium[swade-core-rules.swade-rules.专长]{指挥射程}. A leader could Support all @Compendium[swade-core-rules.swade-skills.射击]{射击} attacks in range, for example, or all @Compendium[swade-core-rules.swade-rules.特性]{心魂} rolls to recover from being @Compendium[swade-core-rules.swade-rules.伤害效果]{动摇}.<br /></span></p>\n<p><span class=\"fontstyle0\">Inspire is an @Compendium[swade-core-rules.swade-rules.动作]{动作} and requires some sort of communication with those it affects.</span></p>\n<div class=\"swade-core\"><img src=\"modules/swade-core-rules/assets/art/pg45_quote_edges.webp\" alt=\"&quot;One of my favorites&quot; -- Gabe\" width=\"534\" height=\"120\" /></div>\n</div>",
-			"requirements": "Seasoned, Command"
+			"requirements": "行家, 指挥"
 		},
 		"Investigator": {
 			"name": "调查员",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Investigators spend a great deal of time researching ancient legends, working the streets, or deducing devilish mysteries. Some of these heroes are actual private investigators while others are sleuthing mages in a fantasy world or inquisitive college professors stumbling upon Things Man Was Not Meant to Know.</span></p>\n<p><span class=\"fontstyle0\">Investigators add +2 to @Compendium[swade-core-rules.swade-skills.调查]{调查} rolls and @Compendium[swade-core-rules.swade-skills.察觉]{察觉} rolls made to search through desks for important papers, sift through stacks of junk mail for something of note, or spy obscured items from piles of junk or debris</span></p>\n</div>",
-			"requirements": "Novice, Smarts d8+, Research d8+"
+			"requirements": "入门, 聪慧d8+, 调查d8+"
 		},
 		"Iron Jaw": {
 			"name": "头铁",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">The hero can shrug off even extreme blows. He adds +2 to @Compendium[swade-core-rules.swade-rules.化解投骰]{化解投骰} and @Compendium[swade-core-rules.swade-rules.特性]{活力} rolls to avoid <strong>@Compendium[swade-core-rules.swade-rules.奇袭]{昏厥打击}</strong></span></p>\n</div>",
-			"requirements": "Novice, Vigor d8+"
+			"requirements": "入门, 活力d8+"
 		},
 		"Iron Will": {
 			"name": "钢铁意志",
 			"description": "<div class=\"swade-core\">\n<p>The hero now adds his @Compendium[swade-core-rules.swade-edges.坚强意志]{坚强意志} bonus to resist powers and negate their effects. Iron Will doesn&rsquo;t stack with @Compendium[swade-core-rules.swade-edges.勇敢]{勇敢}, nor does it apply to subse&shy;quent rolls resulting from powers such as being @Compendium[swade-core-rules.swade-rules.伤害效果]{动摇} by a damaging @Compendium[swade-core-rules.swade-rules.奇术]{奇术}, @Compendium[swade-core-rules.swade-powers.恐惧]{恐惧}, or the like.</p>\n<p>&nbsp;</p>\n</div>",
-			"requirements": "Seasoned, Brave, Strong Willed"
+			"requirements": "行家, 勇敢, 坚强意志"
 		},
 		"Jack-Of-All-Trades": {
 			"name": "万事通",
-			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Through advanced schooling, book-learning, computer-enhanced skill programs, or just amazing intuitive perception, your hero has a talent for picking up skills on the fly. There&rsquo;s little he can&rsquo;t figure out given a little time and a dash of luck.</span></p>\n<p><span class=\"fontstyle0\"><span class=\"fontstyle0\">The character makes a @Compendium[swade-core-rules.swade-rules.特性]{聪慧} roll as an action after observing or studying some subject. She gains a d4 in the relevant skill with success, or d6 with a raise. She may try again after an hour of study, trial and effort, or immersion if she fails or wants to try for a raise. This lasts until the character attempts to learn a different subject, whether she&rsquo;s successful or not.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /></span></p>\n</div>",
-			"requirements": "Novice, Smarts d10+"
+			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Through advanced schooling, book-learning, computer-enhanced skill programs, or just amazing intuitive perception, your hero has a talent for picking up skills on the fly. There&rsquo;s little he can&rsquo;t figure out given a little time and a dash of luck.</span></p>\n<p><span class=\"fontstyle0\"><span class=\"fontstyle0\">The character makes a @Compendium[swade-core-rules.swade-rules.特性]{聪慧} roll as an action after observing or studying some subject. She gains ad4 in the relevant skill with success, ord6 with a raise. She may try again after an hour of study, trial and effort, or immersion if she fails or wants to try for a raise. This lasts until the character attempts to learn a different subject, whether she&rsquo;s successful or not.</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /></span></p>\n</div>",
+			"requirements": "入门, 聪慧d10+"
 		},
 		"Killer Instinct": {
 			"name": "杀手直觉",
 			"description": "<div class=\"swade-core\"><p><span class=\"fontstyle0\">This hero hates losing. He gets a free reroll in any opposed @Compendium[swade-core-rules.swade-rules.考验]{考验} he initiates</span> </p></div>",
-			"requirements": "Seasoned"
+			"requirements": "行家"
 		},
 		"Level Headed": {
 			"name": "沉稳冷静",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Fighters who can keep their cool when everyone else is running for @Compendium[swade-core-rules.swade-rules.掩蔽与障碍]{掩蔽} make deadly combatants. A hero with this Edge draws an additional @Compendium[swade-core-rules.swade-rules.行动卡 (先攻)]{行动卡} in combat and chooses which to use.</span></p>\n</div>",
-			"requirements": "Seasoned, Smarts d8+"
+			"requirements": "行家, 聪慧d8+"
 		},
 		"Linguist": {
 			"name": "语言学家",
-			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">This world-traveler has an ear for languages. She begins play knowing half her @Compendium[swade-core-rules.swade-rules.特性]{聪慧} die type in different @Compendium[swade-core-rules.swade-skills.语言学]{语言学} skills of her choice at d6.</span></p>\n</div>",
-			"requirements": "Novice, Smarts d6+"
+			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">This world-traveler has an ear for languages. She begins play knowing half her @Compendium[swade-core-rules.swade-rules.特性]{聪慧} die type in different @Compendium[swade-core-rules.swade-skills.语言学]{语言学} skills of her choice atd6.</span></p>\n</div>",
+			"requirements": "入门, 聪慧d6+"
 		},
 		"Liquid Courage": {
 			"name": "酒壮人胆",
 			"description": "<div class=\"swade-core\">\n<p>This gregarious individual processes alcohol far differently than most. The round after consuming a stiff drink (about eight ounces of hard liquor or equivalent), her @Compendium[swade-core-rules.swade-rules.特性]{活力} increases one die type (increasing @Compendium[swade-core-rules.swade-rules.角色]{坚韧} as well). The drinker can also ignore one level of @Compendium[swade-core-rules.swade-rules.伤害效果]{损伤} penalties (which stacks with other abilities that do the same).</p>\n<p>@Compendium[swade-core-rules.swade-rules.特性]{聪慧}, @Compendium[swade-core-rules.swade-rules.特性]{灵巧}, and all linked skills suffer a &minus;1 penalty for the duration, however.</p>\n<p>The effect lasts for one hour after it begins, at which point the boozer suffers a level of @Compendium[swade-core-rules.swade-rules.疲乏]{疲劳} for the next four hours.</p>\n</div>",
-			"requirements": "Novice, Vigor d8+"
+			"requirements": "入门, 活力d8+"
 		},
 		"Luck": {
 			"name": "幸运",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">The adventurer seems to be blessed by fate, karma, the gods, or whatever external forces he believes in (or believe in him!). </span></p>\n<p><span class=\"fontstyle0\">He draws one extra @Compendium[swade-core-rules.swade-rules.助力点]{助力点} at the beginning of each game session, allowing him to succeed at important tasks more often than most, and survive incredible dangers.</span></p>\n</div>",
-			"requirements": "Novice"
+			"requirements": "入门"
 		},
 		"Marksman": {
 			"name": "神射手",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">The hero is a natural with ranged weapons. If she doesn&rsquo;t move in a turn and fires no more than a @Compendium[swade-core-rules.swade-rules.射速]{射速} of 1 as her first action, she may add +1 to an @Compendium[swade-core-rules.swade-skills.运动]{运动} (throwing) or @Compendium[swade-core-rules.swade-skills.射击]{射击} roll, or ignore up to 2 points of penalties from @Compendium[swade-core-rules.swade-rules.定点攻击]{定点攻击}, @Compendium[swade-core-rules.swade-rules.掩蔽与障碍]{掩蔽}, @Compendium[swade-core-rules.swade-rules.射程]{射程}, @Compendium[swade-core-rules.swade-rules.体型与尺寸{尺寸}, or @Compendium[swade-core-rules.swade-rules.速度]{加速}. This is a lesser version of the @Compendium[swade-core-rules.swade-rules.瞄准]{瞄准} maneuver and does not stack with it. Marksman doesn&rsquo;t apply to additional attacks after the first.</span></p>\n</div>",
-			"requirements": "Seasoned, Athletics d8+ or Shooting d8+"
+			"requirements": "行家, 运动d8+ 或 射击d8+"
 		},
 		"Martial Artist": {
 			"name": "武术家",
-			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">The fighter has trained in basic martial arts. Her fists and feet are weapons (see </span><span class=\"fontstyle2\"><strong>@Compendium[swade-core-rules.swade-rules.天生武器]{天生武器}</strong>) </span><span class=\"fontstyle0\">so she&rsquo;s always considered armed. She adds +1 when striking with them and causes @Compendium[swade-core-rules.swade-rules.特性]{力量}+d4 damage. If she already has a Strength damage die from the&nbsp;</span><span class=\"fontstyle0\"><strong>@Compendium[swade-core-rules.swade-rules.特殊能力 (爪抓)]{爪抓} </strong>racial ability or the @Compendium[swade-core-rules.swade-edges.搏击手]{搏击手} Edge, increase the damage a die type. </span></p>\n<p><span class=\"fontstyle0\">Martial Artist does </span><em><span class=\"fontstyle3\">not </span></em><span class=\"fontstyle0\">add to damage from other Natural Weapons such as fangs or horns.</span></p>\n</div>",
-			"requirements": "Novice, Fighting d6+"
+			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">The fighter has trained in basic martial arts. Her fists and feet are weapons (see </span><span class=\"fontstyle2\"><strong>@Compendium[swade-core-rules.swade-rules.天生武器]{天生武器}</strong>) </span><span class=\"fontstyle0\">so she&rsquo;s always considered armed. She adds +1 when striking with them and causes @Compendium[swade-core-rules.swade-rules.特性]{力量}+d4 damage. If she already has a 力量 damage die from the&nbsp;</span><span class=\"fontstyle0\"><strong>@Compendium[swade-core-rules.swade-rules.特殊能力 (爪抓)]{爪抓} </strong>racial ability or the @Compendium[swade-core-rules.swade-edges.搏击手]{搏击手} Edge, increase the damage a die type. </span></p>\n<p><span class=\"fontstyle0\">Martial Artist does </span><em><span class=\"fontstyle3\">not </span></em><span class=\"fontstyle0\">add to damage from other Natural Weapons such as fangs or horns.</span></p>\n</div>",
+			"requirements": "入门, 格斗d6+"
 		},
 		"Martial Warrior": {
 			"name": "武斗家",
-			"description": "<div class=\"swade-core\">\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; background-color: #dfe6f5;\"><span class=\"fontstyle0\" style=\"box-sizing: border-box; user-select: text;\">The fighter has trained in basic martial arts. Her fists and feet are weapons (see&nbsp;</span><span class=\"fontstyle2\" style=\"box-sizing: border-box; user-select: text;\"><strong style=\"box-sizing: border-box; user-select: text;\">@Compendium[swade-core-rules.swade-rules.天生武器]{天生武器}</strong></span><span class=\"fontstyle0\" style=\"box-sizing: border-box; user-select: text;\">&nbsp;so she&rsquo;s always considered armed. She adds <strong>+2</strong> when striking with them and causes <strong>@Compendium[swade-core-rules.swade-rules.特性]{力量}+d6</strong> damage. If she already has a Strength damage die from the&nbsp;</span><strong style=\"box-sizing: border-box; user-select: text;\"><span class=\"fontstyle2\" style=\"box-sizing: border-box; user-select: text;\">@Compendium[swade-core-rules.swade-rules.特殊能力 (爪抓)]{爪抓} </span></strong><span class=\"fontstyle0\" style=\"box-sizing: border-box; user-select: text;\">racial ability or the @Compendium[swade-core-rules.swade-edges.搏击手]{搏击手} Edge, increase the damage a die type.</span></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; background-color: #dfe6f5;\"><span class=\"fontstyle0\" style=\"box-sizing: border-box; user-select: text;\">@Compendium[swade-core-rules.swade-edges.武术家]{武术家} does&nbsp;</span><em style=\"box-sizing: border-box; user-select: text;\">not&nbsp;</em><span class=\"fontstyle0\" style=\"box-sizing: border-box; user-select: text;\">add to damage from other Natural Weapons such as fangs or horns.</span></p>\n</div>",
-			"requirements": "Seasoned, Martial Artist"
+			"description": "<div class=\"swade-core\">\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; background-color: #dfe6f5;\"><span class=\"fontstyle0\" style=\"box-sizing: border-box; user-select: text;\">The fighter has trained in basic martial arts. Her fists and feet are weapons (see&nbsp;</span><span class=\"fontstyle2\" style=\"box-sizing: border-box; user-select: text;\"><strong style=\"box-sizing: border-box; user-select: text;\">@Compendium[swade-core-rules.swade-rules.天生武器]{天生武器}</strong></span><span class=\"fontstyle0\" style=\"box-sizing: border-box; user-select: text;\">&nbsp;so she&rsquo;s always considered armed. She adds <strong>+2</strong> when striking with them and causes <strong>@Compendium[swade-core-rules.swade-rules.特性]{力量}+d6</strong> damage. If she already has a 力量 damage die from the&nbsp;</span><strong style=\"box-sizing: border-box; user-select: text;\"><span class=\"fontstyle2\" style=\"box-sizing: border-box; user-select: text;\">@Compendium[swade-core-rules.swade-rules.特殊能力 (爪抓)]{爪抓} </span></strong><span class=\"fontstyle0\" style=\"box-sizing: border-box; user-select: text;\">racial ability or the @Compendium[swade-core-rules.swade-edges.搏击手]{搏击手} Edge, increase the damage a die type.</span></p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; background-color: #dfe6f5;\"><span class=\"fontstyle0\" style=\"box-sizing: border-box; user-select: text;\">@Compendium[swade-core-rules.swade-edges.武术家]{武术家} does&nbsp;</span><em style=\"box-sizing: border-box; user-select: text;\">not&nbsp;</em><span class=\"fontstyle0\" style=\"box-sizing: border-box; user-select: text;\">add to damage from other Natural Weapons such as fangs or horns.</span></p>\n</div>",
+			"requirements": "行家, 武术家"
 		},
 		"Master": {
 			"name": "大师水准",
-			"description": "<div class=\"swade-core\"><p>The character&rsquo;s Wild Die increases to a d10 when rolling the selected @Compendium[swade-core-rules.swade-edges.专家水准]{专家水准} Trait.</p></div>",
-			"requirements": "Wild Card, Legendary, Expert in affected Trait"
+			"description": "<div class=\"swade-core\"><p>The character&rsquo;s Wild Die increases to ad10 when rolling the selected @Compendium[swade-core-rules.swade-edges.专家水准]{专家水准} Trait.</p></div>",
+			"requirements": "不羁角色, 传奇, 对应特性的专家水准"
 		},
 		"Master Tactician": {
 			"name": "战术大师",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">The @Compendium[swade-core-rules.swade-edges.战术家]{战术家} now gets a total of two extra @Compendium[swade-core-rules.swade-rules.行动卡 (先攻)]{行动卡} to distribute each round</span></p>\n</div>",
-			"requirements": "Veteran, Tactician"
+			"requirements": "老练, 战术家"
 		},
 		"Master of Arms": {
 			"name": "武器宗师",
-			"description": "<div class=\"swade-core\">\n<p>Increase the hero&rsquo;s @Compendium[swade-core-rules.swade-rules.角色]{格挡} an additional +1 and his @Compendium[swade-core-rules.swade-skills.格斗]{格斗} bonus damage die is now a d10.</p>\n</div>",
-			"requirements": "Legendary, Weapon Master"
+			"description": "<div class=\"swade-core\">\n<p>Increase the hero&rsquo;s @Compendium[swade-core-rules.swade-rules.角色]{格挡} an additional +1 and his @Compendium[swade-core-rules.swade-skills.格斗]{格斗} bonus damage die is now ad10.</p>\n</div>",
+			"requirements": "传奇, 武器大师"
 		},
 		"McGyver": {
 			"name": "巧手先生",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">A McGyver can improvise a device from common resources when the need arises. Given a few simple items, he can make a @Compendium[swade-core-rules.swade-skills.修理]{修理} roll to craft improvised weapons, explosives, or tools, that last until used or the end of the encounter (GM&rsquo;s call). This takes one entire turn, and he can&rsquo;t move or take any other actions while constructing the device. </span></p>\n<p><span class=\"fontstyle0\">Failure means the device isn&rsquo;t ready. A @Compendium[swade-core-rules.swade-rules.特性投骰]{大失败} means he doesn&rsquo;t have the right materials and can&rsquo;t create the device this encounter. </span></p>\n<p><span class=\"fontstyle0\">Success creates a minor explosive (2d4 explosive in a @Compendium[swade-core-rules.swade-rules.范围效果攻击]{小型爆散盖板}), a one shot projectile weapon like a &ldquo;zip gun&rdquo; (@Compendium[swade-core-rules.swade-rules.射程]{射程} 5/10/20, Damage 2d6), rickety raft, electrical source, etc. </span></p>\n<p><span class=\"fontstyle0\">A raise creates a larger explosive (2d6 in a Medium Blast Template or 2d4 in a Large), a better ranged weapon (five shots, 2d8 damage, Range 10/20/40), a more stable raft, a more powerful battery, etc. </span></p>\n<p><span class=\"fontstyle0\">The quality or power of the creation is completely up to the Game Master, but creativity should be rewarded, particularly in the most dire and dramatic situations.</span></p>\n</div>",
-			"requirements": "Novice, Smarts d6+, Notice d8+, Repair d6+"
+			"requirements": "入门, 聪慧d6+, 察觉d8+, 修理d6+"
 		},
 		"Mcgyver": {
 			"name": "巧手先生",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">A McGyver can improvise a device from common resources when the need arises. Given a few simple items, he can make a @Compendium[swade-core-rules.swade-skills.修理]{修理} roll to craft improvised weapons, explosives, or tools, that last until used or the end of the encounter (GM&rsquo;s call). This takes one entire turn, and he can&rsquo;t move or take any other actions while constructing the device. </span></p>\n<p><span class=\"fontstyle0\">Failure means the device isn&rsquo;t ready. A @Compendium[swade-core-rules.swade-rules.特性投骰]{大失败} means he doesn&rsquo;t have the right materials and can&rsquo;t create the device this encounter. </span></p>\n<p><span class=\"fontstyle0\">Success creates a minor explosive (2d4 explosive in a @Compendium[swade-core-rules.swade-rules.范围效果攻击]{小型爆散盖板}), a one shot projectile weapon like a &ldquo;zip gun&rdquo; (@Compendium[swade-core-rules.swade-rules.射程]{射程} 5/10/20, Damage 2d6), rickety raft, electrical source, etc. </span></p>\n<p><span class=\"fontstyle0\">A raise creates a larger explosive (2d6 in a Medium Blast Template or 2d4 in a Large), a better ranged weapon (five shots, 2d8 damage, Range 10/20/40), a more stable raft, a more powerful battery, etc. </span></p>\n<p><span class=\"fontstyle0\">The quality or power of the creation is completely up to the Game Master, but creativity should be rewarded, particularly in the most dire and dramatic situations.</span></p>\n</div>",
-			"requirements": "Novice, Smarts d6+, Notice d8+, Repair d6+"
+			"requirements": "入门, 聪慧d6+, 察觉d8+, 修理d6+"
 		},
 		"Menacing": {
 			"name": "凶神恶煞",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Being a brutish lout isn&rsquo;t always a drawback if you know how to use it. Menacing allows a character to put her bad looks or worse attitude to good use. The goon adds +2 to her @Compendium[swade-core-rules.swade-skills.威吓]{威吓} rolls.</span></p>\n</div>",
-			"requirements": "Novice, any one of Bloodthirsty, Mean, Ruthless, or Ugly"
+			"requirements": "入门, 下列负赘之一：嗜血、刻薄、无情、丑陋"
 		},
 		"Mentalist": {
 			"name": "控心师",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Constant contact with multiple minds gives these psionic agents an edge when it comes to forcing or resisting mental assaults. </span></p>\n<p><span class=\"fontstyle0\">Mentalists add +2 to opposed @Compendium[swade-core-rules.swade-skills.灵能]{灵能} rolls, whether they are using their powers against a foe or defending against a rival.</span></p>\n</div>",
-			"requirements": "Seasoned, Arcane Background (Psionics), Psionics d6+"
+			"requirements": "行家, 奥法背景 (灵能), 灵能d6+"
 		},
 		"Mighty Blow": {
 			"name": "强力一击",
 			"description": "<div class=\"swade-core\"><p><span class=\"fontstyle0\">If your Action Card is a Joker, double the damage of your first successful @Compendium[swade-core-rules.swade-skills.格斗]{格斗} attack this round.</span> </p></div>",
-			"requirements": "Wild Card, Novice, Fighting d8+"
+			"requirements": "不羁角色, 入门, 格斗d8+"
 		},
 		"Mr Fix It": {
 			"name": "修理先生",
-			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">The mechanic adds +2 to @Compendium[swade-core-rules.swade-skills.修理]{修理} rolls. With a raise, he halves the time normally required to fix something. This means if a particular Repair job says a raise repairs it in half the time, a Mr Fix It can finish the job in one quarter the time with a raise.</span></p>\n</div>",
-			"requirements": "Novice, Repair d8+"
+			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">The mechanic adds +2 to @Compendium[swade-core-rules.swade-skills.修理]{修理} rolls. With a raise, he halves the time normally required to fix something. This means if a particular 修理 job says a raise repairs it in half the time, a Mr Fix It can finish the job in one quarter the time with a raise.</span></p>\n</div>",
+			"requirements": "入门, 修理d8+"
 		},
 		"Mr. Fix It": {
 			"name": "修理先生",
-			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">The mechanic adds +2 to @Compendium[swade-core-rules.swade-skills.修理]{修理} rolls. With a raise, he halves the time normally required to fix something. This means if a particular Repair job says a raise repairs it in half the time, a Mr. Fix It can finish the job in one quarter the time with a raise.</span></p>\n</div>",
-			"requirements": "Novice, Repair d8+"
+			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">The mechanic adds +2 to @Compendium[swade-core-rules.swade-skills.修理]{修理} rolls. With a raise, he halves the time normally required to fix something. This means if a particular 修理 job says a raise repairs it in half the time, a Mr. Fix It can finish the job in one quarter the time with a raise.</span></p>\n</div>",
+			"requirements": "入门, 修理d8+"
 		},
 		"Natural Leader": {
 			"name": "天生领袖",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">This leader has proven herself time and time again, gaining the respect of all those who fight by her side.</span></p>\n<p><span class=\"fontstyle0\">Any Leadership Edge that says it applies only to @Compendium[swade-core-rules.swade-rules.不羁角色与龙套们]{龙套} now applies to @Compendium[swade-core-rules.swade-rules.不羁角色与龙套们]{不羁角色} as well.</span></p>\n</div>",
-			"requirements": "Seasoned, Spirit d8+, Command"
+			"requirements": "行家, 心魂d8+, 指挥"
 		},
 		"Nerves of Steel": {
 			"name": "钢铁神经",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Your hero has learned to fight on through the most intense pain. He may ignore 1 point of @Compendium[swade-core-rules.swade-rules.伤害效果]{损伤} penalties.</span></p>\n</div>",
-			"requirements": "Novice, Vigor d8+"
+			"requirements": "入门, 活力d8+"
 		},
 		"New Powers": {
 			"name": "新奇术",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">An arcane character may learn two new @Compendium[swade-core-rules.swade-rules.奇术]{奇术} by choosing this Edge (which may be taken multiple times). He may choose from any powers of his @Compendium[swade-core-rules.swade-rules.升级]{位阶} or lower normally available to his particular @Compendium[swade-core-rules.swade-rules.奥法背景]{奥法背景}.<br /></span></p>\n<p><span class=\"fontstyle0\">A character can add a new @Compendium[swade-core-rules.swade-rules.特效]{特效} on a power she already has instead of gaining a new one. She might add an ice Trapping to her existing fire <em>@Compendium[swade-core-rules.swade-powers.矢箭]{矢箭}</em></span><span class=\"fontstyle0\">, for example, so she could switch between ice and fire Trappings freely</span></p>\n</div>",
-			"requirements": "Novice, Arcane Background (Any)"
+			"requirements": "入门, 奥法背景 (任意)"
 		},
 		"No Mercy": {
 			"name": "毫不留情",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">When this killer spends a @Compendium[swade-core-rules.swade-rules.助力点]{助力点} to reroll damage, he adds +2 to his final total.</span></p>\n</div>",
-			"requirements": "Seasoned"
+			"requirements": "行家"
 		},
 		"Power Points": {
 			"name": "获得奇术点",
-			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Wizards, weird scientists, and other arcane types always want more power. This Edge grants them an additional 5 @Compendium[swade-core-rules.swade-rules.奥法背景]{获得奇术点}. </span></p>\n<p><span class=\"fontstyle0\">Power Points may be selected more than once, but only once per @Compendium[swade-core-rules.swade-rules.升级]{位阶}. It may be taken as often as desired at Legendary Rank, but each grants only 2 additional points.</span></p>\n</div>",
-			"requirements": "Novice, Arcane Background (Any)"
+			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Wizards, weird scientists, and other arcane types always want more power. This Edge grants them an additional 5 @Compendium[swade-core-rules.swade-rules.奥法背景]{获得奇术点}. </span></p>\n<p><span class=\"fontstyle0\">Power Points may be selected more than once, but only once per @Compendium[swade-core-rules.swade-rules.升级]{位阶}. It may be taken as often as desired at 传奇 Rank, but each grants only 2 additional points.</span></p>\n</div>",
+			"requirements": "入门, 奥法背景 (任意)"
 		},
 		"Power Surge": {
 			"name": "能量涌动",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">The character recovers 10 @Compendium[swade-core-rules.swade-rules.奥法背景]{获得奇术点} when his @Compendium[swade-core-rules.swade-rules.行动卡 (先攻)]{行动卡} is a Joker. This may not exceed his usual limit</span></p>\n</div>",
-			"requirements": "Wild Card, Novice, Arcane Background (Any), arcane skill d8+"
+			"requirements": "不羁角色, 入门, 奥法背景 (任意), 奥法技能d8+"
 		},
 		"Professional": {
-			"name": "术业",
-			"description": "<div class=\"swade-core\">\n<p>The character is an expert at a particular skill or attribute (his choice). This increases the @Compendium[swade-core-rules.swade-rules.特性]{特性} and its limit one step (a d12+1 becomes a d12+2, for example). This Edge may be selected once per Trait.</p>\n</div>",
-			"requirements": "Legendary, maximum die type possible in affected Trait"
+			"name": "专业水准",
+			"description": "<div class=\"swade-core\">\n<p>The character is an expert at a particular skill or attribute (his choice). This increases the @Compendium[swade-core-rules.swade-rules.特性]{特性} and its limit one step (ad12+1 becomes ad12+2, for example). This Edge may be selected once per Trait.</p>\n</div>",
+			"requirements": "传奇, 对应特性的骰子类型达到上限"
 		},
 		"Provoke": {
 			"name": "激怒",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Clever characters can manipulate their foes, drawing enemy focus on themselves to protect their allies. Once per turn, when your hero uses @Compendium[swade-core-rules.swade-skills.嘲弄]{嘲弄} for a @Compendium[swade-core-rules.swade-rules.考验]{考验} and gets a raise</span><span class=\"fontstyle0\">, she may @Compendium[swade-core-rules.swade-edges.激怒]{激怒} the foe. </span></p>\n<p><span class=\"fontstyle0\">In addition to all the usual effects of the success and raise, the enemy suffers a -2 penalty to affect any other target besides the one who provoked her. This stacks with @Compendium[swade-core-rules.swade-rules.分神与脆弱]{分神} but not further instances of Provoke.<br /></span></p>\n<p><span class=\"fontstyle0\">Provoke lasts until a Joker is drawn, someone else Provokes the target, or the encounter ends. Provoke can affect multiple targets, and may be combined with&nbsp;</span><span class=\"fontstyle0\"><strong>@Compendium[swade-core-rules.swade-edges.煽风点火]{煽风点火}</strong>.</span></p>\n</div>",
-			"requirements": "Novice, Taunt d6+"
+			"requirements": "入门, 嘲弄d6+"
 		},
 		"Quick": {
 			"name": "迅捷",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Quick characters have lightning-fast reflexes and a cool head. Whenever you are dealt an @Compendium[swade-core-rules.swade-rules.行动卡 (先攻)]{行动卡} of Five or lower, you may discard it and draw again until you get a card higher than Five.</span></p>\n<p><span class=\"fontstyle0\">@Compendium[swade-core-rules.swade-rules.角色]{角色} with both the @Compendium[swade-core-rules.swade-edges.沉稳冷静]{沉稳冷静} and Quick Edges first draw their additional card and choose which to take. If that card is a Five or less, the Quick Edge may be used to draw a replacement until it&rsquo;s Six or higher.</span></p>\n</div>",
-			"requirements": "Novice, Agility d8+"
+			"requirements": "入门, 灵巧d8+"
 		},
 		"Rabble-Rouser": {
 			"name": "煽风点火",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">This instigator knows how to rile up several enemies at once.<br /></span></p>\n<p><span class=\"fontstyle0\">Once per turn, a character with this Edge can make a social </span><span class=\"fontstyle2\">@Compendium[swade-core-rules.swade-rules.考验]{考验} </span><span class=\"fontstyle0\">with @Compendium[swade-core-rules.swade-skills.威吓]{威吓} or<br />@Compendium[swade-core-rules.swade-skills.嘲弄]{嘲弄} against all enemies in a @Compendium[swade-core-rules.swade-rules.范围效果攻击]{中型爆散盖板}. The targets must be able to see and<br />hear the hero clearly. Each defender resists and is affected by the </span><span class=\"fontstyle2\">Test </span><span class=\"fontstyle0\">separately.</span></p>\n</div>",
-			"requirements": "Seasoned, Spirit d8+"
+			"requirements": "行家, 心魂d8+"
 		},
 		"Rapid Fire": {
 			"name": "速射",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">The shooter is practiced at taking quick and accurate shots. As long as she&rsquo;s armed with a fast-firing ranged weapon of some sort (such as a revolver or semi-automatic) and has enough ammunition to do so, she may increase her weapon&rsquo;s @Compendium[swade-core-rules.swade-rules.射速]{射速} by 1 for any one of her @Compendium[swade-core-rules.swade-skills.射击]{射击} attacks that turn.</span></p>\n</div>",
-			"requirements": "Seasoned, Shooting d6+"
+			"requirements": "行家, 射击d6+"
 		},
 		"Rapid Recharge": {
 			"name": "快速充能",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">@Compendium[swade-core-rules.swade-rules.奥法背景]{获得奇术点} normally recharge at a rate of 5 points every hour spent resting (see <strong>@Compendium[swade-core-rules.swade-rules.启动]{充能}</strong></span><span class=\"fontstyle0\">). This Edge increases that rate to 10 every hour.</span></p>\n</div>",
-			"requirements": "Seasoned, Spirit d6+, Arcane Background (Any)"
+			"requirements": "行家, 心魂d6+, 奥法背景 (任意)"
 		},
 		"Reliable": {
 			"name": "可靠",
 			"description": "<div class=\"swade-core\"><p><span class=\"fontstyle0\">People know they can depend on your hero when they need assistance. He gets a free reroll on any @Compendium[swade-core-rules.swade-rules.援助]{援助} roll.</span> </p></div>",
-			"requirements": "Novice, Spirit d8+"
+			"requirements": "入门, 心魂d8+"
 		},
 		"Retort": {
 			"name": "反驳",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">This verbal duelist can turn the slings and arrows of social combat right back at the unwitting fools who hurled them.</span></p>\n<p><span class=\"fontstyle0\">If a character with Retort gets a raise when resisting an @Compendium[swade-core-rules.swade-skills.威吓]{威吓} or @Compendium[swade-core-rules.swade-skills.嘲弄]{嘲弄} @Compendium[swade-core-rules.swade-rules.考验]{考验}, the </span><span class=\"fontstyle2\">foe </span><span class=\"fontstyle0\">is @Compendium[swade-core-rules.swade-rules.分神与脆弱]{分神}.</span></p>\n</div>",
-			"requirements": "Novice, Taunt d6+"
+			"requirements": "入门, 嘲弄d6+"
 		},
 		"Rich": {
 			"name": "富裕",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Whether the individual was born with a silver spoon in his mouth or earned it through hard work, he&rsquo;s got more money than most. </span></p>\n<p><span class=\"fontstyle0\">Rich heroes start with three times the normal @Compendium[swade-core-rules.swade-rules.角色]{起始资金} for the setting. If a regular income is appropriate for this setting, the hero receives the modern-day equivalent of a $150,000 annual salary</span></p>\n</div>",
-			"requirements": "Novice"
+			"requirements": "入门"
 		},
 		"Rock and Roll!": {
 			"name": "激情四射",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Experienced shooters learn to compensate for the recoil of fully automatic weapons. If a character with this Edge doesn&rsquo;t move on his turn, he ignores the @Compendium[swade-core-rules.swade-rules.后坐力]{后坐力} penalty when firing at a @Compendium[swade-core-rules.swade-rules.射速]{射速} of 2 or higher.</span></p>\n</div>",
-			"requirements": "Seasoned, Shooting d8+"
+			"requirements": "行家, 射击d8+"
 		},
 		"Scavenger": {
 			"name": "破烂王",
 			"description": "<div class=\"swade-core\">\n<p>Once per encounter the hero may find, &ldquo;suddenly remember,&rdquo; or dig up some much-needed piece of equipment, a handful of ammunition, or some other useful device.</p>\n<p>The Game Master decides what constitutes an encounter, and has the final word on what can and can&rsquo;t be found.</p>\n</div>",
-			"requirements": "Novice, Luck"
+			"requirements": "入门, 幸运"
 		},
 		"Scholar": {
 			"name": "学者",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Learned professors, devoted students, and amateur enthusiasts spend great amounts of time and energy studying particular subjects. They become experts in these fields, and rarely fail to answer questions in their particular area of expertise.</span></p>\n<p><span class=\"fontstyle0\">Pick any one of the following skills: @Compendium[swade-core-rules.swade-skills.人文]{人文}, @Compendium[swade-core-rules.swade-skills.作战]{作战}, @Compendium[swade-core-rules.swade-skills.神秘学]{神秘学}, @Compendium[swade-core-rules.swade-skills.科学]{科学}, or a @Compendium[swade-core-rules.swade-rules.特性]{聪慧}-based &ldquo;knowledge&rdquo;-type skill allowed in your setting, and add +2 to the total whenever they&rsquo;re used.</span></p>\n<p><span class=\"fontstyle0\">This Edge may be taken more than once if applied to different skills.</span></p>\n</div>",
-			"requirements": "Novice, Research d8+"
+			"requirements": "入门, 调查d8+"
 		},
 		"Sidekick": {
 			"name": "助手",
 			"description": "<div class=\"swade-core\">\n<p>A character who triumphs over evil time and time again becomes an inspiration to others. Eventually, one of these young crusaders may attempt to join the hero in his epic quests.</p>\n<p>The hero gains a @Compendium[swade-core-rules.swade-rules.升级]{入门位阶} sidekick. The sidekick is a @Compendium[swade-core-rules.swade-rules.不羁角色与龙套们]{不羁角色}, starts each session with two @Compendium[swade-core-rules.swade-rules.助力点]{助力点}, may @Compendium[swade-core-rules.swade-rules.升级]{升级}, and has abilities that complement his mentor. The player character controls his sidekick just like any other ally, though he may occasionally cause trouble by getting captured, running into danger when he&rsquo;s not supposed to, and so on. The player should be prepared for his Edge to occasionally become a Hindrance!</p>\n<p>If the sidekick dies, he isn&rsquo;t replaced unless the hero chooses this Edge again. Fortunately, heroes may always spend Bennies for their sidekicks as if she had the @Compendium[swade-core-rules.swade-edges.共同联结]{共同联结} Edge. Sidekicks must actually take that Edge to do the same for their mentors.</p>\n</div>",
-			"requirements": "Wild Card, Legendary"
+			"requirements": "不羁角色, 传奇"
 		},
 		"Soldier": {
 			"name": "士兵",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Professional soldiers get used to carrying heavy loads, and enduring harsh conditions. After a few days getting used to their gear (GM&rsquo;s call), they treat their @Compendium[swade-core-rules.swade-rules.特性]{力量} as one die type higher when determining <strong>@Compendium[swade-core-rules.swade-rules.装备注释]{负载}</strong></span><strong><span class=\"fontstyle2\">&nbsp;</span></strong><span class=\"fontstyle0\">and </span><strong><span class=\"fontstyle2\">@Compendium[swade-core-rules.swade-rules.最低力量]{最低力量} </span></strong><span class=\"fontstyle0\">to use armor, weapons, and equipment without a penalty. (This stacks with the @Compendium[swade-core-rules.swade-edges.健壮]{健壮} Edge.)<br /></span></p>\n<p><span class=\"fontstyle0\">They also get a free reroll on @Compendium[swade-core-rules.swade-rules.特性]{活力} rolls made to survive environmental hazards (see </span><strong><span class=\"fontstyle2\">@Compendium[swade-core-rules.swade-rules.危难]{危难}</span></strong><span class=\"fontstyle0\">).</span> <br style=\"font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;\" /><br /></p>\n</div>",
-			"requirements": "Novice, Strength d6+, Vigor d6+"
+			"requirements": "入门, 力量d6+, 活力d6+"
 		},
 		"Soul Drain": {
 			"name": "饮魂汲魄",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Desperate times call for desperate measures. Soul Drain allows an arcane character to channel her physical energy into power, taking a level of @Compendium[swade-core-rules.swade-rules.疲乏]{疲劳} to recover up to five @Compendium[swade-core-rules.swade-rules.奥法背景]{获得奇术点}. She can take an additional level of Fatigue (to @Compendium[swade-core-rules.swade-rules.疲乏]{力竭}) to recover up to five more Power Points. She cannot render herself @Compendium[swade-core-rules.swade-rules.疲乏]{无力化} in this way. </span></p>\n<p><span class=\"fontstyle0\">Fatigue incurred by Soul Drain comes from deep within and may </span><span class=\"fontstyle2\">only </span><span class=\"fontstyle0\">be recovered naturally. The <em>@Compendium[swade-core-rules.swade-powers.缓和]{缓和}</em></span><span class=\"fontstyle2\">&nbsp;</span><span class=\"fontstyle0\">power and similar abilities have no effect.</span></p>\n</div>",
-			"requirements": "Seasoned, Arcane Background (Any), arcane skill d10+"
+			"requirements": "行家, 奥法背景 (任意), 奥法技能d10+"
 		},
 		"Steady Hands": {
 			"name": "手稳",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Firing from the back of a horse or moving vehicle is tricky business, but your adventurer has figured it out. She ignores the </span><span class=\"fontstyle2\">@Compendium[swade-core-rules.swade-rules.不稳平台]{不稳平台}</span><strong> </strong><span class=\"fontstyle0\">penalty. </span></p>\n<p><span class=\"fontstyle0\">This also helps when running, reducing the usual penalty from -2 to -1 (see </span><span class=\"fontstyle2\">@Compendium[swade-core-rules.swade-rules.移动]{移动}</span><span class=\"fontstyle0\">)</span></p>\n</div>",
-			"requirements": "Novice, Agility d8+"
+			"requirements": "入门, 灵巧d8+"
 		},
 		"Streetwise": {
 			"name": "市井门道",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Streetwise characters know how to find the local black market, fence stolen goods, avoid the local law (or criminal element!), lay low when the heat&rsquo;s on, obtain illegal weapons, find out which &ldquo;boss&rdquo; is hiring muscle, or similar shady activities.<br /></span></p>\n<p><span class=\"fontstyle0\">Streetwise characters add +2 to @Compendium[swade-core-rules.swade-skills.威吓]{威吓} or @Compendium[swade-core-rules.swade-skills.交涉]{交涉} rolls made to </span><span class=\"fontstyle2\">@Compendium[swade-core-rules.swade-rules.打点关系]{打点关系}</span><span class=\"fontstyle0\">&nbsp;with shady or criminal elements.<br /></span></p>\n<p><span class=\"fontstyle0\">They also add +2 to @Compendium[swade-core-rules.swade-skills.通用知识]{通用知识} rolls pertaining to the types of disreputable activities listed above</span></p>\n</div>",
-			"requirements": "Novice, Smarts d6+"
+			"requirements": "入门, 聪慧d6+"
 		},
 		"Strong Willed": {
 			"name": "坚强意志",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Self-confidence is powerful armor against those who attempt to attack this individual&rsquo;s will. He adds +2 to his total when resisting @Compendium[swade-core-rules.swade-rules.考验]{考验} with @Compendium[swade-core-rules.swade-rules.特性]{聪慧} or @Compendium[swade-core-rules.swade-rules.特性]{心魂}.</span></p>\n</div>",
-			"requirements": "Novice, Spirit d8+"
+			"requirements": "入门, 心魂d8+"
 		},
 		"Sweep": {
 			"name": "横扫",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Sweep allows a character to make a single @Compendium[swade-core-rules.swade-skills.格斗]{格斗} attack and apply it against all targets in his @Compendium[swade-core-rules.swade-rules.触及]{触及} at a <strong>-2</strong> penalty (friends and foes alike). Resolve damage separately for each enemy that&rsquo;s hit.</span></p>\n<p><span class=\"fontstyle0\">A fighter may only perform a Sweep once per turn. It may not be combined with @Compendium[swade-core-rules.swade-edges.连击]{连击}</span></p>\n</div>",
-			"requirements": "Novice, Strength d8+"
+			"requirements": "入门, 力量d8+"
 		},
 		"Tactician": {
 			"name": "战术家",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">The commander has a natural grasp of small unit tactics and can take advantage of rapidly changing situations. </span></p>\n<p><span class=\"fontstyle0\">A Tactician is dealt an extra @Compendium[swade-core-rules.swade-rules.行动卡 (先攻)]{行动卡} each round of combat or a chase&mdash;kept separate from his own cards. At the start of the round, he may discard it or give it to any one allied @Compendium[swade-core-rules.swade-rules.不羁角色与龙套们]{龙套} in @Compendium[swade-core-rules.swade-rules.专长]{指挥射程}. The player or GM controlling the receiving character can decide whether to accept and replace her current Action Card, or discard it.</span></p>\n</div>",
-			"requirements": "Seasoned, Smarts d8+, Command, Battle d6+"
+			"requirements": "行家, 聪慧d8+, 指挥, 作战d6+"
 		},
 		"Thief": {
 			"name": "盗贼",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Thieves specialize in deceit, treachery, and acrobatics. They can be invaluable where traps must be detected, walls must be climbed, and locks must be picked. </span></p>\n<p><span class=\"fontstyle0\">Thieves know how to use protrusions on walls and window ledges to climb the tallest of buildings, scampering through streets and back alleys like cats. They add +1 to @Compendium[swade-core-rules.swade-skills.运动]{运动} rolls made to climb in urban areas. </span></p>\n<p><span class=\"fontstyle0\">Thieves also know how to use the dark areas between the streetlights of cities to conceal their movements, and add +1 to @Compendium[swade-core-rules.swade-skills.潜行]{潜行} rolls when in an urban environment. </span></p>\n<p><span class=\"fontstyle0\">Finally, these rogues are&mdash;not surprisingly&mdash; adept at @Compendium[swade-core-rules.swade-skills.贼活]{贼活} itself, adding +1 to those rolls in all circumstances.</span></p>\n</div>",
-			"requirements": "Novice, Agility d8+, Stealth d6+, Thievery d6+"
+			"requirements": "入门, 灵巧d8+, 潜行d6+, 贼活d6+"
 		},
 		"Tough As Nails": {
 			"name": "比铁还硬",
 			"description": "<div class=\"swade-core\">\n<p>Your character keeps going when others fall. She can take four @Compendium[swade-core-rules.swade-rules.伤害效果]{损伤} before she&rsquo;s @Compendium[swade-core-rules.swade-rules.伤害效果]{无力化} (her maximum Wound penalty is still &minus;3).</p>\n<p>&nbsp;</p>\n</div>",
-			"requirements": "Legendary, Vigor d8+"
+			"requirements": "传奇, 活力d8+"
 		},
 		"Tougher Than Nails": {
 			"name": "比钢还强",
 			"description": "<div class=\"swade-core\">\n<p>The hero can take up to five @Compendium[swade-core-rules.swade-rules.伤害效果]{损伤} before she&rsquo;s @Compendium[swade-core-rules.swade-rules.伤害效果]{无力化}! Her maximum Wound penalty is still &minus;3.</p>\n</div>",
-			"requirements": "Legendary, Tough as Nails, Vigor d12+"
+			"requirements": "传奇, 比铁还硬, 活力d12+"
 		},
 		"Trademark Weapon": {
 			"name": "招牌武器",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">The hero knows one unique weapon (Excalibur, Old Betsy, Sting) like the back of his hand. When using it, he adds +1 to his @Compendium[swade-core-rules.swade-skills.运动]{运动} (throwing), @Compendium[swade-core-rules.swade-skills.格斗]{格斗}, or @Compendium[swade-core-rules.swade-skills.射击]{射击} rolls, and +1 to @Compendium[swade-core-rules.swade-rules.角色]{格挡} when readied (even if it&rsquo;s a ranged weapon).</span></p>\n<p><span class=\"fontstyle0\">A fighter can take this Edge multiple times, applying it to a different weapon each time. If a Trademark Weapon is lost, he can replace it but the benefits don&rsquo;t kick in for a few days (however long the GM feels is dramatically appropriate).</span></p>\n</div>",
-			"requirements": "Novice, skill with chosen weapon of d8+"
+			"requirements": "入门, 所选武器技能d8+"
 		},
 		"Two-Fisted": {
 			"name": "左右连环",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">If a character makes a @Compendium[swade-core-rules.swade-skills.格斗]{格斗} attack withone action and another from a </span><span class=\"fontstyle2\">different hand </span><span class=\"fontstyle0\">in a later action, the second attack doesn&rsquo;t inflict a @Compendium[swade-core-rules.swade-rules.多重动作]{多重动作} penalty. The&nbsp;</span><span class=\"fontstyle3\"><strong>@Compendium[swade-core-rules.swade-rules.副手攻击]{副手}&nbsp;</strong></span><span class=\"fontstyle0\">penalty still applies unless he&rsquo;s @Compendium[swade-core-rules.swade-edges.双巧手]{双巧手}.</span></p>\n<p><span class=\"fontstyle0\">If the character has @Compendium[swade-core-rules.swade-edges.双枪小子]{双枪小子}, the second action may also be a ranged attack.</span></p>\n</div>",
-			"requirements": "Novice, Agility d8+"
+			"requirements": "入门, 灵巧d8+"
 		},
 		"Two-Gun Kid": {
 			"name": "双枪小子",
-			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Two-Gun Kid works just like @Compendium[swade-core-rules.swade-edges.左右连环]{左右连环}, but with ranged weapons, allowing her to fire or throw a weapon in each hand as two different actions but without triggering a@Compendium[swade-core-rules.swade-rules.多重动作]{多重动作} penalty.</span></p>\n<p><span class=\"fontstyle0\">If the character has Two-Fisted, the second action may also be a melee attack.</span></p>\n<h2>Example</h2>\n<p><span class=\"fontstyle0\">Red has a sword in one hand and a pistol in the other. She has both Two-Fisted and Two-Gun Kid, so she can make a @Compendium[swade-core-rules.swade-skills.格斗]{格斗} attack on one action and then a second Fighting </span><span class=\"fontstyle2\">or </span><span class=\"fontstyle0\">@Compendium[swade-core-rules.swade-skills.射击]{射击} attack with no @Compendium[swade-core-rules.swade-rules.多重动作]{多重动作} penalty on a later action that turn</span></p>\n</div>",
-			"requirements": "Novice, Agility d8+"
+			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Two-Gun Kid works just like @Compendium[swade-core-rules.swade-edges.左右连环]{左右连环}, but with ranged weapons, allowing her to fire or throw a weapon in each hand as two different actions but without triggering a@Compendium[swade-core-rules.swade-rules.多重动作]{多重动作} penalty.</span></p>\n<p><span class=\"fontstyle0\">If the character has Two-Fisted, the second action may also be a melee attack.</span></p>\n<h2>Example</h2>\n<p><span class=\"fontstyle0\">Red has a sword in one hand and a pistol in the other. She has both Two-Fisted and Two-Gun Kid, so she can make a @Compendium[swade-core-rules.swade-skills.格斗]{格斗} attack on one action and then a second 格斗 </span><span class=\"fontstyle2\">or </span><span class=\"fontstyle0\">@Compendium[swade-core-rules.swade-skills.射击]{射击} attack with no @Compendium[swade-core-rules.swade-rules.多重动作]{多重动作} penalty on a later action that turn</span></p>\n</div>",
+			"requirements": "入门, 灵巧d8+"
 		},
 		"Very Attractive": {
 			"name": "魅力非凡",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Your hero is drop-dead gorgeous. He increases his @Compendium[swade-core-rules.swade-skills.表演]{表演} and @Compendium[swade-core-rules.swade-skills.交涉]{交涉} bonus to +2.</span></p>\n</div>",
-			"requirements": "Novice, Attractive"
+			"requirements": "入门, 魅力惊人"
 		},
 		"Weapon Master": {
 			"name": "武器大师",
-			"description": "<div class=\"swade-core\">\n<p>The warrior increases his @Compendium[swade-core-rules.swade-rules.角色]{格挡} by +1 and the bonus damage die for @Compendium[swade-core-rules.swade-skills.格斗]{格斗} rolls is a d8 instead of a d6 (see <strong>@Compendium[swade-core-rules.swade-rules.造成伤害]{奖励伤害}</strong>). He must be armed to gain these benefits, but this includes the @Compendium[swade-core-rules.swade-edges.武术家]{武术家} Edge, @Compendium[swade-core-rules.swade-rules.特殊能力 (爪抓)]{爪抓}, or other abilities that count as weapons.</p>\n</div>",
-			"requirements": "Legendary, Fighting d12+"
+			"description": "<div class=\"swade-core\">\n<p>The warrior increases his @Compendium[swade-core-rules.swade-rules.角色]{格挡} by +1 and the bonus damage die for @Compendium[swade-core-rules.swade-skills.格斗]{格斗} rolls is ad8 instead of ad6 (see <strong>@Compendium[swade-core-rules.swade-rules.造成伤害]{奖励伤害}</strong>). He must be armed to gain these benefits, but this includes the @Compendium[swade-core-rules.swade-edges.武术家]{武术家} Edge, @Compendium[swade-core-rules.swade-rules.特殊能力 (爪抓)]{爪抓}, or other abilities that count as weapons.</p>\n</div>",
+			"requirements": "传奇, 格斗d12+"
 		},
 		"Wizard": {
 			"name": "奇才",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Magic is varied and wonderful, and wizards are exposed to countless tomes, scrolls, and incantations as they master their craft. Sometimes they use this knowledge to recall variations of their various enchantments. </span></p>\n<p><span class=\"fontstyle0\">A Wizard can spend 1 extra @Compendium[swade-core-rules.swade-rules.奥法背景]{奇术点} when casting a power to change its @Compendium[swade-core-rules.swade-rules.特效]{特效}. A fireball (<em>@Compendium[swade-core-rules.swade-powers.爆发]{爆发}</em></span><span class=\"fontstyle0\">) might manifest as a lightning bolt, for example. This can often have important consequences if a foe has a particular resistance or weakness to the spell&rsquo;s usual Trapping</span></p>\n</div>",
-			"requirements": "Seasoned, Arcane Background (Magic), Spellcasting d6+"
+			"requirements": "行家, 奥法背景 (魔法), 施法d6+"
 		},
 		"Woodsman": {
 			"name": "守林人",
 			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">Woodsmen are rangers, scouts, and hunters who are more at home in the wilderness than in urban areas. They are skilled trackers and scouts, and know how to live off the land for months at a time.</span></p>\n<p><span class=\"fontstyle0\">Woodsmen add +2 to @Compendium[swade-core-rules.swade-skills.生存]{生存} rolls, and @Compendium[swade-core-rules.swade-skills.潜行]{潜行} rolls made in the wild (not towns, ruins, or underground).</span></p>\n</div>",
-			"requirements": "Novice, Spirit d6+, Survival d8+"
+			"requirements": "入门, 心魂d6+, 生存d8+"
 		},
 		"Work The Room": {
 			"name": "推波助浪",
 			"description": "<div class=\"swade-core\">\n<p>Your hero&rsquo;s words don&rsquo;t just inspire those they&rsquo;re directed at&mdash;they often inspire others as well. Once per turn, you can use Work the Room to roll an additional skill die when @Compendium[swade-core-rules.swade-rules.援助]{援助} with @Compendium[swade-core-rules.swade-skills.交涉]{交涉} or @Compendium[swade-core-rules.swade-skills.表演]{表演}. The additional die Supports any other ally who can see or hear your hero, and applies to their next action, whatever it may be.</p>\n</div>",
-			"requirements": "Novice, Spirit d8+"
+			"requirements": "入门, 心魂d8+"
 		},
 		"Work the Crowd": {
 			"name": "推波助澜",
 			"description": "<div class=\"swade-core\">\n<p>As @Compendium[swade-core-rules.swade-edges.推波助浪]{推波助浪} but the hero now can @Compendium[swade-core-rules.swade-rules.援助]{援助} another on up to two of her Support actions.</p>\n<p>&nbsp;</p>\n</div>",
-			"requirements": "Seasoned, Work the Room"
+			"requirements": "行家, 推波助浪"
 		}
 	}
 }
