@@ -12,7 +12,7 @@
 		},
 		"Acrobat": {
 			"name": "特技员",
-			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">The Acrobat gets one free reroll on @Compendium[swade-core-rules.swade-skills.运动]{运动} totals that involve balance, tumbling, or grappling. It doesn&rsquo;t affect rolls to interrupt actions, climb, swim, or throw</span></p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p><span class=\"fontstyle0\">特技员就包括平衡、翻滚或擒抱的@Compendium[swade-core-rules.swade-skills.运动]{运动}总值免费获得一次重投。该专长不影响打断动作、攀爬，游泳或投掷的投骰。</span></p>\n</div>",
 			"requirements": "入门, 灵巧d8+, 运动d8+"
 		},
 		"Alertness": {
