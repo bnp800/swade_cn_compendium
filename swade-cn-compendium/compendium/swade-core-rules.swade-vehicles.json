@@ -13,8 +13,8 @@
 				{
 					"id": "ZkQ5MB1hMIOKYsnN",
 					"name": "地狱火导弹",
-					"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}. A laser-guided missile fired from a vehicle-mounted launcher.</p>\n<hr />\n<p>Unless otherwise noted, missiles must &ldquo;lock&rdquo; onto their targets before they can be fired. This action is an opposed @Compendium[swade-core-rules.swade-skills.电子学]{电子学} roll versus the target&rsquo;s maneuvering skill (@Compendium[swade-core-rules.swade-skills.驾船]{驾船}, @Compendium[swade-core-rules.swade-skills.驾驶]{驾驶}, or @Compendium[swade-core-rules.swade-skills.航空]{航空}, as appropriate). Success gives the attacker a &ldquo;short&rdquo; lock and allows him to fire up to half the missiles his particular craft can fire at once. A raise is a more solid lock and allows him to fire all of them.</p>\n<p>The enemy attempts to evade each missile separately by making a @Compendium[swade-core-rules.swade-rules.追逐与载具{机动} roll at &minus;4 (or &minus;2 if the target has substantial cover to hide behind&mdash;such as asteroids, skyscrapers, canyon walls, or even large enemy ships. A @Compendium[swade-core-rules.swade-rules.特性投骰]{大失败} means the craft goes <strong>@Compendium[swade-core-rules.swade-tables.失控]{失控}</strong>.</p>\n<p><strong>Anti-Missile Systems: </strong>Warships and futuristic space vessels often have &ldquo;point defense&rdquo; systems to shoot down incoming missiles. Operators must be on @Compendium[swade-core-rules.swade-rules.待机]{待机} to shoot down missiles; automated systems attack automatically. The system grants a single @Compendium[swade-core-rules.swade-skills.射击]{射击} roll per missile at @Compendium[swade-core-rules.swade-rules.射程]{近距} and any other relevant modifiers (including @Compendium[swade-core-rules.swade-rules.速度]{速度}&mdash;missiles move at Mach 1, a &minus;6 penalty, unless otherwise noted). Unless otherwise noted, missiles are objects with a @Compendium[swade-core-rules.swade-rules.角色]{坚韧} of 8 (2) (see <strong>@Compendium[swade-core-rules.swade-rules.破坏物体]{破坏物体}</strong>).</p>\n</div>",
-					"notes": "重武器. A laser-guided missile fired from a vehicle-mounted launcher.",
+					"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}。从车载发射器上发射的激光制导导弹。</p>\n<hr />\n<p>除非另有说明，导弹必须“锁定”目标后才能发射。这个动作是以@Compendium[swade-core-rules.swade-skills.电子学]{电子学}对抗目标的机动技能(驾船，驾驶或是航空，酌情而定)。成功意味着攻击方能“仓促”锁定目标并得以一次性发射装置上最多一半的导弹。出现优良则代表锁定更为充分，这时能全弹发射。</p>\n<p>敌方能就每一枚导弹各自进行一次-4的@Compendium[swade-core-rules.swade-rules.追逐与载具{机动}投骰来尝试回避(如果目标有结实的掩体可供躲藏—􍄔比如小行星、大厦、崖壁甚至是大型敌舰，则只有-2)，@Compendium[swade-core-rules.swade-rules.特性投骰]{大失败}意味着载具<strong>@Compendium[swade-core-rules.swade-tables.失控]{失控}</strong>。</p>\n<p><strong>反导弹系统：</strong>战舰和未来的太空船通常都有击落袭来导弹的“点防御”系统。操作员必须处于@Compendium[swade-core-rules.swade-rules.待机]{待机}才能击落导弹。如果是自动系统则会自行发起攻击。该系统会对每枚导弹单独提供一次在@Compendium[swade-core-rules.swade-rules.射程]{近距}射程进行@Compendium[swade-core-rules.swade-skills.射击]{射击}投骰的机会，并算入其他相关调整值(包括速度。除非另有说明，导弹@Compendium[swade-core-rules.swade-rules.速度]{速度}达到1马赫时会带来-6减值)。除非另有说明，导弹是@Compendium[swade-core-rules.swade-rules.角色]{坚韧}为8(2)的物件(见<strong>@Compendium[swade-core-rules.swade-rules.破坏物体]{破坏物体}</strong>)。</p>\n</div>",
+					"notes": "重武器。从车载发射器上发射的激光制导导弹。",
 					"actions": {
 						"skill": "射击"
 					}
@@ -40,7 +40,7 @@
 		},
 		"AV-8B Harrier": {
 			"name": "AV-8B 鹞式战斗机",
-			"description": "<div class=\"swade-core\">\n<p>&ndash;1 @Compendium[swade-core-rules.swade-rules.载具注释]{操控性} when in VTOL mode.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>在垂直起落模式时@Compendium[swade-core-rules.swade-rules.载具注释]{操控性}为-1。</p>\n</div>",
 			"skill": "航空",
 			"items": [
 				{
@@ -63,8 +63,8 @@
 				{
 					"id": "EdvU8l2DYvpFGYRV",
 					"name": "响尾蛇导弹",
-					"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}. A short range, heat-seeking missile fired from an aircraft.</p>\n<hr />\n<p>Unless otherwise noted, missiles must &ldquo;lock&rdquo; onto their targets before they can be fired. This action is an opposed @Compendium[swade-core-rules.swade-skills.电子学]{电子学} roll versus the target&rsquo;s maneuvering skill (@Compendium[swade-core-rules.swade-skills.驾船]{驾船}, @Compendium[swade-core-rules.swade-skills.驾驶]{驾驶}, or @Compendium[swade-core-rules.swade-skills.航空]{航空}, as appropriate). Success gives the attacker a &ldquo;short&rdquo; lock and allows him to fire up to half the missiles his particular craft can fire at once. A raise is a more solid lock and allows him to fire all of them.</p>\n<p>The enemy attempts to evade each missile separately by making a @Compendium[swade-core-rules.swade-rules.追逐与载具{机动} roll at &minus;4 (or &minus;2 if the target has substantial cover to hide behind&mdash;such as asteroids, skyscrapers, canyon walls, or even large enemy ships. A @Compendium[swade-core-rules.swade-rules.特性投骰]{大失败} means the craft goes <strong>@Compendium[swade-core-rules.swade-tables.失控]{失控}</strong>.</p>\n<p><strong>Anti-Missile Systems: </strong>Warships and futuristic space vessels often have &ldquo;point defense&rdquo; systems to shoot down incoming missiles. Operators must be on @Compendium[swade-core-rules.swade-rules.待机]{待机} to shoot down missiles; automated systems attack automatically. The system grants a single @Compendium[swade-core-rules.swade-skills.射击]{射击} roll per missile at @Compendium[swade-core-rules.swade-rules.射程]{近距} and any other relevant modifiers (including @Compendium[swade-core-rules.swade-rules.速度]{速度}&mdash;missiles move at Mach 1, a &minus;6 penalty, unless otherwise noted). Unless otherwise noted, missiles are objects with a @Compendium[swade-core-rules.swade-rules.角色]{坚韧} of 8 (2) (see <strong>@Compendium[swade-core-rules.swade-rules.破坏物体]{破坏物体}</strong>).</p>\n</div>",
-					"notes": "重武器. A short range, heat-seeking missile fired from an aircraft.",
+					"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}。从飞行器上发射的短距热追踪导弹。</p>\n<hr />\n<p>除非另有说明，导弹必须“锁定”目标后才能发射。这个动作是以@Compendium[swade-core-rules.swade-skills.电子学]{电子学}对抗目标的机动技能(驾船，驾驶或是航空，酌情而定)。成功意味着攻击方能“仓促”锁定目标并得以一次性发射装置上最多一半的导弹。出现优良则代表锁定更为充分，这时能全弹发射。</p>\n<p>敌方能就每一枚导弹各自进行一次-4的@Compendium[swade-core-rules.swade-rules.追逐与载具{机动}投骰来尝试回避(如果目标有结实的掩体可供躲藏—􍄔比如小行星、大厦、崖壁甚至是大型敌舰，则只有-2)，@Compendium[swade-core-rules.swade-rules.特性投骰]{大失败}意味着载具<strong>@Compendium[swade-core-rules.swade-tables.失控]{失控}</strong>.</p>\n<p><strong>反导弹系统：</strong>战舰和未来的太空船通常都有击落袭来导弹的“点防御”系统。操作员必须处于@Compendium[swade-core-rules.swade-rules.待机]{待机}才能击落导弹。如果是自动系统则会自行发起攻击。该系统会对每枚导弹单独提供一次在@Compendium[swade-core-rules.swade-rules.射程]{近距}射程进行@Compendium[swade-core-rules.swade-skills.射击]{射击}投骰的机会，并算入其他相关调整值(包括速度。除非另有说明，导弹@Compendium[swade-core-rules.swade-rules.速度]{速度}达到1马赫时会带来-6减值)。除非另有说明，导弹是@Compendium[swade-core-rules.swade-rules.角色]{坚韧}为8(2)的物件(见<strong>@Compendium[swade-core-rules.swade-rules.破坏物体]{破坏物体}</strong>).</p>\n</div>",
+					"notes": "重武器。从飞行器上发射的短距热追踪导弹。",
 					"actions": {
 						"skill": "射击"
 					}
@@ -251,7 +251,7 @@
 		"Bicycle": {
 			"name": "自行车",
 			"skill": "驾驶",
-			"description": "<div class=\"swade-core\"><p>50% chance a shot hits the rider instead. Doubles rider&rsquo;s @Compendium[swade-core-rules.swade-rules.移动]{移速} and @Compendium[swade-core-rules.swade-rules.移动]{奔跑骰} result.</p></div>"
+			"description": "<div class=\"swade-core\"><p>射击有50%几率会转而击中骑手，骑手的@Compendium[swade-core-rules.swade-rules.移动]{移速}和@Compendium[swade-core-rules.swade-rules.移动]{奔跑骰}结果翻倍。</p></div>"
 		},
 		"Biplane": {
 			"name": "双翼飞机",
@@ -260,7 +260,7 @@
 		},
 		"Carriage": {
 			"name": "马车",
-			"description": "<div class=\"swade-core\"><p>Pulled by one @Compendium[swade-core-rules.swade-equipment.马]{马}. @Compendium[swade-core-rules.swade-rules.移动]{移速} on the tabletop is 12 and it may run.</p></div>",
+			"description": "<div class=\"swade-core\"><p>以单匹@Compendium[swade-core-rules.swade-equipment.马]{马}拉动。桌面上的@Compendium[swade-core-rules.swade-rules.移动]{移速}是12，而且可以奔跑。</p></div>",
 			"skill": "骑乘"
 		},
 		"Cessna Skyhawk": {
@@ -270,17 +270,17 @@
 		},
 		"Compact Car": {
 			"name": "小型汽车",
-			"description": "<div class=\"swade-core\"><p>Honda Civic or similar vehicle.</p></div>",
+			"description": "<div class=\"swade-core\"><p>本田思域等类似汽车。</p></div>",
 			"skill": "驾驶"
 		},
 		"Dirt Bike": {
 			"name": "越野摩托车",
-			"description": "<div class=\"swade-core\">\n<p>Stock bike designed for off-road use with excellent shocks. Off Road (treat as @Compendium[swade-core-rules.swade-rules.载具注释]{四轮驱动}). 50% chance any uncalled shot hits the character instead.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>具有优秀缓冲的常见越野摩托车，越野(视作@Compendium[swade-core-rules.swade-rules.载具注释]{四轮驱动})，未指定具体目标的射击有50%几率会击中角色)。</p>\n</div>",
 			"skill": "驾驶"
 		},
 		"Early Car": {
 			"name": "早期汽车",
-			"description": "<div class=\"swade-core\">Model Ts and the like.</div>",
+			"description": "<div class=\"swade-core\">福特T型车之类的。</div>",
 			"skill": "驾驶"
 		},
 		"F-15 Eagle": {
@@ -318,8 +318,8 @@
 				{
 					"id": "7WuOXZ4o4Tlpfpyx",
 					"name": "16到46x加农炮 (12磅), 实心弹(左右固定)",
-					"description": "<div class=\"swade-core\">\n<p>Cannons are used to destroy city walls or break up large troop formations. The leader of the weapon&rsquo;s crew makes the @Compendium[swade-core-rules.swade-skills.射击]{射击} roll.</p>\n<p><strong>炮轰:</strong> Assuming they have a rough idea of their target&rsquo;s location, howitzers, mortars, and bombards may fire at targets they cannot see by lobbing projectiles over intervening terrain or obstacles. Bombarding suffers a &minus;4 penalty in addition to all other modifiers, and doubles deviation when the @Compendium[swade-core-rules.swade-skills.射击]{射击} roll is failed (see @Compendium[swade-core-rules.swade-rules.范围效果攻击]{范围效果攻击}). Reduce the penalty to &minus;2 with precise coordinates (such as from a spotter).</p>\n<p><strong>Solid Shot:</strong> Heavy balls of iron, lead, or stone designed to batter walls or plow through packed ranks of troops. To fire, the leader of the crew makes a @Compendium[swade-core-rules.swade-skills.射击]{射击} roll as usual. If successful, roll a die. If even, it bounces to another victim behind and within 6&rdquo; of the first and hits him as well. Continue in this way until the die roll is odd.</p>\n<p>Compare the @Compendium[swade-core-rules.swade-skills.射击]{射击} roll to every target within using a base TN of 4, adjusted for each target&rsquo;s @Compendium[swade-core-rules.swade-rules.掩蔽与障碍]{掩蔽}, special abilities like the @Compendium[swade-core-rules.swade-edges.闪避]{闪避} Edge, etc. A hit causes 2d6 damage and a raise causes 3d6.</p>\n<p><strong>Note:</strong> All types of shot are @Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}, @Compendium[swade-core-rules.swade-rules.装填]{装填} 8. Two crew members may reload at the same time.</p>\n</div>",
-					"notes": "All types of shot are Heavy Weapons, Reload 8. Two crew members may reload at the same time.",
+					"description": "<div class=\"swade-core\">\n<p>加农炮用于破坏城墙或是炸散大部队的阵线，由炮组的领队进行@Compendium[swade-core-rules.swade-skills.射击]{射击}投骰。</p>\n<p><strong>炮轰：</strong>假设大概知道目标所在位置，榴弹炮、迫击炮和臼炮能通过把抛物线调整至阻挡的地形或是障碍之上来对视线外的目标进行射击。炮轰在除去所有其他调整值外会额外遭受-4减值，而且如果@Compendium[swade-core-rules.swade-skills.射击]{射击}投骰失败则其偏移翻倍(见@Compendium[swade-core-rules.swade-rules.范围效果攻击]{范围效果攻击})。若是能获得精准坐标(比如配合侦查员)，则减值降至-2。</p>\n<p><strong>实心弹：</strong>用于击破坚墙或者犁过部队阵列的沉重铁球、铅球或是石球。若要开火，则炮组的领队如常进行一次@Compendium[swade-core-rules.swade-skills.射击]{射击}投骰。倘若成功，投一枚骰子，若结果为偶数，则其会弹跳并命中位于首个命中对象后方6英寸内的另一对象，一直到结果出现奇数为止。</p>\n<p>针对每个目标根据@Compendium[swade-core-rules.swade-skills.射击]{射击}投骰单独结算，使用基础TN(4)并算上各目标的@Compendium[swade-core-rules.swade-rules.掩蔽与障碍]{掩蔽}以及诸如@Compendium[swade-core-rules.swade-edges.闪避]{闪避} 专长之类的特殊能力等所带来的调整值。成功命中造成2d6伤害，出现优良则是3d6伤害。</p>\n<p><strong>注：</strong>所有种类的炮弹都是@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}，@Compendium[swade-core-rules.swade-rules.装填]{装填}为8，两名炮组成员能同时进行装填。</p>\n</div>",
+					"notes": "所有种类的炮弹都是重武器，装填为8，两名炮组成员能同时进行装填。",
 					"actions": {
 						"skill": "射击",
 						"additional": {
@@ -336,14 +336,14 @@
 		},
 		"Galley": {
 			"name": "桨帆船",
-			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.载具注释]{重护甲}. Has both oars and sails.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.载具注释]{重护甲}。同时具有船桨和船帆。</p>\n</div>",
 			"skill": "驾船",
 			"items": [
 				{
 					"id": "lJGPVUQLj4tQ2f6Z",
 					"name": "投石机 (前固定)",
-					"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.范围效果攻击]{中型爆散盖板}</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}, Reload time is every 5 minutes with a crew of 4.</p>\n<hr />\n<p>Catapults are simple devices that hurl large stones at enemy defenses or ranks of troops. They normally require a crew of eight to load the projectile, crank down the lever that propels it, then sight and aim it. Firing can be done by a single person, but @Compendium[swade-core-rules.swade-rules.装填]{装填} the projectile takes at least four.</p>\n</div>",
-					"notes": "MBT, 重武器, Reload time is every 5 minutes with a crew of 4.",
+					"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.范围效果攻击]{中型爆散盖板}</p>\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}，四人装填时间需要5分钟。</p>\n<hr />\n<p>投石机是把大块石头抛向敌方防御工事以及部队阵列的简易装置，这通常需要八人班组来装填投射物，放下抛射杠杆，观察及瞄准。发射可由一人完成，但@Compendium[swade-core-rules.swade-rules.装填]{装填}投射物至少需要四名人员</p>\n</div>",
+					"notes": "中型爆散盖板, 重武器，四人装填时间需要5分钟。",
 					"actions": {
 						"skill": "射击"
 					}
@@ -733,12 +733,12 @@
 		},
 		"Mid-Sized Car": {
 			"name": "中型汽车",
-			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.载具注释]{气囊}, luxury features.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.载具注释]{气囊}，奢华外表。</p>\n</div>",
 			"skill": "驾驶"
 		},
 		"Minivan": {
 			"name": "小型货车",
-			"description": "<div class=\"swade-core\">\n<p>Typical family mini-van. @Compendium[swade-core-rules.swade-rules.载具注释]{气囊}, some luxury features.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>典型的家用小型货车。@Compendium[swade-core-rules.swade-rules.载具注释]{气囊}，其中一些外表奢华。</p>\n</div>",
 			"skill": "驾驶"
 		},
 		"P-51 Mustang": {
@@ -807,7 +807,7 @@
 				{
 					"id": "4v74UcGjmOzxJpEe",
 					"name": ".50口径机枪 (前同轴)",
-					"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器}</p>\n<hr />\n<p>Machine guns are heavy, fully automatic weapons built to withstand prolonged fire. Most are fed by belts or drums and thus have far more ammo capacity than assault rifles, despite similar calibers and rates of fire.</p>\n<p><strong>Weapon Mount:</strong>&nbsp;Most machine-guns require a @Compendium[swade-core-rules.swade-equipment.Bipod/Tripod]{Bipod/Tripod} or vehicle mount to fire, which eliminates any Strength requirement and the @Compendium[swade-core-rules.swade-rules.后坐力]{后坐力} penalty. Their @Compendium[swade-core-rules.swade-rules.最低力量]{最低力量} is listed as &ldquo;NA,&rdquo; or &ldquo;Not Applicable.&rdquo; If a weapon has a Minimum Strength listed, it may be fired from the hip with the @Compendium[swade-core-rules.swade-rules.猝射]{猝射} and Recoil penalties.</p>\n<p><strong>最低射速：</strong>&nbsp;Machine-guns have a minimum @Compendium[swade-core-rules.swade-rules.射速]{射速} of 2 unless otherwise noted.</p>\n<p><strong>Reloading:</strong>&nbsp;Machine guns are @Compendium[swade-core-rules.swade-rules.装填]{装填} 2, which includes changing belts or drums, cocking, etc.</p>\n</div>",
+					"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器}</p>\n<hr />\n<p>机枪是沉重的全自动武器，在设计上用于持续提供长时间的火力输出，其大部分需要弹链或 是弹鼓进行装填，因此尽管口径和射速和突击步枪差不多，但弹容量要胜出一筹。</p>\n<p><strong>武器架：</strong>大部分机枪都需要架设在@Compendium[swade-core-rules.swade-equipment.两脚架/三脚架]{两脚架/三脚架}或是载具上开火，这样可以免于任何力量需求以及@Compendium[swade-core-rules.swade-rules.后坐力]{后坐力}减值。机枪的最低力量一般是“NA”，或是“不适用”。如果这把武器的确列出了@Compendium[swade-core-rules.swade-rules.最低力量]{最低力量}，那就可以提在腰间开火，但是会带有@Compendium[swade-core-rules.swade-rules.猝射]{猝射}及后坐力减值。</p>\n<p><strong>最低射速：</strong>除非另有说明，否则机枪的最低@Compendium[swade-core-rules.swade-rules.射速]{射速}是2。</p>\n<p><strong>装填：</strong>机枪的@Compendium[swade-core-rules.swade-rules.装填]{装填}是2，包括更换弹链、弹鼓以及拉栓等等。</p>\n</div>",
 					"notes": "重武器.",
 					"actions": {
 						"skill": "射击",
@@ -841,8 +841,8 @@
 				{
 					"id": "tTmL36kU3p8opaIL",
 					"name": "4×鱼雷管 (前固定)",
-					"description": "<div class='swade-core'><p>Rocket launchers and early torpedoes are direct-fire weapons that explode on contact with their target. All the listed weapons are @Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}.</p>\n<p>@Compendium[swade-core-rules.swade-rules.范围效果攻击]{大型爆散盖板}</p></div>",
-					"notes": "LBT, 重武器.",
+					"description": "<div class='swade-core'><p>火箭发射器和早期鱼雷是直射火力型武器，在与目标接触后就会爆炸。以下列出的武器皆是@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 (HW)}.</p>\n<p>@Compendium[swade-core-rules.swade-rules.范围效果攻击]{大型爆散盖板}</p></div>",
+					"notes": "大型爆散盖板, 重武器.",
 					"actions": {
 						"skill": "射击"
 					}
@@ -1013,8 +1013,8 @@
 				{
 					"id": "u9DHb70boP2rn4kI",
 					"name": "响尾蛇导弹 (苏联同等级别导弹)",
-					"description": "<div class=\"swade-core\">\n<p><span style=\"background-color: #dfe6f5; color: #191813;\">@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器}</span>. A short range, heat-seeking missile fired from an aircraft. @Compendium[swade-core-rules.swade-rules.范围效果攻击]{小型爆散盖板}.</p>\n<hr />\n<p>Unless otherwise noted, missiles must &ldquo;lock&rdquo; onto their targets before they can be fired. This action is an opposed @Compendium[swade-core-rules.swade-skills.电子学]{电子学} roll versus the target&rsquo;s maneuvering skill (@Compendium[swade-core-rules.swade-skills.驾船]{驾船}, @Compendium[swade-core-rules.swade-skills.驾驶]{驾驶}, or @Compendium[swade-core-rules.swade-skills.航空]{航空}, as appropriate). Success gives the attacker a &ldquo;short&rdquo; lock and allows him to fire up to half the missiles his particular craft can fire at once. A raise is a more solid lock and allows him to fire all of them.</p>\n<p>The enemy attempts to evade each missile separately by making a maneuvering roll at &minus;4 (or &minus;2 if the target has substantial cover to hide behind&mdash;such as asteroids, skyscrapers, canyon walls, or even large enemy ships. A @Compendium[swade-core-rules.swade-rules.特性投骰]{大失败} means the craft goes @Compendium[swade-core-rules.swade-tables.失控]{失控}.</p>\n<p><strong>Anti-Missile Systems:</strong> Warships and futuristic space vessels often have &ldquo;point defense&rdquo; systems to shoot down incoming missiles. Operators must be on @Compendium[swade-core-rules.swade-rules.待机]{待机} to shoot down missiles; automated systems attack automatically. The system grants a single @Compendium[swade-core-rules.swade-skills.射击]{射击} roll per missile at Short @Compendium[swade-core-rules.swade-rules.射程]{射程} and any other relevant modifiers (including @Compendium[swade-core-rules.swade-rules.速度]{速度}&mdash;missiles move at Mach 1, a &minus;6 penalty, unless otherwise noted). Unless otherwise noted, missiles are objects with a @Compendium[swade-core-rules.swade-rules.破坏物体]{坚韧} of 8 (2).</p>\n</div>",
-					"notes": "重武器. A short range, heat-seeking missile fired from an aircraft.",
+					"description": "<div class=\"swade-core\">\n<p><span style=\"background-color: #dfe6f5; color: #191813;\">@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器}</span>。从飞行器上发射的短距热追踪导弹。 @Compendium[swade-core-rules.swade-rules.范围效果攻击]{小型爆散盖板}.</p>\n<hr />\n<p>除非另有说明，导弹必须“锁定”目标后才能发射。这个动作是以@Compendium[swade-core-rules.swade-skills.电子学]{电子学}对抗目标的机动技能(驾船，驾驶或是航空，酌情而定)。成功意味着攻击方能“仓促”锁定目标并得以一次性发射装置上最多一半的导弹。出现优良则代表锁定更为充分，这时能全弹发射。</p>\n<p>敌方能就每一枚导弹各自进行一次-4的@Compendium[swade-core-rules.swade-rules.追逐与载具{机动}投骰来尝试回避(如果目标有结实的掩体可供躲藏—􍄔比如小行星、大厦、崖壁甚至是大型敌舰，则只有-2)，@Compendium[swade-core-rules.swade-rules.特性投骰]{大失败}意味着载具<strong>@Compendium[swade-core-rules.swade-tables.失控]{失控}</strong></p>\n<p><strong>反导弹系统：</strong>战舰和未来的太空船通常都有击落袭来导弹的“点防御”系统。操作员必须处于@Compendium[swade-core-rules.swade-rules.待机]{待机}才能击落导弹。如果是自动系统则会自行发起攻击。该系统会对每枚导弹单独提供一次在@Compendium[swade-core-rules.swade-rules.射程]{近距}射程进行@Compendium[swade-core-rules.swade-skills.射击]{射击}投骰的机会，并算入其他相关调整值(包括速度。除非另有说明，导弹@Compendium[swade-core-rules.swade-rules.速度]{速度}达到1马赫时会带来-6减值)。除非另有说明，导弹是@Compendium[swade-core-rules.swade-rules.角色]{坚韧}为8(2)的物件(见<strong>@Compendium[swade-core-rules.swade-rules.破坏物体]{破坏物体}</strong>)。</p>\n</div>",
+					"notes": "重武器。从飞行器上发射的短距热追踪导弹。",
 					"actions": {
 						"skill": "射击"
 					}
@@ -1023,7 +1023,7 @@
 		},
 		"Semi-Truck": {
 			"name": "卡车",
-			"description": "<div class=\"swade-core\">\n<p>Trailer is @Compendium[swade-core-rules.swade-rules.体型与尺寸]{体型} 7 (Large), @Compendium[swade-core-rules.swade-rules.角色]{坚韧} 14 (2). *@Compendium[swade-core-rules.swade-rules.载具注释]{操控性} with a trailer attached is &ndash;2.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>拖箱@Compendium[swade-core-rules.swade-rules.体型与尺寸]{体型}是7 (大型), @Compendium[swade-core-rules.swade-rules.角色]{坚韧}14(2). *附有拖箱时@Compendium[swade-core-rules.swade-rules.载具注释]{操控性}是-2。</p>\n</div>",
 			"skill": "驾驶"
 		},
 		"Small Yacht": {
@@ -1084,22 +1084,22 @@
 		},
 		"Sports Car": {
 			"name": "跑车",
-			"description": "<div class=\"swade-core\">\n<p class=\"swade-core\">Mustang or similar stock sports cars.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p class=\"swade-core\">野马或是类似的常见跑车。</p>\n</div>",
 			"skill": "驾驶"
 		},
 		"Sports Utility Vehicle": {
 			"name": "SUV",
-			"description": "<div class=\"swade-core\">\n<p>Luxury features, @Compendium[swade-core-rules.swade-rules.载具注释]{四轮驱动}</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>奢华外表，@Compendium[swade-core-rules.swade-rules.载具注释]{四轮驱动}</p>\n</div>",
 			"skill": "驾驶"
 		},
 		"Street Bike": {
 			"name": "城市摩托车",
-			"description": "<div class=\"swade-core\">Stock name-brand street bikes designed for urban use.\n50% chance any uncalled shot hits the character instead.</div>",
+			"description": "<div class=\"swade-core\"><p>常见的城市用名牌街道摩托车，未指定具体部位的射击有50%几率会转而击中角色。</p></div>",
 			"skill": "驾驶"
 		},
 		"T-34/76": {
 			"name": "T-34/76 中型坦克",
-			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.载具注释]{重护甲}, @Compendium[swade-core-rules.swade-rules.载具注释]{倾斜装甲} (front only), @Compendium[swade-core-rules.swade-rules.载具注释]{履带}.</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.载具注释]{重护甲}, @Compendium[swade-core-rules.swade-rules.载具注释]{倾斜装甲} (只有前面), @Compendium[swade-core-rules.swade-rules.载具注释]{履带}.</p>\n</div>",
 			"skill": "驾驶",
 			"items": [
 				{
@@ -1247,7 +1247,7 @@
 		},
 		"UH-1 (Huey)": {
 			"name": "UH-1 易洛魁直升机",
-			"description": "<div class=\"swade-core\">Helicopter</div>",
+			"description": "<div class=\"swade-core\">直升机</div>",
 			"skill": "航空",
 			"items": [
 				{
