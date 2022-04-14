@@ -98,8 +98,8 @@
 				"4-5": "<div class=\"swade-core\"><b>动力：</b>引擎、主帆、锅炉之类的被击中了。每发生一次该状况，最高速度减少10%(@Compendium[swade-core-rules.swade-rules.载具]{最高速度 }至多下降到60%)。</div>",
 				"6-8": "<div class=\"swade-core\"><b>底架：</b>载具主体部分遭受了攻击，没有特别影响。</div>",
 				"9-10": "<div class=\"swade-core\"><b>乘员：</b>直接伤害在减去载具的@Compendium[swade-core-rules.swade-rules.载具]{护甲 }(若对象所处位置适用)后再结算在随机一名乘员身上。@Compendium[swade-core-rules.swade-rules.范围效果攻击]{范围效果 }武器则会影响一片区域(GM决定)的所有人物。如果是由@Compendium[swade-core-rules.swade-rules.追逐与载具{碰撞 }造成，则成员们会遭受@Compendium[swade-core-rules.swade-rules.伤害效果]{动摇 }。</div>",
-				"11-11": "<div class=\"swade-core\"><b>武器</b>: 某一随机武器被摧毁。如果没有武器，则视作为底架受创。</div>",
-				"12-12": "<div class=\"swade-core\"><b>系统</b>: 载具的某一电子系统、安全气囊或是其他由GM决定的系统失灵。若没有任何特殊的设备，则视作为底架受创。</div>"
+				"11-11": "<div class=\"swade-core\"><b>武器：</b>某一随机武器被摧毁。如果没有武器，则视作为底架受创。</div>",
+				"12-12": "<div class=\"swade-core\"><b>系统：</b>载具的某一电子系统、安全气囊或是其他由GM决定的系统失灵。若没有任何特殊的设备，则视作为底架受创。</div>"
 			}
 		}
 	}
