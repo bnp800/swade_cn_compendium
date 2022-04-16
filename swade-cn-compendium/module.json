@@ -2,7 +2,7 @@
     "name": "swade-cn-compendium",
     "title": "合集包汉化（SWADE）",
     "description": "为FVTT中的SWADE添加了合集包汉化。",
-    "version": "0.2.5",
+    "version": "0.2.6",
     "minimumCoreVersion": "0.6.0",
     "compatibleCoreVersion": "9",
     "author": "bnp800",
@@ -39,5 +39,5 @@
     ],
     "url": "https://github.com/bnp800/swade_cn_compendium",
     "manifest": "https://ghproxy.com/https://github.com/bnp800/swade_cn_compendium/releases/latest/download/module.json",
-    "download": "https://ghproxy.com/https://github.com/bnp800/swade_cn_compendium/releases/download/0.2.5/module.zip"
+    "download": "https://ghproxy.com/https://github.com/bnp800/swade_cn_compendium/releases/download/0.2.6/module.zip"
 }
