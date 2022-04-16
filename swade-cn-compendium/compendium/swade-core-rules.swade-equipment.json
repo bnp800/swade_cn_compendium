@@ -391,11 +391,11 @@
 		},
 		"Battle Helmet": {
 			"name": "战斗头盔",
-			"description": "<div class=\"swade-core\"><p>私人或国家武装力量使用的@Compendium[swade-core-rules.swade-rules.护甲]{护甲 }。</p>\n<p><strong>@Compendium[swade-core-rules.swade-rules.防弹]{防弹 }:</strong><span>让子弹造成的伤害-4。“子弹”涵盖了火器中射出来的物理弹药。</span></p></div>"
+			"description": "<div class=\"swade-core\"><p>私人或国家武装力量使用的@Compendium[swade-core-rules.swade-rules.护甲]{护甲 }。</p>\n<p><strong>@Compendium[swade-core-rules.swade-rules.防弹]{防弹 }:</strong>让子弹造成的伤害-4。“子弹”涵盖了火器中射出来的物理弹药。</p></div>"
 		},
 		"Battle Helmet w/ Energy Skin": {
 			"name": "战斗头盔(带能量表皮)",
-			"description": "<div class=\"swade-core\">\n<p>私人或国家武装力量使用的@Compendium[swade-core-rules.swade-rules.护甲]{护甲 }。</p>\n<p><strong>@Compendium[swade-core-rules.swade-rules.能量表皮]{能量表皮 }:</strong>该护甲加上了一层可挡开能量的“能量表皮”(或能量层)，以此减少4点激光造成的伤害。这会让费用额外增加50%，而且护甲会非常闪亮，基于视觉的@Compendium[swade-core-rules.swade-skills.潜行]{潜行 }投骰会-2。</p>\n<p><strong>@Compendium[swade-core-rules.swade-rules.防弹]{防弹 }:</strong><span>让子弹造成的伤害-4。“子弹”涵盖了火器中射出来的物理弹药。</span></p>\n</div>"
+			"description": "<div class=\"swade-core\">\n<p>私人或国家武装力量使用的@Compendium[swade-core-rules.swade-rules.护甲]{护甲 }。</p>\n<p><strong>@Compendium[swade-core-rules.swade-rules.能量表皮]{能量表皮 }:</strong>该护甲加上了一层可挡开能量的“能量表皮”(或能量层)，以此减少4点激光造成的伤害。这会让费用额外增加50%，而且护甲会非常闪亮，基于视觉的@Compendium[swade-core-rules.swade-skills.潜行]{潜行 }投骰会-2。</p>\n<p><strong>@Compendium[swade-core-rules.swade-rules.防弹]{防弹 }:</strong>让子弹造成的伤害-4。“子弹”涵盖了火器中射出来的物理弹药。</p>\n</div>"
 		},
 		"Bayonet": {
 			"name": "刺刀",
@@ -467,12 +467,12 @@
 		},
 		"Body Armor": {
 			"name": "护身服",
-			"description": "<div class=\"swade-core\">\n<p>以复杂聚合物及先进防弹纤维制作的轻便防护衣物。</p>\n<p><strong>@Compendium[swade-core-rules.swade-rules.防弹]{防弹 }:</strong><span>让子弹造成的伤害-4。“子弹”涵盖了火器中射出来的物理弹药。</span></p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>以复杂聚合物及先进防弹纤维制作的轻便防护衣物。</p>\n<p><strong>@Compendium[swade-core-rules.swade-rules.防弹]{防弹 }:</strong>让子弹造成的伤害-4。“子弹”涵盖了火器中射出来的物理弹药。</p>\n</div>",
 			"notes": "以复杂聚合物及先进防弹纤维制作的轻便防护衣物。"
 		},
 		"Body Armor w/Energy Skin": {
 			"name": "护身服(带能量表皮)",
-			"description": "<div class=\"swade-core\">\n<p>以复杂聚合物及先进防弹纤维制作的轻便防护衣物。</p>\n<p><strong>@Compendium[swade-core-rules.swade-rules.能量表皮]{能量表皮 }:</strong>该护甲加上了一层可挡开能量的“能量表皮”(或能量层)，以此减少4点激光造成的伤害。这会让费用额外增加50%，而且护甲会非常闪亮，基于视觉的@Compendium[swade-core-rules.swade-skills.潜行]{潜行 }投骰会-2。</p>\n<p><strong>@Compendium[swade-core-rules.swade-rules.防弹]{防弹 }:</strong><span>让子弹造成的伤害-4。“子弹”涵盖了火器中射出来的物理弹药。</span></p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>以复杂聚合物及先进防弹纤维制作的轻便防护衣物。</p>\n<p><strong>@Compendium[swade-core-rules.swade-rules.能量表皮]{能量表皮 }:</strong>该护甲加上了一层可挡开能量的“能量表皮”(或能量层)，以此减少4点激光造成的伤害。这会让费用额外增加50%，而且护甲会非常闪亮，基于视觉的@Compendium[swade-core-rules.swade-skills.潜行]{潜行 }投骰会-2。</p>\n<p><strong>@Compendium[swade-core-rules.swade-rules.防弹]{防弹 }:</strong>让子弹造成的伤害-4。“子弹”涵盖了火器中射出来的物理弹药。</p>\n</div>",
 			"notes": "以复杂聚合物及先进防弹纤维制作的轻便防护衣物。"
 		},
 		"Bombproof suit": {
@@ -1113,11 +1113,11 @@
 		},
 		"Infantry Battle Suit": {
 			"name": "步兵战斗服",
-			"description": "<div class=\"swade-core\"><p>配有靴子和手套的全套护甲。</p>\n<p><strong>@Compendium[swade-core-rules.swade-rules.防弹]{防弹 }:</strong><span>让子弹造成的伤害-4。“子弹”涵盖了火器中射出来的物理弹药。</span></p></div>"
+			"description": "<div class=\"swade-core\"><p>配有靴子和手套的全套护甲。</p>\n<p><strong>@Compendium[swade-core-rules.swade-rules.防弹]{防弹 }:</strong>让子弹造成的伤害-4。“子弹”涵盖了火器中射出来的物理弹药。</p></div>"
 		},
 		"Infantry Battle Suit w/ Energy Skin": {
 			"name": "步兵战斗服(带能量表皮)",
-			"description": "<div class=\"swade-core\">\n<p>私人或国家武装力量使用的@Compendium[swade-core-rules.swade-rules.护甲]{护甲 }。</p>\n<p>配有靴子和手套的全套护甲。</p>\n<p><strong>@Compendium[swade-core-rules.swade-rules.能量表皮]{能量表皮 }:</strong>该护甲加上了一层可挡开能量的“能量表皮”(或能量层)，以此减少4点激光造成的伤害。这会让费用额外增加50%，而且护甲会非常闪亮，基于视觉的@Compendium[swade-core-rules.swade-skills.潜行]{潜行 }投骰会-2。</p>\n<p><strong>@Compendium[swade-core-rules.swade-rules.防弹]{防弹 }:</strong><span>让子弹造成的伤害-4。“子弹”涵盖了火器中射出来的物理弹药。</span></p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>私人或国家武装力量使用的@Compendium[swade-core-rules.swade-rules.护甲]{护甲 }。</p>\n<p>配有靴子和手套的全套护甲。</p>\n<p><strong>@Compendium[swade-core-rules.swade-rules.能量表皮]{能量表皮 }:</strong>该护甲加上了一层可挡开能量的“能量表皮”(或能量层)，以此减少4点激光造成的伤害。这会让费用额外增加50%，而且护甲会非常闪亮，基于视觉的@Compendium[swade-core-rules.swade-skills.潜行]{潜行 }投骰会-2。</p>\n<p><strong>@Compendium[swade-core-rules.swade-rules.防弹]{防弹 }:</strong>让子弹造成的伤害-4。“子弹”涵盖了火器中射出来的物理弹药。</p>\n</div>",
 			"notes": "配有靴子和手套的全套护甲。"
 		},
 		"Jacket (Cloth/Light Leather)": {
@@ -1160,15 +1160,15 @@
 		},
 		"Kevlar Vest": {
 			"name": "凯夫拉背心",
-			"description": "<div class=\"swade-core\">\n<p><strong>@Compendium[swade-core-rules.swade-rules.防弹]{防弹 }:</strong><span>让子弹造成的伤害-4。“子弹”涵盖了火器中射出来的物理弹药。</span></p>\n</div>"
+			"description": "<div class=\"swade-core\">\n<p><strong>@Compendium[swade-core-rules.swade-rules.防弹]{防弹 }:</strong>让子弹造成的伤害-4。“子弹”涵盖了火器中射出来的物理弹药。</p>\n</div>"
 		},
 		"Kevlar Vest with ceramic inserts": {
 			"name": "凯夫拉背心及陶制填充物",
-			"description": "<div class=\"swade-core\"><p><strong>@Compendium[swade-core-rules.swade-rules.防弹]{防弹 }:</strong><span>让子弹造成的伤害-4。“子弹”涵盖了火器中射出来的物理弹药。</span></p></div>"
+			"description": "<div class=\"swade-core\"><p><strong>@Compendium[swade-core-rules.swade-rules.防弹]{防弹 }:</strong>让子弹造成的伤害-4。“子弹”涵盖了火器中射出来的物理弹药。</p></div>"
 		},
 		"Kevlar helmet": {
 			"name": "凯夫拉头盔",
-			"description": "<div class=\"swade-core\"><p><strong>@Compendium[swade-core-rules.swade-rules.防弹]{防弹 }:</strong><span>让子弹造成的伤害-4。“子弹”涵盖了火器中射出来的物理弹药。</span></p></div>"
+			"description": "<div class=\"swade-core\"><p><strong>@Compendium[swade-core-rules.swade-rules.防弹]{防弹 }:</strong>让子弹造成的伤害-4。“子弹”涵盖了火器中射出来的物理弹药。</p></div>"
 		},
 		"Lance": {
 			"name": "骑枪",
@@ -1274,7 +1274,7 @@
 		},
 		"M1 Garand": {
 			"name": "M1 加兰德",
-			"description": "<div class=\"swade-core\"><p>美国陆军二战时的标准步枪。</p>\n<hr />\n<p><span>额外弹匣或弹夹能以步枪费用的10%购入，每个重1磅。</span></p></div>",
+			"description": "<div class=\"swade-core\"><p>美国陆军二战时的标准步枪。</p>\n<hr />\n<p>额外弹匣或弹夹能以步枪费用的10%购入，每个重1磅。</p></div>",
 			"ammo": "中型子弹",
 			"actions": {
 				"skill": "射击"
@@ -1557,7 +1557,7 @@
 		},
 		"Police Revolver": {
 			"name": "警用转轮枪",
-			"description": "<div class=\"swade-core\"><p><span>转轮枪通常有6个膛室，每次必须一发一发地装填。 但是许多现代火器也有称为“快速装弹器”的分离式弹巢，可花费武器价格的10%购入。</span></p></div>",
+			"description": "<div class=\"swade-core\"><p>转轮枪通常有6个膛室，每次必须一发一发地装填。 但是许多现代火器也有称为“快速装弹器”的分离式弹巢，可花费武器价格的10%购入。</p></div>",
 			"ammo": "中型子弹",
 			"actions": {
 				"skill": "射击"
@@ -1611,7 +1611,7 @@
 		},
 		"Pump Action Shotgun": {
 			"name": "泵动式霰弹枪",
-			"description": "<div class=\"swade-core\"><p><span>@Compendium[swade-core-rules.swade-rules.霰弹枪]{霰弹枪 }会射出一片弹丸(称“霰弹”或“散弹”)以增加命中目标的机会，这种冲击在接近时可谓所向披靡。</span></p></div>",
+			"description": "<div class=\"swade-core\"><p>@Compendium[swade-core-rules.swade-rules.霰弹枪]{霰弹枪 }会射出一片弹丸(称“霰弹”或“散弹”)以增加命中目标的机会，这种冲击在接近时可谓所向披靡。</p></div>",
 			"ammo": "霰弹枪弹丸",
 			"actions": {
 				"skill": "射击",
@@ -1837,7 +1837,7 @@
 		},
 		"Sidewinder": {
 			"name": "响尾蛇",
-			"description": "<div class=\"swade-core\">\n<p><span>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 }</span>从飞行器上发射的短距热追踪导弹。@Compendium[swade-core-rules.swade-rules.范围效果攻击]{小型爆散盖板 }。/p>\n<hr />\n<p>除非另有说明，导弹必须“锁定”目标后才能发射。这个动作是以@Compendium[swade-core-rules.swade-skills.电子学]{电子学 }对抗目标的机动技能(@Compendium[swade-core-rules.swade-skills.驾船]{驾船 }，@Compendium[swade-core-rules.swade-skills.驾驶]{驾驶 }或是@Compendium[swade-core-rules.swade-skills.航空]{航空 }，酌情而定)。成功意味着攻击方能“仓促”锁定目标并得以一次性发射装置上最多一半的导弹。出现优良则代表锁定更为充分，这时能全弹发射。</p>\n<p>敌方能就每一枚导弹各自进行一次-4的机动投骰来尝试回避(如果目标有结实的掩体可供躲藏——比如小行星、大厦、崖壁甚至是大型敌舰，则只有-2)，@Compendium[swade-core-rules.swade-rules.特性投骰]{大失败 }意味着载具@Compendium[swade-core-rules.swade-tables.失控]{失控 }。</p>\n<p><strong>反导弹系统：</strong>战舰和未来的太空船通常都有击落袭来导弹的“点防御”系统。操作员必须处于@Compendium[swade-core-rules.swade-rules.待机]{待机 }才能击落导弹。如果是自动系统则会自行发起攻击。该系统会对每枚导弹单独提供一次在短距@Compendium[swade-core-rules.swade-rules.射程]{射程 }进行@Compendium[swade-core-rules.swade-skills.射击]{射击 }投骰的机会，并算入其他相关调整值(包括速度。除非另有说明，导弹@Compendium[swade-core-rules.swade-rules.速度]{速度 }达到1马赫时会带来-6减值)。除非另有说明，导弹是@Compendium[swade-core-rules.swade-rules.破坏物体]{坚韧 }为8(2)的物件。</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 }从飞行器上发射的短距热追踪导弹。@Compendium[swade-core-rules.swade-rules.范围效果攻击]{小型爆散盖板 }。/p>\n<hr />\n<p>除非另有说明，导弹必须“锁定”目标后才能发射。这个动作是以@Compendium[swade-core-rules.swade-skills.电子学]{电子学 }对抗目标的机动技能(@Compendium[swade-core-rules.swade-skills.驾船]{驾船 }，@Compendium[swade-core-rules.swade-skills.驾驶]{驾驶 }或是@Compendium[swade-core-rules.swade-skills.航空]{航空 }，酌情而定)。成功意味着攻击方能“仓促”锁定目标并得以一次性发射装置上最多一半的导弹。出现优良则代表锁定更为充分，这时能全弹发射。</p>\n<p>敌方能就每一枚导弹各自进行一次-4的机动投骰来尝试回避(如果目标有结实的掩体可供躲藏——比如小行星、大厦、崖壁甚至是大型敌舰，则只有-2)，@Compendium[swade-core-rules.swade-rules.特性投骰]{大失败 }意味着载具@Compendium[swade-core-rules.swade-tables.失控]{失控 }。</p>\n<p><strong>反导弹系统：</strong>战舰和未来的太空船通常都有击落袭来导弹的“点防御”系统。操作员必须处于@Compendium[swade-core-rules.swade-rules.待机]{待机 }才能击落导弹。如果是自动系统则会自行发起攻击。该系统会对每枚导弹单独提供一次在短距@Compendium[swade-core-rules.swade-rules.射程]{射程 }进行@Compendium[swade-core-rules.swade-skills.射击]{射击 }投骰的机会，并算入其他相关调整值(包括速度。除非另有说明，导弹@Compendium[swade-core-rules.swade-rules.速度]{速度 }达到1马赫时会带来-6减值)。除非另有说明，导弹是@Compendium[swade-core-rules.swade-rules.破坏物体]{坚韧 }为8(2)的物件。</p>\n</div>",
 			"notes": "重武器，从飞行器上发射的短距热追踪导弹。",
 			"actions": {
 				"skill": "射击"
@@ -1895,7 +1895,7 @@
 		},
 		"Sparrow": {
 			"name": "麻雀",
-			"description": "<div class=\"swade-core\">\n<p><span>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 }</span>，从飞行器上发射的中距雷达制导导弹。@Compendium[swade-core-rules.swade-rules.范围效果攻击]{小型爆散盖板 }。/p>\n<hr />\n<p>除非另有说明，导弹必须“锁定”目标后才能发射。这个动作是以@Compendium[swade-core-rules.swade-skills.电子学]{电子学 }对抗目标的机动技能(@Compendium[swade-core-rules.swade-skills.驾船]{驾船 }，@Compendium[swade-core-rules.swade-skills.驾驶]{驾驶 }或是@Compendium[swade-core-rules.swade-skills.航空]{航空 }，酌情而定)。成功意味着攻击方能“仓促”锁定目标并得以一次性发射装置上最多一半的导弹。出现优良则代表锁定更为充分，这时能全弹发射。</p>\n<p>敌方能就每一枚导弹各自进行一次-4的机动投骰来尝试回避(如果目标有结实的掩体可供躲藏——比如小行星、大厦、崖壁甚至是大型敌舰，则只有-2)，@Compendium[swade-core-rules.swade-rules.特性投骰]{大失败 }意味着载具@Compendium[swade-core-rules.swade-tables.失控]{失控 }。</p>\n<p><strong>反导弹系统：</strong>战舰和未来的太空船通常都有击落袭来导弹的“点防御”系统。操作员必须处于@Compendium[swade-core-rules.swade-rules.待机]{待机 }才能击落导弹。如果是自动系统则会自行发起攻击。该系统会对每枚导弹单独提供一次在短距@Compendium[swade-core-rules.swade-rules.射程]{射程 }进行@Compendium[swade-core-rules.swade-skills.射击]{射击 }投骰的机会，并算入其他相关调整值(包括速度。除非另有说明，导弹@Compendium[swade-core-rules.swade-rules.速度]{速度 }达到1马赫时会带来-6减值)。除非另有说明，导弹是@Compendium[swade-core-rules.swade-rules.破坏物体]{坚韧 }为8(2)的物件。</p>\n</div>",
+			"description": "<div class=\"swade-core\">\n<p>@Compendium[swade-core-rules.swade-rules.重武器 (HW)]{重武器 }，从飞行器上发射的中距雷达制导导弹。@Compendium[swade-core-rules.swade-rules.范围效果攻击]{小型爆散盖板 }。/p>\n<hr />\n<p>除非另有说明，导弹必须“锁定”目标后才能发射。这个动作是以@Compendium[swade-core-rules.swade-skills.电子学]{电子学 }对抗目标的机动技能(@Compendium[swade-core-rules.swade-skills.驾船]{驾船 }，@Compendium[swade-core-rules.swade-skills.驾驶]{驾驶 }或是@Compendium[swade-core-rules.swade-skills.航空]{航空 }，酌情而定)。成功意味着攻击方能“仓促”锁定目标并得以一次性发射装置上最多一半的导弹。出现优良则代表锁定更为充分，这时能全弹发射。</p>\n<p>敌方能就每一枚导弹各自进行一次-4的机动投骰来尝试回避(如果目标有结实的掩体可供躲藏——比如小行星、大厦、崖壁甚至是大型敌舰，则只有-2)，@Compendium[swade-core-rules.swade-rules.特性投骰]{大失败 }意味着载具@Compendium[swade-core-rules.swade-tables.失控]{失控 }。</p>\n<p><strong>反导弹系统：</strong>战舰和未来的太空船通常都有击落袭来导弹的“点防御”系统。操作员必须处于@Compendium[swade-core-rules.swade-rules.待机]{待机 }才能击落导弹。如果是自动系统则会自行发起攻击。该系统会对每枚导弹单独提供一次在短距@Compendium[swade-core-rules.swade-rules.射程]{射程 }进行@Compendium[swade-core-rules.swade-skills.射击]{射击 }投骰的机会，并算入其他相关调整值(包括速度。除非另有说明，导弹@Compendium[swade-core-rules.swade-rules.速度]{速度 }达到1马赫时会带来-6减值)。除非另有说明，导弹是@Compendium[swade-core-rules.swade-rules.破坏物体]{坚韧 }为8(2)的物件。</p>\n</div>",
 			"notes": "重武器，从飞行器上发射的中距雷达制导导弹。",
 			"actions": {
 				"skill": "射击"
