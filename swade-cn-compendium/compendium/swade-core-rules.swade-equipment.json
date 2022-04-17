@@ -6,7 +6,8 @@
 		"actions": {
 			"path": "data.actions"
 		},
-		"range": "data.range"
+		"range": "data.range",
+		"ammo": "data.ammo"
 	},
 	"entries": {
 		"\"Bug\" (Micro Transmitter)": {
